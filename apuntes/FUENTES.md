@@ -48,7 +48,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 > - Se crea el **capítulo 7 (infecciones fúngicas y parasitarias)**, basado en el capítulo 43 de la SEN 2025.
 > - Los capítulos 5 y 6 dejan de apoyarse casi solo en la SEMES 2012: la SEN 2025 trata el empiema, el absceso epidural espinal y la meningitis nosocomial.
 >
-> *Texto completo de la ESCMID 2024 leído (01/10/2026), con la **corrección** incluida: la certeza de la evidencia de la pregunta clave 4 (aspiración o exéresis) es **moderada**, no "baja" como decían el resumen y la tabla 1. **Inconsistencia no corregida** en la pregunta clave 5 (tratamiento empírico): el resumen y la tabla 1 dan certeza moderada (comunitario) y baja (inmunodeprimido grave, posneuroquirúrgico); el texto principal da baja y muy baja. En los apuntes se indican ambas. Las dosis están en el material suplementario (tabla S10), que no se ha aportado; se usan las de la SEMES 2012.*
+> *Texto completo de la ESCMID 2024 leído (01/10/2026) y verificado de nuevo contra el PDF original ese mismo día, con la **corrección** incluida: la certeza de la evidencia de la pregunta clave 4 (aspiración o exéresis) es **moderada**, no "baja" como decían el resumen y la tabla 1. **Inconsistencia no corregida** en la pregunta clave 5 (tratamiento empírico): el resumen y la tabla 1 dan certeza moderada (comunitario) y baja (inmunodeprimido grave, posneuroquirúrgico); el texto principal da baja y muy baja. En los apuntes se indican ambas. Las dosis están en el material suplementario (tabla S10), que no está en el PDF de la guía; se usan las de la SEMES 2012. La guía no da una pauta propia para el absceso por endocarditis (§4).*
 >
 > *Texto completo de la SEN 2025 (caps. 40-44) leído el 01/10/2026.*
 
@@ -84,7 +84,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 | 4 | Absceso comunitario sin foco conocido | **C3G + metronidazol, sin vancomicina** (ESCMID 2024) | SEN 2025 y SEMES 2012: añadir vancomicina |
 | 4 | Profilaxis antiepiléptica | **No** (ESCMID 2024) | SEN 2025: "algunos autores" la mantienen 1 año; SEMES 2012: en las lesiones corticales |
 | 4 | Cirugía | **Aspiración o exéresis siempre que sea factible** (ESCMID 2024) | SEN 2025: puede omitirse si mide <2,5 cm, GCS >12 y el germen es conocido |
-| 4 | Absceso por endocarditis | **Cloxacilina o vancomicina + gentamicina** (SEN 2025) | SEMES 2012: la pauta del posneuroquirúrgico, que la ESCMID 2024 reserva al posneuroquirúrgico |
+| 4 | Absceso por endocarditis | **No resuelto de forma explícita**: la ESCMID 2024 no individualiza el foco (su pauta comunitaria, C3G + metronidazol, lo incluye, y pide ajustar al germen). Con endocarditis probable o hemocultivos con *S. aureus*, estreptococos o enterococos, **cloxacilina o vancomicina + gentamicina** (SEN 2025) como orientación, con Infecciosas | SEMES 2012: la pauta del posneuroquirúrgico, que la ESCMID 2024 reserva al posneuroquirúrgico |
 | 5 | Absceso epidural espinal: antibiótico | **Vancomicina + ceftriaxona**; si se sospecha *Pseudomonas*, vancomicina + cefepima, ceftazidima o meropenem (SEN 2025) | SEMES 2012: cloxacilina + C3G |
 | 5 | Absceso epidural espinal: cirugía en la paraplejía completa | **Cirugía en <48 h** (SEN 2025) | SEMES 2012: se puede desestimar en la paraplejía establecida |
 | 5 | Empiema subdural y absceso epidural intracraneal: antibiótico | **El del absceso cerebral según el foco** (SEN 2025) | SEMES 2012: cloxacilina + C3G ± metronidazol |

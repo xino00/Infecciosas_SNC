@@ -128,6 +128,7 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
   - *Diagnóstico microbiológico en el 66 % frente al 47 % (OR 2,3).*
   - *En el registro danés, mortalidad al año del 14 % frente al 24 % (razón de tasas ajustada 0,78; IC 95 % 0,62-0,97).*
   - *Sin diferencias en las secuelas neurológicas (28 % vs 26 %).*
+  - *Resultados discordantes fuera del metaanálisis: en la cohorte danesa de 485 adultos (2007-2020), la aspiración o la exéresis no se asoció a menor mortalidad a 6 meses ni a mejor resultado funcional en el análisis ajustado; en cambio, un estudio estadounidense observó menos fracasos del tratamiento con la cirugía en los primeros 7 días (HR ajustado 0,55; IC 95 % 0,31-0,98).*
 - **Aspiración** (estereotáctica o guiada por imagen): es la técnica preferida en la mayoría de los casos. Hay que repetirla en ~20 % (ESCMID).
 - **Exéresis**: valorarla si la causa es difícil de tratar (**hongos, *Nocardia***) o si el absceso es superficial en zona no elocuente o está en fosa posterior (ESCMID). *La SEMES 2012 y la SEN 2025 la prefieren también en los multiloculados.*
 - *Riesgo de hemorragia del procedimiento: 0-3 % (ESCMID).*
@@ -166,9 +167,15 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 
 #### Absceso por endocarditis (diseminación hematógena)
 
-**---> PRIMERA ELECCIÓN** (SEN 2025, tabla 2): **CLOXACILINA o VANCOMICINA + GENTAMICINA** (cubre estreptococos, *S. aureus* y enterococo). **Tratar también la endocarditis** como foco primario (SEN 2025).
+**La ESCMID 2024 no individualiza este foco.** Su pauta para el absceso **comunitario del inmunocompetente** (C3G + metronidazol) lo incluye, y recomienda **ajustar el tratamiento al germen y su antibiograma** en cuanto se conozca (**fuerte, certeza baja**). Solo menciona la endocarditis para decir que está presente en el 5 % de los abscesos y para indicar el ecocardiograma transesofágico en el paciente bacteriémico con absceso monomicrobiano por estreptococos o estafilococos (§4.1).
 
-*La SEN 2025 no da dosis para esta indicación: consultar con Infecciosas o Farmacia (dosis de referencia en el capítulo 1, §6.6, con el aviso sobre la dosis de cloxacilina). La SEMES 2012 agrupaba el foco endocardítico con la pauta posneuroquirúrgica (meropenem + vancomicina o linezolid), que la ESCMID 2024 reserva al posneuroquirúrgico.*
+**La SEN 2025 (tabla 2) propone para el foco endocardítico CLOXACILINA o VANCOMICINA + GENTAMICINA**, dirigida a los gérmenes que atribuye a este foco (estreptococos, *S. aureus* y enterococo), y **tratar también la endocarditis** como foco primario.
+
+> **ACTUACIÓN (interpretación de la pirámide, no resuelta de forma explícita por las fuentes)**:
+> - **Sin datos de endocarditis**: pauta comunitaria de la ESCMID (C3G + metronidazol; §5.2).
+> - **Endocarditis probable o hemocultivos con *S. aureus*, estreptococos o enterococos**: tratamiento dirigido al germen (ESCMID), con la pauta de la SEN 2025 como orientación empírica mientras llega el antibiograma, y **decidirlo con Infecciosas y Cardiología**.
+
+*Nota (no procede de las fuentes; farmacología general): ni la C3G + metronidazol ni la cloxacilina cubren el enterococo ni el SARM; de las opciones de la SEN 2025, solo la que lleva vancomicina los cubre. La SEN 2025 no da dosis para esta indicación: consultar con Infecciosas o Farmacia (dosis de referencia en el capítulo 1, §6.6, con el aviso sobre la dosis de cloxacilina). La SEMES 2012 agrupaba el foco endocardítico con la pauta posneuroquirúrgica (meropenem + vancomicina o linezolid), que la ESCMID 2024 reserva al posneuroquirúrgico.*
 
 #### Inmunodepresión grave (trasplante de órgano sólido, quimioterapia o tratamiento biológico activos, neoplasia hematológica)
 
@@ -216,9 +223,10 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 | *Nocardia*, toxoplasma, tuberculosis, hongos | Según sus pautas específicas | — |
 
 - *La SEMES 2012 también indica 6-8 semanas IV, según la respuesta clínica y la imagen. La SEN 2025 añade que puede haber que alargarlo según el germen, la situación basal, la lesión y la evolución. **El realce en anillo puede persistir meses (3-6) y no justifica por sí solo prolongar el antibiótico** (ESCMID; SEMES 2012).*
-- **Paso precoz a vía oral**: **sin recomendación** por falta de datos (ESCMID). *Hay un ensayo de no inferioridad en marcha. La SEN 2025 recoge pautas cortas, de 2 semanas IV seguidas de vía oral, con buenos resultados en casos seleccionados (abscesos <3 cm y buena situación clínica); manda la ESCMID: no hay recomendación para hacerlo.*
+- **Paso precoz a vía oral**: **sin recomendación** por falta de datos (ESCMID). *Hay un ensayo de no inferioridad en marcha (ORAL). La SEN 2025 recoge pautas cortas, de 2 semanas IV seguidas de vía oral, con buenos resultados en casos seleccionados (abscesos <3 cm y buena situación clínica); manda la ESCMID: no hay recomendación para hacerlo.*
+- *Evidencia sobre el paso precoz a vía oral (ESCMID): en 2 cohortes retrospectivas, la mortalidad fue menor con el paso precoz (OR 5,7 a su favor; IC 95 % 1,0-31,3), pero se explica probablemente porque se elige a los pacientes menos graves; la recurrencia fue similar (4 % vs 5 %). En cambio, en una serie inglesa 5 de 8 recurrencias habían recibido <3 semanas de tratamiento IV antes de pasar a una cefalosporina oral de 1.ª o 2.ª generación.*
 - **Consolidación oral tras ≥6 semanas IV: no se recomienda de rutina** (ESCMID: **condicional, certeza muy baja**). Excepciones: defecto neuroanatómico permanente, tuberculosis, nocardiosis, toxoplasmosis y absceso fúngico.
-- *Evidencia (ESCMID): en la cohorte danesa, con una mediana de 44 días de tratamiento IV, solo el 1 % tuvo más de un episodio. La recurrencia o recidiva fue del 0 % con <6 semanas frente al 5 % con ≥6 semanas en 3 estudios pequeños, con alto riesgo de sesgo.*
+- *Evidencia (ESCMID): en la cohorte danesa, con una mediana de 44 días de tratamiento IV, solo el 1 % tuvo más de un episodio. La recurrencia o recidiva fue del 0 % con <6 semanas frente al 5 % con ≥6 semanas en 3 estudios pequeños, con alto riesgo de sesgo; la mortalidad, del 5 % frente al 1 % (OR 0,3 a favor de ≥6 semanas; IC 95 % 0,0-3,6). La evidencia no permite acortar la duración.*
 
 ### 5.5. Corticoides
 
@@ -232,7 +240,7 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 
 - **Crisis**: tratarlas con antiepilépticos. **Las crisis tras un absceso cerebral se consideran epilepsia** y se tratan como tal (ESCMID). *La prevención secundaria está bien establecida (SEN 2025).*
 - **NO profilaxis antiepiléptica primaria** (ESCMID: **condicional, certeza muy baja**).
-- *Discrepancias, en las que prevalece la ESCMID: la SEN 2025 recoge que "algunos autores" recomiendan profilaxis primaria durante **un año** (retirándola si no hay crisis ni actividad epileptiforme en el EEG), aunque reconoce que no hay guías claras; la SEMES 2012 proponía profilaxis individualizada si las lesiones eran corticales. Los ensayos de profilaxis en tumores cerebrales y traumatismo craneal grave fueron desalentadores, y la profilaxis supone tratar sin necesidad a muchos pacientes (ESCMID).*
+- *Discrepancias, en las que prevalece la ESCMID: la SEN 2025 recoge que "algunos autores" recomiendan profilaxis primaria durante **un año** (retirándola si no hay crisis ni actividad epileptiforme en el EEG), aunque reconoce que no hay guías claras; la SEMES 2012 proponía profilaxis individualizada si las lesiones eran corticales. La ESCMID conoce esa postura de algunos expertos y aun así la desaconseja: los ensayos de profilaxis en tumores cerebrales y traumatismo craneal grave fueron desalentadores, solo un estudio pequeño cumplió los criterios de su revisión y la profilaxis supone tratar sin necesidad a muchos pacientes.*
 - *Factores de riesgo de epilepsia (ESCMID): crisis precoces durante el ingreso, absceso frontal o grande, aspiración o exéresis, neurocirugía previa e ictus. La localización occipital se asocia a menos riesgo. Hay crisis en un tercio de los pacientes con abscesos y empiemas (SEN 2025).*
 
 ### 5.7. Control del foco de origen
