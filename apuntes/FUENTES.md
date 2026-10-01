@@ -1,6 +1,6 @@
 # FUENTES DE LOS APUNTES
 
-> **Decisión del autor (01/10/2026): las referencias de los apuntes son solo cuatro**: SEN 2023, ESCMID 2016, NICE NG240 2024 y SEMES 2012. Cada dato se atribuye a una de ellas. Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro guías, y se citan a través de ella.
+> **Decisión del autor (01/10/2026): las referencias de los apuntes son solo cuatro fuentes**: SEN 2023, ESCMID (guía de meningitis bacteriana de 2016 y guía de absceso cerebral de 2024), NICE NG240 2024 y SEMES 2012. Cada dato se atribuye a una de ellas. Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro guías, y se citan a través de ella.
 
 ## 1. Pirámide de recomendaciones
 
@@ -9,7 +9,8 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 | Nivel | Fuente | Qué es | Qué aporta sobre todo |
 |---|---|---|---|
 | **1** | **SEN 2023**. Romero Sánchez CM. *Enfermedades infecciosas.* Manual de Urgencias Neurológicas de la Sociedad Española de Neurología, cap. 12, p. 395-409 | Manual español de expertos, sin grados de recomendación; adapta la ESCMID 2016 | Tratamiento empírico y dirigido, dexametasona y aciclovir en meningitis y encefalitis; tablas de LCR |
-| **2** | **ESCMID 2016**. van de Beek D, et al. *ESCMID guideline: diagnosis and treatment of acute bacterial meningitis.* Clin Microbiol Infect. 2016;22 Suppl 3:S37-62. PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007) | Guía europea con revisión sistemática; niveles de evidencia 1-3 y grados A-D (no GRADE) | Base de la SEN; árbitro en lo que la SEN no detalla; rendimiento diagnóstico; ecología europea |
+| **2** | **ESCMID 2016 (meningitis)**. van de Beek D, et al. *ESCMID guideline: diagnosis and treatment of acute bacterial meningitis.* Clin Microbiol Infect. 2016;22 Suppl 3:S37-62. PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007) | Guía europea con revisión sistemática; niveles de evidencia 1-3 y grados A-D (no GRADE) | Base de la SEN; árbitro en lo que la SEN no detalla; rendimiento diagnóstico; ecología europea |
+| **2** | **ESCMID 2024 (absceso cerebral)**. Bodilsen J, et al. *European Society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults.* Clin Microbiol Infect. 2024;30(1):66-89. PMID 37648062 · [DOI](https://doi.org/10.1016/j.cmi.2023.08.016). *Corrección publicada: PMID 38309325 · [DOI](https://doi.org/10.1016/j.cmi.2024.01.026)* | Guía europea con revisión sistemática y metaanálisis; **GRADE** (recomendación fuerte o condicional; certeza alta a muy baja). Coautores españoles (Hospital del Mar, Hospital 12 de Octubre) | **Guía principal del absceso cerebral** (la SEN no lo trata): diagnóstico, momento del antibiótico respecto a la punción, pauta empírica, cirugía, duración, corticoides y antiepilépticos |
 | **3** | **NICE NG240 (2024)**. *Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management.* 19/03/2024 | Guía británica con metodología GRADE; recomendaciones numeradas | Reconocimiento, tiempos, pruebas, neuroimagen, duración por germen, soporte, alta y seguimiento |
 | **4** | **SEMES 2012**. Julián Jiménez A (coord.). *Manejo de Infecciones en Urgencias.* Edicomplet-SEMES; 2012, caps. 18-23 | Manual español de urgencias | Estructura de actuación; profilaxis de contactos; ingreso y observación; capítulos que no cubren las otras tres |
 
@@ -20,11 +21,13 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 | 1. Meningitis bacteriana | ✔ | ✔ | ✔ | ✔ (cap. 18) |
 | 2. Meningitis linfocitaria / subaguda | ✔ (12.1) | Diagnóstico diferencial | Diagnóstico diferencial | ✔ (cap. 18) |
 | 3. Encefalitis | ✔ (12.2) | — | Solo aciclovir (1.6.7) | ✔ (cap. 19) |
-| 4. Absceso cerebral | — | Solo como complicación | — | ✔ (cap. 20) |
+| 4. Absceso cerebral | — | ✔ **ESCMID 2024** (guía principal) | — | ✔ (cap. 20) |
 | 5. Infecciones parameníngeas y medulares | — | — | — | ✔ (caps. 21-22) |
 | 6. Derivaciones de LCR / posneuroquirúrgica | Pauta empírica y tabla | — | — | ✔ (cap. 23) |
 
-> **Pendiente de decidir**: si "ESCMID" incluye también la guía **ESCMID 2024 de absceso cerebral** (Bodilsen J, et al. Clin Microbiol Infect. 2024;30:66-89). Si no, los capítulos 4-6 se apoyarán casi solo en la SEMES 2012, con sus limitaciones de fecha.
+> **Decidido (01/10/2026)**: "ESCMID" incluye la **guía ESCMID 2024 de absceso cerebral**, que encabeza el capítulo 4 porque la SEN no trata el absceso. Las infecciones parameníngeas, medulares y de derivaciones de LCR (capítulos 5 y 6) siguen apoyándose sobre todo en la SEMES 2012 (y en la SEN para la pauta empírica tras neurocirugía).
+>
+> *Para redactar el capítulo 4 hace falta el texto completo de la ESCMID 2024: aquí solo es accesible el resumen de PubMed. Recomendaciones clave del resumen (GRADE): **RM** para el diagnóstico (fuerte, certeza alta); se puede **diferir el antibiótico hasta la punción o exéresis si no hay enfermedad grave y la cirugía es posible en un plazo razonable, preferiblemente <24 h** (condicional, baja); **punción o exéresis siempre que sea factible**, salvo toxoplasmosis (fuerte, baja); diagnóstico molecular si los cultivos son negativos (condicional, moderada); empírico comunitario en inmunocompetentes: **C3G + metronidazol** (fuerte, moderada), añadiendo **cotrimoxazol y voriconazol** en la inmunodepresión grave (condicional, baja); posneuroquirúrgico: **carbapenem + vancomicina o linezolid** (condicional, baja); **duración de 6-8 semanas** (condicional, baja); sin recomendación sobre el paso precoz a vía oral; no consolidar de rutina con vía oral tras ≥6 semanas IV (condicional, muy baja); **corticoides si hay síntomas graves por edema perilesional o herniación inminente** (fuerte, baja); **no profilaxis antiepiléptica primaria** (condicional, muy baja).*
 
 ## 3. Discrepancias ya resueltas por la pirámide (capítulo 1)
 
@@ -46,7 +49,8 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 - **Rifampicina añadida a la vancomicina si se da dexametasona** → no lo recogen la SEN ni la NICE; la ESCMID usa la rifampicina como alternativa a la vancomicina.
 - **Rifampicina contraindicada en todo el embarazo** (profilaxis) → ESCMID: a partir del primer trimestre.
 - **Encefalitis**: dexametasona en la encefalitis herpética y amantadina para la gripe → la SEN 2023 no recoge la dexametasona y propone **oseltamivir** para la gripe.
-- **Antiepilépticos profilácticos** → ESCMID: no de rutina (grado D).
+- **Antiepilépticos profilácticos** en la meningitis → ESCMID 2016: no de rutina (grado D).
+- **Absceso cerebral**: la SEMES 2012 propone profilaxis anticomicial individualizada si las lesiones son corticales → la **ESCMID 2024 no recomienda la profilaxis antiepiléptica primaria**. La SEMES coincide con la ESCMID 2024 en la pauta empírica (C3G + metronidazol; meropenem o cefepima + vancomicina o linezolid tras neurocirugía) y en la duración de 6-8 semanas.
 
 ## 5. Documentos revisados que no se usan como referencia
 

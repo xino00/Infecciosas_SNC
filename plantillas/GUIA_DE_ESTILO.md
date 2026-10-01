@@ -19,8 +19,8 @@
 
 ## Convenciones
 
-- **Fuentes: solo cuatro**, en pirámide: **SEN 2023 → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. Ante una discrepancia manda la de más arriba; lo que no trata se toma de la siguiente. La discrepancia se anota en *cursiva*.
-- **Cada dato se atribuye a su fuente** entre paréntesis: NICE con el número de recomendación (p. ej., NICE 1.4.7) y ESCMID con su grado (A-D). Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro guías, y se citan a través de ella (p. ej., "la ESCMID resume la revisión Cochrane…").
+- **Fuentes: solo cuatro**, en pirámide: **SEN 2023 → ESCMID (2016 meningitis; 2024 absceso cerebral) → NICE NG240 2024 → SEMES 2012**. Ante una discrepancia manda la de más arriba; lo que no trata se toma de la siguiente. La discrepancia se anota en *cursiva*.
+- **Cada dato se atribuye a su fuente** entre paréntesis: NICE con el número de recomendación (p. ej., NICE 1.4.7) y ESCMID con su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024). Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro guías, y se citan a través de ella (p. ej., "la ESCMID resume la revisión Cochrane…").
 - Negrita para conceptos y fármacos clave; MAYÚSCULAS para lo que hay que "ver de un vistazo" en urgencias.
 - *Cursiva* = matiz, dato de evidencia o comentario de fondo (prescindible en lectura rápida).
 - Dosis siempre con vía e intervalo (y ajuste en perfusión extendida/función renal si procede).
