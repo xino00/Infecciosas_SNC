@@ -76,17 +76,23 @@ Manual de la Sociedad Española de Neurología (18 págs.). Solo trata **meningi
 
 > **Implicación práctica**: con un ~5 % de resistencia a cefalosporinas de 3.ª generación y clones con CMI de penicilina >1 mg/L, **en España está justificada la vancomicina empírica asociada a la C3G** (línea ESCMID/IDSA), a diferencia de la NICE.
 
-## 5. Jerarquía final
+## 5. Jerarquía final (acordada el 01/10/2026)
 
-| Tema | Fuente principal | Contraste | Contexto español / estructura |
-|---|---|---|---|
-| Meningitis bacteriana | ESCMID 2016 + Cochrane 2015 (dexametasona) | NICE NG240 2024 (sobre todo diagnóstico, TC, duración); IDSA 2004 | **SEN 2023** (+ SEMES 2012 para la profilaxis y los criterios de ingreso) |
-| Meningitis linfocitaria / subaguda | ESCMID 2016 (diferencial) + guía de meningitis TB 2025 | IDSA 2004 | **SEN 2023** + SEMES 2012 (brucelosis, TB) |
-| Encefalitis | IDSA 2008 + IEC 2013 | Bloch 2023 (revisión); Graus 2016 (autoinmune) | **SEN 2023** + SEMES 2012 |
-| Absceso cerebral | ESCMID 2024 | — | SEMES 2012 |
-| Infecciones parameníngeas | Sin guía específica: revisiones a verificar | — | SEMES 2012 |
-| Derivaciones de LCR / ventriculitis | IDSA 2017 | — | SEMES 2012 |
-| Dosificación de vancomicina | Consenso 2020 (Rybak et al., [DOI](https://doi.org/10.1093/cid/ciaa303)) | — | — |
+| Fuente | Papel |
+|---|---|
+| **SEN 2023** (Manual de Urgencias Neurológicas, cap. 12) | **Guía principal de tratamiento** en meningitis y encefalitis (el papel que tenía la SEMES 2026 en la NAC). |
+| **NICE NG240 (2024)** | **Diagnóstico, tiempos, neuroimagen, duración del tratamiento y dexametasona** (única con GRADE). |
+| **SEMES 2012** (Manejo de Infecciones en Urgencias, caps. 18-23) | **Estructura de urgencias** y capítulos que la SEN no trata: profilaxis de contactos, criterios de ingreso y observación, brucelosis, absceso cerebral, infecciones parameníngeas, derivaciones de LCR. |
+
+**Fuentes de apoyo para cubrir huecos:**
+
+| Hueco | Fuente |
+|---|---|
+| Absceso cerebral | ESCMID 2024 (contraste de la SEMES 2012) |
+| Derivaciones de LCR / ventriculitis | IDSA 2017 (contraste de la SEMES 2012) |
+| **Árbitro cuando SEN y NICE discrepan** (vancomicina empírica, TC antes de la PL, duración en el meningococo, aciclovir de rutina) | **ESCMID 2016** (la SEN se basa en ella) + datos españoles de resistencia del neumococo (§4) |
+| Encefalitis (fondo) | IDSA 2008 + revisión de Bloch 2023 |
+| Datos de efecto de la dexametasona | Cochrane 2015 |
 
 ## 6. Puntos de la SEMES 2012 que habrá que actualizar o contrastar
 
