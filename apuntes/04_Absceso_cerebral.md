@@ -199,9 +199,10 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 
 **---> PRIMERA ELECCIÓN** (ESCMID: **condicional**, solo para el posneuroquirúrgico; SEN 2025; SEMES 2012): **MEROPENEM 2 g IV cada 8 h + VANCOMICINA 15-20 mg/kg IV cada 8-12 h o LINEZOLID 600 mg IV cada 12 h**.
 
+**---> IGUAL DE ADECUADA SI EL RIESGO DE GRAMNEGATIVOS MULTIRRESISTENTES ES BAJO**: **CEFTAZIDIMA o CEFEPIMA 2 g IV cada 8 h + VANCOMICINA o LINEZOLID** (respuesta de los autores de la ESCMID 2024; SEN 2025; SEMES 2012). *Los autores de la guía aceptaron, tras una carta al editor, que la cefalosporina antipseudomónica puede ser igual de adecuada que el carbapenémico donde hay poco riesgo de gramnegativos multirresistentes, que la recomendación puede adaptarse a la prevalencia de multirresistencia de cada país y que hay que limitar el uso innecesario de carbapenémicos. **Reservar el meropenem** si hay riesgo de multirresistentes (colonización previa, epidemiología local).*
+
 **---> ALTERNATIVAS**:
-- **CEFTAZIDIMA + LINEZOLID** o **CEFEPIMA + LINEZOLID** (ESCMID).
-- **VANCOMICINA + CEFTAZIDIMA o CEFEPIMA** (SEN 2025; SEMES 2012: cefepima 2 g IV cada 8 h + vancomicina o linezolid).
+- **CEFTAZIDIMA + LINEZOLID** o **CEFEPIMA + LINEZOLID** (ESCMID, tabla 4).
 - **Alergia a betalactámicos**: **VANCOMICINA o LINEZOLID + AZTREONAM 2 g IV cada 8 h o CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEMES 2012).
 
 *La SEN 2025 y la SEMES 2012 aplican esta pauta también al traumatismo craneal abierto; la ESCMID la recomienda para el posneuroquirúrgico. Para la vancomicina, la SEMES 2012 indica 1 g cada 8 h el primer día y después según niveles; aquí se usa la dosis por peso de la SEN. La ESCMID señala que el linezolid tiene mejor farmacocinética en el SNC que la vancomicina y que su experiencia en el absceso cerebral está creciendo. Certeza baja según el resumen y la tabla 1; muy baja según el texto principal (ESCMID).*
@@ -294,13 +295,13 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 
 ## REFERENCIAS
 
-1. ***Bodilsen J, D'Alessandris QG, Humphreys H, Iro MA, Klein M, Last K, López Montesinos I, Pagliano P, Sipahi OR, San-Juan R, Tattevin P, Thurnher M, Treviño-Rangel RJ, Brouwer MC; ESCMID Study Group for Infections of the Brain (ESGIB). European Society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults. Clin Microbiol Infect. 2024;30(1):66-89.*** PMID 37648062 · [DOI](https://doi.org/10.1016/j.cmi.2023.08.016) — ***Corrección:*** *Clin Microbiol Infect. 2024* (certeza de la pregunta clave 4 corregida de "baja" a "moderada"). PMID 38309325 · [DOI](https://doi.org/10.1016/j.cmi.2024.01.026)
+1. ***Bodilsen J, D'Alessandris QG, Humphreys H, Iro MA, Klein M, Last K, López Montesinos I, Pagliano P, Sipahi OR, San-Juan R, Tattevin P, Thurnher M, Treviño-Rangel RJ, Brouwer MC; ESCMID Study Group for Infections of the Brain (ESGIB). European Society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults. Clin Microbiol Infect. 2024;30(1):66-89.*** PMID 37648062 · [DOI](https://doi.org/10.1016/j.cmi.2023.08.016) — ***Corrección:*** *Clin Microbiol Infect. 2024* (certeza de la pregunta clave 4 corregida de "baja" a "moderada"). PMID 38309325 · [DOI](https://doi.org/10.1016/j.cmi.2024.01.026) — ***Respuesta de los autores*** *a la carta de Boyer J, et al. (Clin Microbiol Infect. 2024;30:147-8): Clin Microbiol Infect. 2024;30:149-50* · [DOI](https://doi.org/10.1016/j.cmi.2023.10.012)
    — ***Guía principal del capítulo: encabeza la pirámide, también por encima de la SEN 2025.*** *Guía europea con revisión sistemática (455 estudios, 1996-2022), metaanálisis y metodología GRADE, con un representante de pacientes en el panel. Responde a 10 preguntas clave:*
    - *RM con difusión como prueba de elección.*
    - *Diferir el antibiótico hasta la punción en el paciente no grave.*
    - *Diagnóstico molecular si los cultivos son negativos.*
    - *Aspiración o exéresis siempre que sea factible.*
-   - *Pauta empírica según el contexto: comunitario, inmunodepresión grave, posneuroquirúrgico.*
+   - *Pauta empírica según el contexto: comunitario, inmunodepresión grave, posneuroquirúrgico (en este, la respuesta de los autores admite la cefalosporina antipseudomónica si el riesgo de multirresistentes es bajo).*
    - *Duración de 6-8 semanas (4 si hay exéresis); sin consolidación oral rutinaria.*
    - *Corticoides solo en el edema grave; sin profilaxis antiepiléptica.*
 

@@ -189,7 +189,7 @@
 ## 9. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
 - **Evidencia limitada**: solo la SEMES 2012 trata las derivaciones de LCR con detalle; la SEN 2023 aporta la pauta empírica y la tabla de etiología, y la SEN 2025 la pauta, la duración y el reimplante en la meningitis nosocomial. Ninguna tiene grados de recomendación. **La NICE las excluye de su alcance.**
-- **Absceso cerebral posneuroquirúrgico**: si la imagen muestra un absceso tras neurocirugía, la **ESCMID 2024** recomienda **meropenem + vancomicina o linezolid** (recomendación condicional, certeza baja), una pauta similar → ver **capítulo 4**.
+- **Absceso cerebral posneuroquirúrgico**: si la imagen muestra un absceso tras neurocirugía, la **ESCMID 2024** recomienda **meropenem + vancomicina o linezolid** (recomendación condicional, certeza baja). Sus autores aceptaron después que **ceftazidima o cefepima + vancomicina o linezolid** es igual de adecuada si el riesgo de gramnegativos multirresistentes es bajo, que es la pauta de este capítulo → ver **capítulo 4**.
 - **Drenaje externo en paciente de UCI**: riesgo de ***P. aeruginosa*, *A. baumannii* y otros multirresistentes** (SEMES 2012). Ajustar la pauta a la **epidemiología local** y a las colonizaciones previas, con Infecciosas.
 - **Meningitis comunitaria en un portador de derivación** (neumococo, meningococo, *H. influenzae*): tratarla como la meningitis bacteriana comunitaria (**capítulo 1**), añadiendo la cobertura del capítulo actual si no se puede descartar la infección del dispositivo.
 
