@@ -19,7 +19,7 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 | Capítulo | SEN 2023 | ESCMID 2016 | NICE 2024 | SEMES 2012 |
 |---|---|---|---|---|
 | 1. Meningitis bacteriana | ✔ | ✔ | ✔ | ✔ (cap. 18) |
-| 2. Meningitis linfocitaria / subaguda | ✔ (12.1) | Diagnóstico diferencial | Diagnóstico diferencial | ✔ (cap. 18) |
+| 2. Meningitis linfocitaria / subaguda → `02_Meningitis_linfocitaria_subaguda.md` ✅ | ✔ (12.1) | Diagnóstico diferencial | Diagnóstico diferencial | ✔ (cap. 18) |
 | 3. Encefalitis | ✔ (12.2) | — | Solo aciclovir (1.6.7) | ✔ (cap. 19) |
 | 4. Absceso cerebral → `04_Absceso_cerebral.md` ✅ | — | ✔ **ESCMID 2024** (guía principal) | — | ✔ (cap. 20) |
 | 5. Infecciones parameníngeas y medulares | — | — | — | ✔ (caps. 21-22) |
