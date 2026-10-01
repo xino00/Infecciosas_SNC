@@ -97,10 +97,15 @@ Estructura de actuación en urgencias en España. **Ante una discrepancia, manda
 | Ecología española | Datos de resistencia del neumococo (§4) |
 | Dosificación de vancomicina | Rybak 2020 |
 
+**ESCMID 2016: texto íntegro revisado (01/10/2026).** Confirma: criterios de TC (grado A), antibiótico en <1 h (A), vancomicina **o rifampicina** asociada a la C3G según la resistencia local, ampicilina si >50 años o factores de riesgo, duraciones (neumococo 10-14, meningococo 7, *Listeria* ≥21, Hib 7-10, *S. aureus* ≥14, **sin germen ≥14 días**), dexametasona 10 mg/6 h durante 4 días con la primera dosis (A) y **hasta 4 h después del antibiótico** (C), mantenerla en neumococo o Hib (B), glicerol e hipotermia contraindicados, profilaxis (A), vacunación tras meningitis neumocócica (B) y audiometría durante el ingreso (A).
+
 **Consecuencias de la pirámide en las discrepancias ya detectadas:**
 - **TC antes de la PL**: forma parte del estudio inicial (SEN), pero sin retrasar nunca el antibiótico; se anota la postura restrictiva de ESCMID y NICE.
 - **Aciclovir empírico**: sí, hasta tener la PCR de VHS (SEN); se anota que la NICE lo reserva para la sospecha fuerte.
 - **Meningococo**: 7 días (SEN = ESCMID); la NICE acepta 5.
+- **Sin germen identificado**: ≥14 días (ESCMID; la SEN no lo trata); la NICE da 10.
+- **Dexametasona tras el antibiótico**: hasta 4 h (ESCMID); la NICE acepta <12 h.
+- **Rifampicina en el embarazo** (profilaxis): a partir del primer trimestre (ESCMID), en lugar de contraindicada (SEMES 2012).
 - **Dexametasona**: se mantiene solo si es neumococo (SEN); la NICE también si es Hib.
 - **Vancomicina empírica**: sí (SEN = ESCMID); la NICE no la incluye.
 
