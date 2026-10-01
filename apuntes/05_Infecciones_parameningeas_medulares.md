@@ -1,8 +1,8 @@
 # INFECCIONES PARAMENÍNGEAS Y MEDULARES
 
-> **Fuentes**: la base es la **SEMES 2012** (caps. 21 y 22), la única de las cuatro fuentes que trata estas entidades con detalle. La **ESCMID 2016** (empiema y trombosis de senos como complicación de la meningitis bacteriana) y la **SEN 2023** (contraindicación de la PL) aportan detalles puntuales; si discrepan, prevalecen sobre la SEMES. Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
+> **Fuentes**: **SEN 2025** (Manual del Residente: cap. 41, empiemas y abscesos epidurales; cap. 42, mielitis víricas; cap. 43, esquistosomiasis medular) y **SEMES 2012** (caps. 21 y 22). La **ESCMID 2016** (empiema y trombosis de senos como complicación de la meningitis bacteriana) y la **SEN 2023** (contraindicación de la PL) aportan detalles puntuales. Pirámide: **SEN (2023 y 2025) → ESCMID 2016 → SEMES 2012**; si discrepan, prevalecen sobre la SEMES. La **tromboflebitis séptica de senos** solo la trata con detalle la SEMES 2012. Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
 >
-> *Aviso: la evidencia de este capítulo es la de un manual de urgencias de 2012, sin grados de recomendación. Las pautas deben consensuarse con Neurocirugía, ORL e Infecciosas.*
+> *Aviso: la evidencia de este capítulo es la de dos manuales españoles (SEN 2025, de expertos, y SEMES 2012, de urgencias), sin grados de recomendación. Las pautas deben consensuarse con Neurocirugía, ORL e Infecciosas.*
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
@@ -12,9 +12,13 @@ Las **infecciones parameníngeas (IP)** son infecciones del SNC **adyacentes a l
 - **Absceso epidural** (intracraneal o espinal): pus **entre la duramadre y el hueso** (tabla interna del cráneo o canal vertebral).
 - **Tromboflebitis séptica (supurada) de los senos venosos cerebrales**: laterales, longitudinal y cavernosos.
 
-**Mecanismo** (SEMES 2012): suelen ser **complicación de una infección contigua** (senos paranasales, oído medio, mastoides, cráneo, cara, boca). Con menos frecuencia se deben a **traumatismos, neurocirugía o diseminación hematógena** desde un foco lejano. Los gérmenes suelen ser **piógenos**; en el inmunodeprimido pueden intervenir toxoplasma, *Nocardia*, hongos, espiroquetas y micobacterias.
+**Mecanismo** (SEMES 2012; SEN 2025): suelen ser **complicación de una infección contigua** (senos paranasales, oído medio, mastoides, cráneo, cara, boca) o de un **traumatismo craneal abierto o una neurocirugía**. La **diseminación hematógena** desde un foco lejano es rara en las intracraneales, pero es **la vía principal del absceso epidural espinal** (SEN 2025). Los gérmenes suelen ser **piógenos**; en el inmunodeprimido pueden intervenir toxoplasma, *Nocardia*, hongos, espiroquetas y micobacterias.
 
-**Morbimortalidad del 10-30 %**. **El pronóstico depende del tiempo de evolución y de la situación clínica al diagnóstico** (SEMES 2012).
+**Anatomía que explica la clínica** (SEN 2025):
+- El **espacio subdural** no tiene barreras: el **empiema subdural se extiende** por la convexidad, entre los hemisferios e incluso a la fosa posterior. El **absceso epidural intracraneal**, en cambio, suele ser **pequeño** porque la duramadre está adherida al hueso.
+- En la columna, la duramadre no está adherida al hueso: el **espacio epidural espinal es real** (grasa y vasos) y vertical, y el absceso **se extiende a varios niveles**.
+
+**Morbimortalidad del 10-30 %**. **El pronóstico depende del tiempo de evolución y de la situación clínica al diagnóstico** (SEMES 2012). **Son una emergencia médico-quirúrgica** (SEN 2025).
 
 > **CLAVE DE SOSPECHA (SEMES 2012)**: paciente con **infección ótica, de senos, de la cara o cutánea, neurocirugía reciente o traumatismo craneal** que presenta **fiebre + cefalea, dolor espinal y/o datos de HTIC** → **antibioterapia de amplio espectro lo antes posible** + imagen + Neurocirugía.
 
@@ -24,19 +28,19 @@ Las **infecciones parameníngeas (IP)** son infecciones del SNC **adyacentes a l
 
 ### 2.1. Empiema subdural intracraneal (ESI)
 
-- **Epidemiología** (SEMES 2012):
-  - Supone el **20 % de los procesos supurativos intracraneales** y el **13-23 % de las infecciones intracraneales que se presentan como lesión ocupante de espacio**.
-  - Predomina en **varones (3:1)**, en la 2.ª-3.ª década.
+- **Epidemiología** (SEMES 2012; SEN 2025):
+  - Supone el **15-25 % de los procesos supurativos intracraneales** (20 % según la SEMES 2012) y el **13-23 % de las infecciones intracraneales que se presentan como lesión ocupante de espacio**.
+  - Predomina en **varones (3:1)**, en la 2.ª-3.ª década (SEMES 2012).
   - Puede acompañarse de absceso epidural y, más raramente, de absceso cerebral.
-- **Etiología** (SEMES 2012): la mayoría son **secundarios a sinusitis**, y menos a otitis media (~10 %). Si el mecanismo es una bacteriemia, el foco primario suele ser pulmonar.
-- **Clínica** (SEMES 2012):
+- **Etiología** (SEMES 2012; SEN 2025): la mayoría son **secundarios a sinusitis**, y menos a otitis media (~10 %), mastoiditis, traumatismo craneal abierto o neurocirugía. **Rara vez son hematógenos** (foco pulmonar) **o complican una meningitis** del adulto. Los gérmenes son **los del absceso cerebral según el foco** (SEN 2025; capítulo 4).
+- **Clínica** (SEMES 2012; SEN 2025):
   - **Fiebre** y **cefalea** primero localizada y luego generalizada, con **vómitos**.
   - **Deterioro del nivel de consciencia**, **irritación meníngea**, **crisis (a menudo focales)**, focalidad y **afasia** si se afecta el hemisferio dominante.
-  - Puede ser **fulminante** o desarrollarse en semanas.
+  - Puede ser **fulminante** o desarrollarse en semanas. **Su evolución puede ser rápida: es una emergencia neuroquirúrgica** (SEN 2025).
 
 ### 2.2. Absceso epidural intracraneal (AEI)
 
-- **Epidemiología** (SEMES 2012): es la **3.ª infección intracraneal localizada**, tras el absceso cerebral y el empiema subdural. Suele ser **frontal** y se acompaña de **osteomielitis** de la pared interna del seno frontal. Puede asociarse a empiema subdural, meningitis, tromboflebitis o absceso cerebral.
+- **Epidemiología** (SEMES 2012; SEN 2025): es la **3.ª infección intracraneal localizada**, tras el absceso cerebral y el empiema subdural, y supone **menos del 2 %** de las infecciones supurativas intracraneales (SEN 2025). Suele ser **frontal** y se acompaña de **osteomielitis** de la pared interna del seno frontal. Puede asociarse a empiema subdural, meningitis, tromboflebitis o absceso cerebral.
 - **Etiología** (SEMES 2012): sinusitis frontal, **mastoiditis**, celulitis orbitaria o del cuero cabelludo, **mucormicosis rinocerebral**, **craneotomía previa** y **traumatismo craneal**.
 - **Clínica** (SEMES 2012):
   - Paciente con infección de senos u oído con **fiebre persistente y cefalea intensa localizada** que se generaliza, con postración.
@@ -45,23 +49,28 @@ Las **infecciones parameníngeas (IP)** son infecciones del SNC **adyacentes a l
 
 ### 2.3. Absceso epidural espinal (AEE)
 
-- **Epidemiología** (SEMES 2012): incidencia de **1/10.000** y edad media de **60 años**. Afecta sobre todo a la **columna lumbar** (por los procedimientos espinales); los **cervicales son más agresivos** porque comprimen la médula con frecuencia.
-- **Mecanismo** (SEMES 2012):
-  - **Extensión directa**: osteomielitis vertebral, úlceras por decúbito, **cirugía de columna, PL o anestesia epidural**.
-  - **Hematógena**: focos orofaríngeos, cutáneos, de partes blandas, urinarios o respiratorios; **endocarditis**; **catéteres vasculares**; **usuarios de drogas por vía parenteral (UDVP)**.
-  - La médula se daña por **compresión** o por **trombosis del plexo venoso espinal**.
-- **Etiología** (SEMES 2012): ***S. aureus*** es el más frecuente, seguido de **bacilos gramnegativos aerobios**. Otros: tuberculosis, *Brucella*, *Salmonella*, hongos, *Nocardia*, *Actinomyces*.
-- **Clínica** (SEMES 2012): **fiebre + dolor vertebral** con **dolor a la percusión de las apófisis espinosas** y déficit neurológico. Evoluciona en horas, días o semanas, típicamente en **4 fases**:
+- **Epidemiología** (SEMES 2012; SEN 2025): incidencia de **1/10.000** (SEMES 2012) o **2-5 por 10.000 ingresos hospitalarios, en aumento** (SEN 2025); sobre todo en la **5.ª-6.ª década** (edad media de 60 años según la SEMES 2012). Afecta sobre todo a la **columna dorsolumbar** (SEN 2025; lumbar según la SEMES 2012, por los procedimientos espinales); los **cervicales son más agresivos** porque comprimen la médula con frecuencia (SEMES 2012).
+- **Factores de riesgo** (SEN 2025): **diabetes**, **drogas por vía parenteral (UDVP)**, alcoholismo, otras inmunodepresiones, traumatismo o **cirugía de columna**, **catéteres epidurales e infiltraciones paravertebrales**.
+- **Mecanismo** (SEMES 2012; SEN 2025):
+  - **Hematógeno, en casi la mitad** (SEN 2025): focos orofaríngeos, cutáneos, de partes blandas, urinarios o respiratorios; **endocarditis**; **catéteres vasculares**; **UDVP**.
+  - **Contigüidad**: osteomielitis vertebral, **absceso de psoas**, úlceras por decúbito.
+  - **Yatrogénico**: **cirugía de columna, PL, catéter o anestesia epidural**.
+  - **Sin foco conocido en el 20-50 %** (SEN 2025).
+  - La médula se daña por **compresión**, por **estasis o trombosis venosa** del plexo espinal, por **trombosis de las arterias espinales** o por toxinas y mediadores inflamatorios (SEMES 2012; SEN 2025).
+- **Etiología** (SEMES 2012; SEN 2025): ***S. aureus*** es el más frecuente, seguido de **estreptococos**, estafilococos coagulasa negativos y **enterobacterias** (bacilos gramnegativos aerobios, segundos según la SEMES 2012). Otros: **tuberculosis** (sobre todo en zonas endémicas), *Brucella*, *Salmonella*, hongos, *Nocardia*, *Actinomyces*.
+- **Clínica** (SEMES 2012; SEN 2025): **dolor de espalda o radicular** (el síntoma más frecuente), **fiebre** y déficit neurológico (debilidad, alteraciones sensitivas o de esfínteres), con **dolor a la percusión de las apófisis espinosas**. **La tríada completa (dolor, fiebre y déficit) solo está en el 8-15 %** (SEN 2025). Evoluciona en horas, días o semanas, típicamente en **4 fases** (SEMES 2012):
   1. Dolor vertebral focal.
   2. Dolor radicular.
   3. Déficit motor, sensitivo o de esfínteres.
   4. **Parálisis**.
 
-  > **Sospecharlo en todo paciente con dolor de espalda localizado y síntomas radiculares, sobre todo si hay un foco infeccioso** (SEMES 2012).
+  > **Sospecharlo en todo paciente con dolor de espalda localizado y síntomas radiculares, sobre todo si hay un foco infeccioso** (SEMES 2012) **o factores de riesgo** (diabetes, UDVP, procedimientos espinales) (SEN 2025).
 
-### 2.4. Empiema subdural espinal (ESE)
+- *Diagnóstico diferencial (SEN 2025): mielopatía transversa aguda, tumor medular, isquemia medular, **hematoma epidural** y polirradiculoneuritis. La RM con gadolinio los diferencia.*
 
-Infección entre la duramadre y la aracnoides medulares, mucho más rara que el AEE. **Casi siempre es hematógeno** y su germen más frecuente es ***S. aureus***. Clínica: **fiebre, dolor vertebral y signos de compresión medular**, con dolor radicular y déficits motores o sensitivos (SEMES 2012).
+### 2.4. Empiema subdural espinal (ESE) y absceso intramedular
+
+Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la médula (absceso intramedular). **Muy raros**, mucho menos que el AEE, y **clínicamente difíciles de distinguir de él**; su origen, etiología, diagnóstico y tratamiento son **similares** (SEN 2025). El ESE es **casi siempre hematógeno** y su germen más frecuente es ***S. aureus***. Clínica: **fiebre, dolor vertebral y signos de compresión medular**, con dolor radicular y déficits motores o sensitivos (SEMES 2012).
 
 ### 2.5. Tromboflebitis séptica de los senos venosos cerebrales (SVC)
 
@@ -81,24 +90,33 @@ Infección entre la duramadre y la aracnoides medulares, mucho más rara que el 
 - **Signos de gravedad**: taquipnea, hipotensión, taquicardia, obnubilación.
 - **Mal pronóstico** (SEMES 2012): coma, progresión de crisis focales a generalizadas, crisis como síntoma inicial y déficits focales bilaterales. **Mortalidad global del 34 %**.
 
+*La mucormicosis rinocerebral puede trombosar el seno cavernoso: ver capítulo 7.*
+
 ### 2.6. Infecciones medulares: mielitis y absceso intramedular
 
-**Concepto** (SEMES 2012, cap. 22):
-- **Mielitis**: afectación medular de causa infecciosa, autoinmune o idiopática.
+**Concepto** (SEMES 2012, cap. 22; SEN 2025):
+- **Mielitis**: afectación inflamatoria de la médula de causa infecciosa, autoinmune o idiopática. La vírica puede deberse al **daño directo del virus** o a una **respuesta inmunitaria parainfecciosa** sin invasión del SNC, y puede ser aislada o formar parte de una encefalomielitis, meningomielitis o mielorradiculoneuritis (SEN 2025).
 - **Mielopatía**: término más general, que incluye las compresiones.
 - **Mielitis transversa aguda (MTA)**: inflamación **no compresiva y bilateral** de uno o más segmentos medulares. Incidencia de 1-4 casos por millón al año, con picos a los 10-19 y a los 30-39 años. Un tercio se recupera bien, un tercio queda con secuelas moderadas y un tercio con secuelas graves.
 
-**Etiología infecciosa** (SEMES 2012):
+**Etiología infecciosa** (SEMES 2012; SEN 2025):
 
 | Tipo | Agentes |
 |---|---|
-| **Mielitis vírica (la más frecuente)** | **VVZ, VEB, VHS-1 y 2, CMV**; también enterovirus, poliovirus, hepatitis, sarampión, rubéola, gripe, adenovirus, rabia, **VIH, HTLV-1** |
+| **Mielitis vírica (la más frecuente)** | **VVZ, VEB, VHS-1 y 2, CMV**; también enterovirus, poliovirus, hepatitis, sarampión, rubéola, gripe, adenovirus, rabia, **VIH, HTLV-1**, flavivirus (West Nile) |
 | Bacteriana | *M. pneumoniae*, **tuberculosis**, *S. aureus*, *E. coli*, estreptococos, *Actinomyces*, *Nocardia*, *Bacteroides*, ***Borrelia*, *T. pallidum***, leptospira, ***Brucella*** |
-| Parasitaria / fúngica | Equinococo, *Schistosoma* / *Aspergillus*, criptococo, *Candida* |
+| Parasitaria / fúngica | Equinococo, ***Schistosoma*** (capítulo 7) / *Aspergillus*, criptococo, *Candida* |
 | Postinfecciosa / posvacunal | Enterovirus, VEB, CMV, *M. pneumoniae* / vacunas de VVZ, sarampión, rubéola, gripe, parotiditis |
 | **Absceso intramedular** | Hematógeno ("criptogenético"): ***S. aureus*, *Listeria***. Por extensión directa o cirugía: *S. aureus*, estafilococos coagulasa negativos, anaerobios, bacilos gramnegativos |
 
-**Causas infecciosas compresivas** (SEMES 2012): extradurales, con síndrome radicular que empeora con la maniobra de Valsalva. Son el **mal de Pott** (tuberculosis), la **espondilitis infecciosa**, la aspergilosis, la hidatidosis y el **absceso epidural** (estafilococos, estreptococos, *E. coli* y, con menos frecuencia, *Brucella* y *Salmonella*).
+**Síndromes víricos que conviene reconocer** (SEN 2025):
+- **Mielitis fláccida aguda** (afectación de las astas anteriores: debilidad fláccida con reflejos bajos y sensibilidad conservada): **enterovirus A71 y D68**, poliovirus, echovirus y coxsackie; el A71 se acompaña de **síndrome mano-pie-boca**. **West Nile**: afectación medular en el 5-10 % de las formas neuroinvasivas, como parálisis fláccida.
+- **Síndrome de Elsberg (VHS-2)**: radiculitis lumbosacra bilateral con mielorradiculitis de la médula distal: **retención urinaria**, estreñimiento, debilidad asimétrica y **parestesias en silla de montar**; las vesículas genitales pueden faltar.
+- **VVZ**: radiculitis y mielitis; la **IgG en el LCR** es la prueba más sensible en la mielitis.
+- **CMV en el VIH**: **polirradiculopatía** con pleocitosis de **polinucleares**.
+- **Retrovirus**: **mielopatía vacuolar del VIH** (cordones posteriores y vía corticoespinal) y **paraparesia espástica tropical por HTLV-1**, ambas crónicas.
+
+**Causas infecciosas compresivas** (SEMES 2012): extradurales, con síndrome radicular que empeora con la maniobra de Valsalva. Son el **mal de Pott** (tuberculosis), la **espondilitis infecciosa**, la aspergilosis, la hidatidosis (capítulo 7) y el **absceso epidural** (estafilococos, estreptococos, *E. coli* y, con menos frecuencia, *Brucella* y *Salmonella*).
 
 **Clínica de la MTA** (SEMES 2012): debilidad rápidamente progresiva de las piernas (y de los brazos si es cervical), **nivel sensitivo**, **disfunción vesical** (en casi todos) y alteraciones sensitivas (80 %). El dolor de espalda o radicular es un síntoma de inicio frecuente.
 
@@ -106,63 +124,73 @@ Infección entre la duramadre y la aracnoides medulares, mucho más rara que el 
 
 ## 3. VALORACIÓN EN URGENCIAS Y PRUEBAS
 
-**Analítica** (SEMES 2012): hemograma, bioquímica, coagulación y **hemocultivos**, más **exudado de los focos probables** **antes del antibiótico**. En la tromboflebitis de senos, completar con un **estudio de hipercoagulabilidad**. **Exploración ORL y fondo de ojo**.
+**Analítica** (SEMES 2012; SEN 2025): hemograma, bioquímica, coagulación, **VSG y PCR** (suelen estar elevadas en el AEE) y **hemocultivos**, más **exudado de los focos probables**, **antes del antibiótico**. *En el AEE, los hemocultivos tienen un rendimiento moderado (SEN 2025).* En la tromboflebitis de senos, completar con un **estudio de hipercoagulabilidad**. **Exploración ORL y fondo de ojo**.
 
-**Punción lumbar: NO se recomienda** en las IP, por el riesgo de herniación y porque los cambios del LCR son inespecíficos (SEMES 2012). **La sospecha de absceso epidural espinal contraindica la PL** (SEN 2023). El Gram y el cultivo se hacen sobre el **material quirúrgico o de la punción percutánea** (SEMES 2012).
+**Punción lumbar: NO se recomienda** en las IP, por el riesgo de herniación y porque los cambios del LCR son inespecíficos (SEMES 2012). **La sospecha de absceso epidural espinal contraindica la PL** (SEN 2023; SEN 2025: por el riesgo teórico de diseminar la infección y el bajo rendimiento del cultivo). El Gram y el cultivo se hacen sobre el **material quirúrgico o de la punción percutánea** (SEMES 2012).
 
-**Imagen** (SEMES 2012). **La RM es superior a la TC** en todas las IP.
+**Imagen** (SEMES 2012; SEN 2025). **La RM es superior a la TC** en todas las IP.
 
 | Entidad | Prueba de elección | Hallazgos y comentarios |
 |---|---|---|
-| **Empiema subdural y absceso epidural intracraneal** | **TC con contraste y RM con gadolinio**; en urgencias, la TC suele ser la primera | Empiema: colección hipodensa en **semiluna** bajo un hemisferio o a lo largo de la hoz, con efecto masa y realce de los márgenes. Absceso epidural: área hipodensa bien delimitada con realce más grueso e irregular. La RM es más sensible en la base del cráneo, la fosa posterior y la hoz. **TC con ventana ósea** para ver sinusitis, otitis y osteomielitis |
-| **Absceso epidural / empiema espinal** | **RM de columna con gadolinio** | La radiografía puede mostrar osteomielitis o ser normal. Si no hay RM, **TC con contraste intratecal** |
+| **Empiema subdural y absceso epidural intracraneal** | **TC con contraste y RM con gadolinio**; en urgencias, la TC suele ser la primera | Empiema: colección hipodensa en **semiluna** bajo un hemisferio o a lo largo de la hoz, con efecto masa y realce de los márgenes; en la RM, hiperintensa en T2 e hipointensa en T1, con **realce de la membrana** y **restricción de la difusión** (SEN 2025). Absceso epidural: área bien delimitada, **lenticular** o semilunar, con realce de la duramadre, más grueso e irregular (SEMES 2012; SEN 2025). La RM es más sensible en la base del cráneo, la fosa posterior y la hoz. **TC con ventana ósea** para ver sinusitis, otitis y osteomielitis |
+| **Absceso epidural / empiema espinal** | **RM de columna con gadolinio** | Colección hiperintensa en T2, con centro hipointenso en T1 y **realce periférico**; muestra también los focos vecinos (SEN 2025). **Sin gadolinio, el edema paraespinal es muy sensible** para el AEE lumbar (y menos el edema del psoas, la médula ósea o el disco) (SEN 2025). La radiografía puede mostrar osteomielitis o ser normal. Si no se puede hacer RM: **mielo-TC** (TC con contraste intratecal), menos sensible (SEMES 2012; SEN 2025) |
 | **Tromboflebitis de senos** | **RM con venografía-RM** | La TC con y sin contraste es menos sensible (defectos de repleción; angio-TC). Angiografía si las anteriores no son diagnósticas. La radiografía de tórax puede mostrar émbolos sépticos |
 | **Sospecha de mielopatía** | **RM medular con gadolinio URGENTE** | **Lo primero es descartar la compresión** (cap. 22) |
 
 **Algoritmo de la mielopatía aguda** (SEMES 2012, cap. 22):
 1. **RM medular con gadolinio urgente**.
 2. **¿Compresiva?** → **cirugía urgente**. *Pasadas unas 6 h, al daño mecánico se suma el isquémico.*
-3. **¿No compresiva?** → **PL obligada** (pleocitosis, proteinorraquia, índice de IgG) para distinguir la mielitis inflamatoria de la no inflamatoria (isquemia, hemorragia, posradiación). Pedir además serologías: VVZ, CMV, VEB, VHS, VIH, *Borrelia*, *T. pallidum*, *Brucella* (rosa de Bengala), *M. pneumoniae*, entre otras.
+3. **¿No compresiva?** → **PL obligada** (pleocitosis, proteinorraquia, índice de IgG) para distinguir la mielitis inflamatoria de la no inflamatoria (isquemia, hemorragia, posradiación). Pedir además serologías: VVZ, CMV, VEB, VHS, VIH, *Borrelia*, *T. pallidum*, *Brucella* (rosa de Bengala), *M. pneumoniae*, entre otras. *En la mielitis por VVZ, la IgG en el LCR es más sensible que la PCR (SEN 2025).*
 
 ## 4. TRATAMIENTO
 
-> Las IP son una **URGENCIA MÉDICO-QUIRÚRGICA**: **antibioterapia empírica de amplio espectro inmediata** en urgencias, antitérmicos, **evacuación neuroquirúrgica** y **tratamiento del foco de origen** (SEMES 2012). **Avisar a Neurocirugía y ORL.**
+> Las IP son una **URGENCIA MÉDICO-QUIRÚRGICA**: **antibioterapia empírica de amplio espectro inmediata** en urgencias, antitérmicos, **evacuación neuroquirúrgica** y **tratamiento del foco de origen** (SEMES 2012; SEN 2025). **Avisar a Neurocirugía y ORL.**
 
-### 4.1. Antibioterapia empírica (SEMES 2012, tabla 1)
+### 4.1. Antibioterapia empírica
 
-**---> EMPIEMA SUBDURAL INTRACRANEAL, ABSCESO EPIDURAL INTRACRANEAL Y TROMBOFLEBITIS DE SENOS**:
+**---> EMPIEMA SUBDURAL INTRACRANEAL Y ABSCESO EPIDURAL INTRACRANEAL** (SEN 2025): **elegir el antibiótico como en el absceso cerebral, según el foco de origen** (pauta de la SEN 2025; capítulo 4):
+- **Foco sinusal, ótico o dental**: **CEFTRIAXONA 2 g IV cada 12 h** o **CEFOTAXIMA 2 g IV cada 4 h** **+ METRONIDAZOL 10 mg/kg IV cada 8 h** (dosis de la SEMES 2012). *En el foco sinusal, la SEN 2025 añade vancomicina si hay alto riesgo de S. aureus.*
+- **Traumatismo craneal abierto o neurocirugía**: **VANCOMICINA 15-20 mg/kg IV cada 8-12 h + MEROPENEM, CEFTAZIDIMA o CEFEPIMA 2 g IV cada 8 h** (SEN 2025; dosis de la SEN 2023).
+- *Discrepancia: la SEMES 2012 proponía **cloxacilina 2 g IV cada 4 h + C3G ± metronidazol** (alternativa: meropenem 1-2 g IV cada 6-8 h o ertapenem 1 g IV cada 24 h). Manda la SEN 2025. En el absceso cerebral comunitario, la ESCMID 2024 no añade vancomicina; no trata el empiema.*
+
+**---> TROMBOFLEBITIS SÉPTICA DE SENOS** (SEMES 2012, tabla 1; las fuentes de nivel superior no dan pauta):
 - **CLOXACILINA 2 g IV cada 4 h**
 - **+ CEFOTAXIMA 2 g IV cada 4 h** o **CEFTRIAXONA 2 g IV cada 12 h**
 - **± METRONIDAZOL 10 mg/kg IV cada 8 h** (si el origen es **odontógeno, sinusal, otitis media crónica o mastoiditis**).
 - *Alternativa a la combinación: **MEROPENEM 1-2 g IV cada 6-8 h** o **ERTAPENEM 1 g IV cada 24 h**.*
 
-**---> ABSCESO EPIDURAL ESPINAL Y EMPIEMA SUBDURAL ESPINAL**:
-- **CLOXACILINA 2 g IV cada 4 h + CEFOTAXIMA 2 g IV cada 4 h o CEFTRIAXONA 2 g IV cada 12 h**.
+**---> ABSCESO EPIDURAL ESPINAL Y EMPIEMA SUBDURAL ESPINAL** (SEN 2025), **tras extraer los hemocultivos**:
+- **VANCOMICINA 15-20 mg/kg IV cada 8-12 h + CEFTRIAXONA 2 g IV cada 12 h** (o la pauta de la guía local del hospital). *Dosis de la SEN 2023 (vancomicina) y de la SEMES 2012 (ceftriaxona); la SEN 2025 no da dosis para esta indicación.*
+- **Sospecha de *Pseudomonas*** (infección posquirúrgica, UDVP): **VANCOMICINA + CEFEPIMA, CEFTAZIDIMA o MEROPENEM** (SEN 2025), 2 g IV cada 8 h. *La SEMES 2012 añade piperacilina-tazobactam 4/0,5 g IV cada 6 h como opción.*
+- Ajustar después al germen y su antibiograma (SEN 2025).
+- *Discrepancia: la SEMES 2012 proponía **cloxacilina 2 g IV cada 4 h + cefotaxima o ceftriaxona** (y vancomicina en lugar de la cloxacilina solo si se sospechaba SAMR). Manda la SEN 2025, que cubre de entrada el SAMR.*
 
-**---> ALTERNATIVA** (alergia a betalactámicos), para todas:
-- **VANCOMICINA 1 g IV cada 8 h** o **TEICOPLANINA 600 mg IV cada 24 h** o **LINEZOLID 600 mg IV cada 12 h**
+**---> ALTERNATIVA** (alergia a betalactámicos), para todas (SEMES 2012):
+- **VANCOMICINA** (15-20 mg/kg IV cada 8-12 h; la SEMES 2012 daba 1 g cada 8 h) o **TEICOPLANINA 600 mg IV cada 24 h** o **LINEZOLID 600 mg IV cada 12 h**
 - **+ AZTREONAM 2 g IV cada 8 h** o **CIPROFLOXACINO 400 mg IV cada 12 h**
 - **± CLINDAMICINA 600 mg IV cada 8 h**.
 
-**Ajustes** (SEMES 2012):
-- **Sospecha de SAMR** → **VANCOMICINA 1 g IV cada 12 h en lugar de la cloxacilina**.
-- **Infección posquirúrgica o UDVP** (riesgo de *Pseudomonas*) → sustituir la C3G por **CEFEPIMA 2 g IV cada 8 h**, **MEROPENEM 1 g IV cada 6 h** o **PIPERACILINA-TAZOBACTAM 4/0,5 g IV cada 6 h**.
-
-*Duración (SEMES 2012): **empiema subdural, 4-6 semanas**; **absceso epidural intracraneal, mínimo 3 semanas tras retirar los drenajes**. Para el resto, ninguna de las fuentes da una duración específica: individualizar con Infecciosas.*
+**Duración**:
+- **Absceso epidural espinal: 4-8 semanas** (SEN 2025).
+- **Empiema subdural: 4-6 semanas** (SEMES 2012).
+- **Absceso epidural intracraneal: mínimo 3 semanas tras retirar los drenajes** (SEMES 2012).
+- *Para el resto, ninguna de las fuentes da una duración específica: individualizar con Infecciosas.*
 
 ### 4.2. Tratamiento neuroquirúrgico y del foco
 
-- **Empiema subdural intracraneal** (SEMES 2012):
-  - **Drenaje quirúrgico inmediato** en cuanto se confirma el diagnóstico. La **craneotomía** tiene menos recidivas que los trépanos y es la más recomendada; algunos autores prefieren los trépanos, guiados por TC o RM.
+- **Empiema subdural intracraneal** (SEMES 2012; SEN 2025):
+  - **Drenaje quirúrgico inmediato** en cuanto se confirma el diagnóstico, por **trépanos o craneotomía** (SEN 2025). Según la SEMES 2012, la **craneotomía** tiene menos recidivas que los trépanos y es la más recomendada; algunos autores prefieren los trépanos, guiados por TC o RM.
   - **Drenar también el foco primario** (sinusitis, otitis, mastoiditis).
-  - Solo en contadas ocasiones se trata sin cirugía (colecciones <1,5 cm), y no es una alternativa generalmente aceptada.
-- **Absceso epidural intracraneal** (SEMES 2012): **drenaje quirúrgico inmediato** con trépanos más drenaje del seno paranasal responsable. Si hay osteomielitis extensa de la pared posterior del seno frontal, puede requerir la ablación del seno. Craneotomía si hay otras colecciones intracraneales asociadas.
-- **Absceso epidural espinal** (SEMES 2012):
-  - **LAMINECTOMÍA DESCOMPRESIVA con desbridamiento y drenaje LO ANTES POSIBLE**, para evitar la parálisis o revertirla.
-  - Fijación posterior si hay gran destrucción vertebral.
-  - **Se puede desestimar la cirugía** en el absceso lumbar **sin compresión medular** con aislamiento del germen (en sangre o en el espacio epidural), o si hay una **paraplejía o tetraplejía establecida**.
-  - Los posteriores pueden drenarse por vía **percutánea bajo fluoroscopia**.
-  - **Una parálisis de más de 24 h suele ser irreversible**; si solo hay dolor vertebral o radicular, la recuperación completa es posible.
+  - Solo en contadas ocasiones se trata sin cirugía (colecciones <1,5 cm), y no es una alternativa generalmente aceptada (SEMES 2012).
+  - Pueden hacer falta **medidas para la HTIC** y **antiepilépticos** (SEN 2025).
+- **Absceso epidural intracraneal** (SEMES 2012; SEN 2025): **drenaje quirúrgico inmediato** con trépanos más drenaje del seno paranasal responsable. Si hay osteomielitis extensa de la pared posterior del seno frontal, puede requerir la ablación del seno. Craneotomía si hay otras colecciones intracraneales asociadas.
+- **Absceso epidural espinal** (SEN 2025; SEMES 2012):
+  - **El tratamiento estándar es el DRENAJE QUIRÚRGICO** (**laminectomía descompresiva** con desbridamiento, o drenaje guiado por imagen) **+ antibiótico + erradicación del foco**, **LO ANTES POSIBLE**, para evitar la parálisis o revertirla.
+  - **Paraplejía completa: operar en menos de 48 h** (SEN 2025). *Las secuelas dependen del déficit previo y del tiempo hasta la cirugía.*
+  - **Tratamiento solo médico**: en pacientes con **alto riesgo quirúrgico** o **sin déficit neurológico**, con **vigilancia estrecha** y nueva valoración por Neurocirugía si empeora (SEN 2025).
+  - Fijación posterior si hay gran destrucción vertebral; los posteriores pueden drenarse por vía **percutánea bajo fluoroscopia** (SEMES 2012).
+  - *Discrepancia: la SEMES 2012 permitía desestimar la cirugía en el absceso lumbar sin compresión medular con germen aislado (en sangre o en el espacio epidural) y también **en la paraplejía o tetraplejía establecida**, y advertía de que una parálisis de más de 24 h suele ser irreversible (si solo hay dolor, la recuperación completa es posible). Manda la SEN 2025: en la paraplejía completa, cirugía en <48 h.*
+  - *Pronóstico (SEN 2025): mortalidad del 4-7 %; peor con la edad avanzada y la comorbilidad (diabetes, enfermedad respiratoria o renal).*
 - **Tromboflebitis de senos** (SEMES 2012):
   - Antibiótico frente a *S. aureus*, estreptococos y anaerobios, y **cirugía del foco**.
   - En la trombosis del seno lateral puede requerir ligadura de la vena yugular interna y trombectomía.
@@ -181,51 +209,61 @@ Infección entre la duramadre y la aracnoides medulares, mucho más rara que el 
 
 **---> ABSCESO INTRAMEDULAR (empírico)**: **MEROPENEM 1 g IV cada 8 h**, **imipenem 1 g IV cada 8 h**, **ertapenem 1 g IV cada 12-24 h** o **amoxicilina-clavulánico 2 g/0,2 g IV cada 8 h**.
 - **Alternativa**: **VANCOMICINA 1 g IV cada 12 h o LINEZOLID 600 mg IV cada 12 h + CIPROFLOXACINO 400 mg IV cada 8-12 h ± METRONIDAZOL 10 mg/kg IV cada 8 h**.
+- *La SEN 2025 equipara el absceso intramedular al epidural espinal (§4.1: vancomicina + ceftriaxona), sin dar una pauta propia; la de la SEMES 2012 es la única específica.*
 
-**Tratamiento dirigido de las infecciones medulares** (SEMES 2012, tabla 5):
+**Tratamiento dirigido de las infecciones medulares** (SEMES 2012, tabla 5, actualizado con la SEN 2025):
 
 | Germen | Tratamiento |
 |---|---|
-| VVZ, VHS, VEB | Aciclovir 10 mg/kg IV cada 8 h, 10-14 días |
-| CMV | Ganciclovir 5 mg/kg IV cada 12 h ± foscarnet 60 mg/kg IV cada 8 h, 2-3 semanas |
-| *Staphylococcus* | Cloxacilina 2 g IV cada 4 h ± rifampicina 600 mg cada 12-24 h, o vancomicina 1 g IV cada 12 h ± rifampicina |
-| *Streptococcus* | Ceftriaxona 2 g IV cada 12 h o cefotaxima 2 g IV cada 4 h |
-| *B. burgdorferi* | Ceftriaxona 2 g IV cada 12 h |
-| *Brucella* | Doxiciclina 100 mg cada 12 h + rifampicina 600 mg/día, ± estreptomicina 1 g/día IM o gentamicina 5 mg/kg/día IV |
-| *M. pneumoniae* | Claritromicina 500 mg cada 12 h o levofloxacino 500 mg/día; alternativa doxiciclina 100 mg cada 12 h |
-| *L. monocytogenes* | Ampicilina 2 g IV cada 4 h + gentamicina 5 mg/kg/día, o cotrimoxazol 5 mg/kg (de trimetoprim) IV cada 6 h |
-| Bacilos gramnegativos | C3G; si se sospecha *Pseudomonas*, ceftazidima o cefepima 2 g IV cada 8 h + amikacina 5 mg/kg IV cada 8 h |
-| Hongos | Anfotericina B desoxicolato 0,7-1 mg/kg/día, o liposomal 3-5 mg/kg/día, caspofungina o voriconazol |
+| VVZ, VHS, VEB | Aciclovir 10 mg/kg IV cada 8 h, 10-14 días (SEMES 2012) |
+| CMV | **Ganciclovir 5 mg/kg IV cada 12 h + foscarnet 90 mg/kg, 2-3 semanas** en la polirradiculopatía o la mielitis del inmunodeprimido (SEN 2025, sin intervalo para el foscarnet). *SEMES 2012: ganciclovir ± foscarnet 60 mg/kg IV cada 8 h* |
+| *Staphylococcus* | Cloxacilina 2 g IV cada 4 h ± rifampicina 600 mg cada 12-24 h, o vancomicina 1 g IV cada 12 h ± rifampicina (SEMES 2012) |
+| *Streptococcus* | Ceftriaxona 2 g IV cada 12 h o cefotaxima 2 g IV cada 4 h (SEMES 2012) |
+| *B. burgdorferi* | **Ceftriaxona 2 g IV cada 24 h, 14-28 días** en las formas graves; doxiciclina 100 mg VO cada 12 h en las leves (SEN 2025; capítulo 2). *SEMES 2012: ceftriaxona 2 g cada 12 h* |
+| *Brucella* | **Rifampicina 15 mg/kg/día + doxiciclina 100 mg cada 12 h + gentamicina 4 mg/kg/día 2 semanas; después rifampicina + doxiciclina hasta ≥8 semanas** (SEN 2025; capítulo 2). *SEMES 2012: doxiciclina + rifampicina ± estreptomicina o gentamicina* |
+| *M. pneumoniae* | Claritromicina 500 mg cada 12 h o levofloxacino 500 mg/día; alternativa doxiciclina 100 mg cada 12 h (SEMES 2012) |
+| *L. monocytogenes* | Ampicilina 2 g IV cada 4 h + gentamicina 5 mg/kg/día, o cotrimoxazol 5 mg/kg (de trimetoprim) IV cada 6 h (SEMES 2012). *En la meningitis, la SEN 2025 da ampicilina + gentamicina o cotrimoxazol, con meropenem como alternativa (capítulo 1)* |
+| Bacilos gramnegativos | C3G; si se sospecha *Pseudomonas*, ceftazidima o cefepima 2 g IV cada 8 h + amikacina 5 mg/kg IV cada 8 h (SEMES 2012) |
+| Hongos | Anfotericina B desoxicolato 0,7-1 mg/kg/día, o liposomal 3-5 mg/kg/día, caspofungina o voriconazol (SEMES 2012); pautas por hongo en el capítulo 7 |
+| ***Schistosoma*** (forma medular) | **Praziquantel 60 mg/kg/día en 3 tomas, 3 días**, con corticoides desde el día anterior y descenso en 3-4 meses; cirugía si hay compresión medular (SEN 2025; capítulo 7) |
 
-### 4.5. Otras medidas (SEMES 2012)
+### 4.5. Otras medidas (SEMES 2012; SEN 2025)
 
-- **Edema cerebral o medular**, hasta la descompresión quirúrgica: cabecero a 35-45°, **dexametasona 4 mg IV cada 6 h** y **manitol** al 20 %.
-- **Mielitis compresiva y mielitis transversa aguda**: valorar **corticoides inmediatos** (dexametasona 10 mg IV en bolo y después 4 mg cada 6 h, o metilprednisolona 500 mg/día IV durante 3 días y después 1 mg/kg/día).
-- **Mielopatía**: sondaje vesical, profilaxis de la enfermedad tromboembólica, protección gástrica, analgesia y soporte ventilatorio si hace falta.
-- **Crisis**: tratarlas. *La SEMES 2012 recomienda **profilaxis anticomicial en el empiema subdural** por la alta incidencia de crisis. Ninguna de las fuentes superiores trata el empiema; en el absceso cerebral, la ESCMID 2024 desaconseja la profilaxis primaria (capítulo 4). Individualizar con Neurocirugía.*
-- **HTIC en el empiema subdural**: monitorizar la PIC y tratarla en UCI.
+- **Edema cerebral o medular**, hasta la descompresión quirúrgica: cabecero a 35-45°, **dexametasona 4 mg IV cada 6 h** y **manitol** al 20 % (SEMES 2012).
+- **Mielitis compresiva y mielitis transversa aguda**: valorar **corticoides inmediatos** (dexametasona 10 mg IV en bolo y después 4 mg cada 6 h, o metilprednisolona 500 mg/día IV durante 3 días y después 1 mg/kg/día) (SEMES 2012).
+- **Mielopatía**: sondaje vesical, profilaxis de la enfermedad tromboembólica, protección gástrica, analgesia y soporte ventilatorio si hace falta (SEMES 2012).
+- **Crisis**: tratarlas. *La SEMES 2012 recomienda **profilaxis anticomicial en el empiema subdural** por la alta incidencia de crisis; la SEN 2025 recoge que "algunos autores" la mantienen un año en los abscesos y empiemas, aunque no hay guías claras (hay crisis en un tercio de estos pacientes). En el absceso cerebral, la ESCMID 2024 desaconseja la profilaxis primaria (capítulo 4); no trata el empiema. Individualizar con Neurocirugía.*
+- **HTIC en el empiema subdural**: monitorizar la PIC y tratarla en UCI (SEMES 2012; SEN 2025).
 
 ## 5. CRITERIOS DE INGRESO
 
-- **SIEMPRE**, valorando el ingreso en **UCI** y consultando con **Neurocirugía y ORL** (SEMES 2012).
+- **SIEMPRE**, valorando el ingreso en **UCI** y consultando con **Neurocirugía y ORL** (SEMES 2012). *Son emergencias médico-quirúrgicas (SEN 2025).*
 - **Infecciones medulares**: ingreso en un hospital con Neurocirugía siempre que sea posible. **UCI** si hay **compromiso respiratorio**, complicaciones cardiovasculares, deterioro neurológico o **sepsis** (SEMES 2012).
 
 ## 6. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
-- **Evidencia limitada**: estas entidades solo se tratan con detalle en la SEMES 2012, sin grados de recomendación. Las pautas antibióticas son de 2012 (incluyen teicoplanina, ertapenem e imipenem) y **deben adaptarse a la epidemiología local y consensuarse con Infecciosas**.
-- **Brucelosis y tuberculosis**: considerarlas en el absceso epidural espinal y en la espondilitis de evolución subaguda en nuestro medio (SEMES 2012).
-- **Absceso epidural espinal: tiempo = médula**. Ante dolor de espalda con fiebre o foco infeccioso, **RM urgente** y Neurocirugía; **no hacer PL** (SEN 2023).
+- **Evidencia limitada**: los empiemas y el absceso epidural espinal los tratan dos manuales españoles (SEN 2025 y SEMES 2012), sin grados de recomendación; la tromboflebitis séptica de senos, solo la SEMES 2012. Las pautas antibióticas de la SEMES son de 2012 (incluyen teicoplanina, ertapenem e imipenem) y **deben adaptarse a la epidemiología local y consensuarse con Infecciosas**.
+- **Cambios con la SEN 2025**: **vancomicina + ceftriaxona** en el absceso epidural espinal (en lugar de cloxacilina + C3G), **antibiótico del absceso cerebral según el foco** en los empiemas intracraneales, **4-8 semanas** de tratamiento en el absceso epidural espinal y **cirugía en <48 h aunque haya paraplejía completa**.
+- **Brucelosis y tuberculosis**: considerarlas en el absceso epidural espinal y en la espondilitis de evolución subaguda en nuestro medio (SEMES 2012; SEN 2025).
+- **Absceso epidural espinal: tiempo = médula**. Ante dolor de espalda con fiebre, foco infeccioso o factores de riesgo, **RM urgente** y Neurocirugía; **no hacer PL** (SEN 2023; SEN 2025).
 
 ## REFERENCIAS
 
-1. ***Franquelo Morales P, González Martínez F. Infecciones parameníngeas. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 21, p. 171-179.***
-   — ***Fuente principal del capítulo (nivel 4 de la pirámide, pero la única que trata estas entidades con detalle).*** *Aporta la definición, epidemiología, etiología y clínica del empiema subdural, los abscesos epidurales intracraneal y espinal y la tromboflebitis séptica de senos (con la clínica por seno). También las pruebas de imagen de elección, la contraindicación de la PL, la pauta antibiótica empírica (tabla 1) con sus ajustes, la duración, las indicaciones quirúrgicas, la anticoagulación, las medidas antiedema y los criterios de ingreso.*
+1. ***Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Bloque V:***
+   - ***Ara Callizo JR. Absceso cerebral, empiemas epidural y subdural (cerebral y medular). Cap. 41, p. 633-642.***
+   - ***Carod Artal FJ. Infecciones víricas. Cap. 42, p. 643-657.***
+   - ***Sáez Marín A, Stiauren Fernández E, Corral Corral Í. Infecciones fúngicas y parasitarias del sistema nervioso central. Cap. 43, p. 659-677.***
 
-2. ***Huete Hurtado A, González Martínez F. Mielitis transversa. Infecciones medulares. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 22, p. 181-186.***
+   — ***Nivel 1: fuente principal de los empiemas y del absceso epidural espinal, junto a la SEMES 2012, y prevalece sobre ella.*** *Manual formativo de expertos, sin grados de recomendación, con bibliografía consultada en 2023. Aporta la anatomía que explica la extensión de cada colección, la epidemiología y los factores de riesgo del absceso epidural espinal, su etiología y su clínica (tríada en el 8-15 %), la RM (edema paraespinal si no hay gadolinio) y la mielo-TC, la contraindicación de la PL, la pauta empírica (vancomicina + ceftriaxona; cobertura de Pseudomonas), la duración (4-8 semanas), el momento de la cirugía (<48 h en la paraplejía completa), el tratamiento solo médico y el pronóstico; el antibiótico de los empiemas intracraneales según el foco; las mielitis víricas (mielitis fláccida, Elsberg, VIH, HTLV-1, CMV) y la esquistosomiasis medular.*
+
+2. ***Franquelo Morales P, González Martínez F. Infecciones parameníngeas. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 21, p. 171-179.***
+   — ***Nivel 4, pero fuente principal de la tromboflebitis séptica de senos y de buena parte de la clínica.*** *Aporta la definición, epidemiología, etiología y clínica del empiema subdural, los abscesos epidurales intracraneal y espinal y la tromboflebitis séptica de senos (con la clínica por seno). También las pruebas de imagen de elección, la contraindicación de la PL, la pauta antibiótica empírica (tabla 1; vigente en la tromboflebitis y en la alergia), la duración del empiema subdural y del absceso epidural intracraneal, las indicaciones quirúrgicas, la anticoagulación, las medidas antiedema y los criterios de ingreso. Superado por la SEN 2025 en la pauta empírica de los empiemas y del absceso epidural espinal y en la cirugía de la paraplejía establecida.*
+
+3. ***Huete Hurtado A, González Martínez F. Mielitis transversa. Infecciones medulares. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 22, p. 181-186.***
    — ***Fuente principal del apartado de infecciones medulares.*** *Aporta las definiciones (mielitis, mielopatía, MTA), la etiología infecciosa compresiva y no compresiva, el absceso intramedular, el algoritmo de la mielopatía aguda (RM urgente → cirugía o PL), el tratamiento empírico y dirigido, los corticoides y los criterios de ingreso.*
 
-3. ***van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-62.*** PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007)
+4. ***van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-62.*** PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007)
    — ***Nivel 2 (uso puntual).*** *Aporta la frecuencia del empiema subdural (3 %) y de la trombosis de senos (1 %) como complicaciones de la meningitis bacteriana, y la recomendación de no anticoagular la trombosis de senos en la fase aguda de la meningitis.*
 
-4. ***Romero Sánchez CM. Enfermedades infecciosas. En: Manual de Urgencias Neurológicas de la Sociedad Española de Neurología. Madrid: SEN; 2023. Cap. 12, p. 395-409.***
-   — ***Nivel 1 (uso puntual).*** *Aporta que la sospecha de absceso epidural espinal contraindica la punción lumbar, y que los focos parameníngeos (empiema, sinusitis, endocarditis) entran en el diagnóstico diferencial de la meningitis subaguda.*
+5. ***Romero Sánchez CM. Enfermedades infecciosas. En: Manual de Urgencias Neurológicas de la Sociedad Española de Neurología. Madrid: SEN; 2023. Cap. 12, p. 395-409.***
+   — ***Nivel 1 (uso puntual).*** *Aporta que la sospecha de absceso epidural espinal contraindica la punción lumbar, que los focos parameníngeos (empiema, sinusitis, endocarditis) entran en el diagnóstico diferencial de la meningitis subaguda y la dosis de vancomicina por peso.*
