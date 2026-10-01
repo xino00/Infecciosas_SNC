@@ -21,13 +21,13 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 | 1. Meningitis bacteriana | ✔ | ✔ | ✔ | ✔ (cap. 18) |
 | 2. Meningitis linfocitaria / subaguda | ✔ (12.1) | Diagnóstico diferencial | Diagnóstico diferencial | ✔ (cap. 18) |
 | 3. Encefalitis | ✔ (12.2) | — | Solo aciclovir (1.6.7) | ✔ (cap. 19) |
-| 4. Absceso cerebral | — | ✔ **ESCMID 2024** (guía principal) | — | ✔ (cap. 20) |
+| 4. Absceso cerebral → `04_Absceso_cerebral.md` ✅ | — | ✔ **ESCMID 2024** (guía principal) | — | ✔ (cap. 20) |
 | 5. Infecciones parameníngeas y medulares | — | — | — | ✔ (caps. 21-22) |
 | 6. Derivaciones de LCR / posneuroquirúrgica | Pauta empírica y tabla | — | — | ✔ (cap. 23) |
 
 > **Decidido (01/10/2026)**: "ESCMID" incluye la **guía ESCMID 2024 de absceso cerebral**, que encabeza el capítulo 4 porque la SEN no trata el absceso. Las infecciones parameníngeas, medulares y de derivaciones de LCR (capítulos 5 y 6) siguen apoyándose sobre todo en la SEMES 2012 (y en la SEN para la pauta empírica tras neurocirugía).
 >
-> *Para redactar el capítulo 4 hace falta el texto completo de la ESCMID 2024: aquí solo es accesible el resumen de PubMed. Recomendaciones clave del resumen (GRADE): **RM** para el diagnóstico (fuerte, certeza alta); se puede **diferir el antibiótico hasta la punción o exéresis si no hay enfermedad grave y la cirugía es posible en un plazo razonable, preferiblemente <24 h** (condicional, baja); **punción o exéresis siempre que sea factible**, salvo toxoplasmosis (fuerte, baja); diagnóstico molecular si los cultivos son negativos (condicional, moderada); empírico comunitario en inmunocompetentes: **C3G + metronidazol** (fuerte, moderada), añadiendo **cotrimoxazol y voriconazol** en la inmunodepresión grave (condicional, baja); posneuroquirúrgico: **carbapenem + vancomicina o linezolid** (condicional, baja); **duración de 6-8 semanas** (condicional, baja); sin recomendación sobre el paso precoz a vía oral; no consolidar de rutina con vía oral tras ≥6 semanas IV (condicional, muy baja); **corticoides si hay síntomas graves por edema perilesional o herniación inminente** (fuerte, baja); **no profilaxis antiepiléptica primaria** (condicional, muy baja).*
+> *Texto completo de la ESCMID 2024 leído (01/10/2026), con la **corrección** incluida: la certeza de la evidencia de la pregunta clave 4 (aspiración o exéresis) es **moderada**, no "baja" como decían el resumen y la tabla 1. **Inconsistencia no corregida** en la pregunta clave 5 (tratamiento empírico): el resumen y la tabla 1 dan certeza moderada (comunitario) y baja (inmunodeprimido grave, posneuroquirúrgico); el texto principal da baja y muy baja. En los apuntes se indican ambas. Las dosis están en el material suplementario (tabla S10), que no se ha aportado; se usan las de la SEMES 2012.*
 
 ## 3. Discrepancias ya resueltas por la pirámide (capítulo 1)
 
@@ -50,7 +50,14 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 - **Rifampicina contraindicada en todo el embarazo** (profilaxis) → ESCMID: a partir del primer trimestre.
 - **Encefalitis**: dexametasona en la encefalitis herpética y amantadina para la gripe → la SEN 2023 no recoge la dexametasona y propone **oseltamivir** para la gripe.
 - **Antiepilépticos profilácticos** en la meningitis → ESCMID 2016: no de rutina (grado D).
-- **Absceso cerebral**: la SEMES 2012 propone profilaxis anticomicial individualizada si las lesiones son corticales → la **ESCMID 2024 no recomienda la profilaxis antiepiléptica primaria**. La SEMES coincide con la ESCMID 2024 en la pauta empírica (C3G + metronidazol; meropenem o cefepima + vancomicina o linezolid tras neurocirugía) y en la duración de 6-8 semanas.
+- **Absceso cerebral** (superado por la ESCMID 2024):
+  - Profilaxis anticomicial individualizada en las lesiones corticales → **no profilaxis antiepiléptica primaria**.
+  - TC con contraste como prueba suficiente → **RM con difusión**.
+  - Antibiótico inmediato en todos → **diferirlo hasta la punción** si el paciente no está grave y se puede puncionar en <24 h.
+  - Cirugía solo con indicaciones restringidas → **aspiración o exéresis siempre que sea factible**.
+  - Vancomicina añadida a la C3G → **no** en el absceso comunitario.
+
+  *Coinciden en la pauta empírica (C3G + metronidazol; meropenem o cefepima + vancomicina o linezolid tras neurocirugía), en la duración de 6-8 semanas y en los corticoides solo si hay edema importante. La SEMES 2012 indica "pirimetamina 10 mg/24 h (dosis inicial)" en la toxoplasmosis: probable errata, a confirmar.*
 
 ## 5. Documentos revisados que no se usan como referencia
 
