@@ -25,3 +25,12 @@
 - Dosis siempre con vía e intervalo (y ajuste en perfusión extendida/función renal si procede).
 - Cuando la evidencia sea débil, contradictoria o el dato no esté verificado, **se indica explícitamente**.
 - Referencias verificadas (PMID/DOI); no se dejan citas del tipo "probablemente corresponde a…".
+
+## Formato Markdown
+
+- Un archivo `.md` por capítulo en `apuntes/` (`01_Meningitis_bacteriana.md`, …).
+- Título del capítulo con `#`; secciones numeradas con `##` (`## 1. DEFINICIÓN Y FISIOPATOLOGÍA`), subapartados con `###` (`### 4.1. …`) y `####` para el tercer nivel.
+- Numeración real y correlativa (el ejemplo de NAC, exportado desde Word, repite "1." en todas las secciones y tiene restos de `****`; aquí no).
+- Listas con `-` o `1.`; pautas de tratamiento como `- **---> PRIMERA ELECCIÓN:** …`.
+- Tablas Markdown para comparativas (perfil de LCR, etiología por edad, dosis).
+- Notas clave en bloque de cita `>`; nada de HTML.
