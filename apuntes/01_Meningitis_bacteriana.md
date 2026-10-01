@@ -1,6 +1,6 @@
 # MENINGITIS BACTERIANA AGUDA DEL ADULTO (ADQUIRIDA EN LA COMUNIDAD)
 
-> **Fuentes**: SEN 2023 (tratamiento) · NICE NG240 2024 (diagnóstico, tiempos, duración, dexametasona) · SEMES 2012 (estructura, profilaxis, ingreso) · ESCMID 2016 como árbitro cuando SEN y NICE discrepan. Ver `FUENTES.md`.
+> **Pirámide de recomendaciones**: **SEN 2023 → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. Ante una discrepancia, manda la fuente situada más arriba; lo que una fuente superior no trata se toma de la siguiente. Las discrepancias relevantes se señalan en *cursiva*. Ver `FUENTES.md`.
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
@@ -58,7 +58,9 @@ La NICE pide que un **médico con experiencia en pacientes agudos** haga la valo
 | **SEN 2023** | La incluye **en el estudio de todos los pacientes** (tabla 3 y algoritmo) |
 | **SEMES 2012** | Lista amplia: GCS <11, crisis, focalidad, foco parameníngeo, papiledema, inmunodepresión, enfermedad previa del SNC y "valorar en todos los >50 años" |
 
-> **RECOMENDACIÓN DE ESTOS APUNTES (ESCMID/NICE)**: **TC craneal antes de la PL SOLO si hay focalidad, crisis nuevas, alteración pupilar, GCS <10 o inmunodepresión grave**. Si se va a hacer TC: **hemocultivos → dexametasona + antibiótico → estabilizar → TC → PL** (NICE 1.4.8). *La TC sistemática retrasa el antibiótico (Roy 2026) sin beneficio demostrado; en esto la SEN 2023 y la SEMES 2012 se apartan de las guías con metodología formal.*
+> **ACTUACIÓN (SEN 2023)**: la TC craneal forma parte del estudio inicial, pero **NUNCA debe retrasar el antibiótico**. Secuencia: **hemocultivos → dexametasona + antibiótico (+ aciclovir) → estabilizar → TC → PL**. Si no hay ninguno de los criterios ESCMID/NICE (focalidad, crisis nuevas, alteración pupilar, GCS <10, inmunodepresión grave) y la PL puede hacerse de inmediato, puede hacerse sin TC previa y antes del antibiótico.
+>
+> *Discrepancia: la ESCMID 2016 y la NICE 2024 restringen la TC a esos criterios. Hacerla sin indicación se asocia a retraso del antibiótico (Roy 2026: OR 2,75 para un retraso >6 h).*
 
 ### 4.2. Contraindicaciones de la punción lumbar
 
@@ -142,10 +144,9 @@ Cubrir neumococo, meningococo, *Listeria* y bacilos gramnegativos incluida *Pseu
 
 ### 6.5. ¿Aciclovir empírico?
 
-- **SEN 2023**: incluye **ACICLOVIR 10 mg/kg IV cada 8 h** en el algoritmo inicial ante sospecha de MBA **o** de meningoencefalitis herpética, hasta tener la PCR.
-- **NICE 2024**: **no dar aciclovir de rutina salvo sospecha fuerte de encefalitis por VHS** (1.6.7).
+**---> ACTUACIÓN (SEN 2023)**: **ACICLOVIR 10 mg/kg IV cada 8 h** junto con la pauta antibiótica empírica ante sospecha de MBA **o** de meningoencefalitis herpética, **hasta tener la PCR de VHS en el LCR**. Suspenderlo si la PCR es negativa o el LCR confirma una MBA con germen identificado (ver capítulo 3).
 
-> **RECOMENDACIÓN**: añadir **aciclovir** si hay **datos de encefalitis** (alteración de conducta o del lenguaje, crisis, focalidad, afectación temporal en la imagen) o un **LCR linfocitario con glucosa normal** sin diagnóstico claro. No darlo de forma sistemática en el cuadro meníngeo puro con LCR purulento (ver capítulo 3).
+*Discrepancia: la NICE 2024 recomienda **no dar aciclovir de rutina salvo sospecha fuerte de encefalitis por VHS** (1.6.7). Es especialmente útil cuando hay datos de encefalitis (alteración de conducta o del lenguaje, crisis, focalidad, afectación temporal en la imagen) o un LCR linfocitario con glucosa normal.*
 
 ## 7. TRATAMIENTO DIRIGIDO Y DURACIÓN
 
@@ -161,7 +162,7 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma**. Si e
 | Estreptococo del grupo B | C3G | — | 14 días |
 | **Sin germen identificado** (LCR de MBA, hemocultivo y PCR negativos) | Mantener la pauta empírica | — | **10 días** |
 
-*Discrepancia en el meningococo: la SEN (y la ESCMID) dan 7 días; la NICE, 5 si hay recuperación clínica. Ambas opciones son razonables en un paciente que evoluciona bien. Si no hay recuperación al terminar la pauta: consultar con Infecciosas (NICE).*
+**Meningococo: 7 días** (SEN 2023). *La NICE acepta 5 días si hay recuperación clínica. Si no hay recuperación al terminar la pauta: consultar con Infecciosas (NICE).*
 
 ## 8. TRATAMIENTO ADYUVANTE
 
@@ -171,7 +172,7 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma**. Si e
 
 - **Indicación**: **sospecha fuerte o confirmación de MBA** (NICE 1.8.1).
 - **Si ya se ha dado el antibiótico**: dar la dexametasona en cuanto sea posible si han pasado **<12 h**; si son **>12 h**, consultar y valorar si aún aporta beneficio (NICE 1.8.5). *La SEMES 2012 decía "no darla si ya recibía antibiótico parenteral"; esto está superado.*
-- **Cuándo se mantiene**: **SOLO si se confirma neumococo** (SEN 2023) **o neumococo / *H. influenzae* tipo b** (NICE 1.8.3). **Suspenderla en el resto**, incluidas *Listeria* y meningococo. Si no se identifica el germen, consultar con Infecciosas (NICE 1.8.4).
+- **Cuándo se mantiene**: **SOLO si se confirma neumococo** (SEN 2023). **Suspenderla en el resto**, incluidas *Listeria* y meningococo. *La NICE (1.8.3) también la mantiene si es *H. influenzae* tipo b.* Si no se identifica el germen, consultar con Infecciosas (NICE 1.8.4).
 - **Enfermedad meningocócica (sepsis) sin meningitis**: **no dar corticoides de rutina**; solo **dosis sustitutivas** en el shock que no responde a vasopresores a dosis altas (NICE 1.8.6-1.8.7).
 
 *Evidencia (Cochrane 2015; 25 ECA, 4.121 pacientes): los corticoides **no reducen la mortalidad global** (17,8 % vs 19,9 %; RR 0,90; IC 95 % 0,80-1,01) ni la de los adultos (RR 0,74; IC 95 % 0,53-1,05). Sí reducen la **mortalidad en la meningitis neumocócica (RR 0,84; IC 95 % 0,72-0,98)**, la **hipoacusia grave (RR 0,67; IC 95 % 0,51-0,88)**, cualquier hipoacusia (RR 0,74; 0,63-0,87) y las **secuelas neurológicas (RR 0,83; 0,69-1,00)**. **El beneficio se limita a los países de renta alta** (en los de renta baja no hay efecto). Su único efecto adverso significativo fue más fiebre recurrente (RR 1,27). En la cohorte holandesa, no recibir dexametasona fue predictor independiente de mal pronóstico (Drost 2025).*

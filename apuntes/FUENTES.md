@@ -76,23 +76,33 @@ Manual de la Sociedad Española de Neurología (18 págs.). Solo trata **meningi
 
 > **Implicación práctica**: con un ~5 % de resistencia a cefalosporinas de 3.ª generación y clones con CMI de penicilina >1 mg/L, **en España está justificada la vancomicina empírica asociada a la C3G** (línea ESCMID/IDSA), a diferencia de la NICE.
 
-## 5. Jerarquía final (acordada el 01/10/2026)
+## 5. Jerarquía final: pirámide de recomendaciones (acordada el 01/10/2026)
 
-| Fuente | Papel |
+Estructura de actuación en urgencias en España. **Ante una discrepancia, manda la fuente situada más arriba**; lo que una fuente superior no trata se toma de la siguiente.
+
+| Nivel | Fuente | Qué aporta sobre todo |
+|---|---|---|
+| **1** | **SEN 2023** (Manual de Urgencias Neurológicas, cap. 12) | Tratamiento empírico y dirigido, dexametasona y aciclovir en meningitis y encefalitis |
+| **2** | **ESCMID 2016** (meningitis bacteriana); **ESCMID 2024** (absceso cerebral) | Base de la SEN; resuelve lo que la SEN no detalla |
+| **3** | **NICE NG240 (2024)** | Diagnóstico, tiempos, pruebas, duración por germen, retraso de la dexametasona, soporte (GRADE) |
+| **4** | **SEMES 2012** (Manejo de Infecciones en Urgencias, caps. 18-23) | Estructura de urgencias, profilaxis de contactos, criterios de ingreso y observación, brucelosis, infecciones parameníngeas, derivaciones de LCR |
+
+**Fuentes de apoyo** (no entran en la pirámide; se usan donde las cuatro no llegan):
+
+| Tema | Fuente |
 |---|---|
-| **SEN 2023** (Manual de Urgencias Neurológicas, cap. 12) | **Guía principal de tratamiento** en meningitis y encefalitis (el papel que tenía la SEMES 2026 en la NAC). |
-| **NICE NG240 (2024)** | **Diagnóstico, tiempos, neuroimagen, duración del tratamiento y dexametasona** (única con GRADE). |
-| **SEMES 2012** (Manejo de Infecciones en Urgencias, caps. 18-23) | **Estructura de urgencias** y capítulos que la SEN no trata: profilaxis de contactos, criterios de ingreso y observación, brucelosis, absceso cerebral, infecciones parameníngeas, derivaciones de LCR. |
-
-**Fuentes de apoyo para cubrir huecos:**
-
-| Hueco | Fuente |
-|---|---|
-| Absceso cerebral | ESCMID 2024 (contraste de la SEMES 2012) |
-| Derivaciones de LCR / ventriculitis | IDSA 2017 (contraste de la SEMES 2012) |
-| **Árbitro cuando SEN y NICE discrepan** (vancomicina empírica, TC antes de la PL, duración en el meningococo, aciclovir de rutina) | **ESCMID 2016** (la SEN se basa en ella) + datos españoles de resistencia del neumococo (§4) |
+| Derivaciones de LCR / ventriculitis | IDSA 2017 |
 | Encefalitis (fondo) | IDSA 2008 + revisión de Bloch 2023 |
 | Datos de efecto de la dexametasona | Cochrane 2015 |
+| Ecología española | Datos de resistencia del neumococo (§4) |
+| Dosificación de vancomicina | Rybak 2020 |
+
+**Consecuencias de la pirámide en las discrepancias ya detectadas:**
+- **TC antes de la PL**: forma parte del estudio inicial (SEN), pero sin retrasar nunca el antibiótico; se anota la postura restrictiva de ESCMID y NICE.
+- **Aciclovir empírico**: sí, hasta tener la PCR de VHS (SEN); se anota que la NICE lo reserva para la sospecha fuerte.
+- **Meningococo**: 7 días (SEN = ESCMID); la NICE acepta 5.
+- **Dexametasona**: se mantiene solo si es neumococo (SEN); la NICE también si es Hib.
+- **Vancomicina empírica**: sí (SEN = ESCMID); la NICE no la incluye.
 
 ## 6. Puntos de la SEMES 2012 que habrá que actualizar o contrastar
 
