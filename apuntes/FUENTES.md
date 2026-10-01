@@ -40,9 +40,24 @@
 - **Dexametasona IV** en sospecha fuerte o confirmación, con o antes del primer antibiótico. Si se retrasa **<12 h**, darla igualmente; si son >12 h, consultar. **Mantener solo si es neumococo o Hib** (1.8.1-1.8.5). En la enfermedad meningocócica sin meningitis, no corticoides salvo dosis sustitutivas en el shock refractario (1.8.6-1.8.7). *NICE no especifica la dosis: remite al BNF.*
 - **No restringir líquidos**; **no glicerol**; osmóticos solo de forma temporal si hay riesgo de herniación; no monitorizar la PIC de rutina (1.9).
 
+### SEN 2023: *Manual de Urgencias Neurológicas*, cap. 12 "Enfermedades infecciosas" (Romero Sánchez CM)
+
+Manual de la Sociedad Española de Neurología (18 págs.). Solo trata **meningitis aguda/subaguda y encefalitis aguda**; no incluye absceso cerebral, infecciones parameníngeas ni infecciones de derivaciones. Se basa explícitamente en ESCMID 2016, IDSA 2004/2008/2017, Cochrane 2015 y Rybak 2020. Es un manual de expertos, sin grados de recomendación.
+
+- **Pauta empírica (concordante con la ESCMID)**: vancomicina 15-20 mg/kg/8-12 h + C3G (ceftriaxona 2 g/12 h o cefotaxima 2 g/4-6 h) en <50 años sin factores de riesgo; **+ ampicilina 2 g/4 h si >50 años**; vancomicina + cefalosporina antipseudomónica (ceftazidima/cefepime 2 g/8 h) o meropenem 2 g/8 h tras neurocirugía o traumatismo penetrante; vancomicina + ampicilina + cefepime o meropenem en inmunodeprimidos.
+- **Alergia a betalactámicos**: moxifloxacino 400 mg/24 h en lugar de la C3G; cotrimoxazol 5 mg/kg/8 h en lugar de la ampicilina; aztreonam en lugar de la cefalosporina antipseudomónica.
+- **Dexametasona** 0,15 mg/kg/6 h (10 mg en el algoritmo), antes o junto con el antibiótico; **mantener solo si es neumococo** (NICE: neumococo o Hib).
+- **Aciclovir 10 mg/kg/8 h empírico en el algoritmo inicial** junto con la pauta antibiótica (NICE: solo si hay sospecha fuerte de encefalitis herpética).
+- **Duraciones** (tabla 2): neumococo 10-14 días; meningococo 7 días (NICE: 5); *H. influenzae* 7 días; *Listeria* ampicilina 21 días ± gentamicina.
+- **Quimioprofilaxis**: ciprofloxacino 500 mg VO o ceftriaxona 250 mg IM en dosis única.
+- **Tablas útiles**: perfil de LCR por rangos (leucocitos, glucosa, proteínas, lactato >35 mg/dL), diferencias entre meningitis bacteriana y vírica (incluye cuándo dar antibiótico empírico en la sospecha vírica), pruebas en LCR (PCR múltiple).
+- **Puntos a contrastar**:
+  - Incluye la **TC craneal antes de la PL en el estudio de todos los pacientes** (tabla 3 y algoritmo), en contra de ESCMID 2016 y NICE 2024, que la restringen a indicaciones concretas.
+  - En la encefalitis por VVZ propone individualizar el tratamiento en el inmunocompetente, cuando la revisión de Bloch 2023 recomienda tratarla (con dosis de aciclovir más alta).
+
 ## 4. Ecología bacteriana española y europea
 
-**No existe una guía española vigente específica de meningitis bacteriana** (búsqueda en PubMed, 01/10/2026: nada de SEIMC, SEMES ni SEN posterior a la SEMES 2012). La guía con ecología europea es la **ESCMID 2016**, con coautoría española (C. Cabellos, Bellvitge). Para la ecología local se usarán estos datos:
+**No existe una guía española con metodología GRADE específica de meningitis bacteriana.** La referencia española más reciente es el **manual de la SEN 2023** (arriba), que adapta la ESCMID 2016; no está indexado en PubMed. La guía con ecología europea es la **ESCMID 2016**, con coautoría española (C. Cabellos, Bellvitge). Para la ecología local se usarán estos datos:
 
 | Tema | Fuente | Dato clave |
 |---|---|---|
@@ -65,9 +80,9 @@
 
 | Tema | Fuente principal | Contraste | Contexto español / estructura |
 |---|---|---|---|
-| Meningitis bacteriana | ESCMID 2016 + Cochrane 2015 (dexametasona) | NICE NG240 2024 (sobre todo diagnóstico, TC, duración); IDSA 2004 | SEMES 2012 |
-| Meningitis linfocitaria / subaguda | ESCMID 2016 (diferencial) + guía de meningitis TB 2025 | IDSA 2004 | SEMES 2012 (brucelosis, TB) |
-| Encefalitis | IDSA 2008 + IEC 2013 | Bloch 2023 (revisión); Graus 2016 (autoinmune) | SEMES 2012 |
+| Meningitis bacteriana | ESCMID 2016 + Cochrane 2015 (dexametasona) | NICE NG240 2024 (sobre todo diagnóstico, TC, duración); IDSA 2004 | **SEN 2023** (+ SEMES 2012 para la profilaxis y los criterios de ingreso) |
+| Meningitis linfocitaria / subaguda | ESCMID 2016 (diferencial) + guía de meningitis TB 2025 | IDSA 2004 | **SEN 2023** + SEMES 2012 (brucelosis, TB) |
+| Encefalitis | IDSA 2008 + IEC 2013 | Bloch 2023 (revisión); Graus 2016 (autoinmune) | **SEN 2023** + SEMES 2012 |
 | Absceso cerebral | ESCMID 2024 | — | SEMES 2012 |
 | Infecciones parameníngeas | Sin guía específica: revisiones a verificar | — | SEMES 2012 |
 | Derivaciones de LCR / ventriculitis | IDSA 2017 | — | SEMES 2012 |
