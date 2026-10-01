@@ -22,11 +22,11 @@ Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro guí
 | # | Capítulo | Estado |
 |---|---|---|
 | 1 | [Meningitis bacteriana aguda del adulto](apuntes/01_Meningitis_bacteriana.md) | ✅ Redactado |
-| 2 | Meningitis linfocitaria, aséptica y subaguda | Pendiente |
-| 3 | Encefalitis aguda | Pendiente |
-| 4 | Absceso cerebral | Pendiente (falta el texto completo de la ESCMID 2024) |
-| 5 | Infecciones parameníngeas y medulares | Pendiente |
-| 6 | Infecciones de derivaciones de LCR y meningitis posneuroquirúrgica | Pendiente |
+| 2 | [Meningitis linfocitaria, aséptica y subaguda](apuntes/02_Meningitis_linfocitaria_subaguda.md) | ✅ Redactado |
+| 3 | [Encefalitis aguda](apuntes/03_Encefalitis.md) | ✅ Redactado |
+| 4 | [Absceso cerebral](apuntes/04_Absceso_cerebral.md) | ✅ Redactado |
+| 5 | [Infecciones parameníngeas y medulares](apuntes/05_Infecciones_parameningeas_medulares.md) | ✅ Redactado |
+| 6 | [Infecciones de derivaciones de LCR y meningitis posneuroquirúrgica](apuntes/06_Derivaciones_LCR_posneuroquirurgica.md) | ✅ Redactado |
 
 El contenido clave de cada capítulo y qué fuentes lo cubren se detallan en el índice: [`apuntes/00_INDICE.md`](apuntes/00_INDICE.md).
 
@@ -38,7 +38,12 @@ El contenido clave de cada capítulo y qué fuentes lo cubren se detallan en el 
 ├── apuntes/
 │   ├── 00_INDICE.md                    # Índice de capítulos, contenido y fuentes de cada uno
 │   ├── FUENTES.md                      # Pirámide de fuentes, cobertura y discrepancias
-│   └── 01_Meningitis_bacteriana.md     # Capítulo 1
+│   ├── 01_Meningitis_bacteriana.md
+│   ├── 02_Meningitis_linfocitaria_subaguda.md
+│   ├── 03_Encefalitis.md
+│   ├── 04_Absceso_cerebral.md
+│   ├── 05_Infecciones_parameningeas_medulares.md
+│   └── 06_Derivaciones_LCR_posneuroquirurgica.md
 └── plantillas/
     ├── GUIA_DE_ESTILO.md               # Estructura fija y convenciones de formato
     └── EJEMPLO_NAC_IDSA_SEMES.md       # Modelo original (NAC) del que se extrajo el estilo
@@ -67,5 +72,5 @@ Cada capítulo sigue la estructura fija de la [guía de estilo](plantillas/GUIA_
 - La **SEMES 2012** está desactualizada en varios puntos; los que ya se han detectado están listados en `FUENTES.md`.
 - La **ESCMID 2016** no usa GRADE (niveles de evidencia 1-3 y grados A-D).
 - Los **datos españoles de resistencia del neumococo** que recogen las cuatro fuentes son del ECDC de 2011; no hay datos más recientes dentro de la pirámide.
-- Para el **capítulo 4** solo está disponible por ahora el resumen de la ESCMID 2024; hace falta el texto completo para redactarlo.
-- Los capítulos 5 y 6 se apoyan casi solo en la SEMES 2012, porque las fuentes de nivel superior no los tratan (salvo la pauta empírica tras neurocirugía de la SEN).
+- En el **capítulo 4**, las dosis de la ESCMID 2024 están en su material suplementario (tabla S10), que no se ha revisado; se usan las de la SEMES 2012.
+- Los capítulos 5 y 6 se apoyan casi solo en la SEMES 2012, porque las fuentes de nivel superior no los tratan (salvo la pauta empírica tras neurocirugía de la SEN). La NICE excluye expresamente de su alcance a los portadores de derivaciones y a los pacientes con neurocirugía previa.
