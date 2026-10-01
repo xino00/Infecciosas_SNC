@@ -22,7 +22,7 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 | 2. Meningitis linfocitaria / subaguda → `02_Meningitis_linfocitaria_subaguda.md` ✅ | ✔ (12.1) | Diagnóstico diferencial | Diagnóstico diferencial | ✔ (cap. 18) |
 | 3. Encefalitis → `03_Encefalitis.md` ✅ | ✔ (12.2) | — | Solo aciclovir (1.6.7) | ✔ (cap. 19) |
 | 4. Absceso cerebral → `04_Absceso_cerebral.md` ✅ | — | ✔ **ESCMID 2024** (guía principal) | — | ✔ (cap. 20) |
-| 5. Infecciones parameníngeas y medulares | — | — | — | ✔ (caps. 21-22) |
+| 5. Infecciones parameníngeas y medulares → `05_Infecciones_parameningeas_medulares.md` ✅ | PL contraindicada en el absceso epidural espinal | Empiema y trombosis de senos como complicación de la meningitis | — | ✔ (caps. 21-22) |
 | 6. Derivaciones de LCR / posneuroquirúrgica | Pauta empírica y tabla | — | — | ✔ (cap. 23) |
 
 > **Decidido (01/10/2026)**: "ESCMID" incluye la **guía ESCMID 2024 de absceso cerebral**, que encabeza el capítulo 4 porque la SEN no trata el absceso. Las infecciones parameníngeas, medulares y de derivaciones de LCR (capítulos 5 y 6) siguen apoyándose sobre todo en la SEMES 2012 (y en la SEN para la pauta empírica tras neurocirugía).
