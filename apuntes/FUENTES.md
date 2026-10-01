@@ -40,7 +40,28 @@
 - **Dexametasona IV** en sospecha fuerte o confirmación, con o antes del primer antibiótico. Si se retrasa **<12 h**, darla igualmente; si son >12 h, consultar. **Mantener solo si es neumococo o Hib** (1.8.1-1.8.5). En la enfermedad meningocócica sin meningitis, no corticoides salvo dosis sustitutivas en el shock refractario (1.8.6-1.8.7). *NICE no especifica la dosis: remite al BNF.*
 - **No restringir líquidos**; **no glicerol**; osmóticos solo de forma temporal si hay riesgo de herniación; no monitorizar la PIC de rutina (1.9).
 
-## 4. Jerarquía final
+## 4. Ecología bacteriana española y europea
+
+**No existe una guía española vigente específica de meningitis bacteriana** (búsqueda en PubMed, 01/10/2026: nada de SEIMC, SEMES ni SEN posterior a la SEMES 2012). La guía con ecología europea es la **ESCMID 2016**, con coautoría española (C. Cabellos, Bellvitge). Para la ecología local se usarán estos datos:
+
+| Tema | Fuente | Dato clave |
+|---|---|---|
+| Neumococo: resistencia en meningitis (España) | Calvo-Silveria S et al. *J Infect Public Health* 2024 (6 hospitales, 2019-2021) · [DOI](https://doi.org/10.1016/j.jiph.2024.102619) | No sensibilidad a penicilina 17 % global; **14,6 % de resistencia con criterios de meningitis**. Clones 11A/14 (GPSC6) y 19A (GPSC1) con CMI de penicilina >1 mg/L |
+| Neumococo: meningitis (Gipuzkoa 1993-2023) | Manzanal A et al. *Vaccines* 2026 · [DOI](https://doi.org/10.3390/vaccines14020131) | **Resistencia a cefotaxima ~5 % estable**; penicilina en aumento (32,3 %) por serotipos no incluidos en la VNC13. Mortalidad a 30 días del 11,1 %; secuelas en el 67,5 % |
+| Neumococo: serotipos en adultos | González-Díaz A et al. *Clin Microbiol Infect* 2020 · [DOI](https://doi.org/10.1016/j.cmi.2019.10.034) | Incidencia de meningitis neumocócica estable (~1/100.000) tras la VNC13; auge de los serotipos 8, 3, 12F y 9N |
+| Cefotaxima / penicilina (FC/FD, Madrid) | Ibar-Bariain M et al. *Eur J Clin Microbiol Infect Dis* 2021 · [DOI](https://doi.org/10.1007/s10096-021-04255-w) | **Cefotaxima 2 g/6 h**: probabilidad de alcanzar el objetivo ≥90 % con CMI ≤1 mg/L |
+| Meningococo en España | Moraga-Llop F et al. *Rev Esp Quimioter* 2024 (documento de posición) · [DOI](https://doi.org/10.37201/req/023.2024) | Situación epidemiológica, serogrupos y vacunación |
+| Resistencias en meningitis (global) | Lazarus et al. *Lancet Microbe* 2026 (revisión sistemática) · [DOI](https://doi.org/10.1016/j.lanmic.2025.101238) | Resistencias de neumococo, meningococo y *H. influenzae* 2010-2024 |
+| Vigilancia oficial | RENAVE / CNE-ISCIII (enfermedad meningocócica, neumocócica invasiva, listeriosis); ECDC EARS-Net | *No indexados en PubMed: pendientes de obtener* |
+
+**Otras guías nacionales europeas** (contraste, si interesa):
+- **Reino Unido 2016**: McGill F et al. *J Infect* 2016 · [DOI](https://doi.org/10.1016/j.jinf.2016.01.007).
+- **Francia (SPILF) 2019**: Hoen B et al. *Med Mal Infect* 2019;49:405-441 · PMID 31402154.
+- **Alemania (DGN) 2023**: resumida en Hadjilaou A et al. *Dtsch Med Wochenschr* 2024 · [DOI](https://doi.org/10.1055/a-2204-5167). *El documento original es en alemán (AWMF).*
+
+> **Implicación práctica**: con un ~5 % de resistencia a cefalosporinas de 3.ª generación y clones con CMI de penicilina >1 mg/L, **en España está justificada la vancomicina empírica asociada a la C3G** (línea ESCMID/IDSA), a diferencia de la NICE.
+
+## 5. Jerarquía final
 
 | Tema | Fuente principal | Contraste | Contexto español / estructura |
 |---|---|---|---|
@@ -52,7 +73,7 @@
 | Derivaciones de LCR / ventriculitis | IDSA 2017 | — | SEMES 2012 |
 | Dosificación de vancomicina | Consenso 2020 (Rybak et al., [DOI](https://doi.org/10.1093/cid/ciaa303)) | — | — |
 
-## 5. Puntos de la SEMES 2012 que habrá que actualizar o contrastar
+## 6. Puntos de la SEMES 2012 que habrá que actualizar o contrastar
 
 - **TC antes de la punción lumbar**: la SEMES 2012 propone valorarla en todos los >50 años y en cualquier inmunodepresión. La ESCMID 2016 la restringe a focalidad, crisis de nueva aparición, GCS <10 e inmunodepresión grave, y la IDSA 2004 usa ≥60 años. *La TC previa retrasa el antibiótico (Roy et al., Eur J Clin Microbiol Infect Dis 2026, [DOI](https://doi.org/10.1007/s10096-026-05669-0)).*
 - **Dexametasona**: pauta correcta. A contrastar con la ESCMID: si puede iniciarse cuando ya se ha dado el antibiótico, y si hay que añadir rifampicina a la vancomicina cuando se da dexametasona.
