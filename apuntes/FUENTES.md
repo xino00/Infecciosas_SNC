@@ -16,7 +16,7 @@
 |---|---|---|
 | Meningitis bacteriana | **ESCMID 2016** — van de Beek D et al. *Clin Microbiol Infect* 2016;22 Suppl 3:S37-62 | PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007) |
 | Meningitis bacteriana | **OMS 2025** — WHO guidelines on meningitis diagnosis, treatment and care (primera guía global; orientada también a países con pocos recursos) | Reseñas: [DOI](https://doi.org/10.1001/jama.2025.6156) · [DOI](https://doi.org/10.1097/QCO.0000000000001200) |
-| Meningitis bacteriana | **NICE NG240 (2024)** — Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management (marzo 2024) | Existencia confirmada. El PDF aportado (*evidence review* ER24, anexo A) es solo el **protocolo de revisión sobre monitorización de la PIC**: no contiene recomendaciones. Para usar NICE hace falta el documento de recomendaciones de la NG240. |
+| Meningitis bacteriana | **NICE NG240 (2024)** — Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management (marzo 2024) | Guía completa aportada (PDF de 93 págs., publicada el 19/03/2024). Sin PMID (no indexada en PubMed). |
 | Encefalitis | **IDSA 2008** — Tunkel AR et al. *Clin Infect Dis* 2008;47:303-27 | PMID 18582201 · [DOI](https://doi.org/10.1086/589747) |
 | Encefalitis | **International Encephalitis Consortium 2013** — Venkatesan A et al. *Clin Infect Dis* 2013;57:1114-28 | PMID 23861361 · [DOI](https://doi.org/10.1093/cid/cit458) |
 | Absceso cerebral | **ESCMID 2024** — Bodilsen J et al. *Clin Microbiol Infect* 2024;30:66-89 (GRADE) | PMID 37648062 · [DOI](https://doi.org/10.1016/j.cmi.2023.08.016) |
@@ -28,11 +28,23 @@
 - **INFURG-SEMES 2026, *Antibioterapia empírica en infecciones prevalentes*** (8 págs.): cubre NAC, EPOC agudizada, IPPB, infección intraabdominal, infección urinaria y sepsis. **No tiene capítulo de infecciones del SNC**, así que no puede ser la fuente principal de tratamiento en estos apuntes (a diferencia de la NAC).
 - **NICE NG240, *evidence review* ER24, anexo A**: protocolo PROSPERO (CRD42021231957) sobre monitorización de la PIC en la meningitis bacteriana. **Sin recomendaciones ni resultados**; no aporta contenido de urgencias.
 
+### NICE NG240: puntos clave para adultos y diferencias con otras guías
+
+- **Sospecha**: la combinación de alarma es **fiebre + cefalea + rigidez de nuca + alteración del nivel de consciencia o cognición** (1.1.4). Puede sospecharse con fuerza sin la tétrada completa.
+- **Antibiótico en <1 h desde la llegada**, con hemocultivos y PL antes **solo si no retrasan el antibiótico** (1.4.1, 1.6.3). Frotis faríngeo para cultivo de meningococo, y en sangre PCR (meningococo y neumococo), PCR (o PCT) y **serología de VIH en todos los adultos** (1.4.4, 1.10.1).
+- **Neuroimagen**: **no rutinaria antes de la PL** (1.4.6). Solo si hay riesgo de lesión ocupante de espacio, focalidad o crisis nuevas, alteración pupilar o **GCS ≤9** o descenso progresivo; antes de la imagen, extraer sangre, dar el antibiótico y estabilizar (1.4.7-1.4.8). Es todavía más restrictiva que la ESCMID (GCS <10) y muy distinta de la SEMES 2012 (>50 años).
+- **No hacer PL** si hay púrpura extensa o en progresión, infección local o los signos anteriores (1.4.12). Bioquímica del LCR disponible en <4 h (1.4.16).
+- **Empírico**: **ceftriaxona a dosis máxima en monoterapia**, más **amoxicilina IV si hay factores de riesgo de *Listeria*** (edades extremas, embarazo, cáncer, nefropatía, hepatopatía, diabetes, alcohol, inmunosupresores). **No incluye vancomicina empírica** (refleja la baja resistencia del neumococo en Reino Unido) ni **aciclovir de rutina**, salvo sospecha fuerte de encefalitis herpética (1.6.5-1.6.7). *En España hay que contrastarlo con la ESCMID y los datos locales de sensibilidad del neumococo.*
+- **Duración** (si hay recuperación): **meningococo 5 días**, *H. influenzae* 7-10 días, **neumococo 10 días**, estreptococo del grupo B 14 días, ***Listeria* 21 días** (amoxicilina/ampicilina ± cotrimoxazol los primeros 7 días, previa consulta), enterobacterias 21 días, **etiología no filiada 10 días** (1.6.9-1.6.15).
+- **Alergia**: no grave → cefalosporina (+ cotrimoxazol si hay riesgo de *Listeria*). Grave → **cloranfenicol** (+ cotrimoxazol si hay riesgo de *Listeria*) (1.6.16).
+- **Dexametasona IV** en sospecha fuerte o confirmación, con o antes del primer antibiótico. Si se retrasa **<12 h**, darla igualmente; si son >12 h, consultar. **Mantener solo si es neumococo o Hib** (1.8.1-1.8.5). En la enfermedad meningocócica sin meningitis, no corticoides salvo dosis sustitutivas en el shock refractario (1.8.6-1.8.7). *NICE no especifica la dosis: remite al BNF.*
+- **No restringir líquidos**; **no glicerol**; osmóticos solo de forma temporal si hay riesgo de herniación; no monitorizar la PIC de rutina (1.9).
+
 ## 4. Jerarquía final
 
 | Tema | Fuente principal | Contraste | Contexto español / estructura |
 |---|---|---|---|
-| Meningitis bacteriana | ESCMID 2016 + Cochrane 2015 (dexametasona) | IDSA 2004; NICE NG240 si se aportan las recomendaciones | SEMES 2012 |
+| Meningitis bacteriana | ESCMID 2016 + Cochrane 2015 (dexametasona) | NICE NG240 2024 (sobre todo diagnóstico, TC, duración); IDSA 2004 | SEMES 2012 |
 | Meningitis linfocitaria / subaguda | ESCMID 2016 (diferencial) + guía de meningitis TB 2025 | IDSA 2004 | SEMES 2012 (brucelosis, TB) |
 | Encefalitis | IDSA 2008 + IEC 2013 | Bloch 2023 (revisión); Graus 2016 (autoinmune) | SEMES 2012 |
 | Absceso cerebral | ESCMID 2024 | — | SEMES 2012 |
