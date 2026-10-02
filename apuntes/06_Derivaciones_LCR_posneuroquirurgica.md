@@ -142,7 +142,7 @@
 
 *Dosis de vancomicina: la SEMES 2012 da **1 g cada 8-12 h**; se sigue la **SEN** (**15-20 mg/kg**, con carga de 20-35 mg/kg si se sospecha *S. aureus*; SEN 2023). Ninguna de las fuentes detalla la monitorización de niveles: ajustar con Farmacia e Infecciosas.*
 
-*Dexametasona y aciclovir: el algoritmo general de la SEN 2023 añade **dexametasona 10 mg** y **aciclovir 10 mg/kg** a toda pauta empírica de meningitis bacteriana. Ninguna de las fuentes los trata específicamente en la infección de la derivación ni en la meningitis posneuroquirúrgica. La evidencia sobre la dexametasona procede de la meningitis comunitaria (capítulo 1), sobre todo la neumocócica. Su papel en la infección asociada al dispositivo o a la cirugía **no está establecido por estas fuentes**: individualizar.*
+*Dexametasona y aciclovir: el algoritmo general de la SEN 2023 añade **dexametasona 10 mg** y **aciclovir 10 mg/kg** a toda pauta empírica de meningitis bacteriana. Ninguna de las fuentes los trata específicamente en la infección de la derivación ni en la meningitis posneuroquirúrgica, salvo la SEMES 2012, que desaconseja la dexametasona si hay derivación de LCR o patología cerebral reciente (capítulo 1, §4.4). La evidencia sobre la dexametasona procede de la meningitis comunitaria (capítulo 1), sobre todo la neumocócica. Su papel en la infección asociada al dispositivo o a la cirugía **no está establecido por estas fuentes**: individualizar.*
 
 ### 7.2. Tratamiento dirigido
 
@@ -155,7 +155,7 @@
 | **Bacilos gramnegativos** | **Enterobacterias** | **C3G** (cefotaxima, ceftriaxona); **≥3 semanas** (SEN 2025) |
 | **Bacilos gramnegativos** | ***P. aeruginosa*** | **CEFEPIMA** o **CEFTAZIDIMA** |
 
-*La tabla de la SEN 2023 dice "meticilin-sensible o vancomicina" sin nombrar el fármaco para SASM; la SEN 2025 nombra la cloxacilina entre las alternativas, y es la pauta que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g IV cada 4 h; capítulo 5). La tabla de dosis de la SEN 2025 da una dosis menor de cloxacilina (4-6 g/día), dudosa (capítulo 1, §6.6).*
+*La tabla de la SEN 2023 dice "meticilin-sensible o vancomicina" sin nombrar el fármaco para SASM; la SEN 2025 nombra la cloxacilina entre las alternativas, y es la pauta que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g IV cada 4 h; capítulo 5). La tabla de dosis de la SEN 2025 da una dosis menor de cloxacilina (4-6 g/día), dudosa (capítulo 1, §4.6).*
 
 ### 7.3. Manejo del dispositivo (SEMES 2012; SEN 2025)
 

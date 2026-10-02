@@ -1,12 +1,12 @@
 # INFECCIONES DEL SISTEMA NERVIOSO CENTRAL — APUNTES DE URGENCIAS
 
-> Estado: capítulos 1-7 redactados. Formato según `plantillas/GUIA_DE_ESTILO.md`.
+> Estado: capítulos 1-7 redactados. Formato según `plantillas/GUIA_DE_ESTILO.md`: ficha de actuación en urgencias + secuencia asistencial (sospecha → actuación → pruebas → tratamiento empírico → soporte → destino → salud pública → después de urgencias). **Reordenado para urgencias: capítulo 1** (🚑); capítulos 2-7 pendientes de reordenar.
 >
 > **Referencias: solo cuatro fuentes**, en pirámide: **SEN (2023 urgencias; 2025 residente) → ESCMID (2016 meningitis; 2024 absceso cerebral) → NICE NG240 2024 → SEMES 2012**. Si las dos SEN discrepan, manda la de 2025; en el absceso cerebral manda la ESCMID 2024 (ver `FUENTES.md`).
 
 | # | Capítulo | Contenido clave para urgencias | Fuentes que lo cubren |
 |---|----------|--------------------------------|-----------------------|
-| 1 | **Meningitis bacteriana aguda del adulto** → `01_Meningitis_bacteriana.md` ✅ | Sospecha clínica, tiempos (<1 h), TC antes de la PL, LCR, pauta empírica por factores de riesgo, dosis y penetración en el LCR, dexametasona, aciclovir, tratamiento dirigido y duración, soporte, complicaciones, ingreso, aislamiento, profilaxis, vacunación, seguimiento | SEN 2023 · SEN 2025 (cap. 40) · ESCMID 2016 · NICE · SEMES |
+| 1 | **Meningitis bacteriana aguda del adulto** → `01_Meningitis_bacteriana.md` ✅ 🚑 | **Ficha de urgencias**; sospecha clínica y presentaciones atípicas; tiempos (<1 h) y TC antes de la PL; LCR; pauta empírica por factores de riesgo, dexametasona y aciclovir; dosis y penetración en el LCR; soporte y complicaciones; destino (UCI, ingreso, observación, alta); aislamiento y profilaxis; después de urgencias: tratamiento dirigido y duración, vacunación, seguimiento | SEN 2023 · SEN 2025 (cap. 40) · ESCMID 2016 · NICE · SEMES |
 | 2 | **Meningitis linfocitaria, aséptica, subaguda y crónica** → `02_Meningitis_linfocitaria_subaguda.md` ✅ | Vírica (enterovirus, VHS-2, VVZ, VIH, arbovirus), tuberculosa, *Brucella*, sífilis, Lyme, leptospira, criptococo; causas no infecciosas; cuándo dar antibiótico empírico; pautas específicas; criterios de alta y observación | SEN 2023 (cap. 12.1) · SEN 2025 (caps. 40, 42 y 43) · SEMES (cap. 18) · ESCMID y NICE (diagnóstico diferencial) |
 | 3 | **Encefalitis aguda** → `03_Encefalitis.md` ✅ | Clínica, VHS-1, LCR, RM y EEG, PCR múltiple, **aciclovir empírico**, otros antivirales (VVZ, CMV, VHH-6), inmunodeprimido (LMP), diagnóstico diferencial (autoinmune, tóxico-metabólico, priones), ingreso y UCI | SEN 2023 (cap. 12.2) · SEN 2025 (caps. 42 y 44) · SEMES (cap. 19) |
 | 4 | **Absceso cerebral** → `04_Absceso_cerebral.md` ✅ | Origen y etiología por foco, imagen, PL contraindicada, pauta empírica por foco, neurocirugía, duración, corticoides y antiepilépticos | **ESCMID 2024** (guía principal) · SEN 2025 (cap. 41) · SEMES (cap. 20) |
