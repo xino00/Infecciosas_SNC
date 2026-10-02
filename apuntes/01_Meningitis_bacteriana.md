@@ -63,7 +63,7 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 > **LA MBA ES UNA EMERGENCIA TIEMPO-DEPENDIENTE: ANTIBIÓTICO IV EN MENOS DE 1 HORA DESDE LA LLEGADA** (SEN 2023; ESCMID, grado A; NICE 1.4.1). *La SEMES 2012 pedía analítica, cultivos y primera dosis de antibiótico en 15-30 min.*
 
-1. **Valoración inicial por un médico con experiencia en pacientes agudos** (NICE 1.4.1). **Estabilizar** y buscar datos de sepsis.
+1. **Estabilizar** y buscar datos de sepsis.
 2. **Extraer hemocultivos y analítica ANTES del antibiótico** (ESCMID, grado A; NICE 1.6.1), y antes de la PL (SEN 2025).
 3. **Hacer la PL antes del antibiótico SOLO si es segura y no lo retrasa** de forma relevante (NICE 1.4.9). Si no, se inicia el tratamiento y se hace la PL en cuanto sea posible (NICE 1.4.10). *La NICE admite, según el juicio clínico, retrasar el antibiótico "ligeramente más de 1 hora" si así se puede hacer antes la PL.*
 4. **Si la PL se va a retrasar (por ejemplo, por la TC), iniciar el tratamiento empírico de inmediato ante la sospecha clínica, tras los hemocultivos, aunque el diagnóstico no esté confirmado** (ESCMID, grado A).
@@ -391,7 +391,7 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 4. ***National Institute for Health and Care Excellence (NICE). Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NICE guideline NG240. Londres: NICE; 19 de marzo de 2024.***
    — ***Nivel 3: la guía más reciente y la única con metodología GRADE.*** *Se cita con el número de cada recomendación. Aporta:*
    - *La combinación de alarma, las presentaciones atípicas y las causas alternativas.*
-   - *Los tiempos: valoración por un médico con experiencia, antibiótico en <1 h, antibiótico prehospitalario.*
+   - *Los tiempos: antibiótico en <1 h, antibiótico prehospitalario.*
    - *Las contraindicaciones de la PL, las pruebas en sangre (PCR de meningococo y neumococo, VIH en todos los adultos, frotis faríngeo) y la disponibilidad del LCR en <4 h.*
    - *La duración por germen cuando la SEN y la ESCMID no la fijan (enterobacterias, estreptococo del grupo B) y la definición de alergia grave.*
    - *La dexametasona (ventana de 12 h; no en la enfermedad meningocócica) y el soporte: líquidos sin restricción, osmóticos solo temporales, monitorización de la PIC.*
