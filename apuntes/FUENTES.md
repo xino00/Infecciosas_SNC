@@ -59,7 +59,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 |---|---|---|
 | TC antes de la PL | Recomendable, pero **obligatoria solo con criterios** de riesgo de herniación (SEN 2025), **sin retrasar nunca el antibiótico** | SEN 2023: en todos los pacientes. ESCMID (grado A) y NICE: solo con criterios, más restrictivos que los de la SEN 2025 |
 | Vancomicina empírica | **Sí** (SEN 2023 y 2025 = ESCMID; España con 20-50 % de sensibilidad disminuida a penicilina según la ESCMID) | La NICE no la incluye |
-| Aciclovir empírico | **Sí**, hasta tener la PCR de VHS (SEN 2023) | NICE: solo con sospecha fuerte |
+| Aciclovir empírico | **Sí**, hasta tener la PCR de VHS (SEN 2023) | NICE: solo con sospecha fuerte. SEN 2025 (capítulo 3): si la sospecha persiste, una PCR de VHS negativa precoz no basta para retirarlo |
 | Neumococo | **14 días** (SEN 2025) | SEN 2023 y ESCMID: 10-14 días; NICE: 10 días |
 | Meningococo | **7 días** (SEN 2023 y 2025 = ESCMID) | NICE: 5 días |
 | Enterobacterias y otros gramnegativos | **≥3 semanas** (SEN 2025 = NICE) | — |
@@ -70,6 +70,10 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 | Rifampicina en el embarazo (profilaxis) | **A partir del primer trimestre** (SEN 2025 = ESCMID) | SEMES 2012: contraindicada |
 | Profilaxis de *H. influenzae* | **Rifampicina al caso índice y a los convivientes** (SEN 2025) | SEMES 2012: solo a los convivientes y si hay niños <6 años no vacunados |
 | Aislamiento respiratorio | **Solo si se sospecha meningococo, las primeras 24 h de tratamiento** (SEN 2025) | SEMES 2012: inicialmente, toda sospecha de meningitis bacteriana |
+| Dosis de vancomicina | **15-20 mg/kg IV cada 8-12 h, ajustada por niveles** (SEN 2023; valle de 15-20 µg/mL, ESCMID). Incluye los 15 mg/kg cada 8-12 h de la SEN 2025 | SEN 2025: 15 mg/kg cada 8-12 h; su tabla de dosis da 2-3 g/día. *Decisión editorial que ya tomaba el capítulo 1; queda registrada al reordenarlo* |
+| Inmunosupresión intensa (neutropenia, trasplante, quimioterapia) | **Vancomicina + ampicilina + cefepima o meropenem** (SEN 2023), con cobertura de *Pseudomonas* | SEN 2025: no la trata aparte (da la pauta de los >50 años a la inmunodepresión en general). Se toma de la SEN 2023, más específica para este grupo |
+| Perfil del LCR en la MBA | **Umbrales de la SEN 2025**: 100-1.000 células/µL de predominio polinuclear, glucosa <45 mg/dL o <40 % de la glucemia, proteínas >50 mg/dL | SEN 2023: >1.000 leucocitos/µL, cociente <0,4, proteínas >1 g/L (tabla comparativa con la vírica). Unidades sin convertir |
+| Tiempo de instauración | **No se resuelve**: la SEN 2023 dice que la bacteriana evoluciona en <24 h y la SEN 2025 que suele instaurarse en 24-72 h | *No está claro que midan lo mismo; se dejan las dos cifras (capítulo 1, §10.2)* |
 
 ## 4. Discrepancias resueltas en los capítulos 2-7
 
@@ -117,7 +121,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
   - Vancomicina 1 g cada 8-12 h → **15-20 mg/kg cada 8-12 h** (SEN 2023; 15 mg/kg según la SEN 2025), con carga de 20-35 mg/kg si se sospecha *S. aureus* (SEN 2023).
   - Levofloxacino como alternativa en alérgicos → la SEN recoge **aztreonam** o **ciprofloxacino**, no levofloxacino.
 
-  *Ninguna de las fuentes trata específicamente la dexametasona ni el aciclovir en la infección de la derivación o la meningitis posneuroquirúrgica: se indica en el capítulo 6.*
+  *Ninguna de las fuentes trata específicamente el aciclovir en la infección de la derivación o la meningitis posneuroquirúrgica. De la dexametasona, solo la SEMES 2012 dice que no se dé si hay derivación de LCR o patología cerebral reciente (capítulo 1). Se indica en el capítulo 6.*
 
 ## 6. Limitaciones y posibles erratas de la SEN 2025
 

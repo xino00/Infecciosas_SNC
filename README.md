@@ -1,6 +1,6 @@
 # Infecciosas_SNC
 
-Apuntes de **infecciones del sistema nervioso central (SNC) para urgencias**, centrados en el paciente adulto. Están pensados para consultarse a pie de cama: cada capítulo sigue la misma estructura y destaca en MAYÚSCULAS y negrita lo que hay que ver de un vistazo, y deja en *cursiva* los matices y los datos de evidencia.
+Apuntes de **infecciones del sistema nervioso central (SNC) para urgencias**, centrados en el paciente adulto. Están pensados para consultarse a pie de cama por el **médico de urgencias**: cada capítulo abre con una **ficha de actuación en urgencias** y sigue la secuencia asistencial (sospecha → actuación inicial → pruebas → tratamiento empírico → soporte → destino → salud pública); lo que no se decide en urgencias (tratamiento dirigido, duración, seguimiento, fundamentos) va al final. Destacan en MAYÚSCULAS y negrita lo que hay que ver de un vistazo y dejan en *cursiva* los matices y los datos de evidencia.
 
 > **Aviso**: son apuntes de estudio, no un protocolo asistencial. No sustituyen al juicio clínico ni a los protocolos y la epidemiología de cada centro. Comprueba siempre las dosis (y su ajuste a la función renal) antes de prescribir.
 
@@ -21,7 +21,7 @@ Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro fuen
 
 | # | Capítulo | Estado |
 |---|---|---|
-| 1 | [Meningitis bacteriana aguda del adulto](apuntes/01_Meningitis_bacteriana.md) | ✅ Redactado |
+| 1 | [Meningitis bacteriana aguda del adulto](apuntes/01_Meningitis_bacteriana.md) | ✅ Redactado · 🚑 Reordenado para urgencias |
 | 2 | [Meningitis linfocitaria, aséptica, subaguda y crónica](apuntes/02_Meningitis_linfocitaria_subaguda.md) | ✅ Redactado |
 | 3 | [Encefalitis aguda](apuntes/03_Encefalitis.md) | ✅ Redactado |
 | 4 | [Absceso cerebral](apuntes/04_Absceso_cerebral.md) | ✅ Redactado |
@@ -53,18 +53,22 @@ El contenido clave de cada capítulo y qué fuentes lo cubren se detallan en el 
 
 ## Cómo leer los apuntes
 
-Cada capítulo sigue la estructura fija de la [guía de estilo](plantillas/GUIA_DE_ESTILO.md): definición y fisiopatología, epidemiología, etiología, gravedad y lugar de tratamiento, tratamiento, pruebas, notas para el contexto español y europeo y referencias.
+Cada capítulo sigue la estructura fija de la [guía de estilo](plantillas/GUIA_DE_ESTILO.md): **ficha de actuación en urgencias**; 1. sospecha clínica y diagnóstico diferencial; 2. actuación inicial (tiempos y secuencia); 3. pruebas complementarias; 4. tratamiento empírico en urgencias; 5. soporte y complicaciones agudas; 6. destino e interconsultas; 7. salud pública; 8. después de urgencias (tratamiento dirigido, duración, seguimiento); 9. fundamentos (definición, fisiopatología, epidemiología, etiología); 10. contexto español y europeo, discrepancias y pendientes; y referencias. La numeración es la misma en todos los capítulos.
+
+> **Migración en curso**: el capítulo 1 ya tiene la estructura nueva; los capítulos 2-7 conservan la anterior (definición → epidemiología → etiología → … → tratamiento) hasta que se reordenen.
 
 - **MAYÚSCULAS en negrita**: lo imprescindible en urgencias.
 - **Negrita**: conceptos y fármacos clave.
 - *Cursiva*: matiz, dato de evidencia o discrepancia entre guías; prescindible en una lectura rápida.
 - **Atribución entre paréntesis** tras cada dato: la SEN y la ESCMID con su año (SEN 2023 o SEN 2025; ESCMID 2016 o 2024), la NICE con el número de recomendación (p. ej., NICE 1.4.7) y la ESCMID con su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024).
-- **Pautas de tratamiento**: `---> PRIMERA ELECCIÓN:` y `---> ALTERNATIVA:`, siempre con fármaco, dosis, vía e intervalo.
-- Cuando la evidencia es débil, contradictoria o el dato no está verificado, se dice explícitamente.
+- **Ficha de actuación en urgencias**: resumen de 1-2 pantallas al principio de cada capítulo. No contiene datos propios: todo lo que dice está en el cuerpo con la misma atribución, y cada bloque remite a su sección (→ §x.y).
+- **Pautas de tratamiento**: `---> PRIMERA ELECCIÓN:`, `---> ALTERNATIVA (motivo):`, `---> ADYUVANTE:` y `---> PROFILAXIS:`, siempre con fármaco, dosis, vía e intervalo. Si la fuente no da alguno de ellos, se dice ("[sin vía en la fuente]") y no se completa.
+- **Remisiones**: «`→ §x.y`» dentro del capítulo y «`capítulo N, §x.y`» entre capítulos.
+- Cuando la evidencia es débil, contradictoria o el dato no está verificado, se dice explícitamente: los datos dudosos, las atribuciones por verificar y los huecos que las fuentes no resuelven se reúnen en el `§10.3` de cada capítulo.
 
 ## Cómo añadir un capítulo
 
-1. Crear `apuntes/NN_Nombre_del_capitulo.md` siguiendo la [guía de estilo](plantillas/GUIA_DE_ESTILO.md): título con `#`, secciones numeradas con `##` y subapartados con `###`; tablas Markdown y nada de HTML.
+1. Crear `apuntes/NN_Nombre_del_capitulo.md` siguiendo la [guía de estilo](plantillas/GUIA_DE_ESTILO.md): título con `#`, las secciones `##` 1-10 con la numeración fija y subapartados con `###`; tablas Markdown y nada de HTML ni Mermaid. Escribir primero el cuerpo y después la ficha de urgencias, que solo resume el cuerpo.
 2. Usar solo las cuatro fuentes de la pirámide y atribuir cada dato. Si dos fuentes discrepan, aplicar la pirámide y dejar la discrepancia anotada en *cursiva*.
 3. Cerrar con las **referencias**: cita completa en negrita-cursiva (PMID y DOI cuando existan) y, debajo, qué nivel ocupa cada fuente y qué aporta al capítulo.
 4. Actualizar el estado en [`apuntes/00_INDICE.md`](apuntes/00_INDICE.md) y en la tabla de contenido de este README, y registrar en [`apuntes/FUENTES.md`](apuntes/FUENTES.md) las discrepancias nuevas que se hayan resuelto.

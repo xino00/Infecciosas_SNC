@@ -145,7 +145,7 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 
 ### 5.2. Tratamiento antibiótico empírico
 
-**Dosis**: la ESCMID pide dosis que aseguren la penetración en el absceso y en el SNC, y las detalla en su material suplementario (no incluido en el texto). La SEN 2025 no da dosis en su capítulo de absceso. Las dosis de abajo son las de la **SEMES 2012**; *coinciden con la tabla de dosis de meningitis de la SEN 2025 (capítulo 1, §6.6), salvo el metronidazol (SEN 2025: 1.500-2.000 mg/día cada 8 h).*
+**Dosis**: la ESCMID pide dosis que aseguren la penetración en el absceso y en el SNC, y las detalla en su material suplementario (no incluido en el texto). La SEN 2025 no da dosis en su capítulo de absceso. Las dosis de este apartado (§5.2) son las de la **SEMES 2012**; *coinciden con la tabla de dosis de meningitis de la SEN 2025 (capítulo 1, §4.6), salvo el metronidazol (SEN 2025: 1.500-2.000 mg/día cada 8 h).*
 
 #### Absceso comunitario en inmunocompetente (foco desconocido, sinusal, ótico, dental o pulmonar)
 
@@ -175,7 +175,7 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 > - **Sin datos de endocarditis**: pauta comunitaria de la ESCMID (C3G + metronidazol; §5.2).
 > - **Endocarditis probable o hemocultivos con *S. aureus*, estreptococos o enterococos**: tratamiento dirigido al germen (ESCMID), con la pauta de la SEN 2025 como orientación empírica mientras llega el antibiograma, y **decidirlo con Infecciosas y Cardiología**.
 
-*Nota (no procede de las fuentes; farmacología general): ni la C3G + metronidazol ni la cloxacilina cubren el enterococo ni el SARM; de las opciones de la SEN 2025, solo la que lleva vancomicina los cubre. La SEN 2025 no da dosis para esta indicación: consultar con Infecciosas o Farmacia (dosis de referencia en el capítulo 1, §6.6, con el aviso sobre la dosis de cloxacilina). La SEMES 2012 agrupaba el foco endocardítico con la pauta posneuroquirúrgica (meropenem + vancomicina o linezolid), que la ESCMID 2024 reserva al posneuroquirúrgico.*
+*Nota (no procede de las fuentes; farmacología general): ni la C3G + metronidazol ni la cloxacilina cubren el enterococo ni el SARM; de las opciones de la SEN 2025, solo la que lleva vancomicina los cubre. La SEN 2025 no da dosis para esta indicación: consultar con Infecciosas o Farmacia (dosis de referencia en el capítulo 1, §4.6, con el aviso sobre la dosis de cloxacilina). La SEMES 2012 agrupaba el foco endocardítico con la pauta posneuroquirúrgica (meropenem + vancomicina o linezolid), que la ESCMID 2024 reserva al posneuroquirúrgico.*
 
 #### Inmunodepresión grave (trasplante de órgano sólido, quimioterapia o tratamiento biológico activos, neoplasia hematológica)
 
