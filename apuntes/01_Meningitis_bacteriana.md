@@ -14,7 +14,7 @@
 **PRIMEROS MINUTOS** (→ §2)
 1. **Médico con experiencia** (NICE 1.4.1). **HEMOCULTIVOS Y ANALÍTICA ANTES DEL ANTIBIÓTICO** (ESCMID, grado A; NICE 1.6.1).
 2. **¿CRITERIO DE TC OBLIGATORIA?** Focalidad, bajo nivel de consciencia, crisis, HTIC, inmunosupresión, cáncer activo, sospecha de absceso epidural espinal, trombopenia o diátesis hemorrágica (incluida anticoagulación) (SEN 2025).
-   - **SÍ**: hemocultivos → **dexametasona + antibiótico** → estabilizar → TC → PL (NICE 1.4.8).
+   - **SÍ**: hemocultivos → **dexametasona + antibiótico** → estabilizar → TC → PL (NICE 1.4.8). **Sin PL si persiste coagulopatía, trombopenia o sospecha de absceso epidural espinal** (SEN 2023; SEN 2025; → §2.4).
    - **NO**: PL previa solo si es segura y no lo retrasa (NICE 1.4.9); si no, **tratar ya** (ESCMID, grado A).
 3. **AISLAMIENTO RESPIRATORIO SI SE SOSPECHA MENINGOCOCO**, primeras 24 h de tratamiento (SEN 2025).
 
@@ -35,7 +35,7 @@
 |---|---|
 | **UCI** | Deterioro neurológico o **GCS <11**, crisis, **shock séptico**, CID, HTIC o intubación (solo SEMES 2012, nivel 4) |
 | **Ingreso** | **Todo paciente con MBA** (SEMES 2012) |
-| **Observación** | LCR no concluyente con sospecha clínica: **repetir la PL a las 8-12 h** cubriendo empíricamente [redacción por verificar]; síndrome meníngeo sin diagnóstico, estable; 4-8 h tras la PL antes del alta, 2 primeras en decúbito (SEMES 2012). Sospecha vírica: antibiótico si anciano, inmunodeprimido, antibiótico reciente o duda razonable, hasta los cultivos (SEN 2023) |
+| **Observación** | LCR no concluyente con sospecha clínica: **repetir la PL a las 8-12 h** cubriendo empíricamente; síndrome meníngeo sin diagnóstico, estable; 4-8 h tras la PL antes del alta, 2 primeras en decúbito (SEMES 2012). Sospecha vírica: antibiótico si anciano, inmunodeprimido, antibiótico reciente o duda razonable, hasta los cultivos (SEN 2023) |
 | **Alta** | Con MBA, no (SEMES 2012). Sin diagnóstico confirmado → §6.4 |
 
 **PEDIR** (→ §3): **glucemia justo antes de la PL** (NICE 1.4.13; SEMES 2012); **VIH EN TODOS** (NICE 1.10.1); **LCR** con presión de apertura, lactato y PCR múltiple (polimerasa) (ESCMID, grado A; NICE 1.4.14; SEN 2023); PCR (polimerasa) en sangre (NICE 1.4.4); frotis faríngeo antes del antibiótico (NICE 1.4.3).
@@ -51,7 +51,7 @@
 **ERRORES FRECUENTES** (→ §4.3)
 1. Omitir la ampicilina: *Listeria* es intrínsecamente resistente a las cefalosporinas [atribución por verificar].
 
-*Pendiente (§10.3): dosis prehospitalaria, ajuste renal, plaquetas o INR, umbral de consciencia, alergia (inmunodeprimido, gestante), antiepiléptico, shock y púrpura fulminante, erradicación tras penicilina.*
+*Pendiente (§10.3): ajuste renal, umbral de plaquetas, antiepiléptico.*
 
 ## 1. SOSPECHA CLÍNICA Y DIAGNÓSTICO DIFERENCIAL
 
@@ -137,7 +137,7 @@ Buscar en la exploración (SEN 2023, SEMES 2012): **datos de sepsis** (PAS <90 m
 > **ACTUACIÓN (SEN 2025)**: la TC craneal previa es recomendable, pero **OBLIGATORIA SOLO SI HAY ALGUNO DE LOS CRITERIOS DE LA SEN 2025** (lista de §2.3), y **NUNCA debe retrasar el antibiótico**.
 
 1. **¿Hay algún criterio de TC obligatoria?**
-   - **SÍ**: la secuencia es **hemocultivos → dexametasona + antibiótico → estabilizar → TC → PL** (NICE 1.4.8). El aciclovir, si está indicado, va con el antibiótico (SEN 2023; → §4.4).
+   - **SÍ**: la secuencia es **hemocultivos → dexametasona + antibiótico → estabilizar → TC → PL** (NICE 1.4.8). El aciclovir, si está indicado, va con el antibiótico (SEN 2023; → §4.4). **La PL final solo se hace si no persiste ninguna contraindicación de §2.4**: la TC craneal no corrige la coagulopatía ni la trombopenia, ni descarta un absceso epidural espinal, y ambas contraindican la PL (SEN 2023; SEN 2025; absceso epidural espinal → capítulo 5, §2.3).
    - **NO**: la TC es recomendable, no obligatoria, y nunca debe retrasar el antibiótico; si la PL puede hacerse de inmediato, puede hacerse sin TC previa y antes del antibiótico (SEN 2025). Si se hace la TC, **antibiótico primero** [atribución por verificar].
 2. **¿La PL es segura y no retrasa el antibiótico de forma relevante?**
    - **SÍ**: **hacer la PL antes del antibiótico** (NICE 1.4.9). *La NICE admite, según el juicio clínico, retrasar el antibiótico "ligeramente más de 1 hora" si así se puede hacer antes la PL.*
