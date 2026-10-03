@@ -3,6 +3,8 @@
 > Estado: capítulos 1-7 redactados. Formato según `plantillas/GUIA_DE_ESTILO.md`.
 >
 > **Referencias: solo cuatro fuentes**, en pirámide: **SEN 2025 (Manual del Residente) → ESCMID (2016 meningitis; 2024 absceso cerebral) → NICE NG240 2024 → SEMES 2012**. En el absceso cerebral manda la ESCMID 2024 (ver `FUENTES.md`).
+>
+> **Ecología local (fuera de la pirámide)**: porcentajes de resistencia locales de 2024, **(ecología local 2024)**, añadidos donde son pertinentes en los capítulos 1, 2, 4, 5 y 6 (ver `FUENTES.md`, §8).
 
 | # | Capítulo | Contenido clave para urgencias | Fuentes que lo cubren |
 |---|----------|--------------------------------|-----------------------|

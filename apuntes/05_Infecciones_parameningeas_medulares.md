@@ -2,6 +2,8 @@
 
 > **Fuentes**: **SEN 2025** (Manual del Residente: cap. 41, empiemas y abscesos epidurales; cap. 42, mielitis víricas; cap. 43, esquistosomiasis medular) y **SEMES 2012** (caps. 20-22). La **ESCMID 2016** aporta detalles del empiema y la trombosis de senos como complicaciones de la meningitis bacteriana. Pirámide: **SEN 2025 → ESCMID → NICE → SEMES 2012**; la **ESCMID 2024** prevalece en el absceso cerebral, pero no trata el empiema. La **tromboflebitis séptica de senos** solo la trata con detalle la SEMES 2012. Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
 >
+> *Ecología local: los porcentajes de resistencia locales de 2024 van en cursiva con la etiqueta **(ecología local 2024)**, fuera de la pirámide. No son recomendaciones ni cambian ninguna pauta. Ver `FUENTES.md` (§8).*
+>
 > *Aviso: la evidencia de este capítulo es la de dos manuales españoles (SEN 2025, de expertos, y SEMES 2012, de urgencias), sin grados de recomendación. Las pautas deben consensuarse con Neurocirugía, ORL e Infecciosas.*
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
@@ -158,17 +160,20 @@ Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la mé
 - **+ CEFOTAXIMA 2 g IV cada 4 h** o **CEFTRIAXONA 2 g IV cada 12 h**
 - **± METRONIDAZOL 10 mg/kg IV cada 8 h** (si el origen es **odontógeno, sinusal, otitis media crónica o mastoiditis**).
 - *Alternativa a la combinación: **MEROPENEM 1-2 g IV cada 6-8 h** o **ERTAPENEM 1 g IV cada 24 h**.*
+- ⚠️ *Ecología local 2024: **SAMR 30 %**, en un dato agregado de todo el hospital que no separa el origen comunitario ni el foco. S. aureus es el germen más frecuente de la tromboflebitis séptica (SEMES 2012), y ni la cloxacilina ni la alternativa con carbapenémico cubren el SAMR. **Las fuentes no dan una pauta para el SAMR en esta entidad**: si se sospecha, consultar con Infecciosas.*
 
 **---> ABSCESO EPIDURAL ESPINAL Y EMPIEMA SUBDURAL ESPINAL** (SEN 2025), **tras extraer los hemocultivos**:
 - **VANCOMICINA + CEFTRIAXONA IV** (o la pauta de la guía local del hospital). *La SEN 2025 (cap. 41, p. 640) no da dosis para esta indicación: acordarlas con Infecciosas o Farmacia. La SEMES 2012 (cap. 21, tabla 1, p. 174-175) aporta **ceftriaxona 2 g IV cada 12 h**.*
 - **Sospecha de *Pseudomonas*** (infección posquirúrgica, UDVP): **VANCOMICINA + CEFEPIMA, CEFTAZIDIMA o MEROPENEM** (SEN 2025, sin dosis específicas para esta indicación). *La SEMES 2012 (cap. 21, tabla 1) aporta **cefepima 2 g IV cada 8 h**, **meropenem 1 g IV cada 6 h** o **piperacilina-tazobactam 4/0,5 g IV cada 6 h** para la cobertura antipseudomónica; confirmar la pauta con Infecciosas según la guía local.*
 - Ajustar después al germen y su antibiograma (SEN 2025).
 - *Discrepancia: la SEMES 2012 proponía **cloxacilina 2 g IV cada 4 h + cefotaxima o ceftriaxona** (y vancomicina en lugar de la cloxacilina solo si se sospechaba SAMR). Manda la SEN 2025, que cubre de entrada el SAMR.*
+- *Ecología local 2024: **SAMR 30 %** (resistencia a la vancomicina: 0 %), coherente con la cobertura de entrada de la SEN 2025. Resistencia a la ceftriaxona: 14 % en E. coli y 25 % en K. pneumoniae (BLEE 14 % y 23 %); no cubre P. aeruginosa, cuya resistencia es del 10 % a la cefepima, el 11 % a la ceftazidima, el 5 % al meropenem y el 13 % a la piperacilina-tazobactam.*
 
 **---> ALTERNATIVA** (alergia a betalactámicos), para todas (SEMES 2012, cap. 21, tabla 1, p. 174-175):
 - **VANCOMICINA 1 g IV cada 8 h** o **TEICOPLANINA 600 mg IV cada 24 h** o **LINEZOLID 600 mg IV cada 12 h**
 - **+ AZTREONAM 2 g IV cada 8 h** o **CIPROFLOXACINO 400 mg IV cada 12 h**
 - **± CLINDAMICINA 600 mg IV cada 8 h**.
+- *Ecología local 2024 (porcentaje de resistencia): **teicoplanina**, 0 % en S. aureus pero **22 % en S. epidermidis**; **ciprofloxacino**, 19 % en P. aeruginosa y **26-27 % en E. coli y K. pneumoniae**; **clindamicina**, **34 % en S. aureus**. No hay datos locales del aztreonam.*
 
 *Estas dosis corresponden a la tabla específica de infecciones parameníngeas de la SEMES 2012. La SEN 2025 no aporta una pauta de alergia para estas entidades; adaptar las dosis y la monitorización con Infecciosas o Farmacia.*
 
@@ -247,6 +252,7 @@ Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la mé
 - **Evidencia limitada**: los empiemas y el absceso epidural espinal los tratan dos manuales españoles (SEN 2025 y SEMES 2012), sin grados de recomendación; la tromboflebitis séptica de senos, solo la SEMES 2012. Las pautas antibióticas de la SEMES son de 2012 (incluyen teicoplanina, ertapenem e imipenem) y **deben adaptarse a la epidemiología local y consensuarse con Infecciosas**.
 - **Cambios con la SEN 2025**: **vancomicina + ceftriaxona** en el absceso epidural espinal (en lugar de cloxacilina + C3G), **antibiótico del absceso cerebral según el foco** en los empiemas intracraneales, **4-8 semanas** de tratamiento en el absceso epidural espinal y **cirugía en <48 h aunque haya paraplejía completa**.
 - **Brucelosis y tuberculosis**: considerarlas en el absceso epidural espinal y en la espondilitis de evolución subaguda en nuestro medio (SEMES 2012; SEN 2025).
+- **Ecología local 2024**: **SAMR 30 %**, que queda sin cubrir con las pautas de la SEMES 2012 basadas en la cloxacilina (la tromboflebitis séptica sigue con ella porque las fuentes superiores no dan otra). BLEE en el 14 % de *E. coli* y el 23 % de *K. pneumoniae*. *P. aeruginosa*: resistencia del 10 % a la cefepima y del 5 % al meropenem. *No hay datos locales del LCR, de muestras quirúrgicas del SNC ni de Brucella.*
 - **Absceso epidural espinal: tiempo = médula**. Ante dolor de espalda con fiebre, foco infeccioso o factores de riesgo, **RM urgente** y Neurocirugía; **no hacer PL** (SEN 2025).
 
 ## REFERENCIAS

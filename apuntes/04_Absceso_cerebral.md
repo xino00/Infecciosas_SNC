@@ -1,6 +1,8 @@
 # ABSCESO CEREBRAL
 
 > **Fuentes de este capítulo**: **ESCMID 2024 → SEN 2025 → SEMES 2012**. La NICE 2024 no trata el absceso cerebral. **La ESCMID 2024 encabeza la pirámide, también por encima de la SEN 2025** (Manual del Residente, cap. 41): el capítulo de la SEN 2025 se redactó antes (su bibliografía se consultó en abril de 2023) y no incorpora la guía europea, que se basa en una revisión sistemática con GRADE. La SEN 2025 aporta la pauta empírica por foco de origen y lo que la ESCMID no detalla; la SEMES 2012, la estructura de urgencias y las dosis. Las discrepancias se señalan en *cursiva*. La ESCMID 2024 usa **GRADE**: cada recomendación lleva su fuerza (fuerte o condicional) y la certeza de la evidencia (alta, moderada, baja o muy baja). Ver `FUENTES.md`.
+>
+> *Ecología local: los porcentajes de resistencia locales de 2024 van en cursiva con la etiqueta **(ecología local 2024)**, fuera de la pirámide. No son recomendaciones ni cambian ninguna pauta. Sirven sobre todo para la pauta posneuroquirúrgica, en la que los autores de la ESCMID 2024 piden adaptar la elección a la prevalencia local de multirresistentes. Ver `FUENTES.md` (§8).*
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
@@ -54,7 +56,7 @@ El **absceso cerebral** es una **colección de pus encapsulada dentro del parén
 | SIDA | **Toxoplasma** |
 | Otros inmunodeprimidos (SEMES; SEN 2025) | *Listeria*, *M. tuberculosis*, *Candida*, *Aspergillus*, mucorales, *Cryptococcus*, enterobacterias, *Rhodococcus equi* |
 
-*Otros: ***S. aureus*** y bacilos gramnegativos en el posneuroquirúrgico; ***M. tuberculosis*** en zonas endémicas (ESCMID), sobre todo en pacientes de la India y el Extremo Oriente (SEN 2025); en viajeros o inmigrantes del trópico, *T. solium*, *E. histolytica*, *S. japonicum* o *Echinococcus* (SEMES 2012). **En los procedentes de Latinoamérica, la neurocisticercosis es la causa más frecuente de lesión de este tipo** (SEN 2025; capítulo 7). La SEMES 2012 alerta del aumento del SARM de origen comunitario.*
+*Otros: ***S. aureus*** y bacilos gramnegativos en el posneuroquirúrgico; ***M. tuberculosis*** en zonas endémicas (ESCMID), sobre todo en pacientes de la India y el Extremo Oriente (SEN 2025); en viajeros o inmigrantes del trópico, *T. solium*, *E. histolytica*, *S. japonicum* o *Echinococcus* (SEMES 2012). **En los procedentes de Latinoamérica, la neurocisticercosis es la causa más frecuente de lesión de este tipo** (SEN 2025; capítulo 7). La SEMES 2012 alerta del aumento del SARM de origen comunitario. SAMR local: 30 %, en un dato agregado que no separa el origen comunitario del nosocomial (ecología local 2024).*
 
 ## 4. CLÍNICA Y VALORACIÓN INICIAL EN URGENCIAS
 
@@ -163,6 +165,8 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 - *La SEN 2025 (tabla 2) añade **vancomicina** a la C3G + metronidazol si **no hay foco conocido** y, en el foco sinusal, si hay **alto riesgo de S. aureus**. La SEMES 2012 recoge que muchos autores la añaden hasta conocer las sensibilidades, y pauta el meropenem con o sin vancomicina.*
 - *La SEN 2025 admite **penicilina G sódica** en lugar de la C3G en el foco pulmonar y en el dental. La ESCMID duda de que la penicilina basta, por el grupo S. mitis con sensibilidad disminuida y la posible presencia de Haemophilus (§5.3).*
 
+*Ecología local 2024: SAMR 30 %, en una cifra que no separa el origen comunitario; S. aureus causó solo el 6 % de los abscesos de la cohorte danesa (ESCMID). Resistencia de H. influenzae a la C3G: 0 %; del grupo B. fragilis al metronidazol: 5 %. **No hay datos locales del grupo S. anginosus ni de otros estreptococos orales**, que son los gérmenes principales del absceso comunitario.*
+
 *Certeza de la evidencia: el resumen y la tabla 1 de la ESCMID dan **certeza moderada**, pero el texto principal dice **baja**, y la corrección de 2024 no lo aclara. En cualquier caso, el metaanálisis no encontró diferencias de mortalidad entre penicilina + metronidazol, C3G + metronidazol y carbapenémicos; la recomendación se basa en la distribución de gérmenes, las sensibilidades y la farmacocinética. La cefotaxima alcanza concentraciones suficientes dentro del absceso.*
 
 #### Absceso por endocarditis (diseminación hematógena)
@@ -176,6 +180,8 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 > - **Endocarditis probable o hemocultivos con *S. aureus*, estreptococos o enterococos**: tratamiento dirigido al germen (ESCMID), con la pauta de la SEN 2025 como orientación empírica mientras llega el antibiograma, y **decidirlo con Infecciosas y Cardiología**.
 
 *Nota (no procede de las fuentes; farmacología general): ni la C3G + metronidazol ni la cloxacilina cubren el enterococo ni el SARM; de las opciones de la SEN 2025, solo la que lleva vancomicina los cubre. La SEN 2025 no da dosis para esta indicación: consultar con Infecciosas o Farmacia (dosis de referencia en el capítulo 1, §6.6, con el aviso sobre la dosis de cloxacilina). La SEMES 2012 agrupaba el foco endocardítico con la pauta posneuroquirúrgica (meropenem + vancomicina o linezolid), que la ESCMID 2024 reserva al posneuroquirúrgico.*
+
+*Ecología local 2024 (porcentaje de resistencia): **S. aureus, SAMR 30 %** (vancomicina 0 %). **E. faecalis**: ampicilina 0 %. **E. faecium**: ampicilina 88 %. Vancomicina: 0 % en ambos. **Resistencia de alto nivel a la gentamicina** (sin sinergia): **20 % en E. faecalis y 42 % en E. faecium**.*
 
 #### Inmunodepresión grave (trasplante de órgano sólido, quimioterapia o tratamiento biológico activos, neoplasia hematológica)
 
@@ -200,6 +206,12 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 **---> PRIMERA ELECCIÓN** (ESCMID: **condicional**, solo para el posneuroquirúrgico; SEN 2025; SEMES 2012): **MEROPENEM 2 g IV cada 8 h + VANCOMICINA 15-20 mg/kg IV cada 8-12 h o LINEZOLID 600 mg IV cada 12 h**.
 
 **---> IGUAL DE ADECUADA SI EL RIESGO DE GRAMNEGATIVOS MULTIRRESISTENTES ES BAJO**: **CEFTAZIDIMA o CEFEPIMA 2 g IV cada 8 h + VANCOMICINA o LINEZOLID** (respuesta de los autores de la ESCMID 2024; SEN 2025; SEMES 2012). *Los autores de la guía aceptaron, tras una carta al editor, que la cefalosporina antipseudomónica puede ser igual de adecuada que el carbapenémico donde hay poco riesgo de gramnegativos multirresistentes, que la recomendación puede adaptarse a la prevalencia de multirresistencia de cada país y que hay que limitar el uso innecesario de carbapenémicos. **Reservar el meropenem** si hay riesgo de multirresistentes (colonización previa, epidemiología local).*
+
+*Ecología local 2024 (porcentaje de resistencia), para elegir entre las dos opciones:*
+- *Ceftazidima y cefepima: **10-11 % en P. aeruginosa**, pero **26 % y 32 % en K. pneumoniae** (BLEE 23 %) y 11 % y 12 % en E. coli (BLEE 14 %). En Enterobacter, la cefepima conserva más actividad que la ceftazidima (7 % frente a 29 % de resistencia).*
+- *Meropenem: **5 %** en P. aeruginosa, **3 %** en K. pneumoniae y **0 %** en E. coli. Enterobacterias productoras de carbapenemasas: 1,8 %.*
+- *Vancomicina: 0 % en S. aureus (SAMR 30 %) y 0-1 % en los estafilococos coagulasa negativos. Linezolid: 0-2 % (casos aislados de S. aureus resistente).*
+- *Son datos de todo el hospital, sin estratificar por Neurocirugía ni UCI, donde la resistencia puede ser mayor. La decisión depende del riesgo individual de multirresistentes y se toma con Infecciosas.*
 
 **---> ALTERNATIVAS**:
 - **CEFTAZIDIMA + LINEZOLID** o **CEFEPIMA + LINEZOLID** (ESCMID, tabla 4).
@@ -292,6 +304,11 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 - **Profilaxis antiepiléptica, vancomicina empírica en el absceso comunitario y tratamiento sin cirugía de los abscesos pequeños**: aparecen en la SEMES 2012 o en la SEN 2025 y **no los recomienda la ESCMID 2024**.
 - **Inmigrantes y viajeros**: en los procedentes de Latinoamérica, pensar en la **neurocisticercosis**; en los de la India y el Extremo Oriente, en la **tuberculosis** (SEN 2025; capítulo 7).
 - **Dosis**: la SEMES 2012 es la única de las fuentes que da dosis específicas para el absceso; las de la ESCMID están en su material suplementario. La SEN 2025 no da dosis en su capítulo de absceso; las de meningitis no se trasladan como si fueran específicas de esta indicación.
+- **Ecología local 2024** (porcentaje de resistencia):
+  - **Posneuroquirúrgico**: con ceftazidima o cefepima, 26-32 % en *K. pneumoniae* y 10-11 % en *P. aeruginosa*; con meropenem, 3 % y 5 %. Es el dato que piden los autores de la ESCMID 2024 para adaptar la pauta a cada medio.
+  - ***S. aureus***: **SAMR 30 %**.
+  - **Enterococo**: *E. faecium* resistente a la ampicilina en el 88 %; resistencia de alto nivel a la gentamicina en el 20 % de *E. faecalis*.
+  - *No hay datos locales del grupo S. anginosus, de Nocardia ni de hongos.*
 
 ## REFERENCIAS
 
