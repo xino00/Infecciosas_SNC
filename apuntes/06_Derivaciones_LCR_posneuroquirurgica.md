@@ -207,7 +207,7 @@
 - **Absceso cerebral posneuroquirúrgico**: si la imagen muestra un absceso tras neurocirugía, la **ESCMID 2024** recomienda **meropenem + vancomicina o linezolid** (recomendación condicional, certeza baja). Sus autores aceptaron después que **ceftazidima o cefepima + vancomicina o linezolid** es igual de adecuada si el riesgo de gramnegativos multirresistentes es bajo, que es la pauta de este capítulo → ver **capítulo 4**.
 - **Drenaje externo en paciente de UCI**: riesgo de ***P. aeruginosa*, *A. baumannii* y otros multirresistentes** (SEMES 2012). Ajustar la pauta a la **epidemiología local** y a las colonizaciones previas, con Infecciosas.
 - **Ecología local 2024** (porcentaje de resistencia):
-  - **La vancomicina es imprescindible**: el 70 % de *S. epidermidis* y el 30 % de *S. aureus* son resistentes a meticilina.
+  - **La cobertura de los estafilococos resistentes a meticilina es imprescindible** (vancomicina de primera elección; linezolid o daptomicina como alternativas, SEN 2025): el 70 % de *S. epidermidis* y el 30 % de *S. aureus* son resistentes a meticilina.
   - **Betalactámico**: con ceftazidima o cefepima, 26-32 % en *K. pneumoniae* y 10-11 % en *P. aeruginosa*; con meropenem, 3 % y 5 %. Enterobacterias productoras de carbapenemasas: 1,8 % (sobre todo OXA-48 y KPC).
   - **Alergia**: ciprofloxacino, 19-27 % en los gramnegativos; no hay datos locales del aztreonam.
   - *No hay datos locales de A. baumannii, del LCR ni de la UCI o Neurocirugía por separado: en el paciente de UCI la resistencia puede ser mayor que la media del hospital.*

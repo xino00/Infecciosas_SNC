@@ -160,7 +160,7 @@ Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la mé
 - **+ CEFOTAXIMA 2 g IV cada 4 h** o **CEFTRIAXONA 2 g IV cada 12 h**
 - **± METRONIDAZOL 10 mg/kg IV cada 8 h** (si el origen es **odontógeno, sinusal, otitis media crónica o mastoiditis**).
 - *Alternativa a la combinación: **MEROPENEM 1-2 g IV cada 6-8 h** o **ERTAPENEM 1 g IV cada 24 h**.*
-- ⚠️ *Ecología local 2024: **SAMR 30 %**. La cloxacilina deja sin cubrir casi 1 de cada 3 S. aureus, el germen más frecuente de la tromboflebitis séptica (SEMES 2012), y ni la pauta ni su alternativa con carbapenémico cubren el SAMR. Si se sospecha, valorar con Infecciosas la **vancomicina en lugar de la cloxacilina**, que es lo que la propia SEMES 2012 proponía en el absceso epidural espinal.*
+- ⚠️ *Ecología local 2024: **SAMR 30 %**, en un dato agregado de todo el hospital que no separa el origen comunitario ni el foco. S. aureus es el germen más frecuente de la tromboflebitis séptica (SEMES 2012), y ni la cloxacilina ni la alternativa con carbapenémico cubren el SAMR. **Las fuentes no dan una pauta para el SAMR en esta entidad**: si se sospecha, consultar con Infecciosas.*
 
 **---> ABSCESO EPIDURAL ESPINAL Y EMPIEMA SUBDURAL ESPINAL** (SEN 2025), **tras extraer los hemocultivos**:
 - **VANCOMICINA + CEFTRIAXONA IV** (o la pauta de la guía local del hospital). *La SEN 2025 (cap. 41, p. 640) no da dosis para esta indicación: acordarlas con Infecciosas o Farmacia. La SEMES 2012 (cap. 21, tabla 1, p. 174-175) aporta **ceftriaxona 2 g IV cada 12 h**.*
