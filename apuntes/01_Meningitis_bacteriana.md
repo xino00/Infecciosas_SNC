@@ -67,8 +67,6 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 4. **Si la PL se va a retrasar (por ejemplo, por la TC), iniciar el tratamiento empírico de inmediato ante la sospecha clínica, tras los hemocultivos, aunque el diagnóstico no esté confirmado** (ESCMID, grado A).
 5. **Dexametasona con o justo antes de la primera dosis de antibiótico**, sin retrasar el antibiótico por ella (SEN; ESCMID; NICE 1.8.5).
 
-*Antibiótico antes de llegar al hospital (NICE 1.2): **no retrasar el traslado para darlo**. En la sospecha fuerte de MBA, solo si el traslado se va a retrasar de forma relevante. En la sospecha fuerte de **enfermedad meningocócica**, darlo lo antes posible: ceftriaxona o bencilpenicilina IV o IM.*
-
 ### 4.1. ¿TC craneal ANTES de la punción lumbar?
 
 | Fuente | Postura |
