@@ -1,9 +1,5 @@
 # MENINGITIS BACTERIANA AGUDA DEL ADULTO (ADQUIRIDA EN LA COMUNIDAD)
 
-> **Fuentes (pirámide de recomendaciones)**: **SEN (2023 y 2025) → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. Ante una discrepancia, manda la fuente situada más arriba; lo que una fuente superior no trata se toma de la siguiente. **Si las dos SEN discrepan, manda la SEN 2025** (Manual del Residente, cap. 40). Las discrepancias se señalan en *cursiva*. **Todo dato se atribuye a una de estas cuatro fuentes**; los datos de estudios concretos aparecen solo cuando los recoge alguna de ellas. Ver `FUENTES.md`.
->
-> *Ecología local: los porcentajes de resistencia locales de 2024 van en cursiva con la etiqueta **(ecología local 2024)**, fuera de la pirámide. No son recomendaciones ni cambian ninguna pauta. Ver `FUENTES.md` (§8).*
-
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
 La **meningitis** es un síndrome inflamatorio de las meninges definido analíticamente por **pleocitosis en el LCR (>5 leucocitos/µL)**. Sus manifestaciones cardinales son **fiebre, cefalea intensa y rigidez de nuca**, con náuseas, vómitos y fotofobia (SEN 2023). Por tiempo de evolución es **aguda** si dura **≤5 días**, **subaguda** de 5 días a 4 semanas y **crónica** más allá de 4 semanas (SEN 2023). *La SEMES 2012 usa cortes algo distintos (aguda 48-72 h, subaguda >3-7 días, crónica >3-4 semanas). Lo práctico: la bacteriana empeora el estado general y evoluciona en <24 h (SEN 2023).*
@@ -71,21 +67,26 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 4. **Si la PL se va a retrasar (por ejemplo, por la TC), iniciar el tratamiento empírico de inmediato ante la sospecha clínica, tras los hemocultivos, aunque el diagnóstico no esté confirmado** (ESCMID, grado A).
 5. **Dexametasona con o justo antes de la primera dosis de antibiótico**, sin retrasar el antibiótico por ella (SEN; ESCMID; NICE 1.8.5).
 
-*Antibiótico antes de llegar al hospital (NICE 1.2): **no retrasar el traslado para darlo**. En la sospecha fuerte de MBA, solo si el traslado se va a retrasar de forma relevante. En la sospecha fuerte de **enfermedad meningocócica**, darlo lo antes posible: ceftriaxona o bencilpenicilina IV o IM.*
-
 ### 4.1. ¿TC craneal ANTES de la punción lumbar?
 
-| Fuente | Postura |
-|---|---|
-| **SEN 2023** | La incluye **en el estudio de todos los pacientes** (tabla 3 y algoritmo) |
-| **SEN 2025** | **Se recomienda**, pero **solo es obligatoria** si puede haber una lesión con riesgo de herniación tras la PL: **focalidad**, **bajo nivel de consciencia**, **crisis**, **papiledema u otros datos de HTIC**, **inmunosupresión** (posibles abscesos), **cáncer activo**, **sospecha de absceso epidural espinal**, **trombopenia o diátesis hemorrágica** (incluida la anticoagulación). **Nunca debe retrasar el antibiótico** |
-| **ESCMID 2016** | **Grado A**: TC antes de la PL **solo** si hay **focalidad** (excluida la paresia de pares craneales), **crisis de nueva aparición**, **GCS <10** o **inmunodepresión grave** (trasplante, VIH). Sin estos datos **no se recomienda**; la imagen para buscar mastoiditis o sinusitis se hace **después** de la PL |
-| **NICE 2024** | **No de rutina** (1.4.6). Solo si hay riesgo de lesión ocupante de espacio en evolución, **focalidad nueva (incluidas crisis o posturas anómalas)**, **alteración pupilar**, o **GCS ≤9** o descenso progresivo o rápido de la consciencia (1.4.7) |
-| **SEMES 2012** | Lista amplia: GCS <11, crisis recientes o previas, focalidad, foco parameníngeo, papiledema o paresia del III o VI par, fondo de ojo no valorable, inmunodepresión, enfermedad previa del SNC y "valorar en todos los >50 años" |
+**SEN 2025** (*Manual del Residente de Neurología*, cap. 40, §1.5, p. 622): **recomienda neuroimagen antes de la PL**, generalmente TC craneal, pero **solo la considera obligatoria ante la posibilidad de una lesión intracerebral con riesgo de herniación tras la PL**. Enumera los siguientes criterios:
 
-> **ACTUACIÓN (SEN 2025)**: la TC craneal previa es recomendable, pero **OBLIGATORIA SOLO SI HAY ALGUNO DE LOS CRITERIOS DE LA SEN 2025** (tabla de arriba), y **NUNCA debe retrasar el antibiótico**. Con criterios, la secuencia es: **hemocultivos → dexametasona + antibiótico (+ aciclovir) → estabilizar → TC → PL** (NICE 1.4.8). Sin criterios, y si la PL puede hacerse de inmediato, puede hacerse sin TC previa y antes del antibiótico.
->
-> *Discrepancias: la SEN 2023 la incluía en el estudio de todos los pacientes; manda la SEN 2025. La ESCMID y la NICE la restringen a criterios todavía más estrechos (por ejemplo, GCS <10 o ≤9, en lugar de "bajo nivel de consciencia"), y no incluyen el cáncer activo ni la coagulopatía (la ESCMID la recoge como contraindicación de la PL, no como indicación de TC; §4.2). Según la ESCMID, la TC antes de la PL **retrasa de forma sustancial el antibiótico**, lo que se asocia a peor pronóstico. Según la NICE, **hacer la PL sin esperar a la TC adelantó el antibiótico**, lo que puede reducir la mortalidad, las secuelas neurológicas y auditivas y el deterioro funcional. La ESCMID identificó 74 casos de herniación tras la PL (19 estudios), aunque la relación causal es difícil de establecer porque la herniación también ocurre por la propia enfermedad.*
+- **Focalidad neurológica**.
+- **Bajo nivel de consciencia**.
+- **Crisis epilépticas asociadas**.
+- **Papiledema u otros datos de hipertensión intracraneal**.
+- **Inmunosupresión** que pueda facilitar la presencia de abscesos cerebrales.
+- **Proceso oncológico activo conocido**.
+- **Sospecha de absceso epidural espinal**.
+- **Plaquetopenia o diátesis hemorrágica**, incluido el tratamiento anticoagulante.
+
+> **LA NEUROIMAGEN NUNCA DEBE RETRASAR EL INICIO DEL ANTIBIÓTICO** (SEN 2025). Si se necesita imagen, **extraer sangre, administrar antibióticos y estabilizar al paciente antes de realizarla** (NICE 1.4.8).
+
+**Matices de NICE NG240 (2024):**
+
+- *La neuroimagen antes de la PL **no debe hacerse de rutina** (1.4.6). La indica si hay **factores de riesgo de lesión ocupante de espacio en evolución**, **focalidad neurológica nueva (incluidas crisis o posturas anómalas)**, **reacciones pupilares anormales**, o **GCS ≤9 o descenso progresivo y sostenido, o rápido, del nivel de consciencia** (1.4.7).*
+- *Con estos factores, **no realizar la PL hasta que se hayan resuelto** (1.4.7). El **riesgo hemorrágico debe tratarse y estabilizarse antes de la PL** (1.4.11); NICE no lo enumera como indicación de neuroimagen. Ver §4.2.*
+- *Si la PL es segura y no retrasa de forma clínicamente relevante el antibiótico, hacerla antes de iniciarlo; si ya se ha administrado, realizarla cuanto antes, siempre que sea segura (1.4.9-1.4.10).*
 
 ### 4.2. Contraindicaciones de la punción lumbar
 
@@ -264,7 +265,7 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 ### 8.1. DEXAMETASONA
 
-**---> PAUTA**: **DEXAMETASONA 10 mg IV cada 6 h (0,15 mg/kg) durante 4 días**, con la **primera dosis antes o junto con la primera dosis de antibiótico** (SEN 2023; SEN 2025; ESCMID, grado A en países de renta alta). *La SEMES 2012 la da 15 min antes o a la vez que el antibiótico y la suspende al 3.º-4.º día.*
+**---> PAUTA**: **DEXAMETASONA 10 mg IV cada 6 h (0,15 mg/kg) durante 4 días**, con la **primera dosis antes o junto con la primera dosis de antibiótico** (SEN 2023; SEN 2025; ESCMID, grado A en países de renta alta).
 
 - **Indicación**: **sospecha clínica y analítica de MBA** (SEN 2023), **en todos los casos de meningitis purulenta** (SEN 2025); sospecha fuerte o confirmación (NICE 1.8.1). *Según la SEMES 2012, el mayor beneficio se obtiene con pleocitosis >1.000/mm³, presión de apertura >25 cm H₂O o GCS <11.*
 - **Si ya se ha dado el antibiótico**: **puede iniciarse hasta 4 h después de la primera dosis IV** (ESCMID, grado C, por consenso; la SEN 2025 lo atribuye a "algunos autores"). *La NICE es más permisiva: darla si el retraso es <12 h y consultar si es >12 h, porque en los ensayos nadie la recibió más de 12 h después. La SEMES 2012 decía "no darla si ya recibía antibiótico parenteral", algo ya superado.*
