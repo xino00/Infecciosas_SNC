@@ -69,17 +69,24 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 ### 4.1. ¿TC craneal ANTES de la punción lumbar?
 
-| Fuente | Postura |
-|---|---|
-| **SEN 2023** | La incluye **en el estudio de todos los pacientes** (tabla 3 y algoritmo) |
-| **SEN 2025** | **Se recomienda**, pero **solo es obligatoria** si puede haber una lesión con riesgo de herniación tras la PL: **focalidad**, **bajo nivel de consciencia**, **crisis**, **papiledema u otros datos de HTIC**, **inmunosupresión** (posibles abscesos), **cáncer activo**, **sospecha de absceso epidural espinal**, **trombopenia o diátesis hemorrágica** (incluida la anticoagulación). **Nunca debe retrasar el antibiótico** |
-| **ESCMID 2016** | **Grado A**: TC antes de la PL **solo** si hay **focalidad** (excluida la paresia de pares craneales), **crisis de nueva aparición**, **GCS <10** o **inmunodepresión grave** (trasplante, VIH). Sin estos datos **no se recomienda**; la imagen para buscar mastoiditis o sinusitis se hace **después** de la PL |
-| **NICE 2024** | **No de rutina** (1.4.6). Solo si hay riesgo de lesión ocupante de espacio en evolución, **focalidad nueva (incluidas crisis o posturas anómalas)**, **alteración pupilar**, o **GCS ≤9** o descenso progresivo o rápido de la consciencia (1.4.7) |
-| **SEMES 2012** | Lista amplia: GCS <11, crisis recientes o previas, focalidad, foco parameníngeo, papiledema o paresia del III o VI par, fondo de ojo no valorable, inmunodepresión, enfermedad previa del SNC y "valorar en todos los >50 años" |
+**SEN 2025** (Manual del Residente, cap. 40, §1.5, p. 622): **recomienda neuroimagen antes de la PL**, generalmente TC craneal, pero **solo la considera obligatoria ante la posibilidad de una lesión intracerebral con riesgo de herniación tras la PL**. Enumera los siguientes criterios:
 
-> **ACTUACIÓN (SEN 2025)**: la TC craneal previa es recomendable, pero **OBLIGATORIA SOLO SI HAY ALGUNO DE LOS CRITERIOS DE LA SEN 2025** (tabla de arriba), y **NUNCA debe retrasar el antibiótico**. Con criterios, la secuencia es: **hemocultivos → dexametasona + antibiótico (+ aciclovir) → estabilizar → TC → PL** (NICE 1.4.8). Sin criterios, y si la PL puede hacerse de inmediato, puede hacerse sin TC previa y antes del antibiótico.
->
-> *Discrepancias: la SEN 2023 la incluía en el estudio de todos los pacientes; manda la SEN 2025. La ESCMID y la NICE la restringen a criterios todavía más estrechos (por ejemplo, GCS <10 o ≤9, en lugar de "bajo nivel de consciencia"), y no incluyen el cáncer activo ni la coagulopatía (la ESCMID la recoge como contraindicación de la PL, no como indicación de TC; §4.2). Según la ESCMID, la TC antes de la PL **retrasa de forma sustancial el antibiótico**, lo que se asocia a peor pronóstico. Según la NICE, **hacer la PL sin esperar a la TC adelantó el antibiótico**, lo que puede reducir la mortalidad, las secuelas neurológicas y auditivas y el deterioro funcional. La ESCMID identificó 74 casos de herniación tras la PL (19 estudios), aunque la relación causal es difícil de establecer porque la herniación también ocurre por la propia enfermedad.*
+- **Focalidad neurológica**.
+- **Bajo nivel de consciencia**.
+- **Crisis epilépticas asociadas**.
+- **Papiledema u otros datos de hipertensión intracraneal**.
+- **Inmunosupresión** que pueda facilitar la presencia de abscesos cerebrales.
+- **Proceso oncológico activo conocido**.
+- **Sospecha de absceso epidural espinal**.
+- **Plaquetopenia o diátesis hemorrágica**, incluido el tratamiento anticoagulante.
+
+> **LA NEUROIMAGEN NUNCA DEBE RETRASAR EL INICIO DEL ANTIBIÓTICO** (SEN 2025). Si se necesita imagen, **extraer sangre, administrar antibióticos y estabilizar al paciente antes de realizarla** (NICE 1.4.8).
+
+**Matices de NICE NG240 (2024):**
+
+- *La neuroimagen antes de la PL **no debe hacerse de rutina** (1.4.6). La indica si hay **factores de riesgo de lesión ocupante de espacio en evolución**, **focalidad neurológica nueva (incluidas crisis o posturas anómalas)**, **reacciones pupilares anormales**, o **GCS ≤9 o descenso progresivo y sostenido, o rápido, del nivel de consciencia** (1.4.7).*
+- *Con estos factores, **no realizar la PL hasta que se hayan resuelto** (1.4.7). El **riesgo hemorrágico debe tratarse y estabilizarse antes de la PL** (1.4.11); NICE no lo enumera como indicación de neuroimagen. Ver §4.2.*
+- *Si la PL es segura y no retrasa de forma clínicamente relevante el antibiótico, hacerla antes de iniciarlo; si ya se ha administrado, realizarla cuanto antes, siempre que sea segura (1.4.9-1.4.10).*
 
 ### 4.2. Contraindicaciones de la punción lumbar
 
