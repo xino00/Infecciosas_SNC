@@ -1,7 +1,5 @@
 # MENINGITIS BACTERIANA AGUDA DEL ADULTO (ADQUIRIDA EN LA COMUNIDAD)
 
-> **Fuentes (pirámide de recomendaciones)**: **SEN (2023 y 2025) → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. Ante una discrepancia, manda la fuente situada más arriba; lo que una fuente superior no trata se toma de la siguiente. **Si las dos SEN discrepan, manda la SEN 2025** (Manual del Residente, cap. 40). Las discrepancias se señalan en *cursiva*. **Todo dato se atribuye a una de estas cuatro fuentes**; los datos de estudios concretos aparecen solo cuando los recoge alguna de ellas. Ver `FUENTES.md`.
-
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
 La **meningitis** es un síndrome inflamatorio de las meninges definido analíticamente por **pleocitosis en el LCR (>5 leucocitos/µL)**. Sus manifestaciones cardinales son **fiebre, cefalea intensa y rigidez de nuca**, con náuseas, vómitos y fotofobia (SEN 2023). Por tiempo de evolución es **aguda** si dura **≤5 días**, **subaguda** de 5 días a 4 semanas y **crónica** más allá de 4 semanas (SEN 2023). *La SEMES 2012 usa cortes algo distintos (aguda 48-72 h, subaguda >3-7 días, crónica >3-4 semanas). Lo práctico: la bacteriana empeora el estado general y evoluciona en <24 h (SEN 2023).*
