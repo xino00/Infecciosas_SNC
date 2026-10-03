@@ -259,7 +259,7 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 ### 8.1. DEXAMETASONA
 
-**---> PAUTA**: **DEXAMETASONA 10 mg IV cada 6 h (0,15 mg/kg) durante 4 días**, con la **primera dosis antes o junto con la primera dosis de antibiótico** (SEN 2023; SEN 2025; ESCMID, grado A en países de renta alta). *La SEMES 2012 la da 15 min antes o a la vez que el antibiótico y la suspende al 3.º-4.º día.*
+**---> PAUTA**: **DEXAMETASONA 10 mg IV cada 6 h (0,15 mg/kg) durante 4 días**, con la **primera dosis antes o junto con la primera dosis de antibiótico** (SEN 2023; SEN 2025; ESCMID, grado A en países de renta alta).
 
 - **Indicación**: **sospecha clínica y analítica de MBA** (SEN 2023), **en todos los casos de meningitis purulenta** (SEN 2025); sospecha fuerte o confirmación (NICE 1.8.1). *Según la SEMES 2012, el mayor beneficio se obtiene con pleocitosis >1.000/mm³, presión de apertura >25 cm H₂O o GCS <11.*
 - **Si ya se ha dado el antibiótico**: **puede iniciarse hasta 4 h después de la primera dosis IV** (ESCMID, grado C, por consenso; la SEN 2025 lo atribuye a "algunos autores"). *La NICE es más permisiva: darla si el retraso es <12 h y consultar si es >12 h, porque en los ensayos nadie la recibió más de 12 h después. La SEMES 2012 decía "no darla si ya recibía antibiótico parenteral", algo ya superado.*
