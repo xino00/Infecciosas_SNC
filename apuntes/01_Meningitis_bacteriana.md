@@ -69,7 +69,7 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 ### 4.1. ¿TC craneal ANTES de la punción lumbar?
 
-**SEN 2025** (Manual del Residente, cap. 40, §1.5, p. 622): **recomienda neuroimagen antes de la PL**, generalmente TC craneal, pero **solo la considera obligatoria ante la posibilidad de una lesión intracerebral con riesgo de herniación tras la PL**. Enumera los siguientes criterios:
+**SEN 2025** (*Manual del Residente de Neurología*, cap. 40, §1.5, p. 622): **recomienda neuroimagen antes de la PL**, generalmente TC craneal, pero **solo la considera obligatoria ante la posibilidad de una lesión intracerebral con riesgo de herniación tras la PL**. Enumera los siguientes criterios:
 
 - **Focalidad neurológica**.
 - **Bajo nivel de consciencia**.
