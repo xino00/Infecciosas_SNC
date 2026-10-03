@@ -1,6 +1,8 @@
 # MENINGITIS BACTERIANA AGUDA DEL ADULTO (ADQUIRIDA EN LA COMUNIDAD)
 
 > **Fuentes (pirámide de recomendaciones)**: **SEN (2023 y 2025) → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. Ante una discrepancia, manda la fuente situada más arriba; lo que una fuente superior no trata se toma de la siguiente. **Si las dos SEN discrepan, manda la SEN 2025** (Manual del Residente, cap. 40). Las discrepancias se señalan en *cursiva*. **Todo dato se atribuye a una de estas cuatro fuentes**; los datos de estudios concretos aparecen solo cuando los recoge alguna de ellas. Ver `FUENTES.md`.
+>
+> *Ecología local: los porcentajes de resistencia locales de 2024 van en cursiva con la etiqueta **(ecología local 2024)**, fuera de la pirámide. No son recomendaciones ni cambian ninguna pauta. Ver `FUENTES.md` (§8).*
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
@@ -166,11 +168,13 @@ Cubrir neumococo y meningococo (+ *H. influenzae* en la fractura de base de crá
 
 *La vancomicina cubre el neumococo con sensibilidad disminuida a la C3G. La SEN 2025 la justifica por la frecuencia creciente del neumococo resistente a penicilina (aunque en su tabla por edades, entre los 16 y los 50 años, la condiciona a que sea "zona de resistencias"). La ESCMID la indica (o la rifampicina) **cuando hay riesgo de sensibilidad disminuida del neumococo**, y cita a **España entre los países con un 20-50 % de sensibilidad disminuida a penicilina** (datos del ECDC de 2011). **Se retira cuando el antibiograma confirma sensibilidad a la C3G** (SEN 2025). La NICE no incluye vancomicina empírica porque en Reino Unido la resistencia es baja.*
 
+*Ecología local 2024: el **12 % de los neumococos no es sensible a la cefotaxima con el punto de corte de meningitis** (0 % con el de neumonía) y la **resistencia a la vancomicina es del 0 %**. Son aislamientos de todas las muestras, no solo del LCR. Es el dato español más reciente de estos apuntes y es coherente con mantener la vancomicina empírica hasta tener el antibiograma. Resistencia a la rifampicina, alternativa de la ESCMID: 0 %.*
+
 *Alternativas de la ESCMID (tabla 4.1): ceftriaxona **4 g cada 24 h** en lugar de 2 g cada 12 h, y **rifampicina 300 mg cada 12 h en lugar de la vancomicina**.*
 
 **---> ALERGIA GRAVE A BETALACTÁMICOS** (SEN 2023): **VANCOMICINA + MOXIFLOXACINO 400 mg IV cada 24 h** (en lugar de la C3G).
 
-*Matiz de la NICE (1.6.16): solo es alergia grave la reacción claramente alérgica (anafilaxia, dificultad respiratoria, angioedema). Si la reacción **no** fue grave, recomienda **mantener la cefalosporina**, porque la anafilaxia por cefalosporinas es rara. Para la alergia grave, la NICE propone **cloranfenicol**; la SEN, moxifloxacino.*
+*Matiz de la NICE (1.6.16): solo es alergia grave la reacción claramente alérgica (anafilaxia, dificultad respiratoria, angioedema). Si la reacción **no** fue grave, recomienda **mantener la cefalosporina**, porque la anafilaxia por cefalosporinas es rara. Para la alergia grave, la NICE propone **cloranfenicol**; la SEN, moxifloxacino. Resistencia local del neumococo al levofloxacino: 2 %; no hay datos locales del moxifloxacino (ecología local 2024).*
 
 ### 6.2. Adulto >50 años o con factores de riesgo de *Listeria*
 
@@ -187,6 +191,8 @@ Cubrir neumococo, meningococo, *Listeria* y bacilos gramnegativos, incluida *Pse
 **---> PRIMERA ELECCIÓN** (SEN 2023): **VANCOMICINA + AMPICILINA + CEFEPIMA 2 g IV cada 8 h o MEROPENEM 2 g IV cada 8 h**.
 
 *La SEN 2025 no trata aparte la inmunosupresión intensa: para la inmunodepresión en general da la pauta de los >50 años (C3G + vancomicina + ampicilina), aunque reconoce los bacilos gramnegativos (P. aeruginosa, Klebsiella) en las enfermedades avanzadas. En el neutropénico, el trasplantado y el que recibe quimioterapia se sigue la SEN 2023, más específica para este grupo y con cobertura de Pseudomonas.*
+
+*Ecología local 2024, para elegir entre las dos opciones de la SEN 2023: resistencia a la **cefepima** del 10 % en P. aeruginosa, del **32 % en K. pneumoniae** y del 12 % en E. coli (BLEE en el 23 % y el 14 %); al **meropenem**, del 5 %, el 3 % y el 0 %. Pesan también la colonización previa por BLEE y el antibiótico reciente: decidirlo con Infecciosas.*
 
 ### 6.4. Neurocirugía previa o traumatismo craneal penetrante
 
@@ -246,10 +252,12 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 - ***Listeria***: *la gentamicina "puede considerarse", con precaución por el riesgo de fracaso renal (ESCMID). Alternativas: cotrimoxazol, moxifloxacino, meropenem, linezolid (ESCMID). La NICE propone valorar, consultando antes, añadir cotrimoxazol los primeros 7 días.*
 - ***S. aureus***: **buscar endocarditis o absceso epidural espinal**, que pueden requerir cirugía y más tratamiento (ESCMID).
 - *Duración según la SEN 2025: **10-14 días en general**; 7 días "pueden bastar" en la meningocócica; 14 días en la neumocócica; y **al menos 3 semanas en Listeria y en los gramnegativos**, por la alta tasa de recidivas con pautas más cortas. La SEN 2023 y la ESCMID dan 10-14 días para el neumococo; los 14 días de la SEN 2025 caen dentro de ese rango.*
-- *H. influenzae: la SEN 2025 propone ampicilina sin precisar que la cepa deba ser sensible; hasta tener el antibiograma, C3G (SEN 2023).*
-- *Estreptococo del grupo B: la NICE propone C3G; manda la SEN 2025. La duración la da solo la NICE.*
+- *H. influenzae: la SEN 2025 propone ampicilina sin precisar que la cepa deba ser sensible; hasta tener el antibiograma, C3G (SEN 2023). Resistencia local de H. influenzae a la ampicilina: 9 %; a la C3G: 0 % (ecología local 2024).*
+- *S. aureus: resistencia local a meticilina (SAMR) del **30 %**; a vancomicina y daptomicina, 0 %; a linezolid, solo casos aislados (ecología local 2024).*
+- *Estreptococo del grupo B: la NICE propone C3G; manda la SEN 2025. La duración la da solo la NICE. Resistencia local a la ampicilina: 0 % (ecología local 2024).*
 - *Sin germen identificado: la ESCMID (≥2 semanas) prevalece sobre la NICE (10 días), porque la SEN no concreta este supuesto (la SEN 2025 da 10-14 días como duración general).*
 - *Enterobacterias: la NICE reconoce que los 21 días no se basan en evidencia (derivan del principio de 14 días tras esterilizar el LCR); la SEN 2025 los justifica por la tasa de recidivas.*
+- *Enterobacterias (ecología local 2024): resistencia a la **C3G del 14 % en E. coli y del 25 % en K. pneumoniae** (BLEE en el 14 % y el 23 %); al **meropenem, del 0 % y el 3 %**. Es coherente con la propuesta de la NICE de valorar el meropenem con Infecciosas mientras llega el antibiograma.*
 - *Meningococo: si no hay recuperación al terminar la pauta, consultar con Infecciosas (NICE).*
 
 ## 8. TRATAMIENTO ADYUVANTE
@@ -351,12 +359,18 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 ## 12. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
-- **VANCOMICINA EMPÍRICA: SÍ EN ESPAÑA.** La ESCMID adapta el tratamiento empírico a la resistencia local y sitúa a **España (con Francia y Rumanía) entre los países con un 20-50 % de neumococos con sensibilidad disminuida a penicilina**, frente a <1 % en Países Bajos, Inglaterra, Dinamarca o Alemania (ECDC 2011). La **SEMES 2012** ya indicaba añadir vancomicina donde hay muchas resistencias a penicilinas y C3G, la **SEN 2023** la incluye en todas las pautas y la **SEN 2025** la justifica por la frecuencia creciente del neumococo resistente. La **NICE** no la incluye porque en Reino Unido la resistencia es baja. *Las cuatro fuentes no aportan datos españoles de resistencia más recientes que los del ECDC de 2011.*
+- **VANCOMICINA EMPÍRICA: SÍ EN ESPAÑA.** La ESCMID adapta el tratamiento empírico a la resistencia local y sitúa a **España (con Francia y Rumanía) entre los países con un 20-50 % de neumococos con sensibilidad disminuida a penicilina**, frente a <1 % en Países Bajos, Inglaterra, Dinamarca o Alemania (ECDC 2011). La **SEMES 2012** ya indicaba añadir vancomicina donde hay muchas resistencias a penicilinas y C3G, la **SEN 2023** la incluye en todas las pautas y la **SEN 2025** la justifica por la frecuencia creciente del neumococo resistente. La **NICE** no la incluye porque en Reino Unido la resistencia es baja. *Las cuatro fuentes no aportan datos españoles de resistencia más recientes que los del ECDC de 2011. El dato local de 2024 (12 % de neumococos no sensibles a la cefotaxima con el punto de corte de meningitis; 0 % de resistencia a la vancomicina) va en la misma dirección.*
 - **Penicilina**: solo como tratamiento dirigido si la **CMI de penicilina es <0,1 µg/mL** (ESCMID).
 - **Dosis de cefotaxima**: 2 g cada 4-6 h (SEN; ESCMID); 2-3 g cada 6 h si el neumococo es resistente a C3G (ESCMID).
 - **TC antes de la PL**: la práctica española (SEN 2023, SEMES 2012) tendía a hacerla a casi todos los pacientes. La **SEN 2025** la mantiene como recomendable pero **solo obligatoria con criterios**, más cerca de la ESCMID y la NICE, que la restringen porque retrasa el antibiótico. Si se hace, **antibiótico primero**.
 - **Meningococo en España** (SEN 2025): la incidencia cayó más de un 50 % en 2020-2022; los serogrupos B e Y son hoy los más frecuentes en Europa, y por eso la vacuna tetravalente ACWY ha sustituido a la del serogrupo C a los 12 años.
 - **Ceftriaxona y soluciones con calcio**: son incompatibles (alerta de la MHRA citada por la NICE).
+- **Ecología local 2024** (porcentaje de resistencia):
+  - **Neumococo**: cefotaxima 12 % con el punto de corte de meningitis; **vancomicina 0 %**; rifampicina 0 %; levofloxacino 2 %.
+  - ***H. influenzae***: ampicilina 9 %; **C3G 0 %**.
+  - ***S. aureus***: **SAMR 30 %**; vancomicina 0 %.
+  - **Enterobacterias**: BLEE en el 14 % de *E. coli* y el 23 % de *K. pneumoniae*; meropenem 0-3 %.
+  - *No hay datos locales de meningococo ni de Listeria, ni datos propios del LCR.*
 
 ## REFERENCIAS
 

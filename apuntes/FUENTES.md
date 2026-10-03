@@ -1,6 +1,8 @@
 # FUENTES DE LOS APUNTES
 
 > **Decisión del autor (01/10/2026): las referencias de los apuntes son solo cuatro fuentes**: la **SEN** (Manual de Urgencias Neurológicas de 2023 y Manual del Residente de Neurología de 2025), la **ESCMID** (guía de meningitis bacteriana de 2016 y guía de absceso cerebral de 2024), la **NICE NG240 2024** y la **SEMES 2012**. Cada dato se atribuye a una de ellas, con el año en el caso de la SEN y la ESCMID. Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro, y se citan a través de ella.
+>
+> **Decisión del autor (03/10/2026): se añaden porcentajes de resistencia de la ecología local de 2024, fuera de la pirámide.** No son una fuente de recomendaciones: se usan donde las fuentes piden adaptar la pauta a la resistencia local. Llevan la etiqueta **(ecología local 2024)** y no tienen referencia bibliográfica (ver §8).
 
 ## 1. Pirámide de recomendaciones
 
@@ -139,3 +141,36 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - *INFURG-SEMES 2026 (Antibioterapia empírica en infecciones prevalentes): no tiene capítulo de infecciones del SNC.*
 - *Anexo A de la revisión de evidencia ER24 de la NICE: es solo un protocolo, sin recomendaciones.*
 - *Las guías que cita la SEN 2025 (OMS 2022 de criptococo, IDSA de candidiasis, aspergilosis y neurocisticercosis, guía británica de encefalitis de 2012, criterios de los CDC de 2018 para los priones) se citan solo a través de ella.*
+
+## 8. Ecología local (2024)
+
+**Qué es**: porcentajes de resistencia locales de 2024 por especie y antibiótico. Queda **fuera de la pirámide** porque no recomienda pautas: informa la "resistencia local" a la que remiten las fuentes.
+- **SEN 2023 y ESCMID 2016**: elegir la pauta empírica según la resistencia local (grado A en la ESCMID).
+- **SEN 2025**: vancomicina en "zona de resistencias".
+- **SEMES 2012**: vancomicina donde hay muchas resistencias a penicilinas y C3G.
+- **Respuesta de los autores de la ESCMID 2024**: adaptar la pauta del absceso posneuroquirúrgico a la prevalencia de multirresistentes.
+
+**Reglas de uso en los apuntes**:
+1. **No cambia ninguna pauta ni resuelve discrepancias entre fuentes.** Sirve para ver qué deja sin cubrir cada pauta y para elegir entre las opciones que ya dan las fuentes, siempre con Infecciosas.
+2. Se escribe en *cursiva*, con la etiqueta **(ecología local 2024)**, junto al punto de decisión al que se refiere y en las notas para el contexto español de cada capítulo.
+3. Se da como **porcentaje de resistencia** (cepas no sensibles), sin referencia bibliográfica.
+4. Lo que es interpretación y no dato se señala como tal.
+
+**Dónde se usa**:
+
+| Capítulo | Datos |
+|---|---|
+| 1. Meningitis bacteriana | Neumococo con el punto de corte de meningitis (cefotaxima 12 %, vancomicina 0 %), *H. influenzae*, *S. aureus*, estreptococo del grupo B, enterobacterias; cefepima o meropenem en el inmunodeprimido |
+| 2. Meningitis subaguda | *M. tuberculosis*: 0 % de resistencia a los fármacos de primera línea (número de aislamientos desconocido) |
+| 4. Absceso cerebral | SAMR, enterococos (absceso por endocarditis), elección del betalactámico en el posneuroquirúrgico |
+| 5. Infecciones parameníngeas | SAMR frente a las pautas con cloxacilina (tromboflebitis séptica), absceso epidural espinal, alternativas en la alergia |
+| 6. Derivaciones de LCR | Estafilococos coagulasa negativos, *C. acnes*, elección del betalactámico y alternativas a la vancomicina |
+| 3 y 7 | Sin datos útiles (virus, hongos y parásitos) |
+
+**Limitaciones**:
+- Datos agregados de todas las muestras del hospital: **no hay datos propios del LCR** ni estratificación por servicio (UCI, Neurocirugía) ni por origen (comunitario o nosocomial). *En el paciente de UCI, con ingreso prolongado o colonizado por multirresistentes, la resistencia puede ser mayor que la media.*
+- Resistencia = cepas no sensibles según EUCAST; la categoría I ("sensible si se aumenta la exposición") se cuenta como sensible.
+- Sin datos de meningococo, *Listeria*, grupo *S. anginosus*, *Nocardia*, *Acinetobacter* ni hongos; sin datos de la ceftriaxona ni la penicilina en el neumococo, del moxifloxacino ni del aztreonam.
+- *M. tuberculosis*: número de aislamientos desconocido.
+
+*Con estos datos queda parcialmente cubierta la limitación de los datos españoles de resistencia del neumococo, que dentro de la pirámide son del ECDC de 2011: en 2024, el 12 % de los neumococos locales no es sensible a la cefotaxima con el punto de corte de meningitis.*

@@ -1,6 +1,8 @@
 # MENINGITIS LINFOCITARIA, ASÉPTICA, SUBAGUDA Y CRÓNICA DEL ADULTO
 
 > **Fuentes (pirámide)**: **SEN (2023 y 2025) → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. La SEN (2023: cap. 12.1; 2025: caps. 40, 42 y 43) y la SEMES son las que tratan la meningitis vírica, la subaguda y la crónica; la ESCMID y la NICE aportan sobre todo el diagnóstico diferencial con la meningitis bacteriana. **Si las dos SEN discrepan, manda la SEN 2025.** Las discrepancias y los matices van en *cursiva*. Ver `FUENTES.md` y el capítulo 1.
+>
+> *Ecología local: los porcentajes de resistencia locales de 2024 van en cursiva con la etiqueta **(ecología local 2024)**, fuera de la pirámide. No son recomendaciones ni cambian ninguna pauta. Ver `FUENTES.md` (§8).*
 
 ## 1. DEFINICIÓN Y CLASIFICACIÓN
 
@@ -181,6 +183,7 @@
 - **Corticoides**: **DEXAMETASONA 0,3 mg/kg/día o PREDNISONA 1 mg/kg/día las 2 primeras semanas**, con descenso progresivo hasta las 4-6 semanas (SEN 2025). *La SEN 2025 los indica "en casos graves", y la redacción no deja claro si esa condición se refiere a toda la pauta o solo a prolongarla; la SEMES 2012 decía que su uso "está aceptado" sin dar pauta.*
 - Añadir **piridoxina 25-50 mg/día VO** para evitar la neuropatía (SEMES 2012). *Si no tolera la vía oral, empezar por vía IV (isoniazida, rifampicina y, si se usa, estreptomicina) y pasar después a la oral (SEMES 2012).*
 - ⚠️ ***Discrepancia con evidencia dudosa**: la SEMES 2012 da de entrada **cuatro fármacos** (con **etambutol 25 mg/kg/día, máx. 1,5 g**, o **estreptomicina 15 mg/kg/día, máx. 1 g**, "según la sensibilidad a isoniazida y rifampicina"). Por la pirámide manda la SEN 2025, que reserva el etambutol al fracaso previo o a la zona de multirresistencia. **Consultar siempre con Infecciosas antes de prescindir del cuarto fármaco.***
+- *Ecología local 2024: **0 % de resistencia de M. tuberculosis** a isoniazida, rifampicina, pirazinamida, etambutol y estreptomicina, con un número de aislamientos desconocido. Indica una resistencia local baja, pero **no resuelve la discrepancia**: el criterio de la SEN 2025 depende del paciente (tratamiento previo, procedencia de una zona de multirresistencia), y el antibiograma de la cepa tarda semanas.*
 
 **---> MENINGITIS POR *BRUCELLA*** (SEN 2025): **RIFAMPICINA 15 mg/kg/día + DOXICICLINA 100 mg cada 12 h + GENTAMICINA 4 mg/kg/día, 2 semanas**; después **rifampicina + doxiciclina hasta completar al menos 8 semanas**. Añadir **dexametasona en los casos graves** (estupor, HTIC o focalidad).
 - *La SEMES 2012 proponía doxiciclina 100 mg cada 12 h + rifampicina 600 mg/día, con o sin estreptomicina 1 g/día IM o gentamicina 5 mg/kg/día IV. Manda la SEN 2025 (triple terapia con gentamicina las 2 primeras semanas).*
@@ -229,7 +232,7 @@
 ## 7. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
 - **Tuberculosis y brucelosis** siguen siendo causas relevantes de meningitis subaguda en España (SEMES 2012). Ante un perfil linfocitario con glucosa baja, pedir siempre **Ziehl, ADA, cultivo y PCR de micobacterias** y serología de *Brucella* (SEMES 2012; SEN 2025).
-- **Tuberculosis: cuarto fármaco**. La SEN 2025 da una pauta inicial de tres fármacos y reserva el etambutol al fracaso previo o a la procedencia de zonas de multirresistencia; la SEMES 2012 daba cuatro. *Es el punto más dudoso del capítulo: decidir siempre con Infecciosas.*
+- **Tuberculosis: cuarto fármaco**. La SEN 2025 da una pauta inicial de tres fármacos y reserva el etambutol al fracaso previo o a la procedencia de zonas de multirresistencia; la SEMES 2012 daba cuatro. *Es el punto más dudoso del capítulo: decidir siempre con Infecciosas. Resistencia local a los fármacos de primera línea en 2024: 0 % (ecología local 2024), un dato que no sustituye al antibiograma ni a la historia del paciente.*
 - **Arbovirus en Europa** (SEN 2023): en verano, pensar en el **virus West Nile** y el **virus Toscana** si hay picaduras de mosquito o flebótomo.
 - **Pedir serología de VIH** (y carga viral si se sospecha seroconversión): la primoinfección es una causa de meningitis aséptica, y el VIH avanzado predispone a criptococo y tuberculosis (SEN 2023; SEN 2025).
 - **Lyme**: no pedir serología de rutina fuera de un cuadro compatible con exposición a garrapatas (SEN 2025).

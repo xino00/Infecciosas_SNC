@@ -2,6 +2,8 @@
 
 > **Fuentes**: la base es la **SEMES 2012** (cap. 23), la única de las fuentes que trata con detalle las infecciones de las derivaciones de LCR. La **SEN** aporta la **pauta empírica tras neurocirugía o traumatismo penetrante** y la **tabla de meningitis asociada a cuidados sanitarios** (SEN 2023), y además la **duración**, la **retirada del catéter y el momento del reimplante** y las alternativas en la alergia y a la vancomicina (SEN 2025, Manual del Residente, cap. 40); si discrepa, prevalece sobre la SEMES, y entre las dos SEN manda la de 2025. La **NICE NG240 excluye expresamente** de su alcance a los pacientes con derivaciones intracraneales o neurocirugía previa, y la **ESCMID 2016** no da recomendaciones específicas sobre ellos. Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
 >
+> *Ecología local: los porcentajes de resistencia locales de 2024 van en cursiva con la etiqueta **(ecología local 2024)**, fuera de la pirámide. No son recomendaciones ni cambian ninguna pauta. Ver `FUENTES.md` (§8).*
+>
 > *Aviso: la evidencia de este capítulo es la de un manual de urgencias de 2012 y dos manuales de expertos (2023 y 2025), sin grados de recomendación. Las decisiones sobre el dispositivo corresponden a Neurocirugía; la antibioterapia debe consensuarse con Infecciosas.*
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
@@ -36,7 +38,7 @@
 
 ## 2. EPIDEMIOLOGÍA
 
-*Datos de la SEMES 2012, en su mayoría de series estadounidenses; ninguna de las cuatro fuentes aporta datos españoles específicos.*
+*Datos de la SEMES 2012, en su mayoría de series estadounidenses; ninguna de las cuatro fuentes aporta datos españoles específicos. La resistencia local de los gérmenes de este capítulo está en §3, §7.1 y §9 (ecología local 2024).*
 
 - Las complicaciones de las derivaciones son frecuentes: **32 % a los 5 años**, sobre todo **en el primer año** tras la intervención.
 - **Incidencia de infección**: muy variable en las series antiguas (1,5-41 %); en las más recientes, **5-16,5 %**, pese a la profilaxis antibiótica y a los **catéteres impregnados de antibiótico**.
@@ -58,6 +60,12 @@
 ***Candida*** (SEN 2025): las derivaciones ventriculoperitoneales y la neurocirugía son factores de riesgo de candidiasis del SNC; hay que **retirar los dispositivos infectados** siempre que se pueda (capítulo 7).
 
 *Cutibacterium (antes Propionibacterium) acnes* (SEMES 2012): probablemente **infradiagnosticado**. Produce infecciones **oligosintomáticas, con LCR poco alterado**, y el cultivo debe incubarse **al menos 14 días**.
+
+*Ecología local 2024 (porcentaje de resistencia):*
+- *Resistencia a meticilina en los estafilococos coagulasa negativos: **S. epidermidis 70 %**, S. hominis 65 %, S. haemolyticus 89 %.*
+- ***S. aureus**: SAMR 30 %.*
+- *Vancomicina: 0-1 % en todos los estafilococos.*
+- ***C. acnes**: penicilina y vancomicina, 0 %; **metronidazol, 100 %**.*
 
 ## 4. CLÍNICA Y VALORACIÓN EN URGENCIAS
 
@@ -129,15 +137,23 @@
 - **+ CEFTAZIDIMA 2 g IV cada 8 h** o **CEFEPIMA 2 g IV cada 8 h** o **MEROPENEM 2 g IV cada 8 h**.
 - *Si se sospecha ***S. aureus***, la SEN 2023 recomienda **dosis de carga de vancomicina de 20-35 mg/kg**.*
 
+*Ecología local 2024 (porcentaje de resistencia) para la pauta empírica:*
+- ***Vancomicina**: 0 % en S. aureus (SAMR 30 %), 0-1 % en los estafilococos coagulasa negativos y 0 % en C. acnes.*
+- ***Ceftazidima y cefepima**: **10-11 % en P. aeruginosa**, pero **26 % y 32 % en K. pneumoniae** (BLEE 23 %) y 11 % y 12 % en E. coli (BLEE 14 %). En Enterobacter, 29 % a la ceftazidima frente a 7 % a la cefepima.*
+- ***Meropenem**: 5 % en P. aeruginosa, 3 % en K. pneumoniae y 0 % en E. coli. Enterobacterias productoras de carbapenemasas: 1,8 %.*
+- *Son datos de todo el hospital, sin estratificar por Neurocirugía ni UCI. La elección entre las tres opciones de la SEN depende del riesgo individual de gramnegativos multirresistentes (UCI, colonización previa, antibiótico reciente) y se toma con Infecciosas.*
+
 **---> ALTERNATIVA** (alergia a betalactámicos), en lugar del betalactámico:
 
 - **AZTREONAM 2 g IV cada 6-8 h** (SEN 2023; SEN 2025; SEMES 2012) o **CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEN 2025), con la vancomicina.
 - *La SEMES 2012 propone **LEVOFLOXACINO 500 mg IV cada 12 h** como alternativa al aztreonam; la SEN no lo recoge (la de 2025 propone ciprofloxacino).*
+- *Ecología local 2024: resistencia al **ciprofloxacino** del **19 % en P. aeruginosa** y del **26-27 % en E. coli y K. pneumoniae**. No hay datos locales del aztreonam.*
 
 **Alternativas a la vancomicina** (SEN 2025; SEMES 2012):
 
 - **LINEZOLID 600 mg IV cada 12 h** o **DAPTOMICINA** en la meningitis estafilocócica (SEN 2025; la SEN 2025 no da la dosis de daptomicina). *La SEMES 2012 incluye el linezolid en su tabla de pautas empíricas, pero en el texto dice que no es de primera línea.*
 - **Rifampicina** asociada a la vancomicina u otros antiestafilocócicos puede ser útil en algunos casos (SEMES 2012; SEN 2025).
+- *Ecología local 2024 (porcentaje de resistencia): **linezolid**, 0-2 % en los estafilococos (casos aislados de S. aureus resistente); **daptomicina**, 0-1 %; **rifampicina**, 6 % en S. aureus, 9 % en S. epidermidis y 31 % en S. haemolyticus; **teicoplanina**, 22 % en S. epidermidis.*
 - **Antibioterapia intraventricular** (sobre todo vancomicina): la SEN 2025 propone **valorar vancomicina intratecal, 20 mg/día**, si hay derivación (tabla 1); la SEMES 2012 la reserva para las infecciones con **mala respuesta** y cita también la rifampicina intraventricular. **Es una decisión de Neurocirugía e Infecciosas, no una medida de urgencias.**
 
 *Dosis de vancomicina: la SEMES 2012 da **1 g cada 8-12 h**; se sigue la **SEN** (**15-20 mg/kg**, con carga de 20-35 mg/kg si se sospecha *S. aureus*; SEN 2023). Ninguna de las fuentes detalla la monitorización de niveles: ajustar con Farmacia e Infecciosas.*
@@ -191,6 +207,11 @@
 - **Evidencia limitada**: solo la SEMES 2012 trata las derivaciones de LCR con detalle; la SEN 2023 aporta la pauta empírica y la tabla de etiología, y la SEN 2025 la pauta, la duración y el reimplante en la meningitis nosocomial. Ninguna tiene grados de recomendación. **La NICE las excluye de su alcance.**
 - **Absceso cerebral posneuroquirúrgico**: si la imagen muestra un absceso tras neurocirugía, la **ESCMID 2024** recomienda **meropenem + vancomicina o linezolid** (recomendación condicional, certeza baja). Sus autores aceptaron después que **ceftazidima o cefepima + vancomicina o linezolid** es igual de adecuada si el riesgo de gramnegativos multirresistentes es bajo, que es la pauta de este capítulo → ver **capítulo 4**.
 - **Drenaje externo en paciente de UCI**: riesgo de ***P. aeruginosa*, *A. baumannii* y otros multirresistentes** (SEMES 2012). Ajustar la pauta a la **epidemiología local** y a las colonizaciones previas, con Infecciosas.
+- **Ecología local 2024** (porcentaje de resistencia):
+  - **La vancomicina es imprescindible**: el 70 % de *S. epidermidis* y el 30 % de *S. aureus* son resistentes a meticilina.
+  - **Betalactámico**: con ceftazidima o cefepima, 26-32 % en *K. pneumoniae* y 10-11 % en *P. aeruginosa*; con meropenem, 3 % y 5 %. Enterobacterias productoras de carbapenemasas: 1,8 % (sobre todo OXA-48 y KPC).
+  - **Alergia**: ciprofloxacino, 19-27 % en los gramnegativos; no hay datos locales del aztreonam.
+  - *No hay datos locales de A. baumannii, del LCR ni de la UCI o Neurocirugía por separado: en el paciente de UCI la resistencia puede ser mayor que la media del hospital.*
 - **Meningitis comunitaria en un portador de derivación** (neumococo, meningococo, *H. influenzae*): tratarla como la meningitis bacteriana comunitaria (**capítulo 1**), añadiendo la cobertura del capítulo actual si no se puede descartar la infección del dispositivo.
 
 ## REFERENCIAS

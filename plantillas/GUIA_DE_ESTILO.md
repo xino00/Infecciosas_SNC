@@ -14,7 +14,7 @@
    - Comentario farmacológico/evidencia en *cursiva*.
    - Terapia secuencial / desescalada, **duración**, **tratamiento adyuvante** (con los datos de evidencia que recojan las guías).
 6. **ESTUDIOS MICROBIOLÓGICOS / PRUEBAS** — escalonado por gravedad (lo que se pide y lo que NO, y por qué).
-7. **NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO** — viñetas: discrepancias entre las cuatro guías, resistencias locales, disponibilidad de fármacos.
+7. **NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO** — viñetas: discrepancias entre las cuatro guías, resistencias locales (**ecología local 2024**, si es pertinente), disponibilidad de fármacos.
 8. **REFERENCIAS** — solo las cuatro fuentes: cita completa en negrita-cursiva + *nivel en la pirámide y qué aporta cada una*.
 
 ## Convenciones
@@ -23,6 +23,7 @@
   - Si las dos SEN discrepan, manda la **SEN 2025**.
   - En el **absceso cerebral** manda la **ESCMID 2024**: **ESCMID 2024 → SEN 2025 → SEMES 2012**.
 - **Cada dato se atribuye a su fuente** entre paréntesis: la SEN con su año (SEN 2023 o SEN 2025), la NICE con el número de recomendación (p. ej., NICE 1.4.7) y la ESCMID con su año y su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024). Los estudios primarios solo aparecen cuando los recoge alguna de las fuentes, y se citan a través de ella (p. ej., "la ESCMID resume la revisión Cochrane…").
+- **Ecología local (2024)**: porcentajes de resistencia locales, **fuera de la pirámide** y sin referencia bibliográfica. Solo se añaden donde las fuentes piden adaptar la pauta a la resistencia local: en *cursiva*, con la etiqueta **(ecología local 2024)**, junto al punto de decisión y en las notas para el contexto español. No cambian pautas ni resuelven discrepancias; lo que sea interpretación y no dato se señala como tal. Reglas en `apuntes/FUENTES.md` (§8).
 - Negrita para conceptos y fármacos clave; MAYÚSCULAS para lo que hay que "ver de un vistazo" en urgencias.
 - *Cursiva* = matiz, dato de evidencia o comentario de fondo (prescindible en lectura rápida).
 - Dosis siempre con vía e intervalo (y ajuste en perfusión extendida/función renal si procede).
