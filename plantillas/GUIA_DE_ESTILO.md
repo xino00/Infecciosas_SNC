@@ -19,10 +19,9 @@
 
 ## Convenciones
 
-- **Fuentes: solo cuatro**, en pirámide: **SEN (2023 urgencias; 2025 residente) → ESCMID (2016 meningitis; 2024 absceso cerebral) → NICE NG240 2024 → SEMES 2012**. Ante una discrepancia manda la de más arriba; lo que no trata se toma de la siguiente. La discrepancia se anota en *cursiva*.
-  - Si las dos SEN discrepan, manda la **SEN 2025**.
+- **Fuentes: solo cuatro**, en pirámide: **SEN 2025 (Manual del Residente) → ESCMID (2016 meningitis; 2024 absceso cerebral) → NICE NG240 2024 → SEMES 2012**. Ante una discrepancia manda la de más arriba; lo que no trata se toma de la siguiente. La discrepancia se anota en *cursiva*.
   - En el **absceso cerebral** manda la **ESCMID 2024**: **ESCMID 2024 → SEN 2025 → SEMES 2012**.
-- **Cada dato se atribuye a su fuente** entre paréntesis: la SEN con su año (SEN 2023 o SEN 2025), la NICE con el número de recomendación (p. ej., NICE 1.4.7) y la ESCMID con su año y su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024). Los estudios primarios solo aparecen cuando los recoge alguna de las fuentes, y se citan a través de ella (p. ej., "la ESCMID resume la revisión Cochrane…").
+- **Cada dato se atribuye a su fuente** entre paréntesis: la SEN con su año (SEN 2025), la NICE con el número de recomendación (p. ej., NICE 1.4.7) y la ESCMID con su año y su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024). Los estudios primarios solo aparecen cuando los recoge alguna de las fuentes, y se citan a través de ella (p. ej., "la ESCMID resume la revisión Cochrane…").
 - Negrita para conceptos y fármacos clave; MAYÚSCULAS para lo que hay que "ver de un vistazo" en urgencias.
 - *Cursiva* = matiz, dato de evidencia o comentario de fondo (prescindible en lectura rápida).
 - Dosis siempre con vía e intervalo (y ajuste en perfusión extendida/función renal si procede).

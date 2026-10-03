@@ -1,6 +1,6 @@
 # INFECCIONES PARAMENÍNGEAS Y MEDULARES
 
-> **Fuentes**: **SEN 2025** (Manual del Residente: cap. 41, empiemas y abscesos epidurales; cap. 42, mielitis víricas; cap. 43, esquistosomiasis medular) y **SEMES 2012** (caps. 21 y 22). La **ESCMID 2016** (empiema y trombosis de senos como complicación de la meningitis bacteriana) y la **SEN 2023** (contraindicación de la PL) aportan detalles puntuales. Pirámide: **SEN (2023 y 2025) → ESCMID 2016 → SEMES 2012**; si discrepan, prevalecen sobre la SEMES. La **tromboflebitis séptica de senos** solo la trata con detalle la SEMES 2012. Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
+> **Fuentes**: **SEN 2025** (Manual del Residente: cap. 41, empiemas y abscesos epidurales; cap. 42, mielitis víricas; cap. 43, esquistosomiasis medular) y **SEMES 2012** (caps. 20-22). La **ESCMID 2016** aporta detalles del empiema y la trombosis de senos como complicaciones de la meningitis bacteriana. Pirámide: **SEN 2025 → ESCMID → NICE → SEMES 2012**; la **ESCMID 2024** prevalece en el absceso cerebral, pero no trata el empiema. La **tromboflebitis séptica de senos** solo la trata con detalle la SEMES 2012. Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
 >
 > *Aviso: la evidencia de este capítulo es la de dos manuales españoles (SEN 2025, de expertos, y SEMES 2012, de urgencias), sin grados de recomendación. Las pautas deben consensuarse con Neurocirugía, ORL e Infecciosas.*
 
@@ -126,7 +126,7 @@ Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la mé
 
 **Analítica** (SEMES 2012; SEN 2025): hemograma, bioquímica, coagulación, **VSG y PCR** (suelen estar elevadas en el AEE) y **hemocultivos**, más **exudado de los focos probables**, **antes del antibiótico**. *En el AEE, los hemocultivos tienen un rendimiento moderado (SEN 2025).* En la tromboflebitis de senos, completar con un **estudio de hipercoagulabilidad**. **Exploración ORL y fondo de ojo**.
 
-**Punción lumbar: NO se recomienda** en las IP, por el riesgo de herniación y porque los cambios del LCR son inespecíficos (SEMES 2012). **La sospecha de absceso epidural espinal contraindica la PL** (SEN 2023; SEN 2025: por el riesgo teórico de diseminar la infección y el bajo rendimiento del cultivo). El Gram y el cultivo se hacen sobre el **material quirúrgico o de la punción percutánea** (SEMES 2012).
+**Punción lumbar: NO se recomienda** en las IP, por el riesgo de herniación y porque los cambios del LCR son inespecíficos (SEMES 2012). **La sospecha de absceso epidural espinal contraindica la PL** (SEN 2025, cap. 40, p. 622; cap. 41, p. 640: por el riesgo teórico de diseminar la infección y el bajo rendimiento del cultivo). El Gram y el cultivo se hacen sobre el **material quirúrgico o de la punción percutánea** (SEMES 2012).
 
 **Imagen** (SEMES 2012; SEN 2025). **La RM es superior a la TC** en todas las IP.
 
@@ -150,7 +150,7 @@ Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la mé
 
 **---> EMPIEMA SUBDURAL INTRACRANEAL Y ABSCESO EPIDURAL INTRACRANEAL** (SEN 2025): **elegir el antibiótico como en el absceso cerebral, según el foco de origen** (pauta de la SEN 2025; capítulo 4):
 - **Foco sinusal, ótico o dental**: **CEFTRIAXONA 2 g IV cada 12 h** o **CEFOTAXIMA 2 g IV cada 4 h** **+ METRONIDAZOL 10 mg/kg IV cada 8 h** (dosis de la SEMES 2012). *En el foco sinusal, la SEN 2025 añade vancomicina si hay alto riesgo de S. aureus.*
-- **Traumatismo craneal abierto o neurocirugía**: **VANCOMICINA 15-20 mg/kg IV cada 8-12 h + MEROPENEM, CEFTAZIDIMA o CEFEPIMA 2 g IV cada 8 h** (SEN 2025; dosis de la SEN 2023).
+- **Traumatismo craneal abierto o neurocirugía**: **VANCOMICINA + MEROPENEM, CEFTAZIDIMA o CEFEPIMA** (SEN 2025, cap. 41, tabla 2). *La SEN 2025 no da dosis para esta indicación. La pauta de absceso cerebral de la SEMES 2012 (cap. 20, tabla 2, p. 169) aporta **vancomicina 15-20 mg/kg IV cada 8-12 h** —su pie de tabla especifica **1 g cada 8 h el primer día y después ajuste según concentración sérica**— y **meropenem o cefepima 2 g IV cada 8 h**. La ceftazidima figura como opción sin dosis específica en esa tabla: confirmar la dosificación con Infecciosas o Farmacia.*
 - *Discrepancia: la SEMES 2012 proponía **cloxacilina 2 g IV cada 4 h + C3G ± metronidazol** (alternativa: meropenem 1-2 g IV cada 6-8 h o ertapenem 1 g IV cada 24 h). Manda la SEN 2025. En el absceso cerebral comunitario, la ESCMID 2024 no añade vancomicina; no trata el empiema.*
 
 **---> TROMBOFLEBITIS SÉPTICA DE SENOS** (SEMES 2012, tabla 1; las fuentes de nivel superior no dan pauta):
@@ -160,15 +160,17 @@ Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la mé
 - *Alternativa a la combinación: **MEROPENEM 1-2 g IV cada 6-8 h** o **ERTAPENEM 1 g IV cada 24 h**.*
 
 **---> ABSCESO EPIDURAL ESPINAL Y EMPIEMA SUBDURAL ESPINAL** (SEN 2025), **tras extraer los hemocultivos**:
-- **VANCOMICINA 15-20 mg/kg IV cada 8-12 h + CEFTRIAXONA 2 g IV cada 12 h** (o la pauta de la guía local del hospital). *Dosis de la SEN 2023 (vancomicina) y de la SEMES 2012 (ceftriaxona); la SEN 2025 no da dosis para esta indicación.*
-- **Sospecha de *Pseudomonas*** (infección posquirúrgica, UDVP): **VANCOMICINA + CEFEPIMA, CEFTAZIDIMA o MEROPENEM** (SEN 2025), 2 g IV cada 8 h. *La SEMES 2012 añade piperacilina-tazobactam 4/0,5 g IV cada 6 h como opción.*
+- **VANCOMICINA + CEFTRIAXONA IV** (o la pauta de la guía local del hospital). *La SEN 2025 (cap. 41, p. 640) no da dosis para esta indicación: acordarlas con Infecciosas o Farmacia. La SEMES 2012 (cap. 21, tabla 1, p. 174-175) aporta **ceftriaxona 2 g IV cada 12 h**.*
+- **Sospecha de *Pseudomonas*** (infección posquirúrgica, UDVP): **VANCOMICINA + CEFEPIMA, CEFTAZIDIMA o MEROPENEM** (SEN 2025, sin dosis específicas para esta indicación). *La SEMES 2012 (cap. 21, tabla 1) aporta **cefepima 2 g IV cada 8 h**, **meropenem 1 g IV cada 6 h** o **piperacilina-tazobactam 4/0,5 g IV cada 6 h** para la cobertura antipseudomónica; confirmar la pauta con Infecciosas según la guía local.*
 - Ajustar después al germen y su antibiograma (SEN 2025).
 - *Discrepancia: la SEMES 2012 proponía **cloxacilina 2 g IV cada 4 h + cefotaxima o ceftriaxona** (y vancomicina en lugar de la cloxacilina solo si se sospechaba SAMR). Manda la SEN 2025, que cubre de entrada el SAMR.*
 
-**---> ALTERNATIVA** (alergia a betalactámicos), para todas (SEMES 2012):
-- **VANCOMICINA** (15-20 mg/kg IV cada 8-12 h; la SEMES 2012 daba 1 g cada 8 h) o **TEICOPLANINA 600 mg IV cada 24 h** o **LINEZOLID 600 mg IV cada 12 h**
+**---> ALTERNATIVA** (alergia a betalactámicos), para todas (SEMES 2012, cap. 21, tabla 1, p. 174-175):
+- **VANCOMICINA 1 g IV cada 8 h** o **TEICOPLANINA 600 mg IV cada 24 h** o **LINEZOLID 600 mg IV cada 12 h**
 - **+ AZTREONAM 2 g IV cada 8 h** o **CIPROFLOXACINO 400 mg IV cada 12 h**
 - **± CLINDAMICINA 600 mg IV cada 8 h**.
+
+*Estas dosis corresponden a la tabla específica de infecciones parameníngeas de la SEMES 2012. La SEN 2025 no aporta una pauta de alergia para estas entidades; adaptar las dosis y la monitorización con Infecciosas o Farmacia.*
 
 **Duración**:
 - **Absceso epidural espinal: 4-8 semanas** (SEN 2025).
@@ -245,11 +247,12 @@ Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la mé
 - **Evidencia limitada**: los empiemas y el absceso epidural espinal los tratan dos manuales españoles (SEN 2025 y SEMES 2012), sin grados de recomendación; la tromboflebitis séptica de senos, solo la SEMES 2012. Las pautas antibióticas de la SEMES son de 2012 (incluyen teicoplanina, ertapenem e imipenem) y **deben adaptarse a la epidemiología local y consensuarse con Infecciosas**.
 - **Cambios con la SEN 2025**: **vancomicina + ceftriaxona** en el absceso epidural espinal (en lugar de cloxacilina + C3G), **antibiótico del absceso cerebral según el foco** en los empiemas intracraneales, **4-8 semanas** de tratamiento en el absceso epidural espinal y **cirugía en <48 h aunque haya paraplejía completa**.
 - **Brucelosis y tuberculosis**: considerarlas en el absceso epidural espinal y en la espondilitis de evolución subaguda en nuestro medio (SEMES 2012; SEN 2025).
-- **Absceso epidural espinal: tiempo = médula**. Ante dolor de espalda con fiebre, foco infeccioso o factores de riesgo, **RM urgente** y Neurocirugía; **no hacer PL** (SEN 2023; SEN 2025).
+- **Absceso epidural espinal: tiempo = médula**. Ante dolor de espalda con fiebre, foco infeccioso o factores de riesgo, **RM urgente** y Neurocirugía; **no hacer PL** (SEN 2025).
 
 ## REFERENCIAS
 
 1. ***Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Bloque V:***
+   - ***García-Moncó Carra JC, Rodrigo Armenteros P, Erburu Iriarte M. Infecciones bacterianas. Cap. 40, p. 619-631.*** *Uso puntual: contraindicación de la PL ante sospecha de absceso epidural espinal (p. 622).*
    - ***Ara Callizo JR. Absceso cerebral, empiemas epidural y subdural (cerebral y medular). Cap. 41, p. 633-642.***
    - ***Carod Artal FJ. Infecciones víricas. Cap. 42, p. 643-657.***
    - ***Sáez Marín A, Stiauren Fernández E, Corral Corral Í. Infecciones fúngicas y parasitarias del sistema nervioso central. Cap. 43, p. 659-677.***
@@ -265,5 +268,5 @@ Infección entre la duramadre y la aracnoides medulares (ESE) o dentro de la mé
 4. ***van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-62.*** PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007)
    — ***Nivel 2 (uso puntual).*** *Aporta la frecuencia del empiema subdural (3 %) y de la trombosis de senos (1 %) como complicaciones de la meningitis bacteriana, y la recomendación de no anticoagular la trombosis de senos en la fase aguda de la meningitis.*
 
-5. ***Romero Sánchez CM. Enfermedades infecciosas. En: Manual de Urgencias Neurológicas de la Sociedad Española de Neurología. Madrid: SEN; 2023. Cap. 12, p. 395-409.***
-   — ***Nivel 1 (uso puntual).*** *Aporta que la sospecha de absceso epidural espinal contraindica la punción lumbar, que los focos parameníngeos (empiema, sinusitis, endocarditis) entran en el diagnóstico diferencial de la meningitis subaguda y la dosis de vancomicina por peso.*
+5. ***Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 20 (Absceso cerebral), tabla 2, p. 169.***
+   — ***Nivel 4 (uso puntual).*** *Aporta las dosis de vancomicina, meropenem y cefepima de la pauta de absceso cerebral a la que remite la SEN 2025 para el empiema intracraneal. La vancomicina requiere ajuste según concentración sérica; estas dosis no se trasladan al absceso epidural espinal.*

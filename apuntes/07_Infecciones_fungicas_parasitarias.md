@@ -1,6 +1,6 @@
 # INFECCIONES FÚNGICAS Y PARASITARIAS DEL SISTEMA NERVIOSO CENTRAL
 
-> **Fuentes**: la base es la **SEN 2025** (Manual del Residente, cap. 43), la única de las fuentes que trata estas infecciones con detalle; resume guías de la **OMS** (criptococo, 2022) y de la **IDSA** (candidiasis, aspergilosis, neurocisticercosis), que se citan a través de ella. La **ESCMID 2024** aporta el tratamiento empírico del absceso en el inmunodeprimido grave y de la toxoplasmosis (capítulo 4), la **SEN 2023** datos puntuales del criptococo y la **SEMES 2012** las dosis de la toxoplasmosis y la gota gruesa en el viajero. Pirámide: **SEN (2023 y 2025) → ESCMID → SEMES 2012**; en las lesiones focales que se comportan como un absceso cerebral manda la ESCMID 2024 (capítulo 4). Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
+> **Fuentes**: la base es la **SEN 2025** (Manual del Residente, cap. 43), la única de las fuentes que trata estas infecciones con detalle; resume guías de la **OMS** (criptococo, 2022) y de la **IDSA** (candidiasis, aspergilosis, neurocisticercosis), que se citan a través de ella. La **ESCMID 2024** aporta el tratamiento empírico del absceso en el inmunodeprimido grave y de la toxoplasmosis (capítulo 4), y la **SEMES 2012** las dosis de la toxoplasmosis y la gota gruesa en el viajero. Pirámide: **SEN 2025 → ESCMID → NICE → SEMES 2012**; en las lesiones focales que se comportan como un absceso cerebral manda la ESCMID 2024 (capítulo 4). Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
 >
 > *Aviso: la SEN 2025 es un manual formativo, sin grados de recomendación, con bibliografía consultada en 2023. Buena parte de este capítulo (malaria, tripanosomiasis, helmintos, hongos endémicos) es de manejo especializado: en urgencias lo esencial es **sospecharlas**, pedir las pruebas que confirman el diagnóstico y **consultar pronto con Infecciosas o Medicina Tropical**. Varias pautas no traen dosis en la fuente; se indica en cada caso.*
 
@@ -45,7 +45,7 @@ Las infecciones fúngicas y parasitarias del SNC son **raras en nuestro medio, p
 
 | Situación | Pensar en (SEN 2025, salvo donde se indica) |
 |---|---|
-| **VIH con CD4 <100/mm³** | **Criptococo** (SEN 2023; SEN 2025) y **toxoplasma** |
+| **VIH con CD4 <100/mm³** | **Criptococo** y **toxoplasma** (SEN 2025, cap. 43, p. 660 y 667) |
 | **Trasplante** (progenitores hematopoyéticos u órgano sólido), **neutropenia grave**, **corticoides a dosis altas** | ***Aspergillus***, *Candida*, mucor, criptococo; **toxoplasma y *Nocardia*** (ESCMID 2024; capítulo 4) |
 | **Biológicos**: anti-TNF (infliximab), ibrutinib, rituximab, alemtuzumab | *Aspergillus* (y *Blastomyces* con los anti-TNF) |
 | **Diabetes con cetoacidosis** o tratada con corticoides; neoplasia hematológica con profilaxis con voriconazol | **Mucormicosis rinocerebral** |
@@ -72,10 +72,10 @@ Las infecciones fúngicas y parasitarias del SNC son **raras en nuestro medio, p
   - **PRESIÓN INTRACRANEAL ELEVADA HASTA EN EL 75 %**, a veces con **afectación de pares craneales**.
   - **Coinfección con otros oportunistas hasta en el 50 %.** Puede formar **criptococomas**.
   - Secuelas: hidrocefalia, HTIC, **ceguera**.
-- **Diagnóstico** (SEN 2023; SEN 2025):
+- **Diagnóstico** (SEN 2025, cap. 43, p. 660-661):
   - **Alta sospecha** en el VIH avanzado (CD4 <100) u otro inmunodeprimido con **fiebre y cefalea**.
   - **TC o RM antes de la PL** si se sospecha HTIC, lesiones o hidrocefalia. Lo más frecuente es el **realce meníngeo**; puede haber dilatación de los espacios de Virchow-Robin.
-  - **PL imprescindible**: pleocitosis **<200 células/µL**, linfocitaria (menor en el VIH), proteínas altas y glucosa normal o baja; **el LCR es normal en el 25-30 %**. *Presión de apertura alta (SEN 2023; capítulo 2).*
+  - **PL imprescindible**: pleocitosis **<200 células/µL**, linfocitaria (menor en el VIH), proteínas altas y glucosa normal o baja; **la bioquímica del LCR puede ser normal en el 25-30 %**. *La SEN 2025 describe HTIC hasta en el 75 % de los pacientes y su manejo con PL repetidas, sin aportar un umbral de presión de apertura en este capítulo.*
   - **ANTÍGENO CRIPTOCÓCICO en LCR y suero** (aglutinación con látex, ELISA o flujo lateral): **sensibilidad y especificidad >90 % en el LCR**. *La OMS 2022 lo recomienda como primera prueba: si es positivo, está justificado empezar el tratamiento (SEN 2025).*
   - **Tinta china**: positiva hasta en el 75 % de los pacientes con VIH. **Cultivo**: crece en 3-7 días.
 - **Tratamiento en el VIH** (OMS 2022, recogida por la SEN 2025, tabla 2):
@@ -251,7 +251,7 @@ Por *Trichinella* (sobre todo *T. spiralis*) en **carne de cerdo poco cocinada**
 1. **Anamnesis dirigida**: tipo de inmunodepresión (VIH y CD4, trasplante, neutropenia, corticoides, biológicos, diabetes con cetoacidosis), país de origen y viajes, exposiciones (§2).
 2. **Si viene de zona palúdica con fiebre y alteración de la consciencia: gota gruesa y extensión URGENTES** y artesunato IV si se confirma (§4.1).
 3. **Imagen**: **TC o RM antes de la PL** si hay lesiones focales, sospecha de HTIC o de hidrocefalia (criptococo, neurocisticercosis, toxoplasma).
-4. **PL** si no está contraindicada: presión de apertura, citobioquímica con **recuento de eosinófilos**, **antígeno criptocócico** y tinta china, cultivo de hongos, PCR de toxoplasma, ELISA de cisticerco si procede. *El antígeno criptocócico también se detecta en suero (§3.1).*
+4. **PL** si no está contraindicada: citobioquímica con **recuento de eosinófilos**, **antígeno criptocócico** y tinta china, cultivo de hongos, PCR de toxoplasma, ELISA de cisticerco si procede. *El antígeno criptocócico también se detecta en suero; valorar y tratar la HTIC según §3.1.*
 5. **Sangre**: hemocultivos (incluida *Candida*), **antígeno criptocócico en suero**, serología de **VIH**, de **toxoplasma** y de **cisticerco (EITB)**, **galactomanano** si se sospecha aspergilosis; eosinofilia.
 6. **Fondo de ojo**: en la candidemia (endoftalmitis), en la sospecha de malaria (retinopatía) y antes de tratar una neurocisticercosis (quiste ocular).
 7. **Consultar con Infecciosas o Medicina Tropical** y, si hay lesiones con efecto masa, hidrocefalia o mucormicosis, con **Neurocirugía u ORL**.
@@ -260,7 +260,7 @@ Por *Trichinella* (sobre todo *T. spiralis*) en **carne de cerdo poco cocinada**
 
 ## 6. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
-- **Criptococo y toxoplasma** son las infecciones oportunistas del SNC más relevantes en el VIH avanzado; ante un VIH con CD4 <100 y fiebre con cefalea, pedir el **antígeno criptocócico** (SEN 2023; SEN 2025).
+- **Criptococo y toxoplasma** son las infecciones oportunistas del SNC más relevantes en el VIH avanzado; ante un VIH con CD4 <100 y fiebre con cefalea, pedir el **antígeno criptocócico** (SEN 2025, cap. 43, p. 660-661).
 - **Inmigración y viajes**: pensar en la **neurocisticercosis** en pacientes de Latinoamérica (SEN 2025, cap. 41), en la **malaria** en viajeros que vuelven de zonas endémicas y en el **Chagas** en procedentes de Latinoamérica (SEN 2025). *Las fuentes no aportan datos españoles de estas parasitosis.*
 - *Algunos de estos fármacos (anfotericina B liposomal, flucitosina, artesunato IV, prazicuantel) pueden no estar disponibles de inmediato: la propia tabla de la OMS que recoge la SEN 2025 da alternativas según la disponibilidad. Avisar pronto a Farmacia e Infecciosas.*
 - *La SEN 2025 resume guías internacionales (OMS 2022, IDSA 2016-2017) que no forman parte de la pirámide; se citan a través de ella. Varias pautas no traen dosis en la fuente y así se indica.*
@@ -273,8 +273,5 @@ Por *Trichinella* (sobre todo *T. spiralis*) en **carne de cerdo poco cocinada**
 2. ***Bodilsen J, D'Alessandris QG, Humphreys H, et al. European Society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults. Clin Microbiol Infect. 2024;30(1):66-89.*** PMID 37648062 · [DOI](https://doi.org/10.1016/j.cmi.2023.08.016)
    — ***Nivel 2 (uso puntual); manda en las lesiones que se comportan como un absceso cerebral.*** *Aporta los gérmenes del absceso en el inmunodeprimido grave (hongos, Nocardia, toxoplasma) y su pauta empírica (C3G + metronidazol + cotrimoxazol + voriconazol), la toxoplasmosis tratada empíricamente sin punción, la necesidad de descartar un linfoma si la serología es negativa y la exéresis en los abscesos fúngicos (capítulo 4).*
 
-3. ***Romero Sánchez CM. Enfermedades infecciosas. En: Manual de Urgencias Neurológicas de la Sociedad Española de Neurología. Madrid: SEN; 2023. Cap. 12, p. 395-409.***
-   — ***Nivel 1 (uso puntual).*** *Aporta el criptococo en el VIH con CD4 <100, con glucosa baja, presión de apertura alta, tinta china y antígeno (capítulo 2), y el toxoplasma entre las causas de meningitis y encefalitis del inmunodeprimido.*
-
-4. ***Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Caps. 19 (Encefalitis), 20 (Absceso cerebral) y 22 (Infecciones medulares).***
+3. ***Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Caps. 19 (Encefalitis), 20 (Absceso cerebral) y 22 (Infecciones medulares).***
    — ***Nivel 4 (uso puntual).*** *Aporta la gota gruesa en el viajero con encefalitis, las dosis de la pauta de toxoplasmosis (sulfadiazina, clindamicina, pirimetamina, ácido folínico; con una probable errata en la pirimetamina) y las opciones antifúngicas en las infecciones medulares.*
