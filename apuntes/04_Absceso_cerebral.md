@@ -1,6 +1,6 @@
 # ABSCESO CEREBRAL
 
-> **Fuentes de este capítulo**: **ESCMID 2024 → SEN 2025 → SEMES 2012**. La SEN 2023 y la NICE 2024 no tratan el absceso cerebral. **La ESCMID 2024 encabeza la pirámide, también por encima de la SEN 2025** (Manual del Residente, cap. 41): el capítulo de la SEN 2025 se redactó antes (su bibliografía se consultó en abril de 2023) y no incorpora la guía europea, que se basa en una revisión sistemática con GRADE. La SEN 2025 aporta la pauta empírica por foco de origen y lo que la ESCMID no detalla; la SEMES 2012, la estructura de urgencias y las dosis. Las discrepancias se señalan en *cursiva*. La ESCMID 2024 usa **GRADE**: cada recomendación lleva su fuerza (fuerte o condicional) y la certeza de la evidencia (alta, moderada, baja o muy baja). Ver `FUENTES.md`.
+> **Fuentes de este capítulo**: **ESCMID 2024 → SEN 2025 → SEMES 2012**. La NICE 2024 no trata el absceso cerebral. **La ESCMID 2024 encabeza la pirámide, también por encima de la SEN 2025** (Manual del Residente, cap. 41): el capítulo de la SEN 2025 se redactó antes (su bibliografía se consultó en abril de 2023) y no incorpora la guía europea, que se basa en una revisión sistemática con GRADE. La SEN 2025 aporta la pauta empírica por foco de origen y lo que la ESCMID no detalla; la SEMES 2012, la estructura de urgencias y las dosis. Las discrepancias se señalan en *cursiva*. La ESCMID 2024 usa **GRADE**: cada recomendación lleva su fuerza (fuerte o condicional) y la certeza de la evidencia (alta, moderada, baja o muy baja). Ver `FUENTES.md`.
 >
 > *Ecología local: los porcentajes de resistencia locales de 2024 van en cursiva con la etiqueta **(ecología local 2024)**, fuera de la pirámide. No son recomendaciones ni cambian ninguna pauta. Sirven sobre todo para la pauta posneuroquirúrgica, en la que los autores de la ESCMID 2024 piden adaptar la elección a la prevalencia local de multirresistentes. Ver `FUENTES.md` (§8).*
 
@@ -147,7 +147,7 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 
 ### 5.2. Tratamiento antibiótico empírico
 
-**Dosis**: la ESCMID pide dosis que aseguren la penetración en el absceso y en el SNC, y las detalla en su material suplementario (no incluido en el texto). La SEN 2025 no da dosis en su capítulo de absceso. Las dosis de abajo son las de la **SEMES 2012**; *coinciden con la tabla de dosis de meningitis de la SEN 2025 (capítulo 1, §6.6), salvo el metronidazol (SEN 2025: 1.500-2.000 mg/día cada 8 h).*
+**Dosis**: la ESCMID pide dosis que aseguren la penetración en el absceso y en el SNC, y las detalla en su material suplementario (no incluido en el texto). La SEN 2025 no da dosis en su capítulo de absceso. Las dosis de abajo son las específicas para absceso de la **SEMES 2012** (cap. 20, tabla 2; ceftazidima, cap. 18). *Las tablas de meningitis de la SEN 2025 no se consideran equivalentes para esta indicación.*
 
 #### Absceso comunitario en inmunocompetente (foco desconocido, sinusal, ótico, dental o pulmonar)
 
@@ -217,7 +217,7 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 - **CEFTAZIDIMA + LINEZOLID** o **CEFEPIMA + LINEZOLID** (ESCMID, tabla 4).
 - **Alergia a betalactámicos**: **VANCOMICINA o LINEZOLID + AZTREONAM 2 g IV cada 8 h o CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEMES 2012).
 
-*La SEN 2025 y la SEMES 2012 aplican esta pauta también al traumatismo craneal abierto; la ESCMID la recomienda para el posneuroquirúrgico. Para la vancomicina, la SEMES 2012 indica 1 g cada 8 h el primer día y después según niveles; aquí se usa la dosis por peso de la SEN. La ESCMID señala que el linezolid tiene mejor farmacocinética en el SNC que la vancomicina y que su experiencia en el absceso cerebral está creciendo. Certeza baja según el resumen y la tabla 1; muy baja según el texto principal (ESCMID).*
+*La SEN 2025 y la SEMES 2012 aplican esta pauta también al traumatismo craneal abierto; la ESCMID la recomienda para el posneuroquirúrgico. Para la vancomicina, la dosis por peso procede del pie de la tabla 2 de la SEMES 2012: **15-20 mg/kg IV cada 8-12 h**, con ajuste según la concentración sérica. La misma nota también describe una pauta inicial fija de 1 g cada 8 h el primer día. La ESCMID señala que el linezolid tiene mejor farmacocinética en el SNC que la vancomicina y que su experiencia en el absceso cerebral está creciendo. Certeza baja según el resumen y la tabla 1; muy baja según el texto principal (ESCMID).*
 
 ### 5.3. Tratamiento dirigido
 
@@ -303,7 +303,7 @@ Pilares: **drenaje neuroquirúrgico + antibiótico IV a dosis altas y prolongado
 - **Momento del antibiótico**: el cambio más relevante frente a la práctica clásica de urgencias (SEMES 2012: antibiótico inmediato) es **diferir el antibiótico en el paciente estable si la punción es posible en <24 h**; la SEN 2025 coincide. Requiere coordinación con Neurocirugía. *Interpretación práctica de la recomendación de la ESCMID: si el hospital no tiene Neurocirugía, valorar el traslado y no retrasar el antibiótico si la punción no va a poder hacerse en un plazo razonable.*
 - **Profilaxis antiepiléptica, vancomicina empírica en el absceso comunitario y tratamiento sin cirugía de los abscesos pequeños**: aparecen en la SEMES 2012 o en la SEN 2025 y **no los recomienda la ESCMID 2024**.
 - **Inmigrantes y viajeros**: en los procedentes de Latinoamérica, pensar en la **neurocisticercosis**; en los de la India y el Extremo Oriente, en la **tuberculosis** (SEN 2025; capítulo 7).
-- **Dosis**: la SEMES 2012 es la única de las fuentes que da dosis específicas para el absceso; las de la ESCMID están en su material suplementario, y la tabla de meningitis de la SEN 2025 coincide salvo en el metronidazol.
+- **Dosis**: la SEMES 2012 es la única de las fuentes que da dosis específicas para el absceso; las de la ESCMID están en su material suplementario. La SEN 2025 no da dosis en su capítulo de absceso; las de meningitis no se trasladan como si fueran específicas de esta indicación.
 - **Ecología local 2024** (porcentaje de resistencia):
   - **Posneuroquirúrgico**: con ceftazidima o cefepima, 26-32 % en *K. pneumoniae* y 10-11 % en *P. aeruginosa*; con meropenem, 3 % y 5 %. Es el dato que piden los autores de la ESCMID 2024 para adaptar la pauta a cada medio.
   - ***S. aureus***: **SAMR 30 %**.

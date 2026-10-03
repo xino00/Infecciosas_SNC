@@ -10,7 +10,7 @@ Todo dato se atribuye a una de estas cuatro fuentes. Ante una discrepancia **man
 
 | Nivel | Fuente | Por qué ocupa ese nivel |
 |---|---|---|
-| **1** | **SEN**: *Manual de Urgencias Neurológicas* (**SEN 2023**, cap. 12) y *Manual del Residente de Neurología* (**SEN 2025**, caps. 40-44) de la Sociedad Española de Neurología | Referencias españolas más recientes. La de 2023 está pensada para urgencias; la de 2025 cubre además las meningitis crónicas, el absceso, los empiemas y las infecciones víricas, fúngicas y parasitarias. **Si discrepan, manda la SEN 2025** |
+| **1** | **SEN 2025**: *Manual del Residente de Neurología* (caps. 40-44) de la Sociedad Española de Neurología | Referencia española principal: meningitis agudas y crónicas, absceso, empiemas e infecciones víricas, fúngicas y parasitarias |
 | **2** | **ESCMID 2016** (meningitis bacteriana aguda) y **ESCMID 2024** (absceso cerebral) | Guías europeas con revisión sistemática; árbitro de lo que la SEN no detalla. La de 2024 es la guía principal del absceso cerebral y, **solo en ese capítulo, manda también sobre la SEN 2025**, que se redactó antes y no la incorpora |
 | **3** | **NICE NG240 (2024)**: meningitis bacteriana y enfermedad meningocócica | Guía con metodología GRADE; reconocimiento, tiempos, pruebas, alta y seguimiento |
 | **4** | **SEMES 2012**: *Manejo de Infecciones en Urgencias*, caps. 18-23 | Estructura de actuación en urgencias y lo que no cubren las otras tres |
@@ -60,7 +60,7 @@ Cada capítulo sigue la estructura fija de la [guía de estilo](plantillas/GUIA_
 - **MAYÚSCULAS en negrita**: lo imprescindible en urgencias.
 - **Negrita**: conceptos y fármacos clave.
 - *Cursiva*: matiz, dato de evidencia o discrepancia entre guías; prescindible en una lectura rápida.
-- **Atribución entre paréntesis** tras cada dato: la SEN y la ESCMID con su año (SEN 2023 o SEN 2025; ESCMID 2016 o 2024), la NICE con el número de recomendación (p. ej., NICE 1.4.7) y la ESCMID con su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024). Los porcentajes de resistencia local llevan la etiqueta **(ecología local 2024)**.
+- **Atribución entre paréntesis** tras cada dato: la SEN y la ESCMID con su año (SEN 2025; ESCMID 2016 o 2024), la NICE con el número de recomendación (p. ej., NICE 1.4.7) y la ESCMID con su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024). Los porcentajes de resistencia local llevan la etiqueta **(ecología local 2024)**.
 - **Pautas de tratamiento**: `---> PRIMERA ELECCIÓN:` y `---> ALTERNATIVA:`, siempre con fármaco, dosis, vía e intervalo.
 - Cuando la evidencia es débil, contradictoria o el dato no está verificado, se dice explícitamente.
 
@@ -78,6 +78,6 @@ Cada capítulo sigue la estructura fija de la [guía de estilo](plantillas/GUIA_
 - La **ESCMID 2016** no usa GRADE (niveles de evidencia 1-3 y grados A-D).
 - Los **datos españoles de resistencia del neumococo** que recogen las fuentes son del ECDC de 2011; no hay datos más recientes dentro de la pirámide. Fuera de ella, la ecología local de 2024 da un 12 % de neumococos no sensibles a la cefotaxima con el punto de corte de meningitis.
 - La **ecología local de 2024** agrega todas las muestras del hospital (no hay datos del LCR ni por servicio) y no incluye meningococo, *Listeria*, grupo *S. anginosus*, *Nocardia* ni *Acinetobacter*.
-- En el **capítulo 4**, las dosis de la ESCMID 2024 están en su material suplementario (tabla S10), que no se ha revisado; se usan las de la SEMES 2012, que coinciden con la tabla de dosis de la SEN 2025 salvo en el metronidazol.
-- Los **capítulos 5 y 6** se apoyan en la SEN 2025 (empiemas, absceso epidural espinal, meningitis nosocomial) y en la SEMES 2012; la tromboflebitis séptica de senos y el manejo quirúrgico de las derivaciones siguen saliendo casi solo de la SEMES 2012. La NICE excluye expresamente de su alcance a los portadores de derivaciones y a los pacientes con neurocirugía previa.
+- En el **capítulo 4**, las dosis de la ESCMID 2024 están en su material suplementario (tabla S10), que no se ha revisado; se usan las dosis específicas para absceso de la SEMES 2012. Las tablas de meningitis de la SEN 2025 no se consideran equivalentes para esta indicación.
+- Los **capítulos 5 y 6** se apoyan en la SEN 2025 (empiemas, absceso epidural espinal, meningitis nosocomial) y en la SEMES 2012; la tromboflebitis séptica de senos y el manejo quirúrgico de las derivaciones siguen saliendo casi solo de la SEMES 2012. La NICE excluye expresamente de su alcance a las personas con inmunodeficiencia, a los portadores de derivaciones y a los pacientes con neurocirugía previa.
 - El **capítulo 7** se basa casi por completo en la SEN 2025, que a su vez resume guías de la OMS y de la IDSA; buena parte de su contenido (malaria, tripanosomiasis, helmintos) es de manejo especializado más que de urgencias.

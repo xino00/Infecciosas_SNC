@@ -1,18 +1,15 @@
 # ENCEFALITIS AGUDA DEL ADULTO
 
-> **Fuentes (pirámide)**: **SEN (2023 y 2025) → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. La encefalitis la tratan sobre todo la **SEN 2023** (cap. 12, apartado 2), la **SEN 2025** (cap. 42, infecciones víricas; cap. 44, priones) y la **SEMES 2012** (cap. 19). **Si las dos SEN discrepan, manda la SEN 2025.** La ESCMID 2016 y la NICE 2024 son guías de meningitis bacteriana y solo aportan detalles puntuales (aciclovir, lactato). Las discrepancias van en *cursiva*. Ver `FUENTES.md`.
+> **Fuentes (pirámide)**: **SEN 2025 → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. La encefalitis la tratan sobre todo la **SEN 2025** (cap. 42, infecciones víricas; cap. 44, priones) y la **SEMES 2012** (cap. 19). La ESCMID 2016 y la NICE 2024 son guías de meningitis bacteriana y solo aportan detalles puntuales (aciclovir, lactato). Las discrepancias van en *cursiva*. Ver `FUENTES.md`.
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
-La **encefalitis** es un síndrome inflamatorio definido clínicamente por la **afectación de las funciones del parénquima cerebral**, lo que la distingue de la meningitis (SEN 2023):
-- **Alteración del nivel de alerta**: desde confusión, obnubilación y letargia hasta el coma.
-- **Déficits neurológicos focales**: motor, sensitivo, disfasia, parálisis fláccida.
-- **Cambios de personalidad o de comportamiento**.
-- **Trastornos del movimiento**.
-- **Neuropatía craneal**: es típica la **romboencefalitis por *Listeria***, con ataxia y afectación de pares craneales bajos.
-- **Vasculitis o ictus isquémico**: por ejemplo, en la meningitis neumocócica o la sífilis.
+La **encefalitis** es un proceso inflamatorio del **parénquima cerebral** (SEN 2025, p. 647). Puede cursar con:
+- **Alteración del nivel de consciencia o del estado mental**.
+- **Déficits neurológicos** del lenguaje, de las funciones motoras o de la coordinación.
+- **Cambios de personalidad o de comportamiento** y **crisis epilépticas**.
 
-*Las crisis y la alteración del nivel de alerta también aparecen en la meningitis aislada, así que **no prueban por sí solas una encefalitis**. Cuando coexisten datos de ambas se habla de **meningoencefalitis** (SEN 2023; SEN 2025); si hay además afectación medular, de **encefalomielitis** (SEN 2025). En las fases iniciales puede haber solo fiebre y cefalea, sin focalidad (SEN 2025).*
+*Cuando coexisten signos meníngeos y encefalíticos se habla de **meningoencefalitis**; si hay además afectación medular, de **encefalomielitis** (SEN 2025, pp. 646-648). En fases iniciales puede haber solo fiebre y cefalea, sin focalidad. La meningitis bacteriana también puede producir alteración mental y crisis, por lo que estos hallazgos deben interpretarse en conjunto (SEN 2025, pp. 621 y 647).*
 
 **Cuándo sospecharla** (SEN 2025): **alteración del estado mental de más de 24 h** (del nivel de consciencia, apatía, letargia o cambios de personalidad). Apoyan el diagnóstico la **fiebre**, las **crisis**, la **focalidad**, la **pleocitosis** en el LCR y una **RM o un EEG compatibles**. *En la práctica, el diagnóstico se basa en la pleocitosis y, a veces, en la RM, en un paciente con un cuadro sugestivo (SEN 2025).*
 
@@ -23,7 +20,7 @@ La **encefalitis** es un síndrome inflamatorio definido clínicamente por la **
 - En otros casos el virus invade directamente **a través de las estructuras nerviosas**: el **VHS-1 por el nervio olfatorio**; el VHS, el VVZ, la rabia y la polio por **transporte axonal retrógrado** (SEN 2025). El **VHS-1**, por su **reactivación**, es la primera causa de encefalitis esporádica y produce una **necrosis hemorrágica de los lóbulos temporales y frontales** (zonas basales y orbitarias).
 - *La respuesta inflamatoria del huésped contribuye al daño junto con la propia infección (SEN 2025).*
 
-**La encefalitis herpética es la más relevante en urgencias** (SEMES 2012; SEN 2023; SEN 2025):
+**La encefalitis herpética es la más relevante en urgencias** (SEMES 2012; SEN 2025):
 - Es la **encefalitis esporádica más frecuente** en nuestro medio.
 - Afecta a **inmunocompetentes**.
 - **Tiene tratamiento eficaz**.
@@ -31,9 +28,9 @@ La **encefalitis** es un síndrome inflamatorio definido clínicamente por la **
 
 Por eso hay que **tratarla de forma precoz y empírica ante la mínima sospecha**.
 
-*Diagnóstico diferencial (SEN 2023; SEN 2025; ver §4.3):*
+*Diagnóstico diferencial (SEN 2025; ver §4.3):*
 - *Infecciones no víricas: bacterias (meningitis, Listeria), tuberculosis, sífilis, hongos, amebas, absceso.*
-- *Causas no infecciosas: **delirium** por fármacos o drogas, **encefalopatía tóxica o metabólica**, neoplasias, **ictus**, **trombosis venosa cerebral**, vasculitis, pseudomigraña con pleocitosis.*
+- *Causas no infecciosas: **encefalopatía tóxica o metabólica**, **ictus** y procesos inmunomediados (SEN 2025, p. 654).*
 - *Autoinmunes: encefalomielitis aguda diseminada (EMAD) y encefalitis paraneoplásicas o autoinmunes (**anti-NMDA**). Se sospecha que hasta un tercio de las encefalitis agudas tiene una causa autoinmune (SEN 2025).*
 - *Priones: **Creutzfeldt-Jakob** (demencia rápida, ataxia, mioclonías, insomnio).*
 
@@ -50,7 +47,7 @@ Por eso hay que **tratarla de forma precoz y empírica ante la mínima sospecha*
 
 ## 3. ETIOLOGÍA
 
-**Vírica** (la más frecuente) (SEN 2023; SEN 2025; SEMES 2012):
+**Vírica** (la más frecuente) (SEN 2025; SEMES 2012):
 
 | Virus | Pistas para el diagnóstico |
 |---|---|
@@ -62,19 +59,19 @@ Por eso hay que **tratarla de forma precoz y empírica ante la mínima sospecha*
 | VEB, CMV, VHH-6 | CMV y VHH-6 sobre todo en el inmunodeprimido (ver abajo) |
 | Parotiditis, sarampión, rubéola, gripe, adenovirus, VIH | Contexto clínico y epidemiológico |
 
-**No vírica** (SEN 2023; SEMES 2012):
+**No vírica** (SEMES 2012):
 - ***Listeria*** (**romboencefalitis**: ataxia, nistagmo, pares craneales; puede dar LCR hemorrágico).
 - **Espiroquetas**: *Borrelia* (verano-otoño, **radiculitis**), *T. pallidum*, leptospira.
 - **Rickettsias**.
 - **Tuberculosis**, criptococo, toxoplasma (capítulos 2 y 7).
 
-**Inmunodeprimido** (SEMES 2012; SEN 2023; SEN 2025):
+**Inmunodeprimido** (SEMES 2012; SEN 2025):
 - ***Listeria*, *M. tuberculosis*, toxoplasma (VIH)**, *Candida*, *Cryptococcus*, *Aspergillus*, *Nocardia* y **CMV** (SEMES 2012; capítulo 7).
 - **VHS-1**: cuadro más grave, con una RM que puede ser **difusa**, con o sin afectación temporal (SEN 2025).
 - **CMV**: casi siempre en el inmunodeprimido; puede dar **encefalitis, ventriculitis, mielitis, radiculitis** y meningitis, a veces con retinitis o colitis. **En el VIH, pensar en él si hay encefalitis con CD4 <50/mm³**. LCR con **polinucleares y glucosa algo baja**; RM con **realce ependimario** y alteración de la sustancia blanca periventricular; diagnóstico por **PCR en el LCR** (SEN 2025).
 - **VHH-6**: **encefalitis límbica** (afectación temporal mesial **bilateral y simétrica**) tras un **trasplante de progenitores hematopoyéticos**, en las semanas o meses previos; también con everolimus (SEN 2025).
 - **VEB**: **trastorno linfoproliferativo postrasplante del SNC**, con lesiones multifocales con efecto masa y realce en anillo y PCR del virus positiva en el LCR (SEN 2025).
-- **Virus JC → leucoencefalopatía multifocal progresiva (LMP)** (SEN 2023; SEN 2025): en el **VIH con CD4 <200/mm³** y con inmunosupresores o anticuerpos monoclonales (**natalizumab**, rituximab, ocrelizumab, ofatumumab, entre otros). Clínica: alteraciones **cognitivas, del lenguaje y visuales** (hemianopsia, agnosia, heminegligencia), ataxia y déficits motores o sensitivos. *Riesgo con natalizumab: anticuerpos anti-JC elevados, inmunosupresores previos y más de 2 años de tratamiento.*
+- **Virus JC → leucoencefalopatía multifocal progresiva (LMP)** (SEN 2025): en el **VIH con CD4 <200/mm³** y con inmunosupresores o anticuerpos monoclonales (**natalizumab**, rituximab, ocrelizumab, ofatumumab, entre otros). Clínica: alteraciones **cognitivas, del lenguaje y visuales** (hemianopsia, agnosia, heminegligencia), ataxia y déficits motores o sensitivos. *Riesgo con natalizumab: anticuerpos anti-JC elevados, inmunosupresores previos y más de 2 años de tratamiento.*
 - **Tratamientos de la esclerosis múltiple y otros inmunosupresores** (SEN 2025, tabla 11): encefalitis por VHS y meningitis por VVZ con **natalizumab y fingolimod**; CMV, VEB, VVZ y JC con los anti-CD20; CMV, VHS, VVZ y JC con los inhibidores de la calcineurina. *Antes de un modulador del receptor de esfingosina-1-fosfato, comprobar los anticuerpos frente al VVZ y vacunar si son negativos.*
 
 **Situaciones especiales** (SEMES 2012; SEN 2025):
@@ -102,7 +99,7 @@ Por eso hay que **tratarla de forma precoz y empírica ante la mínima sospecha*
 - **Forma atípica (3-20 %)**: **encefalopatía subaguda, febril o afebril**, con alteración de la consciencia o del comportamiento y **sin focalidad ni crisis**. Se confunde con un **cuadro psiquiátrico** (SEMES 2012).
 - A menudo hay un **pródromo** de vías respiratorias altas, cefalea, mialgias y síntomas constitucionales (SEMES 2012).
 
-**Anamnesis** (SEMES 2012; SEN 2025): viriasis, tuberculosis o sífilis previas; inmunodepresión o **tratamientos inmunosupresores** (natalizumab, anti-CD20, trasplante); infecciones respiratorias o intestinales recientes; **vacunaciones**; **viajes**; contacto con animales (mordeduras: rabia); **picaduras de insectos o garrapatas**; fármacos y drogas (para el diagnóstico diferencial con el delirium; SEN 2023).
+**Anamnesis** (SEMES 2012; SEN 2025): viriasis, tuberculosis o sífilis previas; inmunodepresión o **tratamientos inmunosupresores** (natalizumab, anti-CD20, trasplante); infecciones respiratorias o intestinales recientes; **vacunaciones**; **viajes**; contacto con animales (mordeduras: rabia); **picaduras de insectos o garrapatas**; posibles exposiciones tóxicas, dentro del diagnóstico diferencial con la encefalopatía tóxica o metabólica (SEN 2025, p. 654).
 
 **Exploración** (SEMES 2012; SEN 2025):
 - Signos meníngeos, **fondo de ojo**, nivel de consciencia, pares craneales y focalidad.
@@ -112,40 +109,40 @@ Por eso hay que **tratarla de forma precoz y empírica ante la mínima sospecha*
 ### 4.2. Pruebas complementarias
 
 **Imagen: INMEDIATA ante la sospecha** (SEMES 2012).
-- **RM cerebral de elección**: es más sensible y puede ser positiva desde el primer día. **La TC puede ser normal en fases precoces**, a menudo hasta el 4.º día (SEMES 2012; SEN 2023). *La RM también puede ser normal al principio (SEN 2025).*
-- **Hallazgo típico de la herpética**: hiperintensidad en T2 del **lóbulo temporal** (región medial e inferior), la **ínsula** y la **región orbitofrontal**, a veces con microhemorragias, edema y realce (SEN 2023; SEN 2025; SEMES 2012). Al principio suele ser **unilateral**; cuando es bilateral es **asimétrica**, lo que ayuda a distinguirla de la **encefalitis autoinmune, que suele ser simétrica** (SEN 2025).
+- **RM cerebral de elección**: es más sensible y puede ser positiva desde el primer día. **La TC puede ser normal en fases precoces**, a menudo hasta el 4.º día (SEMES 2012). *La RM también puede ser normal al principio (SEN 2025).*
+- **Hallazgo típico de la herpética**: hiperintensidad en T2 del **lóbulo temporal** (región medial e inferior), la **ínsula** y la **región orbitofrontal**, a veces con microhemorragias, edema y realce (SEN 2025; SEMES 2012). Al principio suele ser **unilateral**; cuando es bilateral es **asimétrica**, lo que ayuda a distinguirla de la **encefalitis autoinmune, que suele ser simétrica** (SEN 2025).
 - **Otros patrones en la RM** (SEN 2025): VVZ, que puede imitar al VHS-1; VHH-6, con afectación temporal mesial bilateral y simétrica; CMV, con realce ependimario; **arbovirus**, con afectación de los **ganglios basales y el tálamo**; enterovirus y West Nile, con afectación del **tronco**; **LMP**, con lesiones múltiples y asimétricas de la sustancia blanca subcortical (de predominio parietooccipital), **sin efecto masa y con escaso realce** (más realce con natalizumab y en el síndrome de reconstitución inmune).
 - Si hay **datos de afectación medular**, añadir **RM medular** para descartar un proceso quirúrgico (SEMES 2012).
 - Después de la imagen, si no hay contraindicación: **punción lumbar** (SEMES 2012). Para las indicaciones de TC antes de la PL y las contraindicaciones de la PL, ver capítulo 1.
 
-**LCR** (SEN 2023; SEN 2025; SEMES 2012):
+**LCR** (SEN 2025, pp. 651-652; cifra de hematíes y matiz de *Listeria*: SEMES 2012, p. 161):
 
 | Parámetro | Encefalitis vírica (herpética) |
 |---|---|
 | Aspecto y presión | Claro; **presión de apertura normal o elevada** |
-| Leucocitos | **5-250/µL** (SEN 2023; 10-1.000 según la SEMES 2012; 10-500 según la SEN 2025), **linfocitarios**; puede haber neutrofilia precoz |
-| Proteínas | **<1,5 g/L** (45-100 mg/dL según la SEMES 2012; 40-120 mg/dL según la SEN 2025) |
-| Glucosa | **Normal (>50 mg/dL)**; puede bajar ligeramente en la herpética y en la parotiditis |
+| Leucocitos | **10-500/µL**, habitualmente **linfocitarios**; puede haber neutrofilia precoz |
+| Proteínas | **40-120 mg/dL** |
+| Glucosa | **Normal o ligeramente disminuida**; ver los virus que pueden causar hipoglucorraquia en el capítulo 2 |
 | **Hematíes** (50-1.000/µL sin PL traumática) **y xantocromía** | **Sugieren necrosis por VHS-1** (encefalitis herpética hemorrágica); también en algunas romboencefalitis por *Listeria* |
 
 - ***El LCR puede ser normal en fases muy precoces**: si la sospecha clínica persiste, **repetir la PL a las 24 h** (SEMES 2012).*
 - *En el **inmunodeprimido** puede no haber pleocitosis (SEN 2025).*
 - *El **lactato** del LCR también puede subir en la encefalitis herpética, así que no sirve para distinguirla de una meningitis bacteriana (ESCMID 2016).*
 
-**Peticiones en el LCR** (SEN 2023; SEN 2025; SEMES 2012):
-- **PCR múltiple** (VHS-1, VHS-2, VVZ, enterovirus): **da el diagnóstico definitivo** (SEN 2023). En el inmunodeprimido, añadir **CMV, VEB y VHH-6**, y **virus JC** si se sospecha LMP (SEN 2025).
+**Peticiones en el LCR** (SEN 2025; SEMES 2012):
+- **PCR en el LCR para VHS, VVZ y enterovirus**, con panel múltiple si está disponible: apoya la confirmación etiológica, pero **puede ser falsamente negativa al inicio** (SEN 2025, pp. 652 y 655). En el inmunodeprimido, añadir **CMV, VEB y VHH-6**, y **virus JC** si se sospecha LMP (SEN 2025).
 - ***La PCR de VHS puede ser falsamente negativa al principio, sobre todo en las primeras 24 h**: fue negativa en el 4 % de las herpéticas puncionadas en los 4 primeros días (SEN 2025). Los paneles de PCR múltiple también tienen falsos negativos para VHS-1, VHS-2 y enterovirus (SEN 2025). Por eso, si la sospecha persiste, una PCR negativa precoz no basta para retirar el aciclovir: repetir la PL (la SEMES 2012 propone repetirla a las 24 h si el LCR es normal en fases precoces).*
 - **Arbovirus** (West Nile, encefalitis por garrapatas): **IgM en el LCR**; si es negativa al principio, **repetir la PL a los 7-10 días** (SEN 2025).
 - Gram, cultivo, Ziehl, ADA y cultivo de micobacterias según el perfil. PCR de *M. tuberculosis*. Guardar LCR.
-- **Serologías** según la sospecha: **sífilis, virus West Nile, VIH** (SEN 2023). Según la epidemiología: *Brucella* (rosa de Bengala), **gota gruesa** (paludismo), carga viral del VIH (SEMES 2012).
+- **Otras pruebas según la epidemiología**: serologías, *Brucella* (rosa de Bengala), **gota gruesa** (paludismo) y carga viral del VIH (SEMES 2012, p. 162).
 - *Sensibilidad diagnóstica: **la RM precoz junto con la PCR de VHS en el LCR alcanza el 95-98 %**, incluso en fases iniciales de la herpética (SEMES 2012). Hoy, la PCR y la RM han sustituido a la biopsia cerebral como diagnóstico de certeza (SEMES 2012).*
 
-**EEG** (SEN 2023; SEN 2025; SEMES 2012):
+**EEG** (SEN 2025; SEMES 2012):
 - En la herpética: **ondas lentas, actividad paroxística focal y descargas lateralizadas periódicas (PLED) en la región temporal**.
 - Casi siempre es anormal en la encefalitis, con alteraciones focales o difusas, y ayuda a distinguir una afectación focal frontotemporal de una encefalopatía generalizada por otras causas.
 - *Casi nunca se hace en urgencias, aunque puede tener alguna indicación (SEMES 2012).*
 
-**Sangre** (SEMES 2012): hemograma, coagulación, bioquímica (glucosa, iones, urea, creatinina), radiografía de tórax y **hemocultivos**. **Serología de VIH** (SEN 2023).
+**Sangre** (SEMES 2012): hemograma, coagulación, bioquímica (glucosa, iones, urea, creatinina), radiografía de tórax y **hemocultivos**. *Si se sospecha seroconversión por VIH, los anticuerpos pueden ser negativos: solicitar carga viral (SEN 2025, p. 652).*
 
 ### 4.3. Diagnóstico diferencial: priones (SEN 2025, cap. 44)
 
@@ -162,14 +159,14 @@ Por eso hay que **tratarla de forma precoz y empírica ante la mínima sospecha*
 
 ### 5.1. Sospecha de encefalitis herpética: ACICLOVIR YA
 
-**---> PRIMERA ELECCIÓN** (SEN 2023; SEN 2025; SEMES 2012): **ACICLOVIR 10 mg/kg IV cada 8 h**, diluido en 250 mL de suero salino al 0,9 % y administrado en 60 min (SEMES 2012).
-- **Empezarlo de inmediato ante la mínima sospecha, sin esperar a la PCR ni a la imagen**: retrasarlo por la TC o la RM supone un riesgo inaceptable de morbimortalidad, dada la escasa toxicidad del fármaco (SEMES 2012; SEN 2023). **Se mantiene hasta confirmar el diagnóstico vírico** (SEN 2025).
+**---> PRIMERA ELECCIÓN** (SEN 2025; SEMES 2012): **ACICLOVIR 10 mg/kg IV cada 8 h**, diluido en 250 mL de suero salino al 0,9 % y administrado en 60 min (SEMES 2012).
+- **Empezarlo de inmediato ante la mínima sospecha, sin esperar a la PCR ni a la imagen**: retrasarlo por la TC o la RM supone un riesgo inaceptable de morbimortalidad, dada la escasa toxicidad del fármaco (SEMES 2012). **Se mantiene hasta confirmar el diagnóstico vírico** (SEN 2025).
 - *La SEN 2025 lo formula así: iniciarlo si el LCR o la RM sugieren una encefalitis vírica, **en las primeras 6 h del ingreso si esas pruebas no están disponibles**, y siempre que haya deterioro clínico. Es compatible con empezarlo de inmediato: las 6 h son un límite, no un plazo de espera.*
-- **Duración: 14-21 días** según la evolución clínica (SEMES 2012; SEN 2025). *Las pautas más largas no son mejores: en un ensayo, añadir 90 días de valaciclovir oral tras las 2 semanas de aciclovir IV no mejoró el déficit neurológico a los 6 y 12 meses (SEN 2025). Algunos autores repiten la PL al terminar las 2 semanas y, si la PCR sigue positiva, prolongan el aciclovir una semana más (SEN 2025).*
-- **Si no se puede descartar una meningitis bacteriana, añadir el tratamiento antibiótico empírico** de la MBA hasta tener los resultados (SEN 2023; capítulo 1). *El algoritmo de la SEN 2023, ante sospecha de MBA o de meningoencefalitis herpética, combina **dexametasona 10 mg + aciclovir 10 mg/kg + pauta antibiótica según los factores de riesgo**.*
-- *La NICE (1.6.7) reserva el aciclovir para la sospecha fuerte de encefalitis por VHS. En urgencias, ante clínica de encefalitis, esa sospecha casi siempre existe.*
+- **Duración: 14-21 días** según la evolución clínica (SEMES 2012, p. 162). *La SEN 2025 describe que, en un ensayo, añadir 90 días de valaciclovir oral tras las 2 semanas de aciclovir IV no mejoró el déficit neurológico a los 6 y 12 meses. Algunos autores repiten la PL al terminar las 2 semanas y, si la PCR sigue positiva, prolongan el aciclovir una semana más (SEN 2025, p. 654).*
+- **Si no se puede descartar una meningitis bacteriana, añadir cobertura antibiótica empírica** (SEMES 2012, p. 162); seguir la pauta del capítulo 1 y ajustar según la microbiología. **Los corticoides no se indican de rutina por la encefalitis vírica** (SEN 2025, p. 655; §5.4).
+- *La NICE (1.6.7) reserva el aciclovir para la sospecha fuerte de encefalitis por VHS.*
 
-**VHS-2 o VVZ**: **tratar con la misma pauta de aciclovir a los inmunodeprimidos e individualizar en los inmunocompetentes** (SEN 2023). *Matices de la SEN 2025 en el VVZ:*
+**VVZ**: la SEN 2025 recoge variantes de dosis y duración para la encefalitis, que deben diferenciarse de la meningitis sin encefalitis (p. 654):
 - *La guía británica que recoge propone **dosis más altas en la encefalitis por VVZ: 15 mg/kg IV cada 8 h**; otros autores, **21 días** de aciclovir en el inmunodeprimido con meningoencefalitis por VVZ. La SEN 2025 los cita sin hacerlos suyos: no hay una recomendación firme dentro de las fuentes, consultar con Infecciosas o Neurología.*
 - ***Vasculopatía por VVZ**: aciclovir IV + corticoides.*
 - *Meningitis por VHS-2 o VVZ sin encefalitis: capítulo 2.*
@@ -197,13 +194,9 @@ Ante clínica y LCR compatibles con encefalitis infecciosa sin diagnóstico, la 
 |---|---|
 | **CMV** (encefalitis del inmunodeprimido, ventriculitis, polirradiculoneuropatía) | **GANCICLOVIR 5 mg/kg IV cada 12 h + FOSCARNET 90 mg/kg, 2-3 semanas** (SEN 2025). *La SEN 2025 no indica el intervalo del foscarnet. La SEMES 2012 daba ganciclovir y/o foscarnet 60 mg/kg IV cada 8 h. El cidofovir (5 mg/kg IV, 2 semanas) es controvertido porque no atraviesa la barrera hematoencefálica (SEN 2025)* |
 | **VHH-6** (trasplante de progenitores hematopoyéticos) | **FOSCARNET 60 mg/kg IV cada 8 h**; alternativa, **GANCICLOVIR 5 mg/kg IV cada 12 h** (SEN 2025; SEMES 2012) |
-| **Gripe** | **OSELTAMIVIR** (SEN 2023) |
-| VIH; LMP por virus JC asociada al VIH | **Tratamiento antirretroviral** (SEN 2023) |
 | **LMP asociada a inmunosupresores** | **Reducir o suspender el inmunosupresor** para favorecer la reconstitución inmune; vigilar el **síndrome inflamatorio de reconstitución inmune**. **No hay tratamiento claramente eficaz**; con natalizumab, la supervivencia a los 6 meses es del 70-80 %, con discapacidad grave (SEN 2025) |
 | **Encefalopatía necrotizante aguda** | No suele responder a corticoides; puede responder a **plasmaféresis o inmunoglobulinas IV** (SEN 2025) |
-| **VEB, virus West Nile** | **Sin tratamiento específico** (SEN 2023). *En el West Nile se han usado inmunoglobulinas IV, pero no se recomiendan de rutina (SEN 2025)* |
-
-*La SEMES 2012 proponía amantadina para la gripe A; la SEN 2023 indica oseltamivir. Prevalece la SEN.*
+| **VEB, virus West Nile** | **Sin antiviral de eficacia establecida en estas fuentes** (SEN 2025, p. 654). *En el West Nile se han usado inmunoglobulinas IV, pero no se recomiendan de rutina (SEN 2025)* |
 
 ### 5.4. Tratamiento de soporte
 
@@ -222,33 +215,24 @@ Ante clínica y LCR compatibles con encefalitis infecciosa sin diagnóstico, la 
 
 ## 7. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
-- **Pensar en las encefalitis estacionales**: en verano y otoño, **enterovirus, virus West Nile y *Borrelia*** (SEN 2023). *En el norte y el este de Europa, la encefalitis transmitida por garrapatas (SEN 2025).*
+- **Considerar la estación y el área geográfica**: los enterovirus tienen un patrón estacional en el hemisferio norte; en el norte y el este de Europa es relevante la encefalitis transmitida por garrapatas (SEN 2025, p. 643).
 - **Viajero**: descartar el **paludismo** con **gota gruesa** (SEMES 2012; capítulo 7) y pensar en los arbovirus tropicales (SEN 2025).
-- **La PCR múltiple en el LCR** es hoy la prueba clave. La SEN 2023 la considera el diagnóstico definitivo; la SEN 2025 advierte de sus falsos negativos precoces; la SEMES 2012 aún hablaba de PCR por virus.
+- **PCR en el LCR e imagen se interpretan junto con la clínica**. La SEN 2025 advierte de falsos negativos precoces de la PCR de VHS y de los paneles múltiples (p. 652).
 - **Inmunodeprimido por fármacos** (natalizumab, anti-CD20, moduladores de esfingosina-1-fosfato, inhibidores de la calcineurina): ampliar el estudio a CMV, VEB, VHH-6 y virus JC (SEN 2025).
 - **Diferencias entre las fuentes** (se sigue a la SEN, de mayor nivel):
-  - **Gripe**: oseltamivir (SEN 2023), no amantadina (SEMES).
   - **Corticoides en la herpética**: **no de rutina** (SEN 2025); los proponía la SEMES.
   - **CMV**: ganciclovir + foscarnet combinados (SEN 2025); ganciclovir y/o foscarnet según la SEMES.
-  - **VHS-2 y VVZ**: tratar siempre al inmunodeprimido e individualizar en el inmunocompetente (SEN 2023). Las dosis altas en la encefalitis por VVZ las cita la SEN 2025 sin recomendarlas.
-- **Encefalitis autoinmune (anti-NMDA)**: entra en el diagnóstico diferencial (SEN 2023; SEN 2025), pero su manejo excede lo que tratan estas fuentes; derivar a Neurología. **Creutzfeldt-Jakob**: ver §4.3; declaración obligatoria.
+  - **Encefalitis por VVZ**: la SEN 2025 cita dosis más altas y tratamientos de 21 días propuestos por otras fuentes, sin establecer una pauta propia firme (§5.1).
+- **Encefalitis autoinmune (anti-NMDA)**: entra en el diagnóstico diferencial (SEN 2025), pero su manejo excede lo que tratan estas fuentes; derivar a Neurología. **Creutzfeldt-Jakob**: ver §4.3; declaración obligatoria.
 
 ## REFERENCIAS
 
-1. ***Romero Sánchez CM. Enfermedades infecciosas. En: Manual de Urgencias Neurológicas de la Sociedad Española de Neurología. Madrid: SEN; 2023. Cap. 12, p. 395-409.***
-   — ***Nivel 1, junto a la SEN 2025.*** *Aporta:*
-   - *La definición clínica de encefalitis frente a meningitis.*
-   - *Las pistas etiológicas por epidemiología, clínica, imagen, EEG y LCR.*
-   - *La PCR múltiple como diagnóstico definitivo.*
-   - *El diagnóstico diferencial amplio (delirium, trombosis venosa, autoinmune anti-NMDA, Creutzfeldt-Jakob).*
-   - *El aciclovir empírico inmediato, la conducta en VHS-2 y VVZ, y los otros antivirales (ganciclovir, foscarnet, oseltamivir, antirretrovirales).*
-   - *El algoritmo combinado de MBA y meningoencefalitis herpética.*
-
-2. ***Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Bloque V:***
+1. ***Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Bloque V:***
+   - ***García-Moncó Carra JC, Rodrigo Armenteros P, Erburu Iriarte M. Infecciones bacterianas. Cap. 40, p. 619-631.*** *Uso puntual: alteración mental y crisis en la meningitis bacteriana (p. 621).*
    - ***Carod Artal FJ. Infecciones víricas. Cap. 42, p. 643-657.***
    - ***Enríquez Calzada S, Durán Lozano A. Prionopatías. Cap. 44, p. 679-686.***
 
-   — ***Nivel 1, junto a la SEN 2023; manda si las dos discrepan.*** *Manual formativo de expertos, sin grados de recomendación, con bibliografía consultada en 2023. Aporta:*
+   — ***Nivel 1: fuente principal del capítulo.*** *Manual formativo de expertos, sin grados de recomendación, con bibliografía consultada en 2023. Aporta:*
    - *Criterios de sospecha de encefalitis, epidemiología (incidencia, mortalidad, causas víricas, epilepsia posencefalítica) y mecanismos de entrada de los virus.*
    - *Infecciones víricas del inmunodeprimido (CMV, VHH-6, VEB, LMP) y tabla de inmunosupresores y virus oportunistas.*
    - *Patrones de RM, falsos negativos de la PCR de VHS y de la PCR múltiple, serología de los arbovirus.*
@@ -257,13 +241,13 @@ Ante clínica y LCR compatibles con encefalitis infecciosa sin diagnóstico, la 
    - *Priones: clínica, RM, EEG, LCR (RT-QuIC, 14-3-3), datos de alarma de un diagnóstico alternativo y precauciones.*
    - *Datos dudosos: el intervalo del foscarnet y la dosis alta de aciclovir en el VVZ, citada sin recomendarla (ver `FUENTES.md`).*
 
-3. ***van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-62.*** PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007)
+2. ***van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-62.*** PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007)
    — ***Nivel 2 (uso puntual).*** *Aporta que el lactato del LCR también se eleva en la encefalitis herpética y tras crisis, por lo que no sirve para separarla de la meningitis bacteriana.*
 
-4. ***National Institute for Health and Care Excellence (NICE). Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NICE guideline NG240. 19 de marzo de 2024.***
+3. ***National Institute for Health and Care Excellence (NICE). Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NICE guideline NG240. 19 de marzo de 2024.***
    — ***Nivel 3 (uso puntual).*** *Aporta la recomendación de no dar aciclovir de rutina en la sospecha de meningitis bacteriana salvo sospecha fuerte de encefalitis por VHS (1.6.7).*
 
-5. ***Julián Jiménez A, Estébanez Seco S, Parejo Míguez R. Encefalitis. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 19, p. 159-163.***
+4. ***Julián Jiménez A, Estébanez Seco S, Parejo Míguez R. Encefalitis. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 19, p. 159-163.***
    — ***Nivel 4: estructura de urgencias.*** *Aporta:*
    - *La fisiopatología y la epidemiología española (3-7/100.000).*
    - *La etiología en situaciones especiales (viajero, inmunodeprimido, postinfecciosa).*
@@ -272,4 +256,4 @@ Ante clínica y LCR compatibles con encefalitis infecciosa sin diagnóstico, la 
    - *Las dosis: aciclovir y su duración, ampicilina + doxiciclina, cotrimoxazol, ganciclovir, foscarnet.*
    - *El soporte y los criterios de ingreso, UCI y observación.*
 
-   *Superado por la SEN en: amantadina para la gripe (oseltamivir, SEN 2023) y dexametasona en la herpética (no de rutina, SEN 2025).*
+   *Superado por la SEN 2025 en la dexametasona para la encefalitis herpética: no de rutina.*

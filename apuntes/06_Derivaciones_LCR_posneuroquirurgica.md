@@ -1,10 +1,10 @@
 # INFECCIONES DE DERIVACIONES DE LCR Y MENINGITIS POSNEUROQUIRÚRGICA
 
-> **Fuentes**: la base es la **SEMES 2012** (cap. 23), la única de las fuentes que trata con detalle las infecciones de las derivaciones de LCR. La **SEN** aporta la **pauta empírica tras neurocirugía o traumatismo penetrante** y la **tabla de meningitis asociada a cuidados sanitarios** (SEN 2023), y además la **duración**, la **retirada del catéter y el momento del reimplante** y las alternativas en la alergia y a la vancomicina (SEN 2025, Manual del Residente, cap. 40); si discrepa, prevalece sobre la SEMES, y entre las dos SEN manda la de 2025. La **NICE NG240 excluye expresamente** de su alcance a los pacientes con derivaciones intracraneales o neurocirugía previa, y la **ESCMID 2016** no da recomendaciones específicas sobre ellos. Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
+> **Fuentes**: la base descriptiva es la **SEMES 2012** (cap. 23), la única de las fuentes que trata con detalle las infecciones de las derivaciones de LCR. La **SEN 2025** (Manual del Residente, cap. 40) aporta la **etiología y pauta empírica tras neurocirugía, traumatismo penetrante o drenajes**, la **duración**, la **retirada del catéter y el momento del reimplante** y las alternativas en la alergia y a la vancomicina; prevalece sobre la SEMES. Pirámide: **SEN 2025 → ESCMID → NICE → SEMES 2012**, con prioridad de **ESCMID 2024 en el absceso cerebral**. La **NICE NG240 excluye expresamente** de su alcance a los pacientes con derivaciones intracraneales o neurocirugía previa, y la **ESCMID 2016** no da recomendaciones específicas sobre ellos. Las discrepancias y limitaciones van en *cursiva*. Ver `FUENTES.md`.
 >
 > *Ecología local: los porcentajes de resistencia locales de 2024 van en cursiva con la etiqueta **(ecología local 2024)**, fuera de la pirámide. No son recomendaciones ni cambian ninguna pauta. Ver `FUENTES.md` (§8).*
 >
-> *Aviso: la evidencia de este capítulo es la de un manual de urgencias de 2012 y dos manuales de expertos (2023 y 2025), sin grados de recomendación. Las decisiones sobre el dispositivo corresponden a Neurocirugía; la antibioterapia debe consensuarse con Infecciosas.*
+> *Aviso: la evidencia específica de las derivaciones procede de un manual de urgencias de 2012 y un manual de expertos de 2025, sin grados de recomendación. Las decisiones sobre el dispositivo corresponden a Neurocirugía; la antibioterapia debe consensuarse con Infecciosas.*
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
@@ -48,13 +48,13 @@
 
 ## 3. ETIOLOGÍA
 
-**Tabla de etiología** (SEMES 2012, tabla 1; SEN 2023, tabla 2; SEN 2025, tablas 2 y 5):
+**Tabla de etiología** (SEMES 2012, tabla 1; SEN 2025, cap. 40, tablas 2 y 5, p. 620 y 625):
 
 | Contexto | Frecuentes | Menos frecuentes / según contexto |
 |---|---|---|
 | **Derivación interna** | ***Staphylococcus* coagulasa negativo** (sobre todo *S. epidermidis*, 4-65 %) y ***S. aureus*** (12-25 %) | ***Cutibacterium (Propionibacterium) acnes*** y otros anaerobios (3-15 %); *Corynebacterium* spp.; **enterobacterias** y *P. aeruginosa* (vía ascendente desde el colon); **patógenos meníngeos clásicos** según la edad; muy raros: *Mycoplasma*, *M. tuberculosis*, *Candida*, *Cryptococcus* |
 | **Derivación externa** | **Estafilococos** (coagulasa negativo y *S. aureus*) y estreptococos | **Bacilos gramnegativos**: enterobacterias, ***P. aeruginosa***, ***Acinetobacter baumannii*** y otros nosocomiales, **a veces multirresistentes** (pacientes de UCI) |
-| **Meningitis asociada a cuidados sanitarios** (SEN 2023; SEN 2025) | ***S. aureus***: procedimientos neuroquirúrgicos y cuerpos extraños, celulitis, úlceras de decúbito, endocarditis, osteomielitis, prótesis articulares, UDVP. **Estafilococo coagulasa negativo**: drenajes ventriculares | **Bacilos gramnegativos** (*P. aeruginosa*, *Klebsiella*, *E. coli*): enfermedad crónica avanzada, drenajes ventriculares, procedimientos neuroquirúrgicos. ***C. acnes*** tras neurocirugía, traumatismo penetrante o drenajes (SEN 2025) |
+| **Neurocirugía, traumatismo penetrante, celulitis, endocarditis o drenajes lumbares o ventriculares** (SEN 2025) | ***S. aureus*, *S. epidermidis*** | **Bacilos gramnegativos**, incluida ***P. aeruginosa***, y ***C. acnes***. En la descripción de la meningitis nosocomial se incluyen también ***E. coli* y *Klebsiella*** |
 | **Cirugía ORL, fractura de base de cráneo, implante coclear** (SEN 2025) | **Neumococo**, *H. influenzae*, estreptococos del grupo A | Tratar como la meningitis comunitaria (capítulo 1): **vancomicina 15 mg/kg IV cada 8-12 h + cefotaxima 2 g IV cada 4-6 h o ceftriaxona 2 g IV cada 12 h** (SEN 2025, tabla 5) |
 
 ***Candida*** (SEN 2025): las derivaciones ventriculoperitoneales y la neurocirugía son factores de riesgo de candidiasis del SNC; hay que **retirar los dispositivos infectados** siempre que se pueda (capítulo 7).
@@ -94,7 +94,7 @@
 
 **Analítica y otros focos** (SEMES 2012): hemograma, coagulación, bioquímica con función renal, **radiografía de tórax y abdomen** y sistemático de orina. **PCR y procalcitonina** pueden ayudar en los casos dudosos.
 
-**Hemocultivos**: obligados si el paciente está séptico (SEMES 2012). Su positividad es de **~20 % en las DVP** y de **hasta el 95 % en las DVA**. *La SEN 2023 pide **2 hemocultivos** en toda sospecha de meningitis bacteriana.*
+**Hemocultivos**: obligados si el paciente está séptico (SEMES 2012). Su positividad es de **~20 % en las DVP** y de **hasta el 95 % en las DVA**. *La SEN 2025 (cap. 40, p. 622) recomienda extraer hemocultivos de forma rutinaria antes de la PL y de la antibioterapia en la sospecha de meningitis bacteriana, sin especificar el número de tomas.*
 
 **TC craneal** (SEMES 2012): **bajo rendimiento para diagnosticar la infección**. Sirve para ver **malfuncionamiento, hidrocefalia y la posición del catéter**.
 
@@ -105,7 +105,7 @@
 - **De elección: punción del reservorio**, con **máxima asepsia**, por **personal experto** y con la **aguja de menor calibre** posible.
 - **Punción lumbar**: **baja rentabilidad microbiológica** y **riesgo de herniación**. **Evitarla en el síndrome de malfunción valvular con datos de hidrocefalia obstructiva.**
 - **Hidrocefalia aguda**: **lo prioritario es externalizar la derivación** (Neurocirugía); el LCR se obtiene del **catéter distal externalizado**.
-- *La SEN 2023 indica la PL en la sospecha de meningitis bacteriana si no hay contraindicación por coagulopatía o neuroimagen, pero no trata el caso del portador de derivación. Aquí se sigue la SEMES. **Coordinar siempre con Neurocirugía.***
+- **Coordinar siempre la obtención del LCR con Neurocirugía.**
 
 **Interpretación del LCR** (SEMES 2012; SEN 2025):
 
@@ -127,15 +127,14 @@
 
 ## 7. TRATAMIENTO
 
-> **Antibioterapia empírica IV INMEDIATA, una vez extraídas las muestras** (LCR y hemocultivos). Debe cubrir **estafilococos (incluido el resistente a meticilina)** y **bacilos gramnegativos, incluida *Pseudomonas*** (SEN 2023; SEN 2025; SEMES 2012). **Avisar a Neurocirugía**; si el centro no la tiene, **trasladar** (SEMES 2012).
+> **Antibioterapia empírica IV INMEDIATA, una vez extraídas las muestras** (LCR y hemocultivos). Debe cubrir **estafilococos (incluido el resistente a meticilina)** y **bacilos gramnegativos, incluida *Pseudomonas*** (SEN 2025; SEMES 2012). **Avisar a Neurocirugía**; si el centro no la tiene, **trasladar** (SEMES 2012).
 
 ### 7.1. Antibioterapia empírica
 
-**---> PRIMERA ELECCIÓN** (SEN 2023 y SEN 2025, pauta para **neurocirugía previa, traumatismo penetrante o drenajes lumbares o ventriculares**; coincide con la SEMES 2012, tabla 2):
+**---> PRIMERA ELECCIÓN** (SEN 2025, cap. 40, tabla 5, p. 625: **neurocirugía previa, traumatismo penetrante o drenajes lumbares o ventriculares**):
 
-- **VANCOMICINA 15-20 mg/kg IV cada 8-12 h** (15 mg/kg cada 8-12 h según la SEN 2025)
+- **VANCOMICINA 15 mg/kg IV cada 8-12 h**
 - **+ CEFTAZIDIMA 2 g IV cada 8 h** o **CEFEPIMA 2 g IV cada 8 h** o **MEROPENEM 2 g IV cada 8 h**.
-- *Si se sospecha ***S. aureus***, la SEN 2023 recomienda **dosis de carga de vancomicina de 20-35 mg/kg**.*
 
 *Ecología local 2024 (porcentaje de resistencia) para la pauta empírica:*
 - ***Vancomicina**: 0 % en S. aureus (SAMR 30 %), 0-1 % en los estafilococos coagulasa negativos y 0 % en C. acnes.*
@@ -145,8 +144,8 @@
 
 **---> ALTERNATIVA** (alergia a betalactámicos), en lugar del betalactámico:
 
-- **AZTREONAM 2 g IV cada 6-8 h** (SEN 2023; SEN 2025; SEMES 2012) o **CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEN 2025), con la vancomicina.
-- *La SEMES 2012 propone **LEVOFLOXACINO 500 mg IV cada 12 h** como alternativa al aztreonam; la SEN no lo recoge (la de 2025 propone ciprofloxacino).*
+- **AZTREONAM 2 g IV cada 6-8 h** o **CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEN 2025, cap. 40, p. 624), con la vancomicina.
+- *La SEMES 2012 propone **LEVOFLOXACINO 500 mg IV cada 12 h** como alternativa al aztreonam; la SEN 2025 propone ciprofloxacino.*
 - *Ecología local 2024: resistencia al **ciprofloxacino** del **19 % en P. aeruginosa** y del **26-27 % en E. coli y K. pneumoniae**. No hay datos locales del aztreonam.*
 
 **Alternativas a la vancomicina** (SEN 2025; SEMES 2012):
@@ -156,22 +155,22 @@
 - *Ecología local 2024 (porcentaje de resistencia): **linezolid**, 0-2 % en los estafilococos (casos aislados de S. aureus resistente); **daptomicina**, 0-1 %; **rifampicina**, 6 % en S. aureus, 9 % en S. epidermidis y 31 % en S. haemolyticus; **teicoplanina**, 22 % en S. epidermidis.*
 - **Antibioterapia intraventricular** (sobre todo vancomicina): la SEN 2025 propone **valorar vancomicina intratecal, 20 mg/día**, si hay derivación (tabla 1); la SEMES 2012 la reserva para las infecciones con **mala respuesta** y cita también la rifampicina intraventricular. **Es una decisión de Neurocirugía e Infecciosas, no una medida de urgencias.**
 
-*Dosis de vancomicina: la SEMES 2012 da **1 g cada 8-12 h**; se sigue la **SEN** (**15-20 mg/kg**, con carga de 20-35 mg/kg si se sospecha *S. aureus*; SEN 2023). Ninguna de las fuentes detalla la monitorización de niveles: ajustar con Farmacia e Infecciosas.*
+*Dosis de vancomicina: se sigue la pauta específica de la SEN 2025 para meningitis nosocomial (**15 mg/kg cada 8-12 h**, tabla 5). Su tabla general de dosis (tabla 4, p. 624) ofrece **2-3 g/día cada 6-12 h**, y la SEMES 2012 da **1 g cada 8-12 h**. La SEN 2025 no detalla una carga ni objetivos de monitorización para esta indicación: individualizar con Farmacia e Infecciosas.*
 
-*Dexametasona y aciclovir: el algoritmo general de la SEN 2023 añade **dexametasona 10 mg** y **aciclovir 10 mg/kg** a toda pauta empírica de meningitis bacteriana. Ninguna de las fuentes los trata específicamente en la infección de la derivación ni en la meningitis posneuroquirúrgica. La evidencia sobre la dexametasona procede de la meningitis comunitaria (capítulo 1), sobre todo la neumocócica. Su papel en la infección asociada al dispositivo o a la cirugía **no está establecido por estas fuentes**: individualizar.*
+*Dexametasona y aciclovir: las fuentes revisadas no establecen una pauta específica de estos fármacos para la infección de la derivación o la meningitis posneuroquirúrgica. La pauta antibacteriana nosocomial de la SEN 2025 no los incorpora. Si hay sospecha de encefalitis, consultar el capítulo 3; la recomendación sobre dexametasona en la meningitis bacteriana se describe en el capítulo 1 y requiere valorar su aplicación a este contexto con Infecciosas.*
 
 ### 7.2. Tratamiento dirigido
 
-**Ajuste por Gram** (si el centro dispone de él) y después **por cultivo y antibiograma** (SEMES 2012; SEN 2025). Orientación según la tabla 2 de la SEN 2023 y la tabla 3 de la SEN 2025:
+**Ajuste por Gram** (si el centro dispone de él) y después **por cultivo y antibiograma** (SEMES 2012; SEN 2025). La tabla 3 de la SEN 2025 (cap. 40, p. 623) aporta estas opciones por germen:
 
-| Gram del LCR | Germen probable | Tratamiento dirigido (SEN 2023, salvo donde se indica) |
-|---|---|---|
-| **Cocos grampositivos** | ***S. aureus* sensible a meticilina** | **Antiestafilocócico para SASM** (p. ej., **cloxacilina**) |
-| **Cocos grampositivos** | ***S. aureus* resistente a meticilina** o **estafilococo coagulasa negativo** | **VANCOMICINA**, con o sin rifampicina; según el antibiograma, linezolid, daptomicina, meropenem, cotrimoxazol o clindamicina (SEN 2025) |
-| **Bacilos gramnegativos** | **Enterobacterias** | **C3G** (cefotaxima, ceftriaxona); **≥3 semanas** (SEN 2025) |
-| **Bacilos gramnegativos** | ***P. aeruginosa*** | **CEFEPIMA** o **CEFTAZIDIMA** |
+| Germen confirmado | Tratamiento dirigido (SEN 2025) |
+|---|---|
+| ***S. aureus* o *S. epidermidis*** | **VANCOMICINA**, con o sin rifampicina, y retirada del dispositivo si lo hay. Alternativas según sensibilidad: meropenem, linezolid, cloxacilina, cotrimoxazol o clindamicina. El texto añade daptomicina como alternativa en la meningitis estafilocócica |
+| ***E. coli*** | **Cefalosporina de tercera generación**, ajustada al antibiograma; **≥3 semanas** para meningitis por gramnegativos (texto de p. 624) |
 
-*La tabla de la SEN 2023 dice "meticilin-sensible o vancomicina" sin nombrar el fármaco para SASM; la SEN 2025 nombra la cloxacilina entre las alternativas, y es la pauta que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g IV cada 4 h; capítulo 5). La tabla de dosis de la SEN 2025 da una dosis menor de cloxacilina (4-6 g/día), dudosa (capítulo 1, §6.6).*
+*La tabla de la SEN 2025 agrupa S. aureus y S. epidermidis y **no separa las pautas por sensibilidad a meticilina**: las alternativas no son intercambiables sin antibiograma. Tampoco incluye una pauta dirigida específica de Pseudomonas ni del resto de enterobacterias; mantener cobertura activa y ajustar con Infecciosas según el aislamiento. La pauta empírica antipseudomónica está en §7.1.*
+
+*⚠️ La tabla de dosis de la SEN 2025 da **cloxacilina 4-6 g/día**, discordante con los **2 g IV cada 4 h** de la SEMES 2012 para las infecciones estafilocócicas del SNC (capítulo 5). No resolver esta discrepancia por equivalencia: confirmar la dosis con Infecciosas o Farmacia (capítulo 1, §6.6).*
 
 ### 7.3. Manejo del dispositivo (SEMES 2012; SEN 2025)
 
@@ -204,7 +203,7 @@
 
 ## 9. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
-- **Evidencia limitada**: solo la SEMES 2012 trata las derivaciones de LCR con detalle; la SEN 2023 aporta la pauta empírica y la tabla de etiología, y la SEN 2025 la pauta, la duración y el reimplante en la meningitis nosocomial. Ninguna tiene grados de recomendación. **La NICE las excluye de su alcance.**
+- **Evidencia limitada**: solo la SEMES 2012 trata las derivaciones de LCR con detalle; la SEN 2025 aporta la etiología, la pauta empírica, la duración y el reimplante en la meningitis nosocomial. Ninguna tiene grados de recomendación. **La NICE las excluye de su alcance.**
 - **Absceso cerebral posneuroquirúrgico**: si la imagen muestra un absceso tras neurocirugía, la **ESCMID 2024** recomienda **meropenem + vancomicina o linezolid** (recomendación condicional, certeza baja). Sus autores aceptaron después que **ceftazidima o cefepima + vancomicina o linezolid** es igual de adecuada si el riesgo de gramnegativos multirresistentes es bajo, que es la pauta de este capítulo → ver **capítulo 4**.
 - **Drenaje externo en paciente de UCI**: riesgo de ***P. aeruginosa*, *A. baumannii* y otros multirresistentes** (SEMES 2012). Ajustar la pauta a la **epidemiología local** y a las colonizaciones previas, con Infecciosas.
 - **Ecología local 2024** (porcentaje de resistencia):
@@ -219,14 +218,11 @@
 1. ***Solano Vera MR, González Martínez F. Infecciones en enfermos con derivaciones de líquido cefalorraquídeo. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 23, p. 187-192.***
    — ***Fuente principal del capítulo (nivel 4 de la pirámide, pero la única que trata las derivaciones de LCR con detalle).*** *Aporta los tipos de derivación, la etiopatogenia y la etiología (tabla 1) según sean internas o externas, la clínica por tipo de derivación, la exploración del reservorio, las pruebas complementarias, la obtención del LCR por el reservorio, la interpretación del LCR y del cultivo, la pauta empírica (tabla 2), las opciones quirúrgicas según la dependencia de la derivación y los criterios de ingreso.*
 
-2. ***Romero Sánchez CM. Enfermedades infecciosas. En: Manual de Urgencias Neurológicas de la Sociedad Española de Neurología. Madrid: SEN; 2023. Cap. 12, p. 395-409.***
-   — ***Nivel 1 (uso puntual, pero prevalece en la pauta empírica).*** *Aporta la pauta empírica tras neurocirugía o traumatismo penetrante (vancomicina 15-20 mg/kg + ceftazidima, cefepima o meropenem; aztreonam en alérgicos), la dosis de carga de vancomicina en la meningitis por S. aureus y la tabla de meningitis asociada a cuidados sanitarios (gérmenes, factores de riesgo y tratamiento dirigido por Gram).*
+2. ***García-Moncó Carra JC, Rodrigo Armenteros P, Erburu Iriarte M. Infecciones bacterianas. En: Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Bloque V, cap. 40, p. 619-631.*** *Para la candidiasis: Sáez Marín A, Stiauren Fernández E, Corral Corral Í. Ibíd., cap. 43, p. 659-677.*
+   — ***Nivel 1; prevalece sobre la SEMES.*** *Manual formativo de expertos, sin grados de recomendación. Aporta la etiología (tabla 2), el tratamiento por germen (tabla 3), la pauta empírica nosocomial con vancomicina 15 mg/kg cada 8-12 h (tabla 5), la pauta de la cirugía ORL y la fractura de base de cráneo, el ciprofloxacino como alternativa al aztreonam, el linezolid y la daptomicina como alternativas en la meningitis estafilocócica, la vancomicina intratecal a valorar si hay derivación, la duración de 3-4 semanas, la retirada del catéter con reimplante tras ≥7 días de cultivos negativos, el valor del lactato tras neurocirugía y la retirada de los dispositivos en la candidiasis. Se conserva la advertencia sobre la dosificación de cloxacilina.*
 
-3. ***García-Moncó Carra JC, Rodrigo Armenteros P, Erburu Iriarte M. Infecciones bacterianas. En: Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Bloque V, cap. 40, p. 619-631.*** *Para la candidiasis: Sáez Marín A, Stiauren Fernández E, Corral Corral Í. Ibíd., cap. 43, p. 659-677.*
-   — ***Nivel 1, junto a la SEN 2023; manda si las dos discrepan y prevalece sobre la SEMES.*** *Manual formativo de expertos, sin grados de recomendación. Aporta la misma pauta empírica nosocomial (tabla 5), la pauta de la cirugía ORL y la fractura de base de cráneo, el ciprofloxacino como alternativa al aztreonam, el linezolid y la daptomicina como alternativas en la meningitis estafilocócica, la vancomicina intratecal a valorar si hay derivación, la duración de 3-4 semanas, la retirada del catéter con reimplante tras ≥7 días de cultivos negativos, el valor del lactato tras neurocirugía y la retirada de los dispositivos en la candidiasis.*
-
-4. ***NICE. Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NICE guideline NG240. Londres: NICE; 19/03/2024.***
+3. ***NICE. Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NICE guideline NG240. Londres: NICE; 19/03/2024.***
    — ***Nivel 3 (sin uso clínico en este capítulo).*** *Se cita para dejar constancia de que excluye expresamente de su alcance a los pacientes con derivaciones intracraneales o procedimientos neuroquirúrgicos previos, por lo que sus recomendaciones (capítulo 1) no son aplicables aquí.*
 
-5. ***Bodilsen J, D'Alessandris QG, Humphreys H, et al. European Society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults. Clin Microbiol Infect. 2024;30(1):66-89.*** PMID 37648062 · [DOI](https://doi.org/10.1016/j.cmi.2023.08.016)
+4. ***Bodilsen J, D'Alessandris QG, Humphreys H, et al. European Society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults. Clin Microbiol Infect. 2024;30(1):66-89.*** PMID 37648062 · [DOI](https://doi.org/10.1016/j.cmi.2023.08.016)
    — ***Nivel 2 (uso puntual).*** *Aporta la pauta empírica del absceso cerebral posneuroquirúrgico (meropenem + vancomicina o linezolid; recomendación condicional, certeza baja), que remite al capítulo 4 cuando la imagen muestra un absceso.*

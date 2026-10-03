@@ -2,7 +2,7 @@
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
-La **meningitis** es un síndrome inflamatorio de las meninges definido analíticamente por **pleocitosis en el LCR (>5 leucocitos/µL)**. Sus manifestaciones cardinales son **fiebre, cefalea intensa y rigidez de nuca**, con náuseas, vómitos y fotofobia (SEN 2023). Por tiempo de evolución es **aguda** si dura **≤5 días**, **subaguda** de 5 días a 4 semanas y **crónica** más allá de 4 semanas (SEN 2023). *La SEMES 2012 usa cortes algo distintos (aguda 48-72 h, subaguda >3-7 días, crónica >3-4 semanas). Lo práctico: la bacteriana empeora el estado general y evoluciona en <24 h (SEN 2023).*
+La **meningitis** es una inflamación de las leptomeninges que suele acompañarse de **aumento de leucocitos en el LCR**. La presentación clásica combina **cefalea, fiebre, rigidez de nuca y alteración del estado mental** (SEN 2025, cap. 40, §1.1). *Para describir el curso temporal, la SEMES 2012 distingue aguda (48-72 h) y subaguda (>3-7 días); la SEN 2025 define la crónica como ≥4 semanas (cap. 40, §2). La MBA suele instaurarse en 24-72 h y puede ser fulminante en pocas horas (SEN 2025).*
 
 La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **colonización nasofaríngea → bacteriemia → paso de la barrera hematoencefálica**. *La SEN 2025 lo describe en cuatro pasos: colonización de las mucosas, invasión del torrente sanguíneo (favorecida por una infección vírica previa, el tabaco, el alcohol, la asplenia, el déficit de complemento y la agammaglobulinemia), supervivencia intravascular gracias a la cápsula polisacárida e invasión meníngea a través de las vénulas poscapilares.* También puede llegar **por contigüidad** (otitis, sinusitis, mastoiditis) o **por una vía directa**: fístula de LCR tras una fractura de la base del cráneo, implante coclear o neurocirugía. En el espacio subaracnoideo las bacterias proliferan y desencadenan una respuesta inflamatoria intensa con reclutamiento de neutrófilos. Esa respuesta es la que produce **edema cerebral, hipertensión intracraneal (HTIC), vasculitis e infartos, trombosis de senos venosos, hidrocefalia y daño coclear**. *En modelos experimentales, el pronóstico de la MBA depende de la intensidad de la inflamación subaracnoidea, y la **lisis bacteriana que provoca el propio antibiótico** la amplifica. Por eso en los grandes ensayos la dexametasona se dio antes o con la primera dosis de antibiótico (ESCMID 2016).*
 
@@ -15,13 +15,13 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
   - **Romboencefalitis** (ataxia, pares craneales, nistagmo) o **focalidad precoz** → ***Listeria***.
   - **Exantema petequial o púrpura** → **meningococo**.
   - **Artritis** (7 % de las MBA; dos tercios son meningocócicas) → **meningococo**; también *Borrelia* y *Brucella*. El líquido articular puede dar el germen.
-- **Petequias o púrpura**: aparecen en el **20-52 %** de los adultos con MBA y, cuando están, **son meningocócicas en >90 %** (ESCMID). *La SEN las describe en hasta el 64 % de las meningocócicas.* **No descartar la enfermedad meningocócica por la ausencia de exantema** (NICE 1.1.10).
-- Buscar en la exploración (SEN 2023, SEMES 2012): **datos de sepsis** (PAS <90 mmHg, T >38 °C o <36 °C, FC >90 lpm, FR >20 rpm), **focos asociados** (otitis, sinusitis, neumonía, endocarditis), **lesiones cutáneas**, **nivel de consciencia (GCS)**, **focalidad** y **datos de HTIC** (papiledema, HTA, bradicardia). Hacer otoscopia y fondo de ojo.
+- **Petequias o púrpura**: aparecen en el **20-52 %** de los adultos con MBA y, cuando están, **son meningocócicas en >90 %** (ESCMID). **No descartar la enfermedad meningocócica por la ausencia de exantema** (NICE 1.1.10).
+- Buscar en la exploración (SEMES 2012): **estabilidad hemodinámica y constantes** (PA, temperatura, FC y FR), **focos asociados** (otitis, sinusitis, neumonía, endocarditis), **lesiones cutáneas**, **nivel de consciencia (GCS)**, **focalidad** y **datos de HTIC** (papiledema, HTA, bradicardia). Hacer otoscopia y fondo de ojo.
 - *Presentaciones atípicas que hacen perder el diagnóstico (NICE, tabla 2; SEMES 2012): en el **anciano**, menos fiebre y rigidez, y la meningitis se confunde con un delirium; en el **joven**, la alteración de conducta se atribuye a alcohol o drogas; en el **neutropénico**, la reacción inflamatoria es escasa. La rigidez de nuca es difícil de valorar si hay demencia o artrosis cervical. **La fiebre puede faltar** en ancianos, inmunodeprimidos, pacientes en shock o que toman antitérmicos, y la rigidez de nuca en niños, ancianos e inmunodeprimidos (SEN 2025).*
 
-**Diagnóstico.** Se confirma con la **combinación de clínica + analítica de sangre + LCR** (NICE 1.4.2). El aislamiento del patógeno **en el LCR (cultivo o PCR múltiple) o en hemocultivos de un paciente con pleocitosis** confirma la MBA. **El antibiótico previo puede negativizar el Gram o el cultivo, pero la citobioquímica apenas se modifica y sigue siendo muy orientativa** (SEN 2023).
+**Diagnóstico.** Se confirma con la **combinación de clínica + analítica de sangre + LCR** (NICE 1.4.2). El estudio del LCR incluye **Gram, cultivo y PCR**; la PCR es especialmente útil cuando el Gram o el cultivo son negativos y su rendimiento no se altera por el antibiótico previo (SEN 2025, cap. 40, §1.5).
 
-*Diagnóstico diferencial: la mayoría de los pacientes con sospecha de MBA acaba con otro diagnóstico, sobre todo **meningitis vírica** (ESCMID), que es más frecuente, suele ser leve y autolimitada y da LCR mononuclear con glucosa normal (SEN 2023). Muchos signos de la MBA aparecen también en **otras sepsis, hemorragia o isquemia intracraneal y neumonía** (NICE 1.1.17). La SEN 2025 añade la meningitis vírica (que en las primeras 24 h puede tener predominio de neutrófilos), la tuberculosa y la fúngica (de curso subagudo), las infecciones parameníngeas, las rickettsiosis, la meningitis carcinomatosa y la **meningitis aséptica por fármacos** (AINE, antibióticos, quimioterapia intratecal e **inhibidores de puntos de control inmunitario**). La **meningitis asociada a cuidados sanitarios** (neurocirugía, derivaciones de LCR, traumatismo penetrante) tiene otra etiología (estafilococos, bacilos gramnegativos) y otra pauta empírica (SEN 2023; SEN 2025; ver capítulo 6).*
+*Diagnóstico diferencial: la mayoría de los pacientes con sospecha de MBA acaba con otro diagnóstico, sobre todo **meningitis vírica** (ESCMID), con LCR habitualmente linfocitario y glucorraquia normal o ligeramente disminuida (SEN 2025, cap. 42, §5.1). Muchos signos de la MBA aparecen también en **otras sepsis, hemorragia o isquemia intracraneal y neumonía** (NICE 1.1.17). La SEN 2025 añade la meningitis vírica (que en las primeras 24 h puede tener predominio de neutrófilos), la tuberculosa y la fúngica (de curso subagudo), las infecciones parameníngeas, las rickettsiosis, la meningitis carcinomatosa y la **meningitis aséptica por fármacos** (AINE, antibióticos, quimioterapia intratecal e **inhibidores de puntos de control inmunitario**). La **meningitis asociada a cuidados sanitarios** (neurocirugía, derivaciones de LCR, traumatismo penetrante) tiene otra etiología (estafilococos, bacilos gramnegativos) y otra pauta empírica (SEN 2025; ver capítulo 6).*
 
 ## 2. EPIDEMIOLOGÍA
 
@@ -43,10 +43,10 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 | Patógeno | Factores de riesgo | Pistas clínicas | Gram |
 |---|---|---|---|
-| **NEUMOCOCO** | >65 años; **fractura de base de cráneo / fístula de LCR**; **implante coclear**; cirugía ORL; asplenia; enolismo; diabetes; cáncer; VIH; hipogammaglobulinemia; nefropatía o hepatopatía crónica (SEN; ESCMID; SEMES) | Otitis, sinusitis o neumonía asociadas; laberintitis con hipoacusia; ictus (SEN 2025) | Diplococos grampositivos |
-| **MENINGOCOCO** | A menudo ninguno; contacto con un caso o brote; **déficit de complemento o tratamiento con inhibidores del complemento**; asplenia; estudiantes en residencias; no vacunado (SEN; NICE 1.1.14; ESCMID) | **Petequias / púrpura**; artritis (SEN 2025) | Diplococos gramnegativos |
-| ***LISTERIA*** | **>50 años**; embarazo; inmunosupresión celular (corticoides, trasplante, cáncer sólido o hematológico, VIH); diabetes; enolismo; cirrosis; nefropatía o hepatopatía (SEN; NICE; SEMES) | **Romboencefalitis** (ataxia, pares craneales bajos); focalidad precoz (SEN 2025) | Bacilos/cocobacilos grampositivos |
-| ***H. INFLUENZAE*** | Infección ORL; déficit de inmunidad humoral; diabetes; enolismo; asplenia; mieloma (SEN; ESCMID) | Otitis, sinusitis, faringitis | Cocobacilos gramnegativos |
+| **NEUMOCOCO** | **Fractura de base de cráneo**, **implante coclear** y cirugía ORL (SEN 2025, tabla 2); **fístula de LCR**, asplenia, enolismo, diabetes, cáncer, VIH, hipogammaglobulinemia, nefropatía o hepatopatía crónica (ESCMID; SEMES) | Otitis, sinusitis o neumonía asociadas; laberintitis con hipoacusia; ictus (SEN 2025) | Diplococos grampositivos |
+| **MENINGOCOCO** | A menudo ninguno; contacto con un caso o brote; **déficit de complemento o tratamiento con inhibidores del complemento**; asplenia; estudiantes en residencias; no vacunado (NICE 1.1.14; ESCMID) | **Petequias / púrpura**; artritis (SEN 2025) | Diplococos gramnegativos |
+| ***LISTERIA*** | **>50 años**; embarazo; inmunosupresión celular (corticoides, trasplante, cáncer sólido o hematológico, VIH); diabetes; enolismo; cirrosis; nefropatía o hepatopatía (NICE; SEMES) | **Romboencefalitis** (ataxia, pares craneales bajos); focalidad precoz (SEN 2025) | Bacilos/cocobacilos grampositivos |
+| ***H. INFLUENZAE*** | Infección ORL; déficit de inmunidad humoral; diabetes; enolismo; asplenia; mieloma (ESCMID) | Otitis, sinusitis, faringitis | Cocobacilos gramnegativos |
 
 **Situaciones especiales** (SEMES 2012, además de lo esperable por la edad):
 - **Neutropenia**: enterobacterias, *Pseudomonas*, *Listeria*, anaerobios.
@@ -59,13 +59,13 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 ## 4. VALORACIÓN INICIAL: TIEMPOS Y SECUENCIA EN URGENCIAS
 
-> **LA MBA ES UNA EMERGENCIA TIEMPO-DEPENDIENTE: ANTIBIÓTICO IV EN MENOS DE 1 HORA DESDE LA LLEGADA** (SEN 2023; ESCMID, grado A; NICE 1.4.1). *La SEMES 2012 pedía analítica, cultivos y primera dosis de antibiótico en 15-30 min.*
+> **LA MBA ES UNA EMERGENCIA TIEMPO-DEPENDIENTE: ANTIBIÓTICO IV EN MENOS DE 1 HORA DESDE LA LLEGADA** (ESCMID, grado A; NICE 1.4.1). *La SEMES 2012 pedía analítica, cultivos y primera dosis de antibiótico en 15-30 min.*
 
 1. **Estabilizar** y buscar datos de sepsis.
 2. **Extraer hemocultivos y analítica ANTES del antibiótico** (ESCMID, grado A; NICE 1.6.1), y antes de la PL (SEN 2025).
 3. **Hacer la PL antes del antibiótico SOLO si es segura y no lo retrasa** de forma relevante (NICE 1.4.9). Si no, se inicia el tratamiento y se hace la PL en cuanto sea posible (NICE 1.4.10). *La NICE admite, según el juicio clínico, retrasar el antibiótico "ligeramente más de 1 hora" si así se puede hacer antes la PL.*
 4. **Si la PL se va a retrasar (por ejemplo, por la TC), iniciar el tratamiento empírico de inmediato ante la sospecha clínica, tras los hemocultivos, aunque el diagnóstico no esté confirmado** (ESCMID, grado A).
-5. **Dexametasona con o justo antes de la primera dosis de antibiótico**, sin retrasar el antibiótico por ella (SEN; ESCMID; NICE 1.8.5).
+5. **Dexametasona con o justo antes de la primera dosis de antibiótico**, sin retrasar el antibiótico por ella (SEN 2025; ESCMID; NICE 1.8.5).
 
 ### 4.1. ¿TC craneal ANTES de la punción lumbar?
 
@@ -90,10 +90,10 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 ### 4.2. Contraindicaciones de la punción lumbar
 
-- **Signos de HTIC o riesgo de herniación** (los criterios de imagen de arriba; hidrocefalia obstructiva, edema cerebral, lesión ocupante de espacio): primero la imagen y no puncionar hasta resolverlos (SEN 2023; NICE 1.4.7, 1.4.12).
+- **Signos de HTIC o riesgo de herniación** (los criterios de imagen de arriba; hidrocefalia obstructiva, edema cerebral, lesión ocupante de espacio): primero la imagen y no puncionar hasta resolverlos (NICE 1.4.7, 1.4.12).
 - **Púrpura extensa o en rápida progresión** (NICE 1.4.12).
-- **Coagulopatía o trombopenia** (por ejemplo, anticoagulación reciente) (SEN 2023; SEN 2025; ESCMID). *La SEMES 2012 pide un Quick >50-60 %.*
-- **Sospecha de absceso epidural espinal** (SEN 2023; SEN 2025).
+- **Coagulopatía o trombopenia** (por ejemplo, anticoagulación reciente) (SEN 2025; ESCMID). *La SEMES 2012 pide un Quick >50-60 %.*
+- **Sospecha de absceso epidural espinal** (SEN 2025).
 - **Infección en el punto de punción** (NICE; ESCMID).
 - **Inestabilidad**: tratar y estabilizar antes una vía aérea no protegida, compromiso respiratorio, shock o crisis no controladas (NICE 1.4.11; ESCMID).
 
@@ -101,34 +101,31 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 ### 5.1. Sangre
 
-- **2 HEMOCULTIVOS antes del antibiótico** (ESCMID, grado A). *Positivos en el 50-90 % de las MBA (SEN 2023; SEN 2025): ~75 % en la neumocócica, 50-90 % en la de *H. influenzae* y **40-60 % en la meningocócica**. El antibiótico previo reduce su rendimiento en ~20 % (ESCMID).*
+- **2 HEMOCULTIVOS antes del antibiótico** (ESCMID, grado A). *Positivos en el 50-90 % de las MBA (SEN 2025). Desglose por germen (ESCMID): ~75 % en la neumocócica, 50-90 % en la de *H. influenzae* y **40-60 % en la meningocócica**. El antibiótico previo reduce su rendimiento en ~20 % (ESCMID).*
 - *Casi la mitad de los pacientes tiene una **condición predisponente** que pide otras pruebas (SEN 2025): foco parameníngeo (sinusitis, otomastoiditis, absceso epidural, empiema subdural), traumatismo craneal o neurocirugía recientes, infección a distancia (neumonía, endocarditis), inmunosupresión (alcoholismo, esplenectomía, diabetes, VIH) o neoplasia.*
-- **Hemograma**: leucocitosis con desviación izquierda; la **leucopenia o la trombopenia indican peor pronóstico** (SEN 2023).
-- **Coagulación**: coagulopatía y CID (SEN 2023).
+- **Hemograma**: valorar leucocitosis, desviación izquierda, neutropenia y plaquetas (SEMES 2012). La **trombopenia es un factor de mal pronóstico** (SEN 2025).
+- **Coagulación**: descartar coagulopatía (SEMES 2012).
 - **Bioquímica**: electrolitos (hiponatremia por SIADH), creatinina y **glucemia inmediatamente antes de la PL** para calcular el cociente glucosa LCR/sangre (NICE 1.4.13; SEMES 2012).
 - **PCR (proteína C reactiva) o procalcitonina** (NICE 1.4.4). ***Una PCR, una PCT o una leucocitosis normales NO descartan la MBA*** (NICE 1.4.5). *La ESCMID añade que se asocian a infección bacteriana pero no permiten hacer el diagnóstico, y que pierden valor si hay otro foco (neumonía, sepsis). La NICE prefiere la PCR (la PCT no fue claramente superior y es más cara). Orientativo según la SEMES 2012: PCR >10 mg/dL o PCT >0,5 ng/mL hacen más probable la MBA, y PCT >2 ng/mL se asocia a MBA con bacteriemia y riesgo de sepsis grave.*
 - **PCR (reacción en cadena de la polimerasa) en sangre total para meningococo y neumococo** (NICE 1.4.4). **Lactato** si se sospecha enfermedad meningocócica (NICE 1.5.3).
 - **SEROLOGÍA DE VIH EN TODOS LOS ADULTOS** con MBA o enfermedad meningocócica (NICE 1.10.1).
 - **Frotis faríngeo para cultivo de meningococo**, preferiblemente antes del antibiótico (NICE 1.4.3), para tipar la cepa y orientar el manejo de contactos y brotes.
-- **Radiografía de tórax** y cultivos de focos sospechosos (SEN 2023; SEMES 2012).
+- **Radiografía de tórax** y cultivos de focos sospechosos (SEMES 2012).
 
 ### 5.2. LCR
 
-**Medir la presión de apertura** y pedir **recuento celular con fórmula, proteínas, glucosa, lactato, Gram, cultivo y PCR múltiple** (ESCMID, grado A; NICE 1.4.14; SEN 2023). **Guardar el LCR sobrante** por si hacen falta más pruebas (NICE 1.4.15). La NICE pide la citobioquímica disponible en **<4 h** (1.4.16). Según la sospecha (SEN 2023): cultivo de micobacterias y hongos (3-5 mL), tinta china o antígeno de criptococo, VDRL, serologías, citología (10 mL) y citometría de flujo.
+**Medir la presión de apertura** y pedir **recuento celular con fórmula, proteínas, glucosa, lactato, Gram, cultivo y PCR múltiple** (ESCMID, grado A; NICE 1.4.14). **Guardar el LCR sobrante** por si hacen falta más pruebas (NICE 1.4.15). La NICE pide la citobioquímica disponible en **<4 h** (1.4.16). Ampliar el estudio etiológico según el contexto clínico (ver capítulo 2).
 
 *LCR normal (SEMES 2012): claro, presión de apertura de 5-20 cm H₂O, <5 células/mm³ (mononucleares), glucosa al 60-80 % de la glucemia y proteínas de 15-45 mg/dL. Con 5-10 células/mm³ ya hay que considerar que puede ser patológico.*
 
-| | **MBA** | **Meningitis vírica** |
+| Parámetro | **MBA** | **Meningoencefalitis vírica** |
 |---|---|---|
-| Leucocitos en el LCR | **>1.000/µL, predominio de neutrófilos** (>80 %) | <500/µL (en general <250), mononucleares* |
-| Cociente glucosa LCR/sangre | **<0,4** | >0,4 |
-| Proteínas | **>1 g/L** | <1 g/L |
-| **Lactato en el LCR** | **>35 mg/dL** | <35 mg/dL |
-| Gram | Positivo con frecuencia | Negativo |
-| Sangre | Leucocitosis 10.000-30.000 con neutrofilia; **PCR 40-400 mg/L** | Leucocitos normales; PCR <10 mg/L |
-| Estado clínico | Mal estado general, posible sepsis | Aceptable |
+| Presión de apertura | **>20 cm H₂O** | Normal o elevada |
+| Leucocitos en el LCR | Habitualmente **100-1.000/µL**, de predominio polinuclear | Habitualmente **10-500/µL**, de predominio linfocitario* |
+| Glucosa | **<45 mg/dL o <40 % de la glucemia simultánea** | Normal o ligeramente disminuida |
+| Proteínas | **>50 mg/dL** | **40-120 mg/dL** |
 
-*Adaptado de la SEN 2023 (tablas 1 y 4). \*En la meningitis vírica de <24 h puede predominar el neutrófilo. La meningitis tuberculosa, la fúngica y la de Listeria dan perfiles linfocitarios con glucosa baja (ver capítulo 2).*
+*Fuente: SEN 2025, cap. 40, §1.5, p. 622, y cap. 42, §5.1, pp. 651-652. Son perfiles orientativos, con solapamiento. \*En fases precoces de infección vírica puede haber LCR normal o predominio neutrofílico; con Listeria el LCR puede ser linfocitario. Ver capítulo 2.*
 
 **Perfil de la MBA según la SEN 2025**: presión de apertura **>20 cm H₂O**, **100-1.000 células/µL** de predominio polinuclear, **glucosa <45 mg/dL o <40 % de la glucemia** y **proteínas >50 mg/dL**, presentes en más del 90 % de los pacientes. **Hacen especialmente probable la MBA**: glucosa <45 mg/dL, **proteínas >220 mg/dL** y **>2.000 células/µL** (o >1.180 polinucleares/µL). *Con Listeria el LCR puede ser linfocitario (SEN 2025).*
 
@@ -147,7 +144,7 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 - *Un LCR completamente normal es muy raro pero existe (ESCMID): el 17 % de las neumocócicas tiene <100 células/mm³, el 19 % de las meningocócicas <1.000 (sobre todo si hay shock séptico) y **en la meningitis por *Listeria* el LCR no es típico de MBA en el 26 %**. La SEMES 2012 cifra en hasta un 5 % las MBA con LCR "normal" en fases precoces.*
 - **Ante sospecha clínica con un LCR no concluyente: ingreso en observación y repetir la PL a las 8-12 h**, cubriendo empíricamente mientras tanto (SEMES 2012).
-- **PL traumática**: restar **1 leucocito por cada 500-1.000 hematíes** (SEN 2023). *La SEMES 2012 propone restar 1 por cada 700 hematíes si el hemograma es normal, o usar una fórmula de corrección con el hemograma si no lo es.*
+- **PL traumática** (SEMES 2012, p. 150): si el hemograma es normal, restar **1 leucocito por cada 700 hematíes**; si está alterado, usar la fórmula de corrección con los recuentos de sangre y LCR (capítulo 2).
 - *Si el LCR es anormal, hay que considerar también causas víricas, micobacterianas, fúngicas o no infecciosas (NICE 1.4.19).*
 
 ### 5.3. Neuroimagen
@@ -156,16 +153,16 @@ La TC o la RM son **normales o muestran un realce leptomeníngeo difuso inespec�
 
 ## 6. TRATAMIENTO ANTIBIÓTICO EMPÍRICO
 
-Principios: **antibiótico IV en <1 h**, a **dosis meníngeas**, preguntando por **alergias** y **eligiendo la pauta según la edad, los factores de riesgo y la resistencia local** (SEN 2023; ESCMID, grado A). **Consultar con Infecciosas o Microbiología** (NICE 1.6.4), sobre todo si hay viaje reciente al extranjero (riesgo de resistencias) o colonización por enterobacterias resistentes a cefalosporinas. *Una MBA "decapitada" (antibiótico previo) se trata igual que una MBA (SEMES 2012).*
+Principios: **antibiótico IV en <1 h**, a **dosis meníngeas**, preguntando por **alergias** y **eligiendo la pauta según la edad, los factores de riesgo y la resistencia local** (ESCMID, grado A). **Consultar con Infecciosas o Microbiología** (NICE 1.6.4), sobre todo si hay viaje reciente al extranjero (riesgo de resistencias) o colonización por enterobacterias resistentes a cefalosporinas. *Una MBA "decapitada" (antibiótico previo) se trata igual que una MBA (SEMES 2012).*
 
-### 6.1. Adulto <50 años SIN factores de riesgo (o fractura de base de cráneo)
+### 6.1. Adulto ≤50 años SIN factores de riesgo (o fractura de base de cráneo)
 
 Cubrir neumococo y meningococo (+ *H. influenzae* en la fractura de base de cráneo).
 
-**---> PRIMERA ELECCIÓN** (SEN 2023; SEN 2025): **VANCOMICINA + CEFALOSPORINA DE 3.ª GENERACIÓN (C3G)**.
+**---> PRIMERA ELECCIÓN** (SEN 2025): **VANCOMICINA + CEFALOSPORINA DE 3.ª GENERACIÓN (C3G)**.
 
-- **CEFTRIAXONA 2 g IV cada 12 h** o **CEFOTAXIMA 2 g IV cada 4-6 h**,
-- **+ VANCOMICINA 15-20 mg/kg IV cada 8-12 h** (SEN 2023; 15 mg/kg cada 8-12 h en la SEN 2025), ajustada por niveles: **valle de 15-20 µg/mL** (ESCMID). *La SEN 2023 recomienda dosis de carga de 20-35 mg/kg en la meningitis por S. aureus. La SEMES 2012 pautaba 1 g cada 8 h el primer día y después según niveles.*
+- **CEFTRIAXONA 2 g IV cada 12 h** o **CEFOTAXIMA 2 g IV cada 4 h** (SEN 2025, tabla 4; la ESCMID admite cefotaxima cada 4-6 h),
+- **+ VANCOMICINA IV**, con la referencia de **2-3 g/día repartidos cada 6-12 h** de la tabla general de dosis (SEN 2025, tabla 4, p. 624). Ajustar la pauta al paciente y a las concentraciones séricas; la ESCMID fija un **valle de 15-20 µg/mL**. *La ESCMID 2016, tabla 4.1, ofrece una pauta por peso para la MBA comunitaria: 10-20 mg/kg IV cada 8-12 h. La SEN 2025 especifica 15 mg/kg cada 8-12 h en su tabla de meningitis nosocomial y de situaciones como fractura de base de cráneo (tabla 5); son tablas con ámbitos distintos.*
 
 *La vancomicina cubre el neumococo con sensibilidad disminuida a la C3G. La SEN 2025 la justifica por la frecuencia creciente del neumococo resistente a penicilina (aunque en su tabla por edades, entre los 16 y los 50 años, la condiciona a que sea "zona de resistencias"). La ESCMID la indica (o la rifampicina) **cuando hay riesgo de sensibilidad disminuida del neumococo**, y cita a **España entre los países con un 20-50 % de sensibilidad disminuida a penicilina** (datos del ECDC de 2011). **Se retira cuando el antibiograma confirma sensibilidad a la C3G** (SEN 2025). La NICE no incluye vancomicina empírica porque en Reino Unido la resistencia es baja.*
 
@@ -173,39 +170,37 @@ Cubrir neumococo y meningococo (+ *H. influenzae* en la fractura de base de crá
 
 *Alternativas de la ESCMID (tabla 4.1): ceftriaxona **4 g cada 24 h** en lugar de 2 g cada 12 h, y **rifampicina 300 mg cada 12 h en lugar de la vancomicina**.*
 
-**---> ALERGIA GRAVE A BETALACTÁMICOS** (SEN 2023): **VANCOMICINA + MOXIFLOXACINO 400 mg IV cada 24 h** (en lugar de la C3G).
-
-*Matiz de la NICE (1.6.16): solo es alergia grave la reacción claramente alérgica (anafilaxia, dificultad respiratoria, angioedema). Si la reacción **no** fue grave, recomienda **mantener la cefalosporina**, porque la anafilaxia por cefalosporinas es rara. Para la alergia grave, la NICE propone **cloranfenicol**; la SEN, moxifloxacino. Resistencia local del neumococo al levofloxacino: 2 %; no hay datos locales del moxifloxacino (ecología local 2024).*
+**---> ALERGIA A BETALACTÁMICOS** (NICE 1.6.16): preguntar por la reacción y **consultar con Infecciosas**. Si no fue grave, considerar **ceftriaxona o cefotaxima**; si fue grave, considerar **cloranfenicol**. *La NICE considera graves la anafilaxia, la dificultad respiratoria y el angioedema. Esta recomendación no fija una dosis de cloranfenicol; la pauta debe concretarse con el especialista.*
 
 ### 6.2. Adulto >50 años o con factores de riesgo de *Listeria*
 
-**---> PRIMERA ELECCIÓN** (SEN 2023; SEN 2025; ESCMID, tabla 4.1): **VANCOMICINA + C3G + AMPICILINA 2 g IV cada 4 h**. *La SEN 2025 la indica en los >50 años, la inmunodepresión y el etilismo.*
+**---> PRIMERA ELECCIÓN** (SEN 2025; ESCMID, tabla 4.1): **VANCOMICINA + C3G + AMPICILINA 2 g IV cada 4 h**. *La SEN 2025 la indica en los >50 años, la inmunodepresión y el etilismo.*
 
-*Factores de riesgo de Listeria: **>50 años**, embarazo, inmunosupresión (corticoides, trasplante, cáncer, VIH), diabetes, alcoholismo, nefropatía o hepatopatía (SEN; NICE; SEMES). **Listeria es intrínsecamente resistente a las cefalosporinas.** La ESCMID advierte de que en una serie holandesa el 1,5 % de los <50 años sin factores de riesgo tuvo Listeria: quien quiera cubrir esa posibilidad puede añadir ampicilina a todos los adultos. La NICE no fija un corte de edad (añade amoxicilina IV si hay factores de riesgo, entre ellos la edad muy avanzada).*
+*Factores de riesgo de Listeria: **>50 años**, embarazo, inmunosupresión (corticoides, trasplante, cáncer, VIH), diabetes, alcoholismo, nefropatía o hepatopatía (NICE; SEMES). **Listeria es intrínsecamente resistente a las cefalosporinas.** La ESCMID advierte de que en una serie holandesa el 1,5 % de los <50 años sin factores de riesgo tuvo Listeria: quien quiera cubrir esa posibilidad puede añadir ampicilina a todos los adultos. La NICE no fija un corte de edad (añade amoxicilina IV si hay factores de riesgo, entre ellos la edad muy avanzada).*
 
-**---> ALERGIA A BETALACTÁMICOS** (SEN 2023): sustituir la ampicilina por **COTRIMOXAZOL 5 mg/kg (de trimetoprim) IV cada 8 h** (+ vancomicina + moxifloxacino si la alergia es grave). *La NICE propone cotrimoxazol + C3G si la alergia no es grave, y cotrimoxazol + cloranfenicol si es grave.*
+**---> ALERGIA A BETALACTÁMICOS CON RIESGO DE LISTERIA** (NICE 1.6.16): considerar **COTRIMOXAZOL + C3G** si la reacción no fue grave, o **COTRIMOXAZOL + CLORANFENICOL** si fue grave, con Infecciosas. *Dosis meníngea de cotrimoxazol en SEN 2025, tabla 4: 15-20 mg/kg/día de trimetoprim, repartidos cada 8 h; para el tratamiento inicial, vía IV.*
 
 ### 6.3. Inmunodeprimido (neutropenia, trasplante, quimioterapia, inmunosupresión intensa)
 
-Cubrir neumococo, meningococo, *Listeria* y bacilos gramnegativos, incluida *Pseudomonas*.
+**---> PAUTA DE REFERENCIA** (SEN 2025, tabla 1, p. 620): **VANCOMICINA + C3G + AMPICILINA**, como en el apartado 6.2.
 
-**---> PRIMERA ELECCIÓN** (SEN 2023): **VANCOMICINA + AMPICILINA + CEFEPIMA 2 g IV cada 8 h o MEROPENEM 2 g IV cada 8 h**.
+*La SEN 2025 agrupa la inmunodepresión con los mayores de 50 años y el etilismo; no define una pauta independiente para cada grado de inmunosupresión. Reconoce bacilos gramnegativos, incluidos Pseudomonas y Klebsiella, en enfermedades avanzadas (tabla 2). En estos pacientes, individualizar la cobertura con Infecciosas según los factores de riesgo y la resistencia local (ESCMID 2016; SEMES 2012), sin extrapolar automáticamente la pauta nosocomial a la comunitaria. La NICE NG240 excluye de su alcance a las personas con inmunodeficiencia.*
 
-*La SEN 2025 no trata aparte la inmunosupresión intensa: para la inmunodepresión en general da la pauta de los >50 años (C3G + vancomicina + ampicilina), aunque reconoce los bacilos gramnegativos (P. aeruginosa, Klebsiella) en las enfermedades avanzadas. En el neutropénico, el trasplantado y el que recibe quimioterapia se sigue la SEN 2023, más específica para este grupo y con cobertura de Pseudomonas.*
-
-*Ecología local 2024, para elegir entre las dos opciones de la SEN 2023: resistencia a la **cefepima** del 10 % en P. aeruginosa, del **32 % en K. pneumoniae** y del 12 % en E. coli (BLEE en el 23 % y el 14 %); al **meropenem**, del 5 %, el 3 % y el 0 %. Pesan también la colonización previa por BLEE y el antibiótico reciente: decidirlo con Infecciosas.*
+*Ecología local 2024, para individualizar la cobertura de gramnegativos: resistencia a la **C3G** del 14 % en E. coli y del **25 % en K. pneumoniae** (BLEE en el 14 % y el 23 %), y la C3G no cubre P. aeruginosa; a la **cefepima**, del 12 %, el **32 %** y el 10 % en P. aeruginosa; al **meropenem**, del 0 %, el 3 % y el 5 %. Pesan también la colonización previa por BLEE y el antibiótico reciente: decidirlo con Infecciosas.*
 
 ### 6.4. Neurocirugía previa o traumatismo craneal penetrante
 
 *Es meningitis asociada a cuidados sanitarios (ver capítulo 6).*
 
-**---> PRIMERA ELECCIÓN** (SEN 2023; SEN 2025, tabla 5): **VANCOMICINA + CEFTAZIDIMA 2 g IV cada 8 h, CEFEPIMA 2 g IV cada 8 h o MEROPENEM 2 g IV cada 8 h**. Si hay alergia a betalactámicos: **AZTREONAM 2 g IV cada 6-8 h** (SEN 2023; SEN 2025) o **CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEN 2025) en lugar del betalactámico. *La SEMES 2012 coincide (vancomicina + cefepima; alternativa vancomicina + meropenem). Duración, retirada de dispositivos y alternativas a la vancomicina: capítulo 6.*
+**---> PRIMERA ELECCIÓN** (SEN 2025, tabla 5): **VANCOMICINA 15 mg/kg IV cada 8-12 h + CEFTAZIDIMA 2 g IV cada 8 h, CEFEPIMA 2 g IV cada 8 h o MEROPENEM 2 g IV cada 8 h**. Si hay alergia a betalactámicos: **AZTREONAM 2 g IV cada 6-8 h** (SEN 2025) o **CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEN 2025) en lugar del betalactámico. *La SEMES 2012 coincide (vancomicina + cefepima; alternativa vancomicina + meropenem). Duración, retirada de dispositivos y alternativas a la vancomicina: capítulo 6.*
 
 ### 6.5. ¿Aciclovir empírico?
 
-**---> ACTUACIÓN (SEN 2023)**: **ACICLOVIR 10 mg/kg IV cada 8 h** junto con la pauta antibiótica empírica ante sospecha de MBA **o** de meningoencefalitis herpética, **hasta tener la PCR de VHS en el LCR**. Suspenderlo si la PCR es negativa o si se confirma una MBA con germen identificado (ver capítulo 3). *La SEMES 2012 lo indica si hay duda entre una meningitis vírica y una meningoencefalitis (10 mg/kg diluido en 250 mL cada 8 h).*
+**NO DAR ACICLOVIR DE RUTINA ante toda sospecha de MBA**; la NICE lo reserva para una **sospecha fuerte de encefalitis por VHS** (1.6.7).
 
-*Discrepancia: la NICE recomienda **no dar aciclovir de rutina salvo sospecha fuerte de encefalitis por VHS** (1.6.7). El aciclovir es especialmente necesario si hay datos de encefalitis (alteración de conducta o del lenguaje, crisis, focalidad, afectación temporal en la imagen) o un LCR linfocitario con glucosa normal.*
+**---> SI HAY SOSPECHA DE ENCEFALITIS VÍRICA:** iniciar **ACICLOVIR 10 mg/kg IV cada 8 h** mientras se estudia la etiología (SEN 2025, cap. 42, §8; dosis también recogida por SEMES 2012). Valorar alteración del estado mental, crisis, focalidad y los hallazgos de LCR o neuroimagen. **Una PCR inicial negativa no basta para suspenderlo si persiste una sospecha alta**: ver los criterios de repetición y retirada en el capítulo 3 (SEN 2025, cap. 42, §5.1).
+
+*La SEMES 2012 también lo añade si hay duda entre meningitis vírica y meningoencefalitis.*
 
 ### 6.6. Dosis y penetración en el LCR (SEN 2025, tabla 4)
 
@@ -226,8 +221,8 @@ Cubrir neumococo, meningococo, *Listeria* y bacilos gramnegativos, incluida *Pse
 
 *\*Porcentaje del nivel plasmático que se alcanza en el LCR con las meninges inflamadas: + <5 %; ++ 5-10 %; +++ 11-19 %; ++++ ≥20 %. La inflamación meníngea aumenta la permeabilidad de la barrera hematoencefálica y deja pasar fármacos que en condiciones normales apenas penetran, como los betalactámicos (SEN 2025).*
 
-- *Coinciden con las de la SEN 2023: ceftriaxona 2 g cada 12 h, cefotaxima 2 g cada 4-6 h, ampicilina 2 g cada 4 h, ceftazidima, cefepima y meropenem 2 g cada 8 h, y cotrimoxazol 5 mg/kg cada 8 h.*
-- *Vancomicina: se sigue la dosis por peso (15-20 mg/kg cada 8-12 h con niveles; SEN 2023), que es también la de la tabla de meningitis nosocomial de la SEN 2025 (15 mg/kg cada 8-12 h).*
+- *Vancomicina: distinguir la tabla general (2-3 g/día cada 6-12 h) de la tabla de meningitis nosocomial (15 mg/kg cada 8-12 h); ambas son de la SEN 2025. La pauta por peso de la ESCMID para MBA comunitaria y su objetivo de concentraciones se indican en §6.1.*
+
 - ⚠️ ***Cloxacilina**: la dosis de la tabla (4-6 g/día) es la mitad o un tercio de la que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g IV cada 4 h, 12 g/día). Dato dudoso: confirmar con Farmacia o Infecciosas.*
 
 ## 7. TRATAMIENTO DIRIGIDO Y DURACIÓN
@@ -236,11 +231,11 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 | Germen | Tratamiento dirigido | **DURACIÓN (según la pirámide)** | ESCMID 2016 | NICE 2024 (si hay recuperación) |
 |---|---|---|---|---|
-| **Neumococo** | Vancomicina + C3G, retirando la vancomicina si es sensible (SEN 2023; SEN 2025); ajustar a la CMI cuando llegue (ESCMID) | **14 días** (SEN 2025) | 10-14 días | 10 días |
-| **Meningococo** | C3G (SEN 2023). Penicilina G, ampicilina o C3G; **C3G o cefepima si se sospecha resistencia a penicilina** (SEN 2025) | **7 días** (SEN 2023; SEN 2025) | 7 días | 5 días |
-| ***H. influenzae*** | C3G (SEN 2023); ampicilina si la cepa es sensible (SEN 2025) | **7 días** (SEN 2023) | 7-10 días | 7 días (hasta 10) |
-| ***Listeria*** | **Ampicilina** (o penicilina G) **+ gentamicina o cotrimoxazol**; alternativa a la ampicilina: meropenem (SEN 2025). *SEN 2023: ampicilina ± gentamicina* | **≥21 días** (SEN 2023; SEN 2025; ESCMID) | ≥21 días | 21 días |
-| ***S. aureus*** (y *S. epidermidis*) | Antiestafilocócico si es sensible a meticilina (cloxacilina); vancomicina si es resistente (SEN 2023; ESCMID), con o sin rifampicina. Según el antibiograma: **linezolid, daptomicina**, meropenem, cotrimoxazol o clindamicina (SEN 2025). Retirar el dispositivo si lo hay (capítulo 6) | **≥14 días** (ESCMID) | ≥14 días | — |
+| **Neumococo** | Vancomicina + C3G, retirando la vancomicina si es sensible (SEN 2025); ajustar a la CMI cuando llegue (ESCMID) | **14 días** (SEN 2025) | 10-14 días | 10 días |
+| **Meningococo** | Penicilina G, ampicilina o C3G; **C3G o cefepima si se sospecha resistencia a penicilina** (SEN 2025) | **7 días** (SEN 2025) | 7 días | 5 días |
+| ***H. influenzae*** | Ampicilina (SEN 2025); comprobar sensibilidad. **C3G si produce betalactamasa** (ESCMID 2016, tabla 4.2) | **7-10 días** (ESCMID 2016, tabla 4.2) | 7-10 días | 7 días (hasta 10) |
+| ***Listeria*** | **Ampicilina** (o penicilina G) **+ gentamicina o cotrimoxazol**; alternativa a la ampicilina: meropenem (SEN 2025) | **≥21 días** (SEN 2025; ESCMID) | ≥21 días | 21 días |
+| ***S. aureus*** (y *S. epidermidis*) | **Vancomicina ± rifampicina**; alternativas según sensibilidad: cloxacilina, linezolid, meropenem, cotrimoxazol o clindamicina (SEN 2025, tabla 3); el texto añade daptomicina. Retirar el dispositivo si lo hay (capítulo 6) | ***S. aureus*: ≥14 días** (ESCMID); para infección nosocomial o dispositivos, ver capítulo 6 | ≥14 días para *S. aureus* | — |
 | Enterobacterias y otros bacilos gramnegativos | C3G (SEN 2025); valorar meropenem con Infecciosas mientras llega el antibiograma (NICE). Alergia: aztreonam 2 g cada 6-8 h o ciprofloxacino 400 mg cada 8-12 h (SEN 2025) | **≥21 días** (SEN 2025; NICE) | — | 21 días |
 | Estreptococo del grupo B (*S. agalactiae*) | **Ampicilina** (o penicilina G) **+ gentamicina** (SEN 2025) | **14 días** (NICE) | — | 14 días |
 | **Sin germen identificado** (LCR de MBA, cultivos y PCR negativos) | Mantener la pauta empírica (ESCMID) | **≥14 días** (ESCMID, grado A) | ≥2 semanas | 10 días |
@@ -251,10 +246,9 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
   - Resistente a penicilina y sensible a C3G (CMI <2 µg/mL): **C3G**.
   - Resistente a C3G (CMI ≥2 µg/mL): **vancomicina + rifampicina, vancomicina + C3G o rifampicina + C3G**, con ceftriaxona 2 g cada 12 h o cefotaxima 2-3 g cada 6 h.
 - ***Listeria***: *la gentamicina "puede considerarse", con precaución por el riesgo de fracaso renal (ESCMID). Alternativas: cotrimoxazol, moxifloxacino, meropenem, linezolid (ESCMID). La NICE propone valorar, consultando antes, añadir cotrimoxazol los primeros 7 días.*
-- ***S. aureus***: **buscar endocarditis o absceso epidural espinal**, que pueden requerir cirugía y más tratamiento (ESCMID).
-- *Duración según la SEN 2025: **10-14 días en general**; 7 días "pueden bastar" en la meningocócica; 14 días en la neumocócica; y **al menos 3 semanas en Listeria y en los gramnegativos**, por la alta tasa de recidivas con pautas más cortas. La SEN 2023 y la ESCMID dan 10-14 días para el neumococo; los 14 días de la SEN 2025 caen dentro de ese rango.*
-- *H. influenzae: la SEN 2025 propone ampicilina sin precisar que la cepa deba ser sensible; hasta tener el antibiograma, C3G (SEN 2023). Resistencia local de H. influenzae a la ampicilina: 9 %; a la C3G: 0 % (ecología local 2024).*
-- *S. aureus: resistencia local a meticilina (SAMR) del **30 %**; a vancomicina y daptomicina, 0 %; a linezolid, solo casos aislados (ecología local 2024).*
+- ***S. aureus***: la ESCMID 2016 recomienda **flucloxacilina, nafcilina u oxacilina si es sensible a meticilina**, y **vancomicina si es resistente** (tabla 4.2). Esta tabla no incluye *S. epidermidis*. **Buscar endocarditis o absceso epidural espinal**, que pueden requerir cirugía y más tratamiento (ESCMID). *Resistencia local a meticilina (SAMR): **30 %**; a vancomicina y daptomicina, 0 %; a linezolid, solo casos aislados (ecología local 2024).*
+- *Duración según la SEN 2025: **10-14 días en general**; 7 días "pueden bastar" en la meningocócica; 14 días en la neumocócica; y **al menos 3 semanas en Listeria y en los gramnegativos**, por la alta tasa de recidivas con pautas más cortas. La ESCMID da 10-14 días para el neumococo; los 14 días de la SEN 2025 caen dentro de ese rango.*
+- *H. influenzae: la SEN 2025 propone ampicilina sin precisar sensibilidad. La ESCMID 2016 distingue cepas productoras de betalactamasa y cepas resistentes a ampicilina: comprobar el antibiograma antes de ajustar la pauta. La duración específica de 7-10 días procede de la ESCMID; la SEN 2025 solo da una duración general de 10-14 días. Resistencia local a la ampicilina: 9 %; a la C3G: 0 % (ecología local 2024).*
 - *Estreptococo del grupo B: la NICE propone C3G; manda la SEN 2025. La duración la da solo la NICE. Resistencia local a la ampicilina: 0 % (ecología local 2024).*
 - *Sin germen identificado: la ESCMID (≥2 semanas) prevalece sobre la NICE (10 días), porque la SEN no concreta este supuesto (la SEN 2025 da 10-14 días como duración general).*
 - *Enterobacterias: la NICE reconoce que los 21 días no se basan en evidencia (derivan del principio de 14 días tras esterilizar el LCR); la SEN 2025 los justifica por la tasa de recidivas.*
@@ -265,11 +259,11 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 ### 8.1. DEXAMETASONA
 
-**---> PAUTA**: **DEXAMETASONA 10 mg IV cada 6 h (0,15 mg/kg) durante 4 días**, con la **primera dosis antes o junto con la primera dosis de antibiótico** (SEN 2023; SEN 2025; ESCMID, grado A en países de renta alta).
+**---> PAUTA**: **DEXAMETASONA 10 mg IV cada 6 h durante 4 días**, con la **primera dosis antes o junto con la primera dosis de antibiótico** (SEN 2025; ESCMID, grado A en países de renta alta).
 
-- **Indicación**: **sospecha clínica y analítica de MBA** (SEN 2023), **en todos los casos de meningitis purulenta** (SEN 2025); sospecha fuerte o confirmación (NICE 1.8.1). *Según la SEMES 2012, el mayor beneficio se obtiene con pleocitosis >1.000/mm³, presión de apertura >25 cm H₂O o GCS <11.*
+- **Indicación**: **en todos los casos de meningitis purulenta** (SEN 2025); sospecha fuerte o confirmación (NICE 1.8.1). *Según la SEMES 2012, el mayor beneficio se obtiene con pleocitosis >1.000/mm³, presión de apertura >25 cm H₂O o GCS <11.*
 - **Si ya se ha dado el antibiótico**: **puede iniciarse hasta 4 h después de la primera dosis IV** (ESCMID, grado C, por consenso; la SEN 2025 lo atribuye a "algunos autores"). *La NICE es más permisiva: darla si el retraso es <12 h y consultar si es >12 h, porque en los ensayos nadie la recibió más de 12 h después. La SEMES 2012 decía "no darla si ya recibía antibiótico parenteral", algo ya superado.*
-- **Cuándo se mantiene**: **SOLO si se confirma NEUMOCOCO o *H. INFLUENZAE*** (SEN 2025; ESCMID, grado B; NICE 1.8.3). **Suspenderla en el resto**, incluidos *Listeria* y meningococo, y si se descarta la MBA. *La SEN 2023 la mantenía solo en el neumococo; manda la SEN 2025, que coincide con la ESCMID y la NICE. Algunos expertos la mantienen con cualquier germen (SEN 2025; ESCMID). Si no se identifica el germen, consultar con Infecciosas (NICE 1.8.4).*
+- **Cuándo se mantiene**: **SOLO si se confirma NEUMOCOCO o *H. INFLUENZAE*** (SEN 2025; ESCMID, grado B; NICE 1.8.3). **Suspenderla en el resto**, incluidos *Listeria* y meningococo, y si se descarta la MBA. *Algunos expertos la mantienen con cualquier germen (SEN 2025; ESCMID). Si no se identifica el germen, consultar con Infecciosas (NICE 1.8.4).*
 - *Riesgo descrito (SEN 2025): **infartos cerebrales tardíos**, posiblemente relacionados con la dexametasona adyuvante.*
 - **Enfermedad meningocócica (sepsis) sin meningitis**: **no dar corticoides de rutina**; solo **dosis sustitutivas** en el shock que no responde a vasopresores a dosis altas (NICE 1.8.6-1.8.7). *La SEMES 2012 propone hidrocortisona 50 mg cada 6 h + fludrocortisona 50 µg/día en el shock con insuficiencia suprarrenal.*
 - *Otras precauciones de la SEMES 2012: no darla si hay hipersensibilidad, patología cerebral reciente o derivación de LCR, y asociar un inhibidor de la bomba de protones.*
@@ -280,18 +274,18 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 - *Un metaanálisis de datos individuales mostró que reduce la hipoacusia **tanto si se da antes como después del antibiótico** (ESCMID).*
 - *En la meningitis meningocócica del adulto es **segura**, pero no redujo significativamente la hipoacusia ni la mortalidad (ESCMID).*
 
-*La SEMES 2012 recomendaba añadir rifampicina a la vancomicina cuando se da dexametasona, por la posible menor penetración de la vancomicina con la meninge menos inflamada. Ni la SEN (2023 y 2025) ni la NICE 2024 lo recogen, y la ESCMID plantea la rifampicina como **alternativa** a la vancomicina, no como añadido por la dexametasona.*
+*La SEMES 2012 recomendaba añadir rifampicina a la vancomicina cuando se da dexametasona, por la posible menor penetración de la vancomicina con la meninge menos inflamada. Ni la SEN 2025 ni la NICE 2024 lo recogen, y la ESCMID plantea la rifampicina como **alternativa** a la vancomicina, no como añadido por la dexametasona.*
 
 ### 8.2. Soporte
 
 - **Soporte vital primero** (SEN 2025): vía aérea y oxigenación, **fluidoterapia precoz y vasoactivos** si hay shock séptico, corrección de la coagulopatía y de las complicaciones metabólicas; **valorar UCI según la gravedad**.
-- **Líquidos de mantenimiento, sin restricción de rutina**, y vigilar los electrolitos (sodio por el SIADH) (SEN 2023; NICE 1.9.1). Por vía oral o enteral si se toleran (NICE 1.9.2). *En la evidencia de la NICE (en niños), restringir líquidos aumentó el deterioro neurológico y la epilepsia.*
+- **Líquidos de mantenimiento, sin restricción de rutina**, y vigilar los electrolitos (sodio por el SIADH) (NICE 1.9.1). Por vía oral o enteral si se toleran (NICE 1.9.2). *En la evidencia de la NICE (en niños), restringir líquidos aumentó el deterioro neurológico y la epilepsia.*
 - **CONTRAINDICADOS: GLICEROL e HIPOTERMIA** (ESCMID; NICE 1.9.3). *El ensayo de hipotermia se detuvo por exceso de mortalidad (ESCMID). La NICE cita un ensayo con más mortalidad en adultos tratados con glicerol.*
 - **NO de rutina** (ESCMID, grado D): **manitol, salino hipertónico, paracetamol como adyuvante ni antiepilépticos profilácticos**. **Osmóticos solo de forma temporal si hay signos de HTIC y riesgo de herniación**, consultando con UCI (NICE 1.9.4-1.9.5).
-  - *Medidas para la HTIC (SEN 2023): si la PIC es >15-20 mmHg, cabecero a 30°, osmoterapia e hiperventilación. La SEN 2025 propone, ante la sospecha de HTIC, cabecero a 30-45°, valorar manitol IV y considerar la hiperventilación.*
+  - *Medidas para la HTIC: la SEN 2025 propone, ante la sospecha de HTIC, cabecero a 30-45°, valorar manitol IV y considerar la hiperventilación.*
   - *Pauta de manitol de la SEMES 2012: manitol al 20 % 1 g/kg IV en 15-20 min, seguido si es necesario de 0,25-0,5 g/kg cada 4 h.*
 - **NO usar** inmunoglobulinas, heparina ni proteína C activada (ESCMID, grado D).
-- **Monitorizar la PIC solo en casos seleccionados**: puede salvar la vida, pero no hay evidencia sólida y puede causar daño (ESCMID, grado C; NICE 1.9.6-1.9.7). *La SEN 2023 sugiere que podría beneficiar a pacientes con HTIC y deterioro del nivel de consciencia. La NICE cita un único estudio con menos mortalidad en adultos, pero con muchos inmunodeprimidos.*
+- **Monitorizar la PIC solo en casos seleccionados**: puede salvar la vida, pero no hay evidencia sólida y puede causar daño (ESCMID, grado C; NICE 1.9.6-1.9.7). *La NICE cita un único estudio con menos mortalidad en adultos, pero con muchos inmunodeprimidos.*
 - **Crisis**: tratarlas con antiepilépticos, sin profilaxis (ESCMID).
 - **Trombosis de senos venosos**: no anticoagular en la fase aguda por el riesgo de hemorragia, y valorar retirar los anticoagulantes previos (ESCMID).
 - **No repetir la PL de rutina** durante la evolución. Ante un deterioro: TC o RM (mejor RM), EEG y nueva PL solo en casos seleccionados (ESCMID).
@@ -322,7 +316,7 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
   - LCR no concluyente: vigilancia y **repetir la PL a las 8-12 h**.
   - Síndrome meníngeo sin diagnóstico confirmado, con estabilidad hemodinámica y neurológica.
   - Tras una PL en urgencias, 4-8 h de observación antes del alta, las 2 primeras en decúbito.
-- *Sospecha de meningitis vírica: observación sin antibiótico solo si el diagnóstico es claro y el paciente está bien. **Iniciar antibiótico empírico** si es **anciano**, **inmunodeprimido**, ha recibido **antibióticos recientemente** o hay **duda razonable** hasta tener los cultivos (SEN 2023).*
+- *Sospecha de meningitis vírica: observación si el diagnóstico es seguro y la situación clínica es buena (SEMES 2012). Si persiste la sospecha de MBA, iniciar el tratamiento empírico sin demoras y consultar con Infecciosas (ESCMID 2016; NICE 1.6.8).*
 - *Si se le da el alta con un diagnóstico no confirmado: explicar qué síntomas vigilar y pedirle que vuelva si aparecen síntomas nuevos, si un exantema deja de desaparecer a la presión o si empeora (NICE 1.1.16, 1.3.2).*
 
 ## 10. PROFILAXIS DE CONTACTOS Y SALUD PÚBLICA
@@ -335,11 +329,11 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 - **No convivientes con contacto muy próximo y repetido**: >4 h/día, o haber dormido en la misma habitación en los 10 días previos.
 - **Personal sanitario expuesto a secreciones nasofaríngeas** (intubación o aspiración sin protección) o al LCR del paciente.
 
-**---> QUIMIOPROFILAXIS DEL MENINGOCOCO** (SEN 2023; SEN 2025, tabla 6; ESCMID, grado A), **en las primeras 24 h** (ESCMID; SEMES 2012):
+**---> QUIMIOPROFILAXIS DEL MENINGOCOCO** (SEN 2025, tabla 6; ESCMID, grado A), **en las primeras 24 h** (ESCMID; SEMES 2012):
 
 - **CIPROFLOXACINO 500 mg VO en dosis única** (en >16 años; *no recomendable en la embarazada*), o
 - **CEFTRIAXONA 250 mg IM en dosis única** (**de elección en la embarazada**; 125 mg en <16 años).
-- **RIFAMPICINA 600 mg VO cada 12 h durante 2 días** (SEN 2025; ESCMID; SEMES 2012). *En el embarazo, solo a partir del primer trimestre (SEN 2025; ESCMID; la SEMES 2012 la contraindicaba en toda la gestación). La SEMES 2012 la contraindica también en la hepatopatía grave, el alcoholismo, la porfiria, la hipersensibilidad a la rifampicina y si se toman anticonceptivos orales. La SEN 2023 recoge solo el ciprofloxacino y la ceftriaxona; la SEN 2025 pone las tres al mismo nivel.*
+- **RIFAMPICINA 600 mg VO cada 12 h durante 2 días** (SEN 2025; ESCMID; SEMES 2012). *En el embarazo, solo a partir del primer trimestre (SEN 2025; ESCMID; la SEMES 2012 la contraindicaba en toda la gestación). La SEMES 2012 la contraindica también en la hepatopatía grave, el alcoholismo, la porfiria, la hipersensibilidad a la rifampicina y si se toman anticonceptivos orales.*
 - **El propio paciente**: si se ha tratado con **penicilina**, necesita una pauta erradicadora antes del alta; **si ha recibido ceftriaxona IV, no** (ESCMID).
 
 *Evidencia (resumida por la ESCMID): según la revisión Cochrane, **ceftriaxona, rifampicina y ciprofloxacino son los más eficaces** para prevenir casos secundarios y erradicar el meningococo de la nasofaringe. El riesgo de enfermedad meningocócica de los contactos cercanos está multiplicado por **400-800**, sobre todo en los convivientes.*
@@ -360,10 +354,10 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 ## 12. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
-- **VANCOMICINA EMPÍRICA: SÍ EN ESPAÑA.** La ESCMID adapta el tratamiento empírico a la resistencia local y sitúa a **España (con Francia y Rumanía) entre los países con un 20-50 % de neumococos con sensibilidad disminuida a penicilina**, frente a <1 % en Países Bajos, Inglaterra, Dinamarca o Alemania (ECDC 2011). La **SEMES 2012** ya indicaba añadir vancomicina donde hay muchas resistencias a penicilinas y C3G, la **SEN 2023** la incluye en todas las pautas y la **SEN 2025** la justifica por la frecuencia creciente del neumococo resistente. La **NICE** no la incluye porque en Reino Unido la resistencia es baja. *Las cuatro fuentes no aportan datos españoles de resistencia más recientes que los del ECDC de 2011. El dato local de 2024 (12 % de neumococos no sensibles a la cefotaxima con el punto de corte de meningitis; 0 % de resistencia a la vancomicina) va en la misma dirección.*
+- **VANCOMICINA EMPÍRICA: SÍ EN ESPAÑA.** La ESCMID adapta el tratamiento empírico a la resistencia local y sitúa a **España (con Francia y Rumanía) entre los países con un 20-50 % de neumococos con sensibilidad disminuida a penicilina**, frente a <1 % en Países Bajos, Inglaterra, Dinamarca o Alemania (ECDC 2011). La **SEMES 2012** ya indicaba añadir vancomicina donde hay muchas resistencias a penicilinas y C3G, la **SEN 2025** la justifica por la frecuencia creciente del neumococo resistente. La **NICE** no la incluye porque en Reino Unido la resistencia es baja. *Las cuatro fuentes no aportan datos españoles de resistencia más recientes que los del ECDC de 2011. El dato local de 2024 (12 % de neumococos no sensibles a la cefotaxima con el punto de corte de meningitis; 0 % de resistencia a la vancomicina) va en la misma dirección.*
 - **Penicilina**: solo como tratamiento dirigido si la **CMI de penicilina es <0,1 µg/mL** (ESCMID).
-- **Dosis de cefotaxima**: 2 g cada 4-6 h (SEN; ESCMID); 2-3 g cada 6 h si el neumococo es resistente a C3G (ESCMID).
-- **TC antes de la PL**: la práctica española (SEN 2023, SEMES 2012) tendía a hacerla a casi todos los pacientes. La **SEN 2025** la mantiene como recomendable pero **solo obligatoria con criterios**, más cerca de la ESCMID y la NICE, que la restringen porque retrasa el antibiótico. Si se hace, **antibiótico primero**.
+- **Dosis de cefotaxima**: 2 g cada 4-6 h (ESCMID); 2-3 g cada 6 h si el neumococo es resistente a C3G (ESCMID).
+- **TC antes de la PL**: la **SEN 2025** la mantiene como recomendable pero **solo obligatoria con criterios**, más cerca de la ESCMID y la NICE, que la restringen porque retrasa el antibiótico. Si se hace, **antibiótico primero**.
 - **Meningococo en España** (SEN 2025): la incidencia cayó más de un 50 % en 2020-2022; los serogrupos B e Y son hoy los más frecuentes en Europa, y por eso la vacuna tetravalente ACWY ha sustituido a la del serogrupo C a los 12 años.
 - **Ceftriaxona y soluciones con calcio**: son incompatibles (alerta de la MHRA citada por la NICE).
 - **Ecología local 2024** (porcentaje de resistencia):
@@ -375,16 +369,8 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 ## REFERENCIAS
 
-1. ***Romero Sánchez CM. Enfermedades infecciosas. En: Manual de Urgencias Neurológicas de la Sociedad Española de Neurología. Madrid: SEN; 2023. Cap. 12, p. 395-409.***
-   — ***Nivel 1 de la pirámide: guía principal de tratamiento, junto a la SEN 2025.*** *Manual español de urgencias, de expertos y sin grados de recomendación, que adapta la ESCMID 2016 a nuestro medio. Aporta:*
-   - *Definiciones de meningitis aguda, subaguda y crónica, y exploración dirigida (datos de sepsis, focos, piel).*
-   - *Pautas empíricas según la edad y los factores de riesgo: vancomicina + C3G; ampicilina si >50 años; pauta del inmunodeprimido y tras neurocirugía; dosis; alternativas en la alergia (moxifloxacino, cotrimoxazol, aztreonam).*
-   - *Aciclovir empírico, dexametasona (mantenerla solo en el neumococo), tratamiento dirigido y duración, quimioprofilaxis en dosis única.*
-   - *Tablas de interpretación del LCR por rangos, comparación entre meningitis bacteriana y vírica, y cuándo dar antibiótico en la sospecha vírica.*
-   - *Discrepa de la ESCMID, la NICE y la SEN 2025 al incluir la TC antes de la PL en todos los pacientes, y de la SEN 2025 al mantener la dexametasona solo en el neumococo.*
-
-2. ***García-Moncó Carra JC, Rodrigo Armenteros P, Erburu Iriarte M. Infecciones bacterianas. En: Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Bloque V, cap. 40, p. 619-631.***
-   — ***Nivel 1, junto a la SEN 2023; manda si las dos discrepan.*** *Manual formativo de expertos, sin grados de recomendación; varias tablas están adaptadas del Farreras-Rozman (2023) y su bibliografía se consultó en 2023. Aporta:*
+1. ***García-Moncó Carra JC, Rodrigo Armenteros P, Erburu Iriarte M. Infecciones bacterianas. En: Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Bloque V, cap. 40, p. 619-631.***
+   — ***Nivel 1: referencia SEN principal.*** *Manual formativo de expertos, sin grados de recomendación; varias tablas están adaptadas del Farreras-Rozman (2023) y su bibliografía se consultó en 2023. Aporta:*
    - *Clínica con la frecuencia de cada dato y pistas de etiología (ictus y laberintitis en el neumococo, romboencefalitis en Listeria, artritis en el meningococo).*
    - *Criterios de TC obligatoria antes de la PL (la recomienda en general, pero solo la exige con riesgo de herniación).*
    - *Perfil del LCR y umbrales que hacen muy probable la MBA; antígeno neumocócico; factores de mal pronóstico.*
@@ -393,8 +379,11 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
    - *Dexametasona mantenida en el neumococo y H. influenzae, aislamiento respiratorio de 24 h en la meningocócica, quimioprofilaxis (rifampicina en el embarazo desde el primer trimestre; Hib al caso índice) y vacunación del adulto.*
    - *Posibles erratas y datos dudosos: dosis de cloxacilina baja, ampicilina para Hib sin precisar sensibilidad y dos afirmaciones difíciles de conciliar sobre el cultivo con antibiótico previo (ver `FUENTES.md`).*
 
+2. ***Carod Artal FJ. Infecciones víricas. En: Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Cap. 42, p. 643-657.***
+   — ***Nivel 1.*** *Aporta el perfil de LCR de las infecciones víricas, la indicación de aciclovir empírico ante sospecha de encefalitis y las limitaciones de la PCR inicial.*
+
 3. ***van de Beek D, Cabellos C, Dzupova O, Esposito S, Klein M, Kloek AT, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-62.*** PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007)
-   — ***Nivel 2: base de la SEN 2023 y árbitro de lo que la SEN no detalla.*** *Guía europea del grupo de estudio de infecciones cerebrales de la ESCMID, con un coautor español (Hospital de Bellvitge). Hace revisión sistemática de la literatura (1966-2014) y gradúa la evidencia (niveles 1-3) y las recomendaciones (grados A-D); no usa GRADE. Aporta:*
+   — ***Nivel 2: complementa lo que la SEN 2025 no detalla.*** *Guía europea del grupo de estudio de infecciones cerebrales de la ESCMID, con un coautor español (Hospital de Bellvitge). Hace revisión sistemática de la literatura (1966-2014) y gradúa la evidencia (niveles 1-3) y las recomendaciones (grados A-D); no usa GRADE. Aporta:*
    - *Ecología europea: etiología del adulto y sensibilidad disminuida del neumococo a penicilina del 20-50 % en España (ECDC 2011).*
    - *Rendimiento de la clínica y de las pruebas: tríada, signos meníngeos, petequias, hemocultivos, Gram, cultivo, PCR, lactato y látex.*
    - *Criterios de TC antes de la PL y antibiótico en <1 h (grado A).*
