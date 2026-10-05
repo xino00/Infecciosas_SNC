@@ -59,7 +59,7 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 ## 4. VALORACIÓN INICIAL: TIEMPOS Y SECUENCIA EN URGENCIAS
 
-> **LA MBA ES UNA EMERGENCIA TIEMPO-DEPENDIENTE: ANTIBIÓTICO IV EN MENOS DE 1 HORA DESDE LA LLEGADA** (ESCMID, grado A; NICE 1.4.1). *La SEMES 2012 pedía analítica, cultivos y primera dosis de antibiótico en 15-30 min.*
+> **LA MBA ES UNA EMERGENCIA TIEMPO-DEPENDIENTE: ANTIBIÓTICO IV EN MENOS DE 1 HORA DESDE LA LLEGADA** (ESCMID, grado A; NICE 1.4.1).
 
 1. **Estabilizar** y buscar datos de sepsis.
 2. **Extraer hemocultivos y analítica ANTES del antibiótico** (ESCMID, grado A; NICE 1.6.1), y antes de la PL (SEN 2025).
@@ -82,17 +82,18 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 
 > **LA NEUROIMAGEN NUNCA DEBE RETRASAR EL INICIO DEL ANTIBIÓTICO** (SEN 2025). Si se necesita imagen, **extraer sangre, administrar antibióticos y estabilizar al paciente antes de realizarla** (NICE 1.4.8).
 
-**Matices de NICE NG240 (2024):**
+**Según la guia NICE NG240 (2024):**
 
-- *La neuroimagen antes de la PL **no debe hacerse de rutina** (1.4.6). La indica si hay **factores de riesgo de lesión ocupante de espacio en evolución**, **focalidad neurológica nueva (incluidas crisis o posturas anómalas)**, **reacciones pupilares anormales**, o **GCS ≤9 o descenso progresivo y sostenido, o rápido, del nivel de consciencia** (1.4.7).*
-- *Con estos factores, **no realizar la PL hasta que se hayan resuelto** (1.4.7). El **riesgo hemorrágico debe tratarse y estabilizarse antes de la PL** (1.4.11); NICE no lo enumera como indicación de neuroimagen. Ver §4.2.*
+- *La neuroimagen antes de la PL **no debe hacerse de rutina** (1.4.6). La indica si hay **factores de riesgo de lesión ocupante de espacio en evolución**, **focalidad neurológica nueva (incluidas crisis)**, **reacciones pupilares anormales**, o **GCS ≤9 o descenso progresivo y sostenido, o rápido, del nivel de consciencia** (1.4.7).*
+- *Con estos factores, **no realizar la PL hasta que se hayan resuelto** (1.4.7).
+- El **riesgo hemorrágico debe tratarse y estabilizarse antes de la PL** (1.4.11); NICE no lo enumera como indicación de neuroimagen. Ver §4.2.*
 - *Si la PL es segura y no retrasa de forma clínicamente relevante el antibiótico, hacerla antes de iniciarlo; si ya se ha administrado, realizarla cuanto antes, siempre que sea segura (1.4.9-1.4.10).*
 
 ### 4.2. Contraindicaciones de la punción lumbar
 
-- **Signos de HTIC o riesgo de herniación** (los criterios de imagen de arriba; hidrocefalia obstructiva, edema cerebral, lesión ocupante de espacio): primero la imagen y no puncionar hasta resolverlos (NICE 1.4.7, 1.4.12).
+- **Signos de HTIC o riesgo de herniación** (los criterios de imagen de arriba; hidrocefalia obstructiva, edema cerebral, lesión ocupante de espacio) (NICE 1.4.7, 1.4.12).
 - **Púrpura extensa o en rápida progresión** (NICE 1.4.12).
-- **Coagulopatía o trombopenia** (por ejemplo, anticoagulación reciente) (SEN 2025; ESCMID). *La SEMES 2012 pide un Quick >50-60 %.*
+- **Coagulopatía o trombopenia** (por ejemplo, anticoagulación reciente) (SEN 2025; ESCMID).
 - **Sospecha de absceso epidural espinal** (SEN 2025).
 - **Infección en el punto de punción** (NICE; ESCMID).
 - **Inestabilidad**: tratar y estabilizar antes una vía aérea no protegida, compromiso respiratorio, shock o crisis no controladas (NICE 1.4.11; ESCMID).
@@ -106,7 +107,7 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 - **Hemograma**: valorar leucocitosis, desviación izquierda, neutropenia y plaquetas (SEMES 2012). La **trombopenia es un factor de mal pronóstico** (SEN 2025).
 - **Coagulación**: descartar coagulopatía (SEMES 2012).
 - **Bioquímica**: electrolitos (hiponatremia por SIADH), creatinina y **glucemia inmediatamente antes de la PL** para calcular el cociente glucosa LCR/sangre (NICE 1.4.13; SEMES 2012).
-- **PCR (proteína C reactiva) o procalcitonina** (NICE 1.4.4). ***Una PCR, una PCT o una leucocitosis normales NO descartan la MBA*** (NICE 1.4.5). *La ESCMID añade que se asocian a infección bacteriana pero no permiten hacer el diagnóstico, y que pierden valor si hay otro foco (neumonía, sepsis). La NICE prefiere la PCR (la PCT no fue claramente superior y es más cara). Orientativo según la SEMES 2012: PCR >10 mg/dL o PCT >0,5 ng/mL hacen más probable la MBA, y PCT >2 ng/mL se asocia a MBA con bacteriemia y riesgo de sepsis grave.*
+- **PCR (proteína C reactiva) y/o procalcitonina** (NICE 1.4.4). ***Una PCR, una PCT o una leucocitosis normales NO descartan la MBA*** (NICE 1.4.5). *La ESCMID añade que se asocian a infección bacteriana pero no permiten hacer el diagnóstico, y que pierden valor si hay otro foco (neumonía, sepsis). La NICE prefiere la PCR (la PCT no fue claramente superior y es más cara). Orientativo según la SEMES 2012: PCR >10 mg/dL o PCT >0,5 ng/mL hacen más probable la MBA, y PCT >2 ng/mL se asocia a MBA con bacteriemia y riesgo de sepsis grave.*
 - **PCR (reacción en cadena de la polimerasa) en sangre total para meningococo y neumococo** (NICE 1.4.4). **Lactato** si se sospecha enfermedad meningocócica (NICE 1.5.3).
 - **SEROLOGÍA DE VIH EN TODOS LOS ADULTOS** con MBA o enfermedad meningocócica (NICE 1.10.1).
 - **Frotis faríngeo para cultivo de meningococo**, preferiblemente antes del antibiótico (NICE 1.4.3), para tipar la cepa y orientar el manejo de contactos y brotes.
@@ -153,7 +154,7 @@ La TC o la RM son **normales o muestran un realce leptomeníngeo difuso inespec�
 
 ## 6. TRATAMIENTO ANTIBIÓTICO EMPÍRICO
 
-Principios: **antibiótico IV en <1 h**, a **dosis meníngeas**, preguntando por **alergias** y **eligiendo la pauta según la edad, los factores de riesgo y la resistencia local** (ESCMID, grado A). **Consultar con Infecciosas o Microbiología** (NICE 1.6.4), sobre todo si hay viaje reciente al extranjero (riesgo de resistencias) o colonización por enterobacterias resistentes a cefalosporinas. *Una MBA "decapitada" (antibiótico previo) se trata igual que una MBA (SEMES 2012).*
+Principios: **antibiótico IV en <1 h**, a **dosis meningeas**, preguntando por **alergias** y **eligiendo la pauta según la edad, los factores de riesgo y la resistencia local** (ESCMID, grado A). **Consultar con Infecciosas o Microbiología** (NICE 1.6.4), sobre todo si hay viaje reciente al extranjero (riesgo de resistencias) o colonización por enterobacterias resistentes a cefalosporinas. *Según Mensa se debe administrar el ATB en los primeros 30 min tras el diagnóstico*****
 
 ### 6.1. Adulto ≤50 años SIN factores de riesgo (o fractura de base de cráneo)
 
