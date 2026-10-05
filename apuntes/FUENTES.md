@@ -1,6 +1,6 @@
 # FUENTES DE LOS APUNTES
 
-> **Decisión del autor (actualizada el 04/10/2026): las referencias de los apuntes son solo cuatro fuentes**: la **SEN 2025** (Manual del Residente de Neurología), la **ESCMID** (guía de meningitis bacteriana de 2016 y guía de absceso cerebral de 2024), la **NICE NG240 2024** y la **SEMES 2012**. Cada dato se atribuye a una de ellas, con el año en el caso de la SEN y la ESCMID. Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro, y se citan a través de ella.
+> **Decisión del autor (actualizada el 05/10/2026)**: se mantienen **SEN 2025**, **ESCMID 2016/2024**, **NICE NG240 2024** y **SEMES 2012**, y se incorpora **Mensa 2026, extracto aportado por el usuario**, exclusivamente para los apartados revisados de meningitis bacteriana, complicaciones de PL y HTIC criptocócica (§9). Cada dato se atribuye a su fuente. Los estudios primarios se citan solo a través de las fuentes autorizadas que los recogen.
 >
 > **Decisión del autor (03/10/2026): se añaden porcentajes de resistencia de la ecología local de 2024, fuera de la pirámide.** No son una fuente de recomendaciones: se usan donde las fuentes piden adaptar la pauta a la resistencia local. Llevan la etiqueta **(ecología local 2024)** y no tienen referencia bibliográfica (ver §8).
 
@@ -9,6 +9,8 @@
 Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente superior no trata se toma de la siguiente. Las discrepancias relevantes se anotan en *cursiva* en cada capítulo.
 
 - **La SEN 2025 ocupa el nivel 1 y es la única referencia SEN.** La jerarquía general es **SEN 2025 → ESCMID → NICE → SEMES**.
+- **Revisión acotada con Mensa (§9): SEN 2025 → Mensa 2026 → ESCMID 2016 → NICE NG240 → SEMES 2012.** SEN prevalece cuando establece expresamente una pauta; Mensa completa lo que no concreta y prevalece sobre SEMES en los puntos cubiertos por los extractos. Una pauta incluida en un intervalo más amplio puede ser compatible. El silencio de SEN no permite atribuirle recomendaciones afirmativas ni negativas.
+- **Excepción de crisis epilépticas en meningitis**: el texto principal recoge exclusivamente lo respaldado por SEN. La propuesta de Mensa de considerar profilaxis neumocócica y sus pautas solo aparecen en una aclaración en cursiva. No se atribuye a SEN la recomendación de ESCMID contra la profilaxis rutinaria.
 - **Excepción: absceso cerebral (capítulo 4).** Manda la **ESCMID 2024**, y la SEN 2025 queda por encima de la SEMES: **ESCMID 2024 → SEN 2025 → SEMES 2012**. *El capítulo de absceso de la SEN 2025 se redactó antes de que saliera la ESCMID 2024 (su bibliografía se consultó en abril de 2023) y no la incorpora; la ESCMID 2024 se basa en una revisión sistemática con GRADE.*
 
 | Nivel | Fuente | Qué es | Qué aporta sobre todo |
@@ -19,14 +21,16 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 | **3** | **NICE NG240 (2024)**. *Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management.* 19/03/2024 | Guía británica con metodología GRADE; recomendaciones numeradas. Excluye, entre otros, inmunodeficiencia, derivaciones intracraneales y neurocirugía previa | Reconocimiento, tiempos, pruebas, neuroimagen, duración por germen, soporte, alta y seguimiento |
 | **4** | **SEMES 2012**. Julián Jiménez A (coord.). *Manejo de Infecciones en Urgencias.* Edicomplet-SEMES; 2012, caps. 18-23 | Manual español de urgencias | Estructura de actuación; ingreso y observación; dosis que no dan las fuentes superiores; capítulos que no cubren las otras tres |
 
+*La tabla conserva los niveles generales. Solo en esta revisión, Mensa ocupa el nivel 2 y ESCMID 2016, NICE y SEMES pasan a los niveles 3, 4 y 5. Mensa es un acceso parcial mediante dos extractos, sin páginas ni grados disponibles; no se ha consultado la guía completa.*
+
 ### 1.1. Capítulos de la SEN 2025
 
 Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurología; 2025. Bloque V. Patologías neurológicas. Infecciones del sistema nervioso.
 
 | Capítulo | Autores | Páginas | Se usa en |
 |---|---|---|---|
-| **40. Infecciones bacterianas** (meningitis agudas y crónicas) | García-Moncó Carra JC, Rodrigo Armenteros P, Erburu Iriarte M (H. U. Basurto, Bilbao) | 619-631 | Capítulos 1, 2 y 6; clínica en el 3 |
-| **41. Absceso cerebral, empiemas epidural y subdural (cerebral y medular)** | Ara Callizo JR (H. U. Miguel Servet, Zaragoza) | 633-642 | Capítulos 4 y 5 |
+| **40. Infecciones bacterianas** (meningitis agudas y crónicas) | García-Moncó Carra JC, Rodrigo Armenteros P, Erburu Iriarte M (H. U. Basurto, Bilbao) | 619-631 | Capítulos 1, 2 y 6; clínica en el 3 y seguridad de PL en el 8 |
+| **41. Absceso cerebral, empiemas epidural y subdural (cerebral y medular)** | Ara Callizo JR (H. U. Miguel Servet, Zaragoza) | 633-642 | Capítulos 4 y 5; contraindicación de PL en absceso epidural espinal, capítulo 8 |
 | **42. Infecciones víricas** | Carod Artal FJ (Raigmore Hospital, Inverness) | 643-657 | Capítulos 2, 3 y 5; perfil de LCR y aciclovir en el 1 |
 | **43. Infecciones fúngicas y parasitarias del sistema nervioso central** | Sáez Marín A, Stiauren Fernández E, Corral Corral Í (H. U. Ramón y Cajal, Madrid) | 659-677 | Capítulo 7 (y 2 y 4) |
 | **44. Prionopatías** | Enríquez Calzada S, Durán Lozano A | 679-686 | Capítulo 3 (diagnóstico diferencial) |
@@ -42,6 +46,9 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 | 5. Infecciones parameníngeas y medulares → `05_Infecciones_parameningeas_medulares.md` ✅ | ✔ (cap. 41: empiemas y absceso epidural; cap. 42: mielitis víricas) | 2016: empiema y trombosis de senos como complicación de la meningitis | — | ✔ (caps. 21-22) |
 | 6. Derivaciones de LCR / posneuroquirúrgica → `06_Derivaciones_LCR_posneuroquirurgica.md` ✅ | ✔ (cap. 40: meningitis nosocomial, duración, retirada y reimplante) | 2024: absceso posneuroquirúrgico (remite al cap. 4) | **Excluidas de su alcance** | ✔ (cap. 23) |
 | 7. Infecciones fúngicas y parasitarias → `07_Infecciones_fungicas_parasitarias.md` ✅ | ✔ **guía principal** (cap. 43) | 2024: inmunodepresión grave y toxoplasmosis | — | Puntual (caps. 19, 20 y 22) |
+| 8. [Complicaciones de PL](08_Complicaciones_puncion_lumbar.md) ✅ | Seguridad de PL (cap. 40; absceso epidural espinal, cap. 41) | — | Contraindicaciones | — |
+
+**Cobertura adicional de Mensa 2026:** capítulo 1, únicamente la revisión descrita en §9; capítulo 7, **solo HTIC criptocócica**; capítulo 8, complicaciones de PL. Ningún otro capítulo incorpora sus extractos.
 
 > **Criterios vigentes (actualizados el 04/10/2026)**:
 > - "ESCMID" incluye la **guía ESCMID 2024 de absceso cerebral**, que encabeza el capítulo 4.
@@ -67,7 +74,11 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 | Enterobacterias y otros gramnegativos | **≥3 semanas** (SEN 2025 = NICE) | — |
 | Estreptococo del grupo B | **Ampicilina o penicilina G + gentamicina** (SEN 2025) | NICE: C3G |
 | Sin germen identificado | **≥14 días** (ESCMID; la SEN no lo concreta) | NICE: 10 días; SEN 2025: 10-14 días como duración general |
-| Dexametasona tras el antibiótico | **Hasta 4 h** (ESCMID; la SEN 2025 lo atribuye a "algunos autores") | NICE: <12 h |
+| Dexametasona tras el antibiótico | SEN recomienda antes o junto con el antibiótico y atribuye a «algunos autores» ampliar hasta **4 h** | Mensa: disminución significativa del beneficio si **>4 h**, no ausencia absoluta de beneficio; ESCMID permite hasta 4 h por consenso; NICE: administrarla si <12 h, consultar si >12 h |
+| Dosis de dexametasona | **10 mg IV cada 6 h, 4 días** (SEN) | Compatible con **6-10 mg IV cada 6 h, 2-4 días** de Mensa para adultos |
+| Vasculopatía retardada | SEN describe infartos tardíos y posible relación con dexametasona | Mensa: cerca del 10 % de adultos con meningitis neumocócica, deterioro y fiebre tras mejoría y retirada; prolongación varias semanas sin pauta detallada |
+| HTIC: manitol | Considerarlo ante HTIC (SEN); **1-2 g/kg IV en 30-60 min** (Mensa) | Sustituye la pauta de SEMES; no implica uso rutinario ni aporta un intervalo de repetición |
+| Crisis epilépticas | **SEN no concreta pauta de tratamiento ni se pronuncia específicamente sobre profilaxis en MBA** | Solo en cursiva: Mensa propone considerar profilaxis neumocócica; ESCMID desaconseja la rutinaria, sin atribuir ese criterio a SEN |
 | Mantener la dexametasona | **Neumococo o *H. influenzae*** (SEN 2025 = ESCMID = NICE) | — |
 | Rifampicina en el embarazo (profilaxis) | **A partir del primer trimestre** (SEN 2025 = ESCMID) | SEMES 2012: contraindicada |
 | Profilaxis de *H. influenzae* | **Rifampicina al caso índice y a los convivientes** (SEN 2025) | SEMES 2012: solo a los convivientes y si hay niños <6 años no vacunados |
@@ -104,7 +115,9 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - **Rifampicina contraindicada en todo el embarazo** (profilaxis) → SEN 2025 y ESCMID: a partir del primer trimestre.
 - **Aislamiento respiratorio de toda sospecha de meningitis bacteriana** → SEN 2025: solo si se sospecha meningococo, las primeras 24 h de tratamiento.
 - **Encefalitis herpética**: dexametasona → la SEN 2025 **no recomienda los corticoides de rutina**.
-- **Antiepilépticos profilácticos** en la meningitis → ESCMID 2016: no de rutina (grado D).
+- **Antiepilépticos profilácticos** en la meningitis: aplicar la excepción editorial de §1. *ESCMID 2016 desaconseja la profilaxis rutinaria (grado D), mientras Mensa propone considerarla en neumocócica; SEN no se pronuncia específicamente en su apartado de MBA.*
+- **Manitol en MBA**: sustituida la pauta de SEMES por **1-2 g/kg IV en 30-60 min**, atribuida a Mensa y para consideración ante HTIC, no de rutina.
+- **Paracetamol 1-2 g IV cada 6-8 h**: retirado del contenido terapéutico por pauta problemática; Mensa solo recomienda tratar la fiebre elevada, sin proporcionar dosis sustitutiva. No se ha presentado una comprobación farmacológica CIMA/AEMPS como realizada.
 - **Absceso cerebral** (superado por la ESCMID 2024):
   - Profilaxis anticomicial individualizada en las lesiones corticales → **no profilaxis antiepiléptica primaria**.
   - TC con contraste como prueba suficiente → **RM con difusión**.
@@ -135,7 +148,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 
 ## 7. Documentos revisados que no se usan como referencia
 
-*Se revisaron y se descartaron por decisión del autor (solo se citan las cuatro fuentes de la pirámide):*
+*Se revisaron y se descartaron por decisión del autor; la incorporación acotada de Mensa no autoriza estas otras fuentes:*
 - *Guías IDSA de meningitis bacteriana (2004), encefalitis (2008) y ventriculitis/meningitis asociadas a cuidados sanitarios (2017); revisión de Bloch et al. (CID 2023); consenso del International Encephalitis Consortium (2013); guía de la OMS (2025); guía de meningitis tuberculosa (Lancet Infect Dis 2025).*
 - *Revisiones Cochrane, ensayos y estudios de cohortes o de resistencia española consultados en PubMed.*
 - *INFURG-SEMES 2026 (Antibioterapia empírica en infecciones prevalentes): no tiene capítulo de infecciones del SNC.*
@@ -174,3 +187,42 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - *M. tuberculosis*: número de aislamientos desconocido.
 
 *Con estos datos queda parcialmente cubierta la limitación de los datos españoles de resistencia del neumococo, que dentro de la pirámide son del ECDC de 2011: en 2024, el 12 % de los neumococos locales no es sensible a la cefotaxima con el punto de corte de meningitis.*
+
+## 9. Revisión con los extractos de Mensa 2026
+
+### 9.1. Alcance y acceso
+
+**Fecha: 05/10/2026. Ámbito: adulto.** Actualización de [meningitis bacteriana](01_Meningitis_bacteriana.md) y de su Word revisado; creación de [complicaciones de PL](08_Complicaciones_puncion_lumbar.md); revisión exclusiva de la [HTIC criptocócica](07_Infecciones_fungicas_parasitarias.md#311-hipertensión-intracraneal-criptocócica) en el capítulo 7. No se extrapolan los fragmentos a las pautas de absceso cerebral, encefalitis, infecciones medulares o derivaciones.
+
+**Referencia literal:** «Mensa 2026, extracto aportado por el usuario». El usuario dispone de Mensa en el móvil y ha reproducido dos fragmentos; no se dispone de la obra completa ni de paginación, bibliografía completa o grados de recomendación. El extracto 1 cubre soporte y complicaciones de meningitis y de PL; el extracto 2 reseña coma barbitúrico. Las recomendaciones pediátricas de estos fragmentos no se convierten en pautas adultas.
+
+### 9.2. Contraste de dosis, cifras y atribuciones
+
+| Punto revisado | Dato y procedencia comprobada | Límite de la comprobación |
+|---|---|---|
+| Dexametasona | **10 mg cada 6 h, 4 días**, antes o junto con el antibiótico; mantenimiento por etiología: original SEN 2025, p. 624-625, §1.8.3. Vía IV corroborada en ESCMID 2016. **6-10 mg IV cada 6 h, 2-4 días**: extracto 1 de Mensa | Compatible; se mantiene la pauta de SEN. No se incorpora la dosis pediátrica |
+| Ventana | SEN p. 625: hasta **4 h** atribuido a «algunos autores»; ESCMID 2016: hasta 4 h, grado C; NICE **1.8.5**: <12 h / >12 h; Mensa: menor beneficio si **>4 h** | No confundir permiso por consenso, disminución del beneficio y contraindicación absoluta |
+| Vasculopatía | SEN p. 621: infartos tardíos posiblemente relacionados con dexametasona. Mensa: cerca del **10 % de adultos neumocócicos**, deterioro y fiebre tras mejoría y retirada; corticoides **varias semanas** | Frecuencia y prolongación dependen del extracto; no fija dosis ni descenso |
+| HTIC inicial | **30-45°**, valorar manitol IV y considerar hiperventilación: SEN p. 623. Sodio normal, control de PA y albúmina **40 g/L**: Mensa | El objetivo de albúmina depende del extracto y no prescribe una perfusión |
+| Manitol e hiperventilación | **1-2 g/kg IV en 30-60 min**; PaCO₂ **25-30 mmHg** con ventilación mecánica: Mensa | Transcripción cotejada; no hay repetición ni duración en el fragmento. SEN no concreta esos valores. NICE 1.9.4-1.9.7 conserva el contexto de uso seleccionado y especializado |
+| Hb | Literal confirmado por el usuario: **12 g/L**; **12 g/dL** es su hipótesis de unidad pretendida | Posible errata. Ni la unidad probable ni el objetivo terapéutico están validados; no constituye indicación transfusional |
+| Coma barbitúrico | Extracto 2: **fenobarbital**, **5-10 mg/kg a 1 mg/kg/min**, mantenimiento **1 mg/kg/h**, PIC persistente **>20 cm H₂O** | Fármaco, pauta y umbral/unidades pendientes; vía no explicitada. Reseña no operativa. No equiparar con el umbral diagnóstico de presión de apertura ni cambiar fármaco o unidades por suposición |
+| Hidrocefalia | Obstructiva: drenaje ventricular; comunicante: PL repetidas o drenaje lumbar. Mensa; contraste con ESCMID 2016, p. S55, y tabla 4.5 | No exigir fracaso del coma barbitúrico antes del drenaje indicado por hidrocefalia |
+| Crisis | SEN cap. 40: clínica y pronóstico, sin pauta específica ni recomendación de profilaxis. Mensa: considerar profilaxis neumocócica; carga, perfusión y mantenimiento de levetiracetam/fenitoína, incluida la menor velocidad de fenitoína en anciano/cardiopatía, cotejados con el extracto. Las cifras figuran únicamente en la aclaración en cursiva de [§8.2.3](01_Meningitis_bacteriana.md#823-crisis-epilépticas) | Todo Mensa queda en cursiva; vía de mantenimiento del levetiracetam y duración no explicitadas. Dosis cotejadas solo contra extracto; no validación farmacológica independiente |
+| Secuelas | SEN p. 623: auditivas/vestibulares y cognitivas. Mensa: **30 % de adultos supervivientes**, déficit focal, hipoacusia, epilepsia o deterioro cognitivo persistentes **>3 meses** | Cifra de Mensa dependiente del extracto. Audiometría adulta conserva fuentes ESCMID/NICE; no se deriva de la recomendación pediátrica |
+| Cefalea y hematoma tras PL | Mensa: cefalea **15 %**; hematoma **0,2 % sin anticoagulantes ni trastorno de coagulación**; agujas **20 G (0,8-0,9 mm)** y **24 G (0,5-0,6 mm)**; consejo **22 G o 24 G** tras imagen normal | No se describen las cohortes; no son estimaciones individualizadas. Calibre o imagen normal no sustituyen la valoración clínica de seguridad |
+| Seguridad de PL | Original SEN p. 622 y cap. 41, §4.5; NICE **1.4.7, 1.4.11-1.4.12**. Mensa: parche autólogo, infección excepcional y herniación | El detalle del parche y las frecuencias dependen del extracto. Se distingue infección cutánea, absceso epidural espinal y lesión intracraneal; la frase de Mensa sobre «infección local» es ambigua |
+| HTIC criptocócica | SEN p. 661: PL repetidas, eventual drenaje y no recomendar corticoides. Mensa: presión de LCR **<20 cm H₂O** y falta de respuesta a corticoides | El objetivo numérico solo procede de Mensa; no fija volumen ni intervalo de PL y no se aplica a MBA |
+
+**Otros cambios cotejados con el extracto 1:** valorar el foco ORL crónico tras curación; conservar sin duplicación la erradicación faríngea del meningococo y la consideración de retirar anticoagulantes; tratar la fiebre sin inventar dosis de paracetamol. Vitamina B6 y ácido fólico se recogen solo como observación experimental en animales.
+
+### 9.3. Fidelidad documental y pendientes clínicos
+
+- **Originales disponibles:** PDFs locales de SEN 2025, ESCMID 2016, NICE NG240 y SEMES 2012. Se han contrastado los pasajes pertinentes de esta revisión; no se declara una nueva auditoría de todos los capítulos. El acceso web a SEN y NICE no permitió leerlos y se recurrió a los PDFs locales.
+- **Fidelidad al extracto:** cifras, fármacos, vías explícitas, intervalos, duración, velocidades de perfusión, unidades y población cotejados por separado con los dos textos aportados. No acredita haber leído Mensa completa.
+- **Interpretaciones identificadas:** compatibilidad del intervalo de dexametasona; separación anatómica de las infecciones en la seguridad de PL; distinción entre considerar una medida y aplicarla de rutina; ausencia de una secuencia obligatoria coma barbitúrico → drenaje en la hidrocefalia obstructiva.
+- **Pendientes de validación clínica:** Hb (unidad y objetivo), coma barbitúrico (identidad, pauta y umbral/unidades), y datos de Mensa cuya comprobación independiente exigiría la fuente completa. La anotación previa de antibiótico en **30 min** atribuida a Mensa se conserva como **no verificada**, porque no aparece en estos extractos.
+- **Validación farmacológica oficial:** no se ha realizado una comprobación CIMA/AEMPS; no se atribuye tal validación a las dosis transcritas de Mensa.
+- **Concordancia entre Markdown y Word:** comprobados los 88 párrafos de los apartados revisados, las cifras introducidas, las atribuciones, las cursivas de la aclaración sobre crisis y las remisiones. Se conservan las diferencias editoriales previas fuera de la revisión, incluidas las anotaciones locales de resistencia; no se afirma identidad íntegra de ambos documentos.
+- **Revisión visual:** Word renderizado en 21 páginas e inspeccionado página a página, sin recortes ni solapamientos observados. Conserva sus 7 tablas, estilos, numeración y pie; se adapta la paginación al contenido añadido. El capítulo de complicaciones de PL no se inserta completo en el Word. Esta revisión visual no valida los datos clínicos pendientes.
+- **Integridad y enlaces:** comprobados los enlaces locales y sus anclas, la numeración de referencias y `git diff --check`. Copias de seguridad verificadas por SHA-256; Word original y archivos ajenos al alcance conservados. No se ha realizado commit, push, publicación ni envío por correo.

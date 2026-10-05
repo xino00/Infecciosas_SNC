@@ -1,5 +1,7 @@
 # MENINGITIS BACTERIANA AGUDA DEL ADULTO (ADQUIRIDA EN LA COMUNIDAD)
 
+> **Fuentes de esta revisión**: SEN 2025 → Mensa 2026 → ESCMID 2016 → NICE NG240 → SEMES 2012. Mensa se limita a los dos extractos aportados por el usuario; completa los aspectos no concretados por SEN. En **crisis epilépticas**, el texto principal recoge solo SEN y la propuesta de Mensa queda como aclaración en cursiva. Trazabilidad y pendientes: [FUENTES, §9](FUENTES.md#9-revisión-con-los-extractos-de-mensa-2026).
+
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
 La **meningitis** es una inflamación de las leptomeninges que suele acompañarse de **aumento de leucocitos en el LCR**. La presentación clásica combina **cefalea, fiebre, rigidez de nuca y alteración del estado mental** (SEN 2025, cap. 40, §1.1). *Para describir el curso temporal, la SEMES 2012 distingue aguda (48-72 h) y subaguda (>3-7 días); la SEN 2025 define la crónica como ≥4 semanas (cap. 40, §2). La MBA suele instaurarse en 24-72 h y puede ser fulminante en pocas horas (SEN 2025).*
@@ -85,8 +87,8 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 **Según la guia NICE NG240 (2024):**
 
 - *La neuroimagen antes de la PL **no debe hacerse de rutina** (1.4.6). La indica si hay **factores de riesgo de lesión ocupante de espacio en evolución**, **focalidad neurológica nueva (incluidas crisis)**, **reacciones pupilares anormales**, o **GCS ≤9 o descenso progresivo y sostenido, o rápido, del nivel de consciencia** (1.4.7).*
-- *Con estos factores, **no realizar la PL hasta que se hayan resuelto** (1.4.7).
-- El **riesgo hemorrágico debe tratarse y estabilizarse antes de la PL** (1.4.11); NICE no lo enumera como indicación de neuroimagen. Ver §4.2.*
+- *Con estos factores, **no realizar la PL hasta que se hayan resuelto** (1.4.7).*
+- *El **riesgo hemorrágico debe tratarse y estabilizarse antes de la PL** (1.4.11); NICE no lo enumera como indicación de neuroimagen. Ver §4.2.*
 - *Si la PL es segura y no retrasa de forma clínicamente relevante el antibiótico, hacerla antes de iniciarlo; si ya se ha administrado, realizarla cuanto antes, siempre que sea segura (1.4.9-1.4.10).*
 
 ### 4.2. Contraindicaciones de la punción lumbar
@@ -97,6 +99,8 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 - **Sospecha de absceso epidural espinal** (SEN 2025).
 - **Infección en el punto de punción** (NICE; ESCMID).
 - **Inestabilidad**: tratar y estabilizar antes una vía aérea no protegida, compromiso respiratorio, shock o crisis no controladas (NICE 1.4.11; ESCMID).
+
+**Una neuroimagen normal o una aguja fina no bastan para considerar segura la PL si persisten factores de riesgo**: mantener la valoración clínica y las contraindicaciones anteriores (SEN 2025, cap. 40, §1.5; NICE 1.4.7 y 1.4.11-1.4.12). El desarrollo de cefalea pospunción, hematoma, infección y herniación está en el documento independiente [Complicaciones de la punción lumbar](08_Complicaciones_puncion_lumbar.md).
 
 ## 5. PRUEBAS COMPLEMENTARIAS
 
@@ -154,7 +158,7 @@ La TC o la RM son **normales o muestran un realce leptomeníngeo difuso inespec�
 
 ## 6. TRATAMIENTO ANTIBIÓTICO EMPÍRICO
 
-Principios: **antibiótico IV en <1 h**, a **dosis meningeas**, preguntando por **alergias** y **eligiendo la pauta según la edad, los factores de riesgo y la resistencia local** (ESCMID, grado A). **Consultar con Infecciosas o Microbiología** (NICE 1.6.4), sobre todo si hay viaje reciente al extranjero (riesgo de resistencias) o colonización por enterobacterias resistentes a cefalosporinas. *Según Mensa se debe administrar el ATB en los primeros 30 min tras el diagnóstico*****
+Principios: **antibiótico IV en <1 h**, a **dosis meningeas**, preguntando por **alergias** y **eligiendo la pauta según la edad, los factores de riesgo y la resistencia local** (ESCMID, grado A). **Consultar con Infecciosas o Microbiología** (NICE 1.6.4), sobre todo si hay viaje reciente al extranjero (riesgo de resistencias) o colonización por enterobacterias resistentes a cefalosporinas. *Nota previa pendiente de contraste: «Según Mensa se debe administrar el ATB en los primeros 30 min tras el diagnóstico». Esa afirmación no figura en los extractos aportados para esta revisión; se conserva identificada como no verificada.*
 
 ### 6.1. Adulto ≤50 años SIN factores de riesgo (o fractura de base de cráneo)
 
@@ -262,10 +266,12 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 **---> PAUTA**: **DEXAMETASONA 10 mg IV cada 6 h durante 4 días**, con la **primera dosis antes o junto con la primera dosis de antibiótico** (SEN 2025; ESCMID, grado A en países de renta alta).
 
+*Mensa 2026, extracto aportado por el usuario: propone en el adulto **6-10 mg IV cada 6 h durante 2-4 días**, especialmente en neumococo o H. influenzae, con inicio antes del primer antibiótico. La pauta de SEN (10 mg cada 6 h, 4 días) está incluida en ese intervalo y se mantiene; no es una discrepancia de dosis ni de duración. La dosis pediátrica del extracto no se aplica al adulto.*
+
 - **Indicación**: **en todos los casos de meningitis purulenta** (SEN 2025); sospecha fuerte o confirmación (NICE 1.8.1). *Según la SEMES 2012, el mayor beneficio se obtiene con pleocitosis >1.000/mm³, presión de apertura >25 cm H₂O o GCS <11.*
-- **Si ya se ha dado el antibiótico**: **puede iniciarse hasta 4 h después de la primera dosis IV** (ESCMID, grado C, por consenso; la SEN 2025 lo atribuye a "algunos autores"). *La NICE es más permisiva: darla si el retraso es <12 h y consultar si es >12 h, porque en los ensayos nadie la recibió más de 12 h después. La SEMES 2012 decía "no darla si ya recibía antibiótico parenteral", algo ya superado.*
+- **Si ya se ha dado el antibiótico**: SEN 2025, cap. 40, §1.8.3, recoge que **«algunos autores» amplían la ventana hasta un máximo de 4 h**; su recomendación inicial sigue siendo antes o junto con el antibiótico. *Mensa 2026, extracto aportado por el usuario: el beneficio disminuye significativamente si se inicia **>4 h** después; no afirma que desaparezca ni establece una contraindicación absoluta a partir de ese momento. ESCMID 2016 permite iniciarla hasta 4 h (grado C, por consenso). NICE 1.8.5 indica administrarla cuanto antes si el retraso es **<12 h** y consultar con Infecciosas si es **>12 h**, sin retrasar el antibiótico para esperarla. La SEMES 2012 decía «no darla si ya recibía antibiótico parenteral», criterio superado por las fuentes anteriores.*
 - **Cuándo se mantiene**: **SOLO si se confirma NEUMOCOCO o *H. INFLUENZAE*** (SEN 2025; ESCMID, grado B; NICE 1.8.3). **Suspenderla en el resto**, incluidos *Listeria* y meningococo, y si se descarta la MBA. *Algunos expertos la mantienen con cualquier germen (SEN 2025; ESCMID). Si no se identifica el germen, consultar con Infecciosas (NICE 1.8.4).*
-- *Riesgo descrito (SEN 2025): **infartos cerebrales tardíos**, posiblemente relacionados con la dexametasona adyuvante.*
+- **Infartos tardíos**: SEN 2025 describe una posible relación con la dexametasona adyuvante (cap. 40, §1.4, p. 621). *Mensa 2026, extracto aportado por el usuario, amplía la descripción como **vasculopatía cerebral retardada en cerca del 10 % de los adultos con meningitis neumocócica**: tras mejoría inicial y suspensión de los corticoides puede aparecer deterioro neurológico repentino con reaparición de fiebre, sin otra causa aparente. En esos casos el extracto señala la necesidad de prolongar los corticoides **varias semanas**, sin concretar pauta ni descenso. Es una propuesta para esa complicación, que requiere valoración especializada, no una prolongación sistemática de los 4 días. La frecuencia y la prolongación proceden de Mensa, no de SEN.*
 - **Enfermedad meningocócica (sepsis) sin meningitis**: **no dar corticoides de rutina**; solo **dosis sustitutivas** en el shock que no responde a vasopresores a dosis altas (NICE 1.8.6-1.8.7). *La SEMES 2012 propone hidrocortisona 50 mg cada 6 h + fludrocortisona 50 µg/día en el shock con insuficiencia suprarrenal.*
 - *Otras precauciones de la SEMES 2012: no darla si hay hipersensibilidad, patología cerebral reciente o derivación de LCR, y asociar un inhibidor de la bomba de protones.*
 
@@ -281,33 +287,57 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 - **Soporte vital primero** (SEN 2025): vía aérea y oxigenación, **fluidoterapia precoz y vasoactivos** si hay shock séptico, corrección de la coagulopatía y de las complicaciones metabólicas; **valorar UCI según la gravedad**.
 - **Líquidos de mantenimiento, sin restricción de rutina**, y vigilar los electrolitos (sodio por el SIADH) (NICE 1.9.1). Por vía oral o enteral si se toleran (NICE 1.9.2). *En la evidencia de la NICE (en niños), restringir líquidos aumentó el deterioro neurológico y la epilepsia.*
-- **CONTRAINDICADOS: GLICEROL e HIPOTERMIA** (ESCMID; NICE 1.9.3). *El ensayo de hipotermia se detuvo por exceso de mortalidad (ESCMID). La NICE cita un ensayo con más mortalidad en adultos tratados con glicerol.*
-- **NO de rutina** (ESCMID, grado D): **manitol, salino hipertónico, paracetamol como adyuvante ni antiepilépticos profilácticos**. **Osmóticos solo de forma temporal si hay signos de HTIC y riesgo de herniación**, consultando con UCI (NICE 1.9.4-1.9.5).
-  - *Medidas para la HTIC: la SEN 2025 propone, ante la sospecha de HTIC, cabecero a 30-45°, valorar manitol IV y considerar la hiperventilación.*
-  - *Pauta de manitol de la SEMES 2012: manitol al 20 % 1 g/kg IV en 15-20 min, seguido si es necesario de 0,25-0,5 g/kg cada 4 h.*
+- **Fiebre elevada**: tratarla con **paracetamol** (Mensa 2026, extracto aportado por el usuario, **sin dosis en el fragmento**). *Esto se refiere al control de la fiebre; ESCMID 2016 no recomienda paracetamol como adyuvante rutinario para mejorar el pronóstico de la MBA (grado D).*
+- **Analgesia y antieméticos** según la situación clínica; monitorizar PA, FC, FR, temperatura y SatO₂ (SEMES 2012).
 - **NO usar** inmunoglobulinas, heparina ni proteína C activada (ESCMID, grado D).
-- **Monitorizar la PIC solo en casos seleccionados**: puede salvar la vida, pero no hay evidencia sólida y puede causar daño (ESCMID, grado C; NICE 1.9.6-1.9.7). *La NICE cita un único estudio con menos mortalidad en adultos, pero con muchos inmunodeprimidos.*
-- **Crisis**: tratarlas con antiepilépticos, sin profilaxis (ESCMID).
-- **Trombosis de senos venosos**: no anticoagular en la fase aguda por el riesgo de hemorragia, y valorar retirar los anticoagulantes previos (ESCMID).
+- **Trombosis de senos venosos**: no anticoagular en la fase aguda por el riesgo de hemorragia (ESCMID). Si el paciente ya recibe anticoagulantes, **considerar su retirada durante la fase aguda** por el riesgo de hemorragia intracerebral (Mensa 2026, extracto aportado por el usuario; ESCMID).
 - **No repetir la PL de rutina** durante la evolución. Ante un deterioro: TC o RM (mejor RM), EEG y nueva PL solo en casos seleccionados (ESCMID).
-- **Antitérmicos, analgesia y antieméticos** (paracetamol 1-2 g IV cada 6-8 h; metoclopramida). Monitorizar PA, FC, FR, temperatura y SatO₂ (SEMES 2012).
 - **AISLAMIENTO RESPIRATORIO SI SE SOSPECHA MENINGOCOCO, durante las primeras 24 h de tratamiento**; con otros gérmenes no hace falta (SEN 2025). *La SEMES 2012 aislaba inicialmente toda sospecha de MBA; manda la SEN 2025.*
+
+_**Observación experimental:** en modelos animales de meningitis, vitamina B6 y ácido fólico reducen por distintos mecanismos la apoptosis neuronal en el giro dentado del hipocampo (Mensa 2026, extracto aportado por el usuario). **No constituye una recomendación de tratamiento en humanos.**_
+
+#### 8.2.1. Hipertensión intracraneal en la MBA
+
+1. **Medidas iniciales.** Ante sospecha de HTIC, **elevar la cabecera 30-45°**, valorar manitol IV y considerar hiperventilación (SEN 2025, cap. 40, §1.8.1, p. 623). Mensa añade **mantener el sodio en valores normales y controlar la presión arterial**; también propone **albúmina en torno a 40 g/L**, sin especificar cómo corregirla ni establecer una pauta de infusión de albúmina (Mensa 2026, extracto aportado por el usuario).
+2. **Monitorización.** Si hay clínica de HTIC, **considerar un transductor de presión intracraneal** (Mensa 2026, extracto aportado por el usuario). *No equivale a monitorización invasiva rutinaria: NICE 1.9.6-1.9.7 desaconseja esta y pide valoración especializada ante HTIC o hidrocefalia; ESCMID 2016 reconoce evidencia limitada y posibles daños (grado C). SEN no concreta aquí la monitorización invasiva.*
+3. **Tratamiento de la HTIC.** SEN permite **valorar manitol IV** y **considerar hiperventilación**, sin dosis ni objetivo de PaCO₂. Mensa concreta **manitol 1-2 g/kg IV en 30-60 min** y considerar **ventilación mecánica con hiperventilación para una PaCO₂ de 25-30 mmHg** (Mensa 2026, extracto aportado por el usuario). El fragmento no fija repetición del manitol ni duración de la hiperventilación; su aplicación requiere manejo especializado. *Se sustituye la pauta anterior de SEMES por la de Mensa. Considerar estas medidas ante HTIC no significa usarlas de rutina: ESCMID 2016 (grado D) y NICE 1.9.4-1.9.5 limitan los osmóticos a situaciones seleccionadas; NICE los contempla como medida temporal ante HTIC con riesgo de herniación, con consulta urgente a UCI.*
+4. **Manejo especializado.** Valorar con UCI y Neurocirugía las medidas dirigidas a la PIC y el drenaje si existe hidrocefalia (§8.2.2; NICE 1.9.5-1.9.7; ESCMID 2016). **No usar hipotermia terapéutica** (contraindicada en el extracto de Mensa; ESCMID 2016 no la recomienda por exceso de mortalidad) ni **glicerol** (ESCMID 2016; NICE 1.9.3).
+
+_**Hb: posible errata y objetivo no validado.** Mensa 2026, extracto aportado por el usuario, escribe literalmente «Hb alrededor de 12 g/L», lectura confirmada por el usuario en su móvil. El usuario considera probable que la unidad pretendida sea **g/dL**, pero **no se sustituye por 12 g/dL**: aclarar la unidad no validaría por sí mismo ese objetivo terapéutico ni una indicación transfusional. Queda pendiente._
+
+_**Coma barbitúrico: reseña pendiente, NO pauta operativa validada.** Mensa 2026, extracto aportado por el usuario (extracto 2), recoge PIC persistente **>20 cm H₂O** y «fenobarbital»: **carga de 5-10 mg/kg a 1 mg/kg/min**, seguida de **mantenimiento de 1 mg/kg/h en perfusión continua**. El fragmento no explicita la vía. **Identidad del fármaco, pauta y umbral/unidades siguen pendientes de aclaración**; no se sustituyen por otro barbitúrico ni por mmHg. El **>20 cm H₂O de presión de apertura** usado para describir el LCR (§5.2) **no constituye una indicación de coma barbitúrico**. Aunque el extracto sitúa el drenaje ventricular «en último término», la hidrocefalia obstructiva tiene indicación de drenaje propia (§8.2.2), sin exigir fracaso previo del coma barbitúrico._
+
+**HTIC criptocócica:** tiene un manejo específico; ver [capítulo 7, §3.1.1](07_Infecciones_fungicas_parasitarias.md#311-hipertensión-intracraneal-criptocócica). No aplicar indistintamente las medidas de la MBA y las PL evacuadoras de la criptococosis.
+
+#### 8.2.2. Hidrocefalia
+
+SEN 2025 describe la obstrucción de las cisternas basales por el exudado inflamatorio (cap. 40, §1.6), pero no detalla aquí las modalidades de drenaje. **Valorar Neurocirugía cuando la hidrocefalia es clínicamente relevante** (ESCMID 2016, tabla 4.5):
+
+- **Obstructiva**: **drenaje ventricular externo** (Mensa 2026, extracto aportado por el usuario; ESCMID 2016). No debe condicionarse a que antes fracase un coma barbitúrico.
+- **Comunicante**: pueden considerarse **PL repetidas o drenaje lumbar externo** (Mensa 2026, extracto aportado por el usuario; ESCMID 2016), tras valorar las contraindicaciones y la seguridad de la vía lumbar (§4.2). *ESCMID las contempla en pacientes despiertos que puedan monitorizarse clínicamente y advierte que pueden no ser necesarias.*
+
+#### 8.2.3. Crisis epilépticas
+
+La **SEN 2025** describe crisis por inflamación cortical, algo más frecuentes en la meningitis neumocócica, y considera las crisis precoces o el estado epiléptico factores de mal pronóstico (cap. 40, §§1.4 y 1.6). **El apartado de MBA de SEN no establece una pauta específica de tratamiento ni se pronuncia específicamente a favor o en contra de la profilaxis antiepiléptica.**
+
+_**Aclaración atribuida a Mensa 2026, extracto aportado por el usuario:** en meningitis neumocócica propone **considerar** profilaxis, no administrarla de forma universal. Las pautas reseñadas son **levetiracetam 20 mg/kg IV en 15 min, seguido de 500 mg cada 12 h** (el fragmento no explicita la vía de mantenimiento), o **fenitoína (difenilhidantoína), carga de 18 mg/kg en solución salina a 50 mg/min**, reduciendo la velocidad a **25 mg/min en ancianos o con cardiopatía**, seguida de **2 mg/kg IV cada 8 h**. No se especifica duración de la profilaxis. Son pautas del extracto de Mensa, no de SEN; su transcripción no constituye validación farmacológica independiente. **Discrepancia:** ESCMID 2016 desaconseja la profilaxis rutinaria (grado D); esa recomendación no se atribuye a SEN._
 
 ### 8.3. Complicaciones del adulto (ESCMID 2016, tabla 4.5)
 
 | Complicación | Frecuencia | Actuación |
 |---|---|---|
-| Crisis | 17 % | TC o RM; EEG si no son evidentes; antiepilépticos |
 | Infarto isquémico | 14-25 % | TC o RM; sin tratamiento específico |
 | Sepsis grave | 15 % | Buscar otros focos (neumonía, endocarditis); manejo de la sepsis y UCI |
 | **Hipoacusia** | **17-22 %** | Audiometría; implante coclear |
-| Hidrocefalia | 3-5 % | Drenaje ventricular externo si es relevante |
+| Hidrocefalia | 3-5 % | Valoración de drenaje si es clínicamente relevante; modalidades en §8.2.2 |
 | Hemorragia cerebral | 3 % | Valorar neurocirugía |
 | Empiema subdural | 3 % | Valorar neurocirugía |
 | Absceso cerebral | 2 % | Valorar neurocirugía |
 | Trombosis de senos | 1 % | Sin tratamiento de eficacia demostrada |
 
-*Otras complicaciones (SEMES 2012): shock séptico, síndrome de Waterhouse-Friderichsen, CID, SIADH, SDRA y parálisis de pares craneales. De la PL: cefalea pospunción, hematoma, hemorragia, infección y herniación. La SEN 2025 explica el mecanismo de las principales: crisis por inflamación cortical, infartos por arteritis oclusiva, hidrocefalia por obstrucción de las cisternas basales por el exudado y edema cerebral difuso; y añade la hiponatremia por SIADH.*
+*Otras complicaciones (SEMES 2012): shock séptico, síndrome de Waterhouse-Friderichsen, CID, SIADH, SDRA y parálisis de pares craneales. La SEN 2025 explica el mecanismo de las principales: crisis por inflamación cortical, infartos por arteritis oclusiva, hidrocefalia por obstrucción de las cisternas basales por el exudado y edema cerebral difuso; y añade la hiponatremia por SIADH. Crisis epilépticas: §8.2.3; complicaciones de la PL: [capítulo 8](08_Complicaciones_puncion_lumbar.md).*
+
+*Mensa 2026, extracto aportado por el usuario: el empiema subdural o el absceso cerebral suelen requerir intervención quirúrgica. Para su manejo específico, ver [absceso cerebral](04_Absceso_cerebral.md) e [infecciones parameníngeas](05_Infecciones_parameningeas_medulares.md), con sus pautas y jerarquías propias.*
 
 ## 9. CRITERIOS DE INGRESO
 
@@ -335,7 +365,7 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 - **CIPROFLOXACINO 500 mg VO en dosis única** (en >16 años; *no recomendable en la embarazada*), o
 - **CEFTRIAXONA 250 mg IM en dosis única** (**de elección en la embarazada**; 125 mg en <16 años).
 - **RIFAMPICINA 600 mg VO cada 12 h durante 2 días** (SEN 2025; ESCMID; SEMES 2012). *En el embarazo, solo a partir del primer trimestre (SEN 2025; ESCMID; la SEMES 2012 la contraindicaba en toda la gestación). La SEMES 2012 la contraindica también en la hepatopatía grave, el alcoholismo, la porfiria, la hipersensibilidad a la rifampicina y si se toman anticonceptivos orales.*
-- **El propio paciente**: si se ha tratado con **penicilina**, necesita una pauta erradicadora antes del alta; **si ha recibido ceftriaxona IV, no** (ESCMID).
+- **El propio paciente**: si se ha tratado con **penicilina**, necesita una pauta erradicadora antes del alta; **si ha recibido ceftriaxona IV, no** (ESCMID). *Mensa 2026, extracto aportado por el usuario, coincide en que la penicilina no elimina N. meningitidis de la faringe.*
 
 *Evidencia (resumida por la ESCMID): según la revisión Cochrane, **ceftriaxona, rifampicina y ciprofloxacino son los más eficaces** para prevenir casos secundarios y erradicar el meningococo de la nasofaringe. El riesgo de enfermedad meningocócica de los contactos cercanos está multiplicado por **400-800**, sobre todo en los convivientes.*
 
@@ -345,6 +375,7 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 
 ## 11. ESTUDIO DE PREDISPOSICIÓN, VACUNACIÓN Y SEGUIMIENTO
 
+- **Foco ORL crónico**: tras la curación del episodio agudo, **considerar la necesidad de tratamiento quirúrgico** de mastoiditis, otitis media o sinusitis crónicas como posible origen de la meningitis (Mensa 2026, extracto aportado por el usuario).
 - **Preguntar** por traumatismo craneal, cirugía o fístula de LCR, vacunación y fármacos inmunosupresores, incluidos los **inhibidores del complemento** (NICE 1.10.5).
 - **Meningitis recurrente**: pedir valoración radiológica especializada para buscar una fístula de LCR, hacer serología de VIH y estudiar la inmunidad (NICE 1.14).
 - **Vacuna antineumocócica tras una meningitis neumocócica** y en la fístula de LCR, junto con la reparación de la duramadre (ESCMID, grado B). En la fístula, valorar también vacunar frente a Hib y meningococo.
@@ -352,10 +383,11 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 - **AUDIOMETRÍA durante el ingreso** (ESCMID, grado A), o en las **4 semanas siguientes** a que el paciente esté en condiciones de hacerla, preferiblemente antes del alta (NICE 1.12.7). Si hay hipoacusia, derivar **de forma urgente** a ORL de un centro con implante coclear: actuar pronto evita que la cóclea se osifique y deje de servir el implante (ESCMID).
 - **Revisión por un médico del hospital a las 4-6 semanas del alta** (NICE 1.13.2), y **revisión de los antiepilépticos a los 3 meses** si los toma (NICE 1.12.4).
 - **Evaluación neuropsicológica** solo si se sospecha deterioro cognitivo (ESCMID, grado B). Informar al paciente de las posibles secuelas: dificultad de concentración, enlentecimiento y problemas de memoria (ESCMID).
+- **Secuelas persistentes**: SEN 2025 recoge secuelas auditivas o vestibulares y alteraciones cognitivas tardías. *Mensa 2026, extracto aportado por el usuario, enumera pérdida auditiva, déficits focales, secuelas psicológicas y neurocognitivas, crisis, hidrocefalia, trastornos del habla y alteraciones visuales. Aproximadamente el **30 % de los adultos supervivientes** presenta déficit focal, hipoacusia, epilepsia o deterioro cognitivo que persiste **>3 meses tras el alta**. Es una estimación de secuelas, no un plazo para demorar el seguimiento. La recomendación de estudios auditivos poscuración que el extracto formula para el niño no se extrapola: la audiometría del adulto se fundamenta arriba en ESCMID y NICE.*
 
 ## 12. NOTAS PARA EL CONTEXTO ESPAÑOL Y EUROPEO
 
-- **VANCOMICINA EMPÍRICA: SÍ EN ESPAÑA.** La ESCMID adapta el tratamiento empírico a la resistencia local y sitúa a **España (con Francia y Rumanía) entre los países con un 20-50 % de neumococos con sensibilidad disminuida a penicilina**, frente a <1 % en Países Bajos, Inglaterra, Dinamarca o Alemania (ECDC 2011). La **SEMES 2012** ya indicaba añadir vancomicina donde hay muchas resistencias a penicilinas y C3G, la **SEN 2025** la justifica por la frecuencia creciente del neumococo resistente. La **NICE** no la incluye porque en Reino Unido la resistencia es baja. *Las cuatro fuentes no aportan datos españoles de resistencia más recientes que los del ECDC de 2011. El dato local de 2024 (12 % de neumococos no sensibles a la cefotaxima con el punto de corte de meningitis; 0 % de resistencia a la vancomicina) va en la misma dirección.*
+- **VANCOMICINA EMPÍRICA: SÍ EN ESPAÑA.** La ESCMID adapta el tratamiento empírico a la resistencia local y sitúa a **España (con Francia y Rumanía) entre los países con un 20-50 % de neumococos con sensibilidad disminuida a penicilina**, frente a <1 % en Países Bajos, Inglaterra, Dinamarca o Alemania (ECDC 2011). La **SEMES 2012** ya indicaba añadir vancomicina donde hay muchas resistencias a penicilinas y C3G, la **SEN 2025** la justifica por la frecuencia creciente del neumococo resistente. La **NICE** no la incluye porque en Reino Unido la resistencia es baja. *Las fuentes con datos de resistencia no aportan cifras españolas más recientes que los del ECDC de 2011. El dato local de 2024 (12 % de neumococos no sensibles a la cefotaxima con el punto de corte de meningitis; 0 % de resistencia a la vancomicina) va en la misma dirección.*
 - **Penicilina**: solo como tratamiento dirigido si la **CMI de penicilina es <0,1 µg/mL** (ESCMID).
 - **Dosis de cefotaxima**: 2 g cada 4-6 h (ESCMID); 2-3 g cada 6 h si el neumococo es resistente a C3G (ESCMID).
 - **TC antes de la PL**: la **SEN 2025** la mantiene como recomendable pero **solo obligatoria con criterios**, más cerca de la ESCMID y la NICE, que la restringen porque retrasa el antibiótico. Si se hace, **antibiótico primero**.
@@ -383,8 +415,11 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
 2. ***Carod Artal FJ. Infecciones víricas. En: Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Cap. 42, p. 643-657.***
    — ***Nivel 1.*** *Aporta el perfil de LCR de las infecciones víricas, la indicación de aciclovir empírico ante sospecha de encefalitis y las limitaciones de la PCR inicial.*
 
-3. ***van de Beek D, Cabellos C, Dzupova O, Esposito S, Klein M, Kloek AT, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-62.*** PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007)
-   — ***Nivel 2: complementa lo que la SEN 2025 no detalla.*** *Guía europea del grupo de estudio de infecciones cerebrales de la ESCMID, con un coautor español (Hospital de Bellvitge). Hace revisión sistemática de la literatura (1966-2014) y gradúa la evidencia (niveles 1-3) y las recomendaciones (grados A-D); no usa GRADE. Aporta:*
+3. ***Mensa 2026, extracto aportado por el usuario.***
+   — ***Nivel 2, solo en los apartados de esta revisión.*** *Dos extractos, sin acceso a la guía completa ni páginas o grados disponibles. Completa vasculopatía retardada, HTIC, hidrocefalia, foco ORL y secuelas. En crisis, su propuesta de considerar profilaxis neumocócica y las pautas quedan únicamente como aclaración en cursiva. Hb y coma barbitúrico se reseñan como pendientes, no como pautas operativas. Las complicaciones de PL se desarrollan en el [capítulo 8](08_Complicaciones_puncion_lumbar.md) y la HTIC criptocócica en el [capítulo 7](07_Infecciones_fungicas_parasitarias.md#311-hipertensión-intracraneal-criptocócica).*
+
+4. ***van de Beek D, Cabellos C, Dzupova O, Esposito S, Klein M, Kloek AT, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-62.*** PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007)
+   — ***Nivel 3 en esta revisión: complementa lo que SEN y los extractos de Mensa no concretan.*** *Guía europea del grupo de estudio de infecciones cerebrales de la ESCMID, con un coautor español (Hospital de Bellvitge). Hace revisión sistemática de la literatura (1966-2014) y gradúa la evidencia (niveles 1-3) y las recomendaciones (grados A-D); no usa GRADE. Aporta:*
    - *Ecología europea: etiología del adulto y sensibilidad disminuida del neumococo a penicilina del 20-50 % en España (ECDC 2011).*
    - *Rendimiento de la clínica y de las pruebas: tríada, signos meníngeos, petequias, hemocultivos, Gram, cultivo, PCR, lactato y látex.*
    - *Criterios de TC antes de la PL y antibiótico en <1 h (grado A).*
@@ -393,8 +428,8 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
    - *Adyuvantes contraindicados o no recomendados (glicerol, hipotermia, manitol, antiepilépticos profilácticos).*
    - *Complicaciones del adulto con su frecuencia, profilaxis de contactos (resume la Cochrane de profilaxis), vacunación, audiometría y seguimiento cognitivo.*
 
-4. ***National Institute for Health and Care Excellence (NICE). Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NICE guideline NG240. Londres: NICE; 19 de marzo de 2024.***
-   — ***Nivel 3: la guía más reciente y la única con metodología GRADE.*** *Se cita con el número de cada recomendación. Aporta:*
+5. ***National Institute for Health and Care Excellence (NICE). Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NICE guideline NG240. Londres: NICE; 19 de marzo de 2024.***
+   — ***Nivel 4 en esta revisión; metodología GRADE.*** *Se cita con el número de cada recomendación. Aporta:*
    - *La combinación de alarma, las presentaciones atípicas y las causas alternativas.*
    - *Los tiempos: antibiótico en <1 h, antibiótico prehospitalario.*
    - *Las contraindicaciones de la PL, las pruebas en sangre (PCR de meningococo y neumococo, VIH en todos los adultos, frotis faríngeo) y la disponibilidad del LCR en <4 h.*
@@ -403,11 +438,11 @@ Ajustar según el **Gram, la PCR múltiple, el cultivo y el antibiograma** (ESCM
    - *La preparación del alta: audiometría en 4 semanas, revisión a las 4-6 semanas, meningitis recurrente.*
    - *Su apartado de justificaciones resume la evidencia revisada. **No incluye vancomicina empírica**, por la baja resistencia del neumococo en Reino Unido: no es aplicable a España en ese punto.*
 
-5. ***Julián Jiménez A, Parejo Míguez R, López Ramos I. Meningitis. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 18, p. 145-157.***
-   — ***Nivel 4: estructura de actuación en urgencias y lo que las guías superiores no tratan.*** *Aporta:*
+6. ***Julián Jiménez A, Parejo Míguez R, López Ramos I. Meningitis. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 18, p. 145-157.***
+   — ***Nivel 5 en esta revisión: estructura de urgencias y aspectos no cubiertos por las fuentes superiores.*** *Aporta:*
    - *Epidemiología española (incidencia de 4-8/100.000, mortalidad de hasta el 18-25 %) y etiología en situaciones especiales.*
    - *Valores normales del LCR, LCR normal en fases precoces y corrección de la PL traumática.*
    - *Criterios de ingreso, UCI y observación (repetir la PL a las 8-12 h; observación tras la PL).*
    - *Aislamiento respiratorio, definición de los contactos y profilaxis frente a meningococo y Hib.*
-   - *Medidas de soporte: pauta de manitol, corticoides en el shock con insuficiencia suprarrenal.*
+   - *Medidas de soporte no sustituidas por las fuentes superiores y corticoides en el shock con insuficiencia suprarrenal. La pauta de manitol de SEMES se ha sustituido por la del extracto de Mensa; se ha retirado su dosis problemática de paracetamol.*
    - *Desactualizado en: TC en todos los >50 años, no dar dexametasona si ya hay antibiótico, rifampicina contraindicada en todo el embarazo, rifampicina añadida a la vancomicina si se da dexametasona, aislamiento de toda sospecha de MBA y profilaxis de Hib limitada a los domicilios con niños pequeños no vacunados.*

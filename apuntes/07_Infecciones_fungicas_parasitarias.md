@@ -92,8 +92,16 @@ Las infecciones fúngicas y parasitarias del SNC son **raras en nuestro medio, p
   - **Si no hay ni anfotericina liposomal ni flucitosina**: anfotericina B desoxicolato 1 mg/kg/día + fluconazol 1.200 mg/día.
   - En todas, consolidación y mantenimiento con fluconazol como en la tabla. *La pauta clásica era anfotericina B + flucitosina al menos 2 semanas en la inducción; por su toxicidad y la falta de recursos en muchas zonas, se ha demostrado la eficacia de una dosis única de anfotericina B seguida de flucitosina y fluconazol (SEN 2025). La anfotericina B liposomal tiene mejor perfil de seguridad que la desoxicolato.*
   - *La tabla de la OMS es para pacientes con VIH; la SEN 2025 no da una pauta distinta para los demás. Consultar con Infecciosas.*
-- **NO DAR CORTICOIDES**: se han asociado a más complicaciones (SEN 2025).
-- **TRATAR LA HTIC DE FORMA AGRESIVA**, porque empeora el pronóstico: **punciones lumbares evacuadoras repetidas** y, si hace falta, **drenaje ventricular** (SEN 2025).
+
+#### 3.1.1. Hipertensión intracraneal criptocócica
+
+- **TRATAR LA HTIC DE FORMA AGRESIVA**, porque empeora el pronóstico: **punciones lumbares evacuadoras repetidas** y, si hace falta, **drenaje ventricular** (SEN 2025, cap. 43, p. 661).
+- **NO DAR CORTICOIDES**: se han asociado a más complicaciones (SEN 2025, p. 661). *Mensa 2026, extracto aportado por el usuario, añade que esta HTIC no responde al tratamiento con corticoides.*
+- **Objetivo de presión aportado por Mensa**: realizar PL sucesivas para mantener la **presión del LCR <20 cm H₂O** (Mensa 2026, extracto aportado por el usuario). *SEN 2025 no concreta este objetivo numérico. El fragmento no especifica volumen por extracción ni intervalo fijo entre PL; no se completan por analogía. Su incorporación es fiel al extracto, sin acceso a la guía Mensa completa.*
+
+**Valorar previamente la seguridad de la vía lumbar**, especialmente si se sospechan lesiones intracraneales o hidrocefalia (SEN 2025, p. 661; diagnóstico en §3.1). El manejo de esta HTIC es específico y no debe intercambiarse con el de la [meningitis bacteriana](01_Meningitis_bacteriana.md#821-hipertensión-intracraneal-en-la-mba). Véanse también las [complicaciones de la PL](08_Complicaciones_puncion_lumbar.md).
+
+*La incorporación de Mensa a este capítulo se limita a este apartado de HTIC criptocócica, con SEN como referencia principal. Los antifúngicos y los demás apartados conservan sus fuentes previas.*
 
 ### 3.2. *Candida*
 
@@ -275,3 +283,6 @@ Por *Trichinella* (sobre todo *T. spiralis*) en **carne de cerdo poco cocinada**
 
 3. ***Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Caps. 19 (Encefalitis), 20 (Absceso cerebral) y 22 (Infecciones medulares).***
    — ***Nivel 4 (uso puntual).*** *Aporta la gota gruesa en el viajero con encefalitis, las dosis de la pauta de toxoplasmosis (sulfadiazina, clindamicina, pirimetamina, ácido folínico; con una probable errata en la pirimetamina) y las opciones antifúngicas en las infecciones medulares.*
+
+4. ***Mensa 2026, extracto aportado por el usuario.***
+   — *Uso limitado a HTIC criptocócica (§3.1.1), por debajo de SEN 2025: presión del LCR <20 cm H₂O mediante PL sucesivas y ausencia de respuesta a corticoides. Sin acceso a la obra completa, páginas ni grados de recomendación.*

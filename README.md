@@ -4,9 +4,9 @@ Apuntes de **infecciones del sistema nervioso central (SNC) para urgencias**, ce
 
 > **Aviso**: son apuntes de estudio, no un protocolo asistencial. No sustituyen al juicio clínico ni a los protocolos y la epidemiología de cada centro. Comprueba siempre las dosis (y su ajuste a la función renal) antes de prescribir.
 
-## Fuentes: solo cuatro, en pirámide
+## Fuentes y jerarquía
 
-Todo dato se atribuye a una de estas cuatro fuentes. Ante una discrepancia **manda la situada más arriba**; lo que una fuente superior no trata se toma de la siguiente, y la discrepancia se anota en *cursiva*.
+Todo dato se atribuye a una fuente autorizada. Ante una discrepancia **manda la situada más arriba**; lo que una fuente superior no concreta puede completarse con la siguiente, sin atribuir a la primera lo que no dice. La discrepancia se anota en *cursiva*. Esta es la jerarquía general:
 
 | Nivel | Fuente | Por qué ocupa ese nivel |
 |---|---|---|
@@ -15,9 +15,11 @@ Todo dato se atribuye a una de estas cuatro fuentes. Ante una discrepancia **man
 | **3** | **NICE NG240 (2024)**: meningitis bacteriana y enfermedad meningocócica | Guía con metodología GRADE; reconocimiento, tiempos, pruebas, alta y seguimiento |
 | **4** | **SEMES 2012**: *Manejo de Infecciones en Urgencias*, caps. 18-23 | Estructura de actuación en urgencias y lo que no cubren las otras tres |
 
+**Revisión con Mensa (05/10/2026):** en los apartados revisados de meningitis bacteriana, las complicaciones de PL y la HTIC criptocócica se aplica **SEN 2025 → Mensa 2026 → ESCMID 2016 → NICE NG240 → SEMES 2012**. Solo se dispone de **Mensa 2026, extracto aportado por el usuario** (dos fragmentos); no se ha leído la guía completa. En **crisis epilépticas**, el texto principal se limita a SEN y la propuesta de Mensa de considerar profilaxis neumocócica queda en cursiva. El alcance y los datos pendientes constan en [FUENTES, §9](apuntes/FUENTES.md#9-revisión-con-los-extractos-de-mensa-2026). El resto de los capítulos conserva su jerarquía, incluida la prioridad de ESCMID 2024 en absceso cerebral.
+
 **Ecología local (fuera de la pirámide).** Donde las fuentes piden adaptar la pauta a la resistencia local, los capítulos añaden en *cursiva*, con la etiqueta **(ecología local 2024)**, porcentajes de resistencia locales de 2024. No son recomendaciones ni cambian la pirámide: ayudan a ver qué deja sin cubrir cada pauta y a elegir entre las opciones que ya dan las fuentes. Reglas y limitaciones en [`apuntes/FUENTES.md`](apuntes/FUENTES.md) (§8).
 
-Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro fuentes, y se citan a través de ella. La evaluación completa de las fuentes, los capítulos de la SEN 2025 con sus autores, las discrepancias ya resueltas, los puntos de la SEMES 2012 que han quedado superados, las posibles erratas detectadas en la SEN 2025 y los documentos revisados pero descartados (entre ellos, las guías IDSA) están en [`apuntes/FUENTES.md`](apuntes/FUENTES.md).
+Los estudios primarios solo aparecen cuando los recoge alguna de las fuentes autorizadas, y se citan a través de ella. La evaluación de las fuentes, los capítulos de SEN 2025 con sus autores, las discrepancias, las posibles erratas y los documentos descartados están en [`apuntes/FUENTES.md`](apuntes/FUENTES.md).
 
 ## Contenido
 
@@ -30,6 +32,7 @@ Los estudios primarios solo aparecen cuando los recoge alguna de las cuatro fuen
 | 5 | [Infecciones parameníngeas y medulares](apuntes/05_Infecciones_parameningeas_medulares.md) | ✅ Redactado |
 | 6 | [Infecciones de derivaciones de LCR y meningitis posneuroquirúrgica](apuntes/06_Derivaciones_LCR_posneuroquirurgica.md) | ✅ Redactado |
 | 7 | [Infecciones fúngicas y parasitarias del SNC](apuntes/07_Infecciones_fungicas_parasitarias.md) | ✅ Redactado |
+| 8 | [Complicaciones de la punción lumbar en el adulto](apuntes/08_Complicaciones_puncion_lumbar.md) | ✅ Redactado |
 
 El contenido clave de cada capítulo y qué fuentes lo cubren se detallan en el índice: [`apuntes/00_INDICE.md`](apuntes/00_INDICE.md).
 
@@ -47,7 +50,8 @@ El contenido clave de cada capítulo y qué fuentes lo cubren se detallan en el 
 │   ├── 04_Absceso_cerebral.md
 │   ├── 05_Infecciones_parameningeas_medulares.md
 │   ├── 06_Derivaciones_LCR_posneuroquirurgica.md
-│   └── 07_Infecciones_fungicas_parasitarias.md
+│   ├── 07_Infecciones_fungicas_parasitarias.md
+│   └── 08_Complicaciones_puncion_lumbar.md
 └── plantillas/
     ├── GUIA_DE_ESTILO.md               # Estructura fija y convenciones de formato
     └── EJEMPLO_NAC_IDSA_SEMES.md       # Modelo original (NAC) del que se extrajo el estilo
@@ -67,12 +71,13 @@ Cada capítulo sigue la estructura fija de la [guía de estilo](plantillas/GUIA_
 ## Cómo añadir un capítulo
 
 1. Crear `apuntes/NN_Nombre_del_capitulo.md` siguiendo la [guía de estilo](plantillas/GUIA_DE_ESTILO.md): título con `#`, secciones numeradas con `##` y subapartados con `###`; tablas Markdown y nada de HTML.
-2. Usar solo las cuatro fuentes de la pirámide y atribuir cada dato. Si dos fuentes discrepan, aplicar la pirámide y dejar la discrepancia anotada en *cursiva*. Si la resistencia local es pertinente, añadirla en *cursiva* como **(ecología local 2024)**, sin que cambie la pauta (reglas en `FUENTES.md`, §8).
-3. Cerrar con las **referencias**: cita completa en negrita-cursiva (PMID y DOI cuando existan) y, debajo, qué nivel ocupa cada fuente y qué aporta al capítulo.
+2. Usar las fuentes autorizadas para ese ámbito y atribuir cada dato. Mensa solo puede usarse en los apartados de la revisión descrita, sin extrapolar sus fragmentos a otros capítulos. Si dos fuentes discrepan, aplicar la jerarquía y dejar la discrepancia en *cursiva*. Si la resistencia local es pertinente, añadirla en *cursiva* como **(ecología local 2024)** (reglas en `FUENTES.md`, §8).
+3. Cerrar con las **referencias**: cita completa en negrita-cursiva cuando esté disponible (PMID y DOI cuando existan), y qué aporta cada fuente. Para Mensa, usar exclusivamente **«Mensa 2026, extracto aportado por el usuario»**, sin inventar páginas, grados ni bibliografía completa.
 4. Actualizar el estado en [`apuntes/00_INDICE.md`](apuntes/00_INDICE.md) y en la tabla de contenido de este README, y registrar en [`apuntes/FUENTES.md`](apuntes/FUENTES.md) las discrepancias nuevas que se hayan resuelto.
 
 ## Limitaciones conocidas
 
+- **Mensa 2026**: acceso limitado a dos extractos. La unidad de Hb y la validez de ese objetivo, así como el fármaco, pauta y umbral/unidades del coma barbitúrico, siguen pendientes; no son pautas operativas validadas. La observación de vitamina B6 y ácido fólico es solo experimental en animales.
 - La **SEMES 2012** está desactualizada en varios puntos; los que ya se han detectado están listados en `FUENTES.md`.
 - La **SEN 2025** es un manual formativo, sin grados de recomendación, y su bibliografía se consultó en 2023: no incorpora la ESCMID 2024 ni la NICE 2024. Tiene algunas ambigüedades y posibles erratas (intervalos que faltan, una dosis baja de cloxacilina, la tuberculosis sin etambutol de entrada), señaladas en cada capítulo y listadas en `FUENTES.md`.
 - La **ESCMID 2016** no usa GRADE (niveles de evidencia 1-3 y grados A-D).
