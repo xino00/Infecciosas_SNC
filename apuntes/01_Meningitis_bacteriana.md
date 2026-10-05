@@ -130,9 +130,18 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 | Glucosa | **<45 mg/dL o <40 % de la glucemia simultánea** | Normal o ligeramente disminuida |
 | Proteínas | **>50 mg/dL** | **40-120 mg/dL** |
 
-*Fuente: SEN 2025, cap. 40, §1.5, p. 622, y cap. 42, §5.1, pp. 651-652. Son perfiles orientativos, con solapamiento. \*En fases precoces de infección vírica puede haber LCR normal o predominio neutrofílico; con Listeria el LCR puede ser linfocitario. Ver capítulo 2.*
+*Son perfiles orientativos, con solapamiento. \*En fases precoces de infección vírica puede haber LCR normal o predominio neutrofílico; con Listeria el LCR puede ser linfocitario. Ver capítulo 2.*
 
-**Perfil de la MBA según la SEN 2025**: presión de apertura **>20 cm H₂O**, **100-1.000 células/µL** de predominio polinuclear, **glucosa <45 mg/dL o <40 % de la glucemia** y **proteínas >50 mg/dL**, presentes en más del 90 % de los pacientes. **Hacen especialmente probable la MBA**: glucosa <45 mg/dL, **proteínas >220 mg/dL** y **>2.000 células/µL** (o >1.180 polinucleares/µL). *Con Listeria el LCR puede ser linfocitario (SEN 2025).*
+**Perfil de la MBA según la SEN 2025**
+
+| Parámetro | Perfil habitual | Datos que hacen especialmente probable la MBA |
+|---|---|---|
+| **Presión de apertura** | **>20 cm H₂O** | — |
+| **Leucocitos en el LCR** | **100-1.000 células/µL**, de predominio polinuclear | **>2.000 células/µL** o **>1.180 polinucleares/µL** |
+| **Glucosa** | **<45 mg/dL o <40 % de la glucemia simultánea** | **<45 mg/dL** |
+| **Proteínas** | **>50 mg/dL** | **>220 mg/dL** |
+
+*La SEN describe este perfil en más del 90 % de los pacientes. Con **Listeria**, el LCR puede ser linfocitario. Fuente: SEN 2025, cap. 40, §1.5, p. 622.*
 
 **Rendimiento de las pruebas del LCR** (ESCMID 2016, salvo donde se indica):
 
@@ -145,11 +154,9 @@ La **meningitis bacteriana aguda (MBA)** se produce habitualmente por **coloniza
 | **Antígeno neumocócico** (SEN 2025) | Sensibilidad y especificidad del 95-99 %, con falsos negativos | *La SEN 2025 no precisa la técnica* |
 | **Aglutinación con látex** | **No recomendada** | No aporta nada si hay Gram |
 
-*La SEN 2025 da dos datos sobre el cultivo difíciles de conciliar: que el rendimiento del cultivo y del Gram "se mantiene durante las primeras 24 horas" tras empezar el antibiótico y que, con antibiótico previo, el cultivo desciende "a un 10-20 %". La ESCMID habla de una reducción del 10-20 %. La conclusión práctica es la misma: cultivos antes del antibiótico, pero sin retrasarlo por la PL.*
+*El cultivo y el Gram pueden seguir siendo útiles tras iniciar el antibiótico, aunque el tratamiento previo reduce el rendimiento del cultivo (SEN 2025, p. 622; ESCMID 2016). Obtener los cultivos antes del antibiótico, pero sin retrasarlo por la PL.*
 
 - *Un LCR completamente normal es muy raro pero existe (ESCMID): el 17 % de las neumocócicas tiene <100 células/mm³, el 19 % de las meningocócicas <1.000 (sobre todo si hay shock séptico) y **en la meningitis por *Listeria* el LCR no es típico de MBA en el 26 %**. La SEMES 2012 cifra en hasta un 5 % las MBA con LCR "normal" en fases precoces.*
-- **Ante sospecha clínica con un LCR no concluyente: ingreso en observación y repetir la PL a las 8-12 h**, cubriendo empíricamente mientras tanto (SEMES 2012).
-- **PL traumática** (SEMES 2012, p. 150): si el hemograma es normal, restar **1 leucocito por cada 700 hematíes**; si está alterado, usar la fórmula de corrección con los recuentos de sangre y LCR (capítulo 2).
 - *Si el LCR es anormal, hay que considerar también causas víricas, micobacterianas, fúngicas o no infecciosas (NICE 1.4.19).*
 
 ### 5.3. Neuroimagen
@@ -197,38 +204,40 @@ Cubrir neumococo y meningococo (+ *H. influenzae* en la fractura de base de crá
 
 *Es meningitis asociada a cuidados sanitarios (ver capítulo 6).*
 
-**---> PRIMERA ELECCIÓN** (SEN 2025, tabla 5): **VANCOMICINA 15 mg/kg IV cada 8-12 h + CEFTAZIDIMA 2 g IV cada 8 h, CEFEPIMA 2 g IV cada 8 h o MEROPENEM 2 g IV cada 8 h**. Si hay alergia a betalactámicos: **AZTREONAM 2 g IV cada 6-8 h** (SEN 2025) o **CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEN 2025) en lugar del betalactámico. *La SEMES 2012 coincide (vancomicina + cefepima; alternativa vancomicina + meropenem). Duración, retirada de dispositivos y alternativas a la vancomicina: capítulo 6.*
+**---> PRIMERA ELECCIÓN** (SEN 2025, tabla 5)
+
+| Componente | Pauta |
+|---|---|
+| **Base** | **VANCOMICINA 15 mg/kg IV cada 8-12 h** |
+| **Añadir UNO** | **CEFTAZIDIMA 2 g IV cada 8 h**<br>o **CEFEPIMA 2 g IV cada 8 h**<br>o **MEROPENEM 2 g IV cada 8 h** |
+| **Si hay alergia a betalactámicos** | Sustituir el betalactámico por **UNO**:<br>**AZTREONAM 2 g IV cada 6-8 h**<br>o **CIPROFLOXACINO 400 mg IV cada 8-12 h** (SEN 2025) |
+
+*La SEMES 2012 coincide (vancomicina + cefepima; alternativa vancomicina + meropenem). Duración, retirada de dispositivos y alternativas a la vancomicina: capítulo 6.*
 
 ### 6.5. ¿Aciclovir empírico?
 
 **NO DAR ACICLOVIR DE RUTINA ante toda sospecha de MBA**; la NICE lo reserva para una **sospecha fuerte de encefalitis por VHS** (1.6.7).
 
-**---> SI HAY SOSPECHA DE ENCEFALITIS VÍRICA:** iniciar **ACICLOVIR 10 mg/kg IV cada 8 h** mientras se estudia la etiología (SEN 2025, cap. 42, §8; dosis también recogida por SEMES 2012). Valorar alteración del estado mental, crisis, focalidad y los hallazgos de LCR o neuroimagen. **Una PCR inicial negativa no basta para suspenderlo si persiste una sospecha alta**: ver los criterios de repetición y retirada en el capítulo 3 (SEN 2025, cap. 42, §5.1).
-
-*La SEMES 2012 también lo añade si hay duda entre meningitis vírica y meningoencefalitis.*
+**---> SI HAY SOSPECHA DE ENCEFALITIS VÍRICA:** iniciar **ACICLOVIR 10 mg/kg IV cada 8 h** mientras se estudia la etiología. Valorar alteración del estado mental, crisis, focalidad y los hallazgos de LCR o neuroimagen. **Una PCR inicial negativa no basta para suspenderlo si persiste una sospecha alta**: ver los criterios de repetición y retirada en el capítulo 3.
 
 ### 6.6. Dosis y penetración en el LCR (SEN 2025, tabla 4)
 
-| Antibiótico | Dosis diaria del adulto (intervalo) | Penetración en el LCR* |
+| Antibiótico | Dosis diaria del adulto (intervalo) | Penetración en el LCR (%)* |
 |---|---|---|
-| Ampicilina | 12-15 g/día (cada 4-6 h) | ++ |
-| Ceftriaxona | 4 g/día (cada 12 h) | +++ |
-| Cefotaxima | 12 g/día (cada 4 h) | +++ |
-| Ceftazidima | 6 g/día (cada 8 h) | +++ |
-| Cefepima | 4-6 g/día (cada 8-12 h) | +++ |
-| Cloxacilina | 4-6 g/día (cada 4-6 h) ⚠️ | +++ |
-| Gentamicina | 6 mg/kg/día (cada 8 h) | + |
-| Linezolid | 1.200 mg/día (cada 12 h) | ++++ |
-| Meropenem | 6 g/día (cada 8 h) | ++/+++ |
-| Metronidazol | 1.500-2.000 mg/día (cada 8 h) | ++++ |
-| Cotrimoxazol | 15-20 mg/kg/día de trimetoprim (cada 8 h) | ++++ |
-| Vancomicina | 2-3 g/día (cada 6-12 h) | +++ |
+| Ampicilina | 12-15 g/día (cada 4-6 h) | 5-10 % |
+| Ceftriaxona | 4 g/día (cada 12 h) | 11-19 % |
+| Cefotaxima | 12 g/día (cada 4 h) | 11-19 % |
+| Ceftazidima | 6 g/día (cada 8 h) | 11-19 % |
+| Cefepima | 4-6 g/día (cada 8-12 h) | 11-19 % |
+| Cloxacilina | 4-6 g/día (cada 4-6 h) ⚠️ | 11-19 % |
+| Gentamicina | 6 mg/kg/día (cada 8 h) | <5 % |
+| Linezolid | 1.200 mg/día (cada 12 h) | ≥20 % |
+| Meropenem | 6 g/día (cada 8 h) | 5-10 % / 11-19 % |
+| Metronidazol | 1.500-2.000 mg/día (cada 8 h) | ≥20 % |
+| Cotrimoxazol | 15-20 mg/kg/día de trimetoprim (cada 8 h) | ≥20 % |
+| Vancomicina | 2-3 g/día (cada 6-12 h) | 11-19 % |
 
-*\*Porcentaje del nivel plasmático que se alcanza en el LCR con las meninges inflamadas: + <5 %; ++ 5-10 %; +++ 11-19 %; ++++ ≥20 %. La inflamación meníngea aumenta la permeabilidad de la barrera hematoencefálica y deja pasar fármacos que en condiciones normales apenas penetran, como los betalactámicos (SEN 2025).*
-
-- *Vancomicina: distinguir la tabla general (2-3 g/día cada 6-12 h) de la tabla de meningitis nosocomial (15 mg/kg cada 8-12 h); ambas son de la SEN 2025. La pauta por peso de la ESCMID para MBA comunitaria y su objetivo de concentraciones se indican en §6.1.*
-
-- ⚠️ ***Cloxacilina**: la dosis de la tabla (4-6 g/día) es la mitad o un tercio de la que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g IV cada 4 h, 12 g/día). Dato dudoso: confirmar con Farmacia o Infecciosas.*
+*\*Porcentaje del nivel plasmático que se alcanza en el LCR con las meninges inflamadas. La inflamación meníngea aumenta la permeabilidad de la barrera hematoencefálica y deja pasar fármacos que en condiciones normales apenas penetran, como los betalactámicos (SEN 2025).*
 
 ## 7. TRATAMIENTO DIRIGIDO Y DURACIÓN
 
@@ -344,7 +353,7 @@ _**Aclaración atribuida a Mensa 2026, extracto aportado por el usuario:** en me
 - **Todo paciente con MBA ingresa** (SEMES 2012).
 - **UCI**: deterioro neurológico o **GCS <11**, crisis, **shock séptico**, CID, signos de HTIC o necesidad de intubación y ventilación mecánica (SEMES 2012).
 - **Observación en urgencias** (SEMES 2012):
-  - LCR no concluyente: vigilancia y **repetir la PL a las 8-12 h**.
+  - LCR no concluyente: vigilancia.
   - Síndrome meníngeo sin diagnóstico confirmado, con estabilidad hemodinámica y neurológica.
   - Tras una PL en urgencias, 4-8 h de observación antes del alta, las 2 primeras en decúbito.
 - *Sospecha de meningitis vírica: observación si el diagnóstico es seguro y la situación clínica es buena (SEMES 2012). Si persiste la sospecha de MBA, iniciar el tratamiento empírico sin demoras y consultar con Infecciosas (ESCMID 2016; NICE 1.6.8).*
@@ -410,7 +419,7 @@ _**Aclaración atribuida a Mensa 2026, extracto aportado por el usuario:** en me
    - *Pauta empírica (C3G + vancomicina ± ampicilina), pauta nosocomial con alternativas en la alergia (aztreonam o ciprofloxacino) y tabla de dosis y penetración en el LCR.*
    - *Tratamiento dirigido por germen y duración (14 días en el neumococo; ≥3 semanas en Listeria y gramnegativos).*
    - *Dexametasona mantenida en el neumococo y H. influenzae, aislamiento respiratorio de 24 h en la meningocócica, quimioprofilaxis (rifampicina en el embarazo desde el primer trimestre; Hib al caso índice) y vacunación del adulto.*
-   - *Posibles erratas y datos dudosos: dosis de cloxacilina baja, ampicilina para Hib sin precisar sensibilidad y dos afirmaciones difíciles de conciliar sobre el cultivo con antibiótico previo (ver `FUENTES.md`).*
+   - *Posibles erratas y datos dudosos: dosis de cloxacilina baja y ampicilina para Hib sin precisar sensibilidad (ver `FUENTES.md`).*
 
 2. ***Carod Artal FJ. Infecciones víricas. En: Manual del Residente de Neurología. Sociedad Española de Neurología; 2025. Cap. 42, p. 643-657.***
    — ***Nivel 1.*** *Aporta el perfil de LCR de las infecciones víricas, la indicación de aciclovir empírico ante sospecha de encefalitis y las limitaciones de la PCR inicial.*
@@ -441,8 +450,8 @@ _**Aclaración atribuida a Mensa 2026, extracto aportado por el usuario:** en me
 6. ***Julián Jiménez A, Parejo Míguez R, López Ramos I. Meningitis. En: Julián Jiménez A (coord.). Manejo de Infecciones en Urgencias. Madrid: Edicomplet-SEMES; 2012. Cap. 18, p. 145-157.***
    — ***Nivel 5 en esta revisión: estructura de urgencias y aspectos no cubiertos por las fuentes superiores.*** *Aporta:*
    - *Epidemiología española (incidencia de 4-8/100.000, mortalidad de hasta el 18-25 %) y etiología en situaciones especiales.*
-   - *Valores normales del LCR, LCR normal en fases precoces y corrección de la PL traumática.*
-   - *Criterios de ingreso, UCI y observación (repetir la PL a las 8-12 h; observación tras la PL).*
+   - *Valores normales del LCR y LCR normal en fases precoces.*
+   - *Criterios de ingreso, UCI y observación, también tras la PL.*
    - *Aislamiento respiratorio, definición de los contactos y profilaxis frente a meningococo y Hib.*
    - *Medidas de soporte no sustituidas por las fuentes superiores y corticoides en el shock con insuficiencia suprarrenal. La pauta de manitol de SEMES se ha sustituido por la del extracto de Mensa; se ha retirado su dosis problemática de paracetamol.*
    - *Desactualizado en: TC en todos los >50 años, no dar dexametasona si ya hay antibiótico, rifampicina contraindicada en todo el embarazo, rifampicina añadida a la vancomicina si se da dexametasona, aislamiento de toda sospecha de MBA y profilaxis de Hib limitada a los domicilios con niños pequeños no vacunados.*

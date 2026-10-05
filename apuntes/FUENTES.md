@@ -138,7 +138,6 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 
 *Se señalan en el capítulo correspondiente; ninguna se ha trasladado a los apuntes como dato firme:*
 - *Es anterior a la ESCMID 2024 y a la NICE 2024 (bibliografía consultada en 2023), y es un manual formativo sin grados de recomendación.*
-- *Cultivo del LCR con antibiótico previo: dice que su rendimiento "se mantiene durante las primeras 24 horas" tras empezar el tratamiento y, en otro párrafo, que desciende "a un 10-20 %". La ESCMID cifra el descenso en un 10-20 % (capítulo 1).*
 - *Meningitis por VHS y VVZ: da 14-21 días de aciclovir IV en una frase y 10-14 días en total (con paso a valaciclovir) en la siguiente (capítulo 2).*
 - *Intervalos que faltan: foscarnet 90 mg/kg en el CMV y penicilina G procaína en la neurosífilis.*
 - *Dosis de cloxacilina de su tabla de meningitis (4-6 g/día), inferior a la que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g cada 4 h).*

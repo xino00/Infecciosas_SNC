@@ -124,7 +124,7 @@ La SEN 2025 utiliza el término **meningitis aséptica** al describir las mening
 - **Pedir**: Gram, cultivo, **Ziehl, ADA y cultivo de micobacterias**, tinta china y **antígeno criptocócico**, aglutinaciones para *Brucella*, PCR de virus.
 - *Puede haber hipoglucorraquia en parotiditis, coriomeningitis linfocitaria, enterovirus, West Nile, VHS-2 y ventriculitis por CMV asociada al VIH (SEN 2025, p. 652).*
 
-**Perfil mixto o indeterminado** (SEMES 2012): englobar todas las posibilidades en el diagnóstico y el tratamiento, vigilar de cerca y **repetir la PL**.
+**Perfil mixto o indeterminado** (SEMES 2012): englobar todas las posibilidades en el diagnóstico y el tratamiento y vigilar de cerca.
 
 **Pruebas microbiológicas** (SEN 2025):
 - **Vírica**:
@@ -138,12 +138,6 @@ La SEN 2025 utiliza el término **meningitis aséptica** al describir las mening
 - **Sífilis**: **VDRL en el LCR** y pruebas treponémicas en suero. RM: realce meníngeo, de pares o de raíces; gomas con cola dural; estenosis segmentarias en la meningovascular.
 - **Lyme**: **anticuerpos en suero y LCR, demostrando su síntesis intratecal**. **La PCR y el cultivo no se recomiendan** (baja sensibilidad). Los anticuerpos persisten tras el tratamiento, así que **no sirven para valorar la respuesta**. *Criterios diagnósticos: clínica compatible + pleocitosis + síntesis intratecal de anticuerpos en un paciente con posible exposición a garrapatas.* **No pedir serología de Lyme de rutina** en otras enfermedades neurológicas (esclerosis múltiple, ELA, demencia) ni en cuadros que no encajen.
 - **Leptospira**: PCR en el LCR; si es negativa, serología y PCR en suero u orina (poco sensibles).
-
-**PL traumática** (SEMES 2012, p. 150):
-- **Hemograma normal**: restar **1 leucocito por cada 700 hematíes** presentes en el LCR.
-- **Hemograma alterado** (anemia o leucocitosis): aplicar la fórmula con los recuentos de sangre y LCR expresados en unidades comparables:
-
-> **Leucocitos corregidos en LCR = leucocitos medidos en LCR − [leucocitos en sangre × hematíes en LCR / hematíes en sangre].**
 
 **Datos útiles para no equivocarse:**
 - *En una meningitis vírica de **<24 h** puede predominar el **neutrófilo** (SEN 2025). Excepciones con **neutrofilia persistente**: West Nile y la polirradiculitis por CMV en el VIH (SEN 2025).*
@@ -221,7 +215,7 @@ La SEN 2025 utiliza el término **meningitis aséptica** al describir las mening
 - **Perfil linfocitario con glucosa baja**: ingreso y tratamiento según la sospecha.
 
 **Observación en urgencias** (SEMES 2012):
-- **LCR no concluyente**: vigilar y **repetir la PL a las 8-12 h**.
+- **LCR no concluyente**: vigilancia.
 - Síndrome meníngeo sin diagnóstico de confirmación, con estabilidad hemodinámica y neurológica.
 - **Meningitis vírica con diagnóstico seguro y buena situación clínica**, valorando su evolución.
 - Tras una PL en urgencias: **4-8 h de observación** antes del alta, las 2 primeras en decúbito.
