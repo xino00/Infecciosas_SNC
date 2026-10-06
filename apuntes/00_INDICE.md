@@ -2,9 +2,9 @@
 
 > Estado: capítulos 1-8 redactados. Formato según `plantillas/GUIA_DE_ESTILO.md`; el capítulo 8 es un documento independiente de complicaciones de PL.
 >
-> **Referencias**: jerarquía general **SEN 2025 → ESCMID → NICE → SEMES 2012**. En los apartados revisados de meningitis, complicaciones de PL y HTIC criptocócica: **SEN 2025 → Mensa 2026 → ESCMID 2016 → NICE NG240 → SEMES 2012**, con acceso a Mensa limitado a los extractos del usuario y excepción de crisis (ver [FUENTES, §9](FUENTES.md#9-revisión-con-los-extractos-de-mensa-2026)). En el absceso cerebral manda ESCMID 2024.
+> **Referencias**: jerarquía general **SEN 2025 → ESCMID → NICE → SEMES 2012**. En los apartados revisados de meningitis, complicaciones de PL y HTIC criptocócica: **SEN 2025 → Mensa 2026 → ESCMID 2016 → NICE NG240 → SEMES 2012**, con acceso a Mensa limitado a dos extractos y excepciones de crisis y de manitol (ver [FUENTES, §1 y §9](FUENTES.md#9-revisión-con-los-extractos-de-mensa-2026)). En el absceso cerebral manda ESCMID 2024. **En el capítulo 1 (revisado), la SEN 2025 solo se cita cuando otra fuente dice algo distinto y las referencias van en formato Vancouver**; los capítulos 2-8 conservan el formato anterior hasta su revisión.
 >
-> **Ecología local (fuera de la pirámide)**: porcentajes de resistencia locales de 2024, **(ecología local 2024)**, añadidos donde son pertinentes en los capítulos 1, 2, 4, 5 y 6 (ver `FUENTES.md`, §8).
+> **Ecología local (fuera de la pirámide)**: porcentajes de resistencia de 2024 de **informes internos de la FJD**, añadidos donde son pertinentes en los capítulos 1, 2, 4, 5 y 6; en el 1 se citan como «resistencia en la FJD» y en los demás con la etiqueta **(ecología local 2024)** (ver `FUENTES.md`, §8).
 
 | # | Capítulo | Contenido clave para urgencias | Fuentes que lo cubren |
 |---|----------|--------------------------------|-----------------------|
@@ -15,4 +15,4 @@
 | 5 | **Infecciones parameníngeas y medulares** → `05_Infecciones_parameningeas_medulares.md` ✅ | Empiema subdural, abscesos epidurales intracraneal y espinal, tromboflebitis séptica de senos venosos, mielitis infecciosas y absceso intramedular | SEN 2025 (caps. 41 y 42) · SEMES (caps. 21-22) · ESCMID 2016 (puntual) |
 | 6 | **Infecciones de derivaciones de LCR y meningitis posneuroquirúrgica** → `06_Derivaciones_LCR_posneuroquirurgica.md` ✅ | Clínica, obtención del LCR, pauta empírica (vancomicina + betalactámico antipseudomónico), duración, retirada del sistema y reimplante | SEN 2025 (cap. 40) (pauta, duración, reimplante) · SEMES (cap. 23) |
 | 7 | [**Infecciones fúngicas y parasitarias del SNC**](07_Infecciones_fungicas_parasitarias.md) ✅ | Cuándo pensar en ellas; criptococo, *Candida*, *Aspergillus*, mucormicosis; malaria cerebral, toxoplasmosis, neurocisticercosis, amebas, esquistosomiasis, meningitis eosinofílica | **SEN 2025** (cap. 43, principal) · Mensa 2026 (solo HTIC criptocócica) · ESCMID 2024 · SEMES (puntual) |
-| 8 | [**Complicaciones de la punción lumbar en el adulto**](08_Complicaciones_puncion_lumbar.md) ✅ | Cefalea pospunción, hematoma espinal, infección, herniación, prevención y límites de seguridad | SEN 2025 (seguridad) · Mensa 2026 (extracto aportado por el usuario) · NICE NG240 |
+| 8 | [**Complicaciones de la punción lumbar en el adulto**](08_Complicaciones_puncion_lumbar.md) ✅ | Cefalea pospunción, hematoma espinal, infección, herniación, prevención y límites de seguridad | SEN 2025 (seguridad) · Mensa 2026 (extractos) · NICE NG240 |
