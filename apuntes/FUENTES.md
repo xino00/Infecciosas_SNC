@@ -1,6 +1,8 @@
 # FUENTES DE LOS APUNTES
 
-> **Decisión del autor (actualizada el 05/10/2026)**: se mantienen **SEN 2025**, **ESCMID 2016/2024**, **NICE NG240 2024** y **SEMES 2012**, y se incorpora **Mensa 2026, extracto aportado por el usuario**, exclusivamente para los apartados revisados de meningitis bacteriana, complicaciones de PL y HTIC criptocócica (§9). Cada dato se atribuye a su fuente. Los estudios primarios se citan solo a través de las fuentes autorizadas que los recogen.
+> **Decisión del autor (06/10/2026), capítulo 1 revisado (Word V3)**: la **SEN 2025 es la fuente de referencia y solo se cita cuando otra fuente dice algo distinto**; Mensa se cita como **Mensa 2026** y las referencias pasan a formato Vancouver; la resistencia local se cita como **informes internos de la FJD (2024)**; en el **manitol** para la HTIC se sigue a la ESCMID 2016 (§1); las notas sobre la redacción y los pendientes salen del capítulo y quedan aquí (§9.4). Los capítulos 2-8 conservan el formato anterior hasta su revisión.
+>
+> **Decisión del autor (actualizada el 05/10/2026)**: se mantienen **SEN 2025**, **ESCMID 2016/2024**, **NICE NG240 2024** y **SEMES 2012**, y se incorpora **Mensa 2026** (acceso limitado a dos extractos), exclusivamente para los apartados revisados de meningitis bacteriana, complicaciones de PL y HTIC criptocócica (§9). Cada dato procede de una fuente autorizada. Los estudios primarios se citan solo a través de las fuentes autorizadas que los recogen.
 >
 > **Decisión del autor (03/10/2026): se añaden porcentajes de resistencia de la ecología local de 2024, fuera de la pirámide.** No son una fuente de recomendaciones: se usan donde las fuentes piden adaptar la pauta a la resistencia local. Llevan la etiqueta **(ecología local 2024)** y no tienen referencia bibliográfica (ver §8).
 
@@ -10,6 +12,7 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 
 - **La SEN 2025 ocupa el nivel 1 y es la única referencia SEN.** La jerarquía general es **SEN 2025 → ESCMID → NICE → SEMES**.
 - **Revisión acotada con Mensa (§9): SEN 2025 → Mensa 2026 → ESCMID 2016 → NICE NG240 → SEMES 2012.** SEN prevalece cuando establece expresamente una pauta; Mensa completa lo que no concreta y prevalece sobre SEMES en los puntos cubiertos por los extractos. Una pauta incluida en un intervalo más amplio puede ser compatible. El silencio de SEN no permite atribuirle recomendaciones afirmativas ni negativas.
+- **Excepción de manitol en la HTIC de la MBA (capítulo 1)**: por decisión del autor (06/10/2026) se sigue a la **ESCMID 2016**, que no recomienda su uso adyuvante rutinario (grado D) ni da pauta de rescate o dosis. El capítulo explicita las demás posturas: NICE (osmóticos solo como medida temporal ante HTIC con riesgo de herniación), SEN 2025 (valorar manitol IV) y Mensa 2026 (1-2 g/kg IV en 30-60 min).
 - **Excepción de crisis epilépticas en meningitis**: el texto principal recoge exclusivamente lo respaldado por SEN. La propuesta de Mensa de considerar profilaxis neumocócica y sus pautas solo aparecen en una aclaración en cursiva. No se atribuye a SEN la recomendación de ESCMID contra la profilaxis rutinaria.
 - **Excepción: absceso cerebral (capítulo 4).** Manda la **ESCMID 2024**, y la SEN 2025 queda por encima de la SEMES: **ESCMID 2024 → SEN 2025 → SEMES 2012**. *El capítulo de absceso de la SEN 2025 se redactó antes de que saliera la ESCMID 2024 (su bibliografía se consultó en abril de 2023) y no la incorpora; la ESCMID 2024 se basa en una revisión sistemática con GRADE.*
 
@@ -77,7 +80,8 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 | Dexametasona tras el antibiótico | SEN recomienda antes o junto con el antibiótico y atribuye a «algunos autores» ampliar hasta **4 h** | Mensa: disminución significativa del beneficio si **>4 h**, no ausencia absoluta de beneficio; ESCMID permite hasta 4 h por consenso; NICE: administrarla si <12 h, consultar si >12 h |
 | Dosis de dexametasona | **10 mg IV cada 6 h, 4 días** (SEN) | Compatible con **6-10 mg IV cada 6 h, 2-4 días** de Mensa para adultos |
 | Vasculopatía retardada | SEN describe infartos tardíos y posible relación con dexametasona | Mensa: cerca del 10 % de adultos con meningitis neumocócica, deterioro y fiebre tras mejoría y retirada; prolongación varias semanas sin pauta detallada |
-| HTIC: manitol | Considerarlo ante HTIC (SEN); **1-2 g/kg IV en 30-60 min** (Mensa) | Sustituye la pauta de SEMES; no implica uso rutinario ni aporta un intervalo de repetición |
+| HTIC: manitol | **Se sigue a la ESCMID 2016** (excepción del §1): no se recomienda su uso adyuvante rutinario (grado D); sin pauta de rescate ni dosis | NICE 1.9.4-1.9.5: osmóticos solo como medida temporal ante HTIC con riesgo de herniación, con consulta urgente a UCI; SEN 2025: valorar manitol IV; Mensa: **1-2 g/kg IV en 30-60 min** |
+| HTIC: hiperventilación | SEN 2025 permite considerarla; Mensa: ventilación mecánica con **PaCO₂ de 25-30 mmHg**, sin duración | ESCMID no da pauta ni objetivo de PaCO₂; no es una medida sostenida de rutina |
 | Crisis epilépticas | **SEN no concreta pauta de tratamiento ni se pronuncia específicamente sobre profilaxis en MBA** | Solo en cursiva: Mensa propone considerar profilaxis neumocócica; ESCMID desaconseja la rutinaria, sin atribuir ese criterio a SEN |
 | Mantener la dexametasona | **Neumococo o *H. influenzae*** (SEN 2025 = ESCMID = NICE) | — |
 | Rifampicina en el embarazo (profilaxis) | **A partir del primer trimestre** (SEN 2025 = ESCMID) | SEMES 2012: contraindicada |
@@ -116,7 +120,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - **Aislamiento respiratorio de toda sospecha de meningitis bacteriana** → SEN 2025: solo si se sospecha meningococo, las primeras 24 h de tratamiento.
 - **Encefalitis herpética**: dexametasona → la SEN 2025 **no recomienda los corticoides de rutina**.
 - **Antiepilépticos profilácticos** en la meningitis: aplicar la excepción editorial de §1. *ESCMID 2016 desaconseja la profilaxis rutinaria (grado D), mientras Mensa propone considerarla en neumocócica; SEN no se pronuncia específicamente en su apartado de MBA.*
-- **Manitol en MBA**: sustituida la pauta de SEMES por **1-2 g/kg IV en 30-60 min**, atribuida a Mensa y para consideración ante HTIC, no de rutina.
+- **Manitol en MBA**: se retira la pauta de SEMES; se sigue a la ESCMID 2016 (sin uso adyuvante rutinario) y la dosis de Mensa (**1-2 g/kg IV en 30-60 min**) se recoge como postura de esa fuente (§1).
 - **Paracetamol 1-2 g IV cada 6-8 h**: retirado del contenido terapéutico por pauta problemática; Mensa solo recomienda tratar la fiebre elevada, sin proporcionar dosis sustitutiva. No se ha presentado una comprobación farmacológica CIMA/AEMPS como realizada.
 - **Absceso cerebral** (superado por la ESCMID 2024):
   - Profilaxis anticomicial individualizada en las lesiones corticales → **no profilaxis antiepiléptica primaria**.
@@ -156,7 +160,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 
 ## 8. Ecología local (2024)
 
-**Qué es**: porcentajes de resistencia locales de 2024 por especie y antibiótico. Queda **fuera de la pirámide** porque no recomienda pautas: informa la "resistencia local" a la que remiten las fuentes.
+**Qué es**: porcentajes de resistencia de 2024 por especie y antibiótico, procedentes de **informes internos de la FJD**. Queda **fuera de la pirámide** porque no recomienda pautas: informa la "resistencia local" a la que remiten las fuentes.
 - **ESCMID 2016**: elegir la pauta empírica según la resistencia local (grado A).
 - **SEN 2025**: vancomicina en "zona de resistencias".
 - **SEMES 2012**: vancomicina donde hay muchas resistencias a penicilinas y C3G.
@@ -164,7 +168,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 
 **Reglas de uso en los apuntes**:
 1. **No cambia ninguna pauta ni resuelve discrepancias entre fuentes.** Sirve para ver qué deja sin cubrir cada pauta y para elegir entre las opciones que ya dan las fuentes, siempre con Infecciosas.
-2. Se escribe en *cursiva*, con la etiqueta **(ecología local 2024)**, junto al punto de decisión al que se refiere y en las notas para el contexto español de cada capítulo.
+2. En el capítulo 1 se integra junto al punto de decisión como «resistencia en la FJD (…; informes internos de 2024)», y el cuadro de fuentes indica su procedencia. Los capítulos 2-8 la llevan, hasta su revisión, en *cursiva* con la etiqueta **(ecología local 2024)**, junto al punto de decisión y en las notas para el contexto español.
 3. Se da como **porcentaje de resistencia** (cepas no sensibles), sin referencia bibliográfica.
 4. Lo que es interpretación y no dato se señala como tal.
 
@@ -172,7 +176,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 
 | Capítulo | Datos |
 |---|---|
-| 1. Meningitis bacteriana | Neumococo con el punto de corte de meningitis (cefotaxima 12 %, vancomicina 0 %), *H. influenzae*, *S. aureus*, estreptococo del grupo B, enterobacterias; cobertura de gramnegativos en el inmunodeprimido |
+| 1. Meningitis bacteriana | Neumococo con puntos de corte meníngeos (ampicilina ≈29 %, cefotaxima ≈12 %), *S. aureus* (meticilina 30 %) y *H. influenzae* (ampicilina ≈9 %) |
 | 2. Meningitis subaguda | *M. tuberculosis*: 0 % de resistencia a los fármacos de primera línea (número de aislamientos desconocido) |
 | 4. Absceso cerebral | SAMR, enterococos (absceso por endocarditis), elección del betalactámico en el posneuroquirúrgico |
 | 5. Infecciones parameníngeas | SAMR frente a las pautas con cloxacilina (tromboflebitis séptica), absceso epidural espinal, alternativas en la alergia |
@@ -193,7 +197,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 
 **Fecha: 05/10/2026. Ámbito: adulto.** Actualización de [meningitis bacteriana](01_Meningitis_bacteriana.md) y de su Word revisado; creación de [complicaciones de PL](08_Complicaciones_puncion_lumbar.md); revisión exclusiva de la [HTIC criptocócica](07_Infecciones_fungicas_parasitarias.md#311-hipertensión-intracraneal-criptocócica) en el capítulo 7. No se extrapolan los fragmentos a las pautas de absceso cerebral, encefalitis, infecciones medulares o derivaciones.
 
-**Referencia literal:** «Mensa 2026, extracto aportado por el usuario». El usuario dispone de Mensa en el móvil y ha reproducido dos fragmentos; no se dispone de la obra completa ni de paginación, bibliografía completa o grados de recomendación. El extracto 1 cubre soporte y complicaciones de meningitis y de PL; el extracto 2 reseña coma barbitúrico. Las recomendaciones pediátricas de estos fragmentos no se convierten en pautas adultas.
+**Cita:** en el texto, «Mensa 2026»; en las referencias, *Mensa J, Soriano A. Guía de terapéutica antimicrobiana 2026. 36.ª ed. Barcelona: Antares; 2026*. **Acceso:** el autor dispone de Mensa en el móvil y ha reproducido dos fragmentos; no se dispone de la obra completa ni de paginación o grados de recomendación. El extracto 1 cubre soporte y complicaciones de meningitis y de PL; el extracto 2 reseña coma barbitúrico. Las recomendaciones pediátricas de estos fragmentos no se convierten en pautas adultas.
 
 ### 9.2. Contraste de dosis, cifras y atribuciones
 
@@ -220,8 +224,16 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - **Originales disponibles:** PDFs locales de SEN 2025, ESCMID 2016, NICE NG240 y SEMES 2012. Se han contrastado los pasajes pertinentes de esta revisión; no se declara una nueva auditoría de todos los capítulos. El acceso web a SEN y NICE no permitió leerlos y se recurrió a los PDFs locales.
 - **Fidelidad al extracto:** cifras, fármacos, vías explícitas, intervalos, duración, velocidades de perfusión, unidades y población cotejados por separado con los dos textos aportados. No acredita haber leído Mensa completa.
 - **Interpretaciones identificadas:** compatibilidad del intervalo de dexametasona; separación anatómica de las infecciones en la seguridad de PL; distinción entre considerar una medida y aplicarla de rutina; ausencia de una secuencia obligatoria coma barbitúrico → drenaje en la hidrocefalia obstructiva.
-- **Pendientes de validación clínica:** Hb (unidad y objetivo), coma barbitúrico (identidad, pauta y umbral/unidades), y datos de Mensa cuya comprobación independiente exigiría la fuente completa. La anotación previa de antibiótico en **30 min** atribuida a Mensa se conserva como **no verificada**, porque no aparece en estos extractos.
+- **Pendientes de validación clínica:** Hb (unidad y objetivo), coma barbitúrico (identidad, pauta y umbral/unidades), y datos de Mensa cuya comprobación independiente exigiría la fuente completa. La recomendación de iniciar el antibiótico en los primeros **30 min** desde el diagnóstico (Mensa 2026) figura en el capítulo 1 tal como la recoge el Word del autor; no aparece en los dos extractos transcritos.
 - **Validación farmacológica oficial:** no se ha realizado una comprobación CIMA/AEMPS; no se atribuye tal validación a las dosis transcritas de Mensa.
 - **Concordancia entre Markdown y Word:** comprobados los 88 párrafos de los apartados revisados, las cifras introducidas, las atribuciones, las cursivas de la aclaración sobre crisis y las remisiones. Se conservan las diferencias editoriales previas fuera de la revisión, incluidas las anotaciones locales de resistencia; no se afirma identidad íntegra de ambos documentos.
 - **Revisión visual:** Word renderizado en 21 páginas e inspeccionado página a página, sin recortes ni solapamientos observados. Conserva sus 7 tablas, estilos, numeración y pie; se adapta la paginación al contenido añadido. El capítulo de complicaciones de PL no se inserta completo en el Word. Esta revisión visual no valida los datos clínicos pendientes.
 - **Integridad y enlaces:** comprobados los enlaces locales y sus anclas, la numeración de referencias y `git diff --check`. Copias de seguridad verificadas por SHA-256; Word original y archivos ajenos al alcance conservados. No se ha realizado commit, push, publicación ni envío por correo.
+
+### 9.4. Revisión del 06/10/2026: capítulo 1 sincronizado con el Word V3
+
+- **Texto:** `01_Meningitis_bacteriana.md` reproduce el de `entregables/Meningitis_bacteriana_aguda_revisadoV3.docx`, incluidas las correcciones del autor en Word. El Markdown conserva además sus enlaces internos (este archivo y los demás capítulos).
+- **Convenciones nuevas:** las de la decisión del autor del 06/10/2026 (cabecera de este archivo), recogidas en el README y en la guía de estilo.
+- **Retirado del capítulo y conservado aquí:** las notas de Hb y coma barbitúrico (§9.2 y §9.3, siguen pendientes), la observación experimental de vitamina B6 y ácido fólico, las aclaraciones sobre cómo se redactó cada apartado y la sección «Notas para el contexto español y europeo»: su contenido clínico ya figura en los apartados correspondientes y, de su lista de ecología local, se mantienen los datos que el autor conserva junto a cada pauta (§8).
+- **Cambios de contenido decididos por el autor:** manitol según la ESCMID 2016 (§1); penetración del meropenem en el LCR, 5-19 %.
+- **Sin cambios:** los capítulos 2-8 y su formato.
