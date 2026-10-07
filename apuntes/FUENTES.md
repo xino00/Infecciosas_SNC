@@ -1,5 +1,7 @@
 # FUENTES DE LOS APUNTES
 
+> **Decisión del autor (07/10/2026), capítulo 1 revisado (Word V5)**: la **SEMES 2012** se considera una referencia de baja calidad. En el capítulo 1 solo se cita donde es la única fuente: incidencia, clasificación por el curso, exploración inicial, presentación atípica en el neutropénico, radiografía de tórax, LCR normal, MBA decapitada, monitorización, corticoides en el shock con insuficiencia suprarrenal, criterios de ingreso y observación, aviso a Salud Pública, definición de los contactos y dosis de rifampicina para Hib. Sus cifras de contraste y sus posturas superadas salen del capítulo y constan solo aquí (§3 y §5). El uso de Mensa 2026 no se amplía a las pautas antibióticas: sus discrepancias se anotan (§9.5).
+>
 > **Decisión del autor (06/10/2026), capítulo 1 revisado (Word V3)**: la **SEN 2025 es la fuente de referencia y solo se cita cuando otra fuente dice algo distinto**; Mensa se cita como **Mensa 2026** y las referencias pasan a formato Vancouver; la resistencia local se cita como **informes internos de la FJD (2024)**; en el **manitol** para la HTIC se sigue a la ESCMID 2016 (§1); las notas sobre la redacción y los pendientes salen del capítulo y quedan aquí (§9.4). Los capítulos 2-8 conservan el formato anterior hasta su revisión.
 >
 > **Decisión del autor (actualizada el 05/10/2026)**: se mantienen **SEN 2025**, **ESCMID 2016/2024**, **NICE NG240 2024** y **SEMES 2012**, y se incorpora **Mensa 2026** (acceso limitado a dos extractos), exclusivamente para los apartados revisados de meningitis bacteriana, complicaciones de PL y HTIC criptocócica (§9). Cada dato procede de una fuente autorizada. Los estudios primarios se citan solo a través de las fuentes autorizadas que los recogen.
@@ -71,12 +73,16 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 | TC antes de la PL | Recomendable, pero **obligatoria solo con criterios** de riesgo de herniación (SEN 2025), **sin retrasar nunca el antibiótico** | ESCMID (grado A) y NICE: solo con criterios, más restrictivos que los de la SEN 2025 |
 | Vancomicina empírica | **Sí** (SEN 2025 = ESCMID; España con 20-50 % de sensibilidad disminuida a penicilina según la ESCMID) | La NICE no la incluye |
 | Aciclovir empírico | **No de rutina en la sospecha de meningitis bacteriana; sí si hay sospecha fuerte de encefalitis herpética** (NICE 1.6.7; SEN 2025, cap. 42: tratamiento empírico ante sospecha de encefalitis vírica) | La SEN 2025 no establece aciclovir universal en su capítulo de meningitis bacteriana |
-| Neumococo | **14 días** (SEN 2025) | ESCMID: 10-14 días; NICE: 10 días |
-| Meningococo | **7 días** (SEN 2025 = ESCMID) | NICE: 5 días |
-| *H. influenzae*: duración | **7-10 días** (ESCMID 2016, tabla 4.2) | SEN 2025: 10-14 días como duración general, sin una duración específica para este germen; NICE: 7 días, hasta 10 si no se ha recuperado |
-| Enterobacterias y otros gramnegativos | **≥3 semanas** (SEN 2025 = NICE) | — |
-| Estreptococo del grupo B | **Ampicilina o penicilina G + gentamicina** (SEN 2025) | NICE: C3G |
-| Sin germen identificado | **≥14 días** (ESCMID; la SEN no lo concreta) | NICE: 10 días; SEN 2025: 10-14 días como duración general |
+| Neumococo | **14 días** (SEN 2025) | ESCMID y Mensa: 10-14 días; NICE: 10 días |
+| Meningococo | **7 días** (SEN 2025 = ESCMID = Mensa) | NICE: 5 días |
+| *H. influenzae*: duración | **7-10 días** (ESCMID 2016, tabla 4.2) | SEN 2025: 10-14 días como duración general, sin una duración específica para este germen; Mensa: 7 días; NICE: 7 días, hasta 10 si no se ha recuperado |
+| Enterobacterias y otros gramnegativos | **≥3 semanas** (SEN 2025 = NICE) | Mensa: 10-14 días |
+| Estreptococo del grupo B | **Ampicilina o penicilina G + gentamicina** (SEN 2025); duración de **14 días** (NICE) | NICE: C3G. Mensa: 10-14 días |
+| Sin germen identificado | **≥14 días** (ESCMID; la SEN no lo concreta) | Mensa: ≥10 días; NICE: 10 días; SEN 2025: 10-14 días como duración general. *Con la jerarquía de la revisión, Mensa precedería a la ESCMID: pendiente de la decisión del autor (§9.5)* |
+| Inmunodeprimido | **Vancomicina + C3G + ampicilina** (SEN 2025, tabla 1) | Mensa: meropenem 2 g IV cada 8 h + ampicilina 2 g IV cada 4 h + vancomicina 15-20 mg/kg IV cada 8 h (o linezolid), con *Pseudomonas* en la neutropenia <500/µL |
+| Alergia anafiláctica a betalactámicos | **Cloranfenicol** (NICE 1.6.16); con riesgo de *Listeria*, cotrimoxazol + cloranfenicol | **No anotado en el capítulo**: Mensa propone aztreonam 2 g IV cada 8-12 h + vancomicina 30 mg/kg cada 12 h + rifampicina 15 mg/kg/día (máx. 900 mg); en el inmunodeprimido, aztreonam y cotrimoxazol en lugar de meropenem y ampicilina. La SEN no da pauta comunitaria para la alergia, así que Mensa precedería a la NICE: pendiente de la decisión del autor (§9.5) |
+| Glucorraquia de MBA «particularmente probable» | **<45 mg/dL** (SEN 2025), con nota | ESCMID 2016 (<1,9 mmol/L) y Mensa 2026 (<34,23 mg/dL): ≈34 mg/dL. Probable errata de la SEN (§6) |
+| Cultivo de LCR con antibiótico previo | **Lo reduce un 10-20 %** (ESCMID 2016, conclusión de nivel 2) | SEN 2025: «descenso a un 10-20 %» (§6) |
 | Dexametasona tras el antibiótico | SEN recomienda antes o junto con el antibiótico y atribuye a «algunos autores» ampliar hasta **4 h** | Mensa: disminución significativa del beneficio si **>4 h**, no ausencia absoluta de beneficio; ESCMID permite hasta 4 h por consenso; NICE: administrarla si <12 h, consultar si >12 h |
 | Dosis de dexametasona | **10 mg IV cada 6 h, 4 días** (SEN) | Compatible con **6-10 mg IV cada 6 h, 2-4 días** de Mensa para adultos |
 | Vasculopatía retardada | SEN describe infartos tardíos y posible relación con dexametasona | Mensa: cerca del 10 % de adultos con meningitis neumocócica, deterioro y fiebre tras mejoría y retirada; prolongación varias semanas sin pauta detallada |
@@ -87,6 +93,8 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 | Rifampicina en el embarazo (profilaxis) | **A partir del primer trimestre** (SEN 2025 = ESCMID) | SEMES 2012: contraindicada |
 | Profilaxis de *H. influenzae* | **Rifampicina al caso índice y a los convivientes** (SEN 2025) | SEMES 2012: solo a los convivientes y si hay niños <6 años no vacunados |
 | Aislamiento respiratorio | **Solo si se sospecha meningococo, las primeras 24 h de tratamiento** (SEN 2025) | SEMES 2012: inicialmente, toda sospecha de meningitis bacteriana |
+
+*Desde el V5 (07/10/2026), las posturas de la SEMES 2012 recogidas en esta tabla ya no se anotan en el capítulo 1: constan solo aquí y en el §5.*
 
 ## 4. Discrepancias resueltas en los capítulos 2-7
 
@@ -113,7 +121,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 
 ## 5. Puntos de la SEMES 2012 superados por las fuentes de nivel superior
 
-- **TC antes de la PL "en todos los >50 años"** → la SEN 2025, la ESCMID y la NICE la restringen a criterios clínicos.
+- **TC antes de la PL «a valorar en todos los >50 años»** (SEMES 2012, tabla 3) → la SEN 2025, la ESCMID y la NICE la restringen a criterios clínicos.
 - **"No dar dexametasona si ya recibe antibiótico parenteral"** → ESCMID: hasta 4 h; NICE: <12 h.
 - **Rifampicina añadida a la vancomicina si se da dexametasona** → no lo recogen la SEN ni la NICE; la ESCMID usa la rifampicina como alternativa a la vancomicina.
 - **Rifampicina contraindicada en todo el embarazo** (profilaxis) → SEN 2025 y ESCMID: a partir del primer trimestre.
@@ -132,6 +140,14 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
   *Coinciden en la pauta empírica (C3G + metronidazol; meropenem o cefepima + vancomicina o linezolid tras neurocirugía), en la duración de 6-8 semanas y en los corticoides solo si hay edema importante. La SEMES 2012 indica "pirimetamina 10 mg/24 h (dosis inicial)" en la toxoplasmosis: probable errata, a confirmar (la SEN 2025 no da la dosis).*
 
 - **Empiema, absceso epidural y meningitis nosocomial** (superado por la SEN 2025): ver la tabla del §4 (pautas empíricas, cirugía en la paraplejía, duración).
+- **Retirado del capítulo 1 en el V5 por la decisión sobre la SEMES (07/10/2026)**, porque hay una fuente superior o porque no es un dato operativo:
+  - Cifras de contraste: tríada en el 44 %, mortalidad de hasta el 18-25 %, 60-80 % de las MBA por neumococo y meningococo (la propia SEMES da el 80 % en su apartado de etiología, como la SEN), *Listeria* en el 4-8 % y LCR «normal» en hasta el 5 % de las MBA precoces.
+  - Umbrales orientativos de proteína C reactiva (>10 mg/dL) y procalcitonina (>0,5 y >2 ng/mL).
+  - Mayor beneficio de la dexametasona con pleocitosis >1.000/µL, presión de apertura >25 cm H₂O o GCS <11; precauciones de la dexametasona (hipersensibilidad, patología cerebral reciente, derivación de LCR, inhibidor de la bomba de protones).
+  - Contraindicaciones de la rifampicina en la profilaxis (hepatopatía grave, alcoholismo, porfiria, hipersensibilidad, anticonceptivos orales).
+  - Observación tras la PL con las 2 primeras horas en decúbito (el capítulo 8 tampoco recomienda reposo).
+  - Lista de etiologías en situaciones especiales, sustituida por la tabla 2 de la SEN 2025 (cap. 40).
+  - Shock séptico y SDRA en la lista de «otras complicaciones» (la sepsis grave figura en la tabla 4.5 de la ESCMID).
 - **Derivaciones de LCR** (superado por la SEN 2025):
   - Vancomicina 1 g cada 8-12 h → **15 mg/kg IV cada 8-12 h** (SEN 2025, cap. 40, tabla 5 de meningitis nosocomial); la tabla no establece una dosis de carga.
   - Levofloxacino como alternativa en alérgicos → la SEN recoge **aztreonam** o **ciprofloxacino**, no levofloxacino.
@@ -144,7 +160,10 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - *Es anterior a la ESCMID 2024 y a la NICE 2024 (bibliografía consultada en 2023), y es un manual formativo sin grados de recomendación.*
 - *Meningitis por VHS y VVZ: da 14-21 días de aciclovir IV en una frase y 10-14 días en total (con paso a valaciclovir) en la siguiente (capítulo 2).*
 - *Intervalos que faltan: foscarnet 90 mg/kg en el CMV y penicilina G procaína en la neurosífilis.*
-- *Dosis de cloxacilina de su tabla de meningitis (4-6 g/día), inferior a la que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g cada 4 h).*
+- *Dosis de cloxacilina de su tabla de meningitis (4-6 g/día), muy inferior a la de la ampicilina (12-15 g/día) en la misma tabla e inferior a la que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g cada 4 h). La ficha técnica española no da una pauta meníngea: 500 mg-1 g cada 6-8 h, ampliables según la gravedad (CIMA, Cloxacilina Normon 1 g, n.º de registro 63636, https://cima.aemps.es/cima/dochtml/ft/63636/FT_63636.html, consultada el 07/10/2026; comprobación farmacológica oficial, no recomendación de las guías). Señalada en el capítulo 1 (§6.6) como posible errata.*
+- *Umbral de glucorraquia de la MBA «particularmente probable» (cap. 40, §1.5, p. 622): <45 mg/dL. Las otras tres cifras de esa frase (proteínas >220 mg/dL, >2.000 células/µL, >1.180 polinucleares/µL) coinciden con las de la ESCMID 2016 y Mensa 2026, que dan ≈34 mg/dL (<1,9 mmol/L; <34,23 mg/dL). El 45 repite el umbral del perfil habitual: probable errata. La ESCMID trata cada umbral como predictor individual. Señalada en el capítulo 1 (§5.2).*
+- *Cultivo del LCR con antibiótico previo (p. 622): «descenso a un 10-20 %». La ESCMID 2016 dice que lo reduce un 10-20 % (en sus series, del 66 al 62 % y del 88 al 70 %). Señalado en el capítulo 1 (§5.2).*
+- *Tríada (p. 621): «un 95 % de los pacientes tienen dos de ellos», referido a la tríada. El estudio que cita (van de Beek D, et al. N Engl J Med. 2004;351:1849-59, su ref. 9) dice que el 95 % tenía al menos dos de **cuatro** síntomas: cefalea, fiebre, rigidez de nuca y alteración del estado mental (resumen comprobado en PubMed, PMID 15509818, doi:10.1056/NEJMoa040845, el 07/10/2026). El capítulo 1 da la versión del estudio.*
 - *Ampicilina para H. influenzae tipo b sin precisar que la cepa debe ser sensible.*
 - *Tuberculosis: etambutol solo si hay fracaso previo o zona de multirresistencia; corticoides "en casos graves" con una redacción ambigua.*
 - *La nota de su tabla de dosis afirma que los aminoglucósidos no son bactericidas; no se ha trasladado a los apuntes.*
@@ -237,3 +256,17 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - **Retirado del capítulo y conservado aquí:** las notas de Hb y coma barbitúrico (§9.2 y §9.3, siguen pendientes), la observación experimental de vitamina B6 y ácido fólico, las aclaraciones sobre cómo se redactó cada apartado y la sección «Notas para el contexto español y europeo»: su contenido clínico ya figura en los apartados correspondientes y, de su lista de ecología local, se mantienen los datos que el autor conserva junto a cada pauta (§8).
 - **Cambios de contenido decididos por el autor:** manitol según la ESCMID 2016 (§1); penetración del meropenem en el LCR, 5-19 %.
 - **Sin cambios:** los capítulos 2-8 y su formato.
+
+### 9.5. Revisión del 07/10/2026: Word V5 y capítulo 1 sincronizado
+
+- **Origen:** revisión del Word V4 frente a los originales disponibles (SEN 2025, caps. 40 y 42; ESCMID 2016; NICE NG240, recomendaciones y justificación; SEMES 2012, cap. 18; transcripción de Mensa 2026), con las decisiones del autor de esta fecha (cabecera). Resultado: `entregables/Meningitis_bacteriana_aguda_revisadoV5.docx`; el V4 se conserva sin cambios.
+- **Correcciones frente a las fuentes:** colonización de mucosas, no solo nasofaríngea (SEN); el 95 % con dos de cuatro síntomas (estudio citado por la SEN); ictus del 16 % referido a todas las MBA; criterios de TC de la ESCMID (grado A) en el §4.1; «no puncionar mientras persistan estos factores» en lugar de la frase sobre la aguja fina, que la NICE no recoge; retirada del motivo atribuido a la NICE para no usar vancomicina, que la guía no da; retirada de anticoagulantes previos en toda MBA (ESCMID; Mensa), no solo en la trombosis de senos; hipotermia y glicerol contraindicados según la ESCMID; fila de crisis (17 %) de la tabla 4.5 de la ESCMID, que trata la crisis establecida y no la profilaxis, compatible con la excepción de crisis del §1; urgencia de la derivación para implante coclear atribuida a NICE 1.12.8; NICE 1.14.3-1.14.6 en la meningitis recurrente.
+- **Posibles erratas de la SEN señaladas en el capítulo** (§6): cloxacilina 4-6 g/día, glucorraquia <45 mg/dL de la MBA «particularmente probable», cultivo que desciende «a un 10-20 %» y el 95 % «de la tríada».
+- **SEMES 2012:** se aplica la decisión de la cabecera; lo retirado consta en el §5.
+- **Mensa 2026, acceso:** `Referencias/Meningitis_aguda_MENSA2026.md` contiene la transcripción consolidada del capítulo «Meningitis aguda» (etiología, diagnóstico, pautas empíricas, alergia y duración), no solo los dos extractos del §9.1. Incluye la recomendación de iniciar el antibiótico en los 30 min siguientes al diagnóstico, que el §9.3 daba por ausente. Por decisión del autor, su uso no se amplía a las pautas antibióticas: en el capítulo se anotan sus discrepancias (inmunodeprimido, duraciones y umbral de glucorraquia).
+- **Pendiente de decisión del autor:** si Mensa rige también los apartados 6 y 7. Cambiaría la alergia anafiláctica (aztreonam + vancomicina + rifampicina frente al cloranfenicol de la NICE) y la duración sin germen identificado (≥10 días frente a los ≥14 de la ESCMID); en el estreptococo del grupo B daría 10-14 días frente a los 14 de la NICE (§3).
+- **Comprobaciones externas:** ficha técnica de la cloxacilina en CIMA (§6) y resumen de van de Beek 2004 en PubMed (§6). No se ha realizado ninguna otra comprobación CIMA/AEMPS.
+- **Integridad del Word:** edición directa del XML sin cambiar estilos; validación de esquema superada; cambios cotejados con la diferencia de texto V4 → V5. Renderizado con LibreOffice (20 páginas) sin recortes ni solapamientos en las páginas modificadas. El índice es un campo de Word con números de página guardados: hay que actualizarlo (F9) antes de exportar.
+- **Markdown:** `01_Meningitis_bacteriana.md` reproduce el texto del V5, comprobado línea a línea frente a la conversión del Word. Solo difieren el título, los enlaces propios del Markdown y la tabla del §6.4 en formato de tabla Markdown.
+- **Párrafo inicial de §1.1 (decisión del autor, 07/10/2026):** deja de citar la combinación de alarma de la NICE (1.1.4-1.1.5) y se apoya en la SEN y en el estudio que cita: «Casi todos los pacientes tienen al menos dos de estos datos [...]. Pero menos de la mitad los tienen todos: con dos de ellos ya hay que plantearse una MBA». **Lo último es una interpretación** del dato del 95 % (dos de cuatro síntomas), no una regla de decisión de las fuentes. En la referencia de la NICE se retira «la combinación de alarma». Copia previa: `.copias/combinacion-alarma-C-20261007-094615/`.
+- **Copias de seguridad:** `.copias/v5-sincronizacion-20261007-013346/` (Markdown del capítulo 1 y este archivo, con SHA-256). No se ha hecho commit ni push.
