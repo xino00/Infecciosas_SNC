@@ -12,9 +12,9 @@ La **meningitis bacteriana aguda (MBA)** suele producirse por **vía hematógena
 
 ### 1.1. Clínica
 
-**Combinación de alarma** (NICE 1.1.4-1.1.5): **FIEBRE + CEFALEA + RIGIDEZ DE NUCA + ALTERACIÓN DEL NIVEL DE CONSCIENCIA O DE LA COGNICIÓN (confusión, delirium)**. Con las cuatro, mantener una **alta sospecha clínica** de MBA, aunque la sospecha fuerte también puede basarse en el juicio clínico sin la combinación completa.
+Casi todos los pacientes tienen al menos dos de estos datos: **FIEBRE, CEFALEA, RIGIDEZ DE NUCA Y ALTERACIÓN DEL ESTADO MENTAL**. Pero menos de la mitad los tienen todos: **con dos de ellos ya hay que plantearse una MBA**.
 
-- **La ausencia de los signos clásicos NO descarta la MBA** (ESCMID, grado A). *La tríada clásica (fiebre, rigidez de nuca y alteración de la consciencia) solo está en **≈40 %** de los adultos (SEN 2025; 41-51 % según la ESCMID), pero **el 95 % tiene al menos dos de cuatro síntomas: cefalea, fiebre, rigidez de nuca y alteración del estado mental** (estudio holandés citado por la SEN 2025). Para predecir pleocitosis, la sensibilidad es baja: **rigidez de nuca 31 %, Kernig 11 %, Brudzinski 9 %** (ESCMID).*
+- **La ausencia de los signos clásicos NO descarta la MBA** (ESCMID, grado A). *La tríada clásica (fiebre, rigidez de nuca y alteración de la consciencia) solo está en **≈40 %** de los adultos (SEN 2025; 41-51 % según la ESCMID); el 95 % tiene al menos dos de los cuatro datos (estudio holandés citado por la SEN 2025). Para predecir pleocitosis, la sensibilidad es baja: **rigidez de nuca 31 %, Kernig 11 %, Brudzinski 9 %** (ESCMID).*
 - *Frecuencia de cada dato: cefalea intensa 84 %, fiebre >38 °C 74 %, rigidez de nuca 74 %, GCS <14: 71 %, náuseas 62 %; con menos frecuencia, crisis 23 %, afasia o déficit motor focal 22 %, coma 13 %, pares craneales 9 %, exantema 8 % y papiledema 4 %. Suele instaurarse en **24-72 h**, aunque la meningocócica puede ser fulminante en pocas horas (síndrome de Waterhouse-Friderichsen).*
 - **Pistas de etiología**: ver la tabla de la sección 3.
 - **Petequias o púrpura**: aparecen en el **20-52 %** de los adultos con MBA y, cuando están, **son meningocócicas en >90 %** (ESCMID). **No descartar la enfermedad meningocócica por la ausencia de exantema** (NICE 1.1.10).
@@ -422,7 +422,7 @@ _**Mensa 2026:** en meningitis neumocócica propone **considerar** profilaxis, n
 
 5. National Institute for Health and Care Excellence. Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. Londres: NICE; 19 mar 2024. (NICE guideline; NG240). Disponible en: [https://www.nice.org.uk/guidance/ng240](https://www.nice.org.uk/guidance/ng240)
    ***Nivel 4; metodología GRADE.*** *Se cita con el número de cada recomendación. Aporta:*
-   - *La combinación de alarma, las presentaciones atípicas y las causas alternativas.*
+   - *Las presentaciones atípicas y las causas alternativas.*
    - *Los tiempos: antibiótico en <1 h.*
    - *Las contraindicaciones de la PL, las pruebas en sangre (PCR de meningococo y neumococo, VIH en todos los adultos, frotis faríngeo) y la disponibilidad del LCR en <4 h.*
    - *La duración por germen cuando la SEN y la ESCMID no la fijan (estreptococo del grupo B) y la definición de alergia grave.*
