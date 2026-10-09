@@ -48,7 +48,7 @@ Los datos de resistencia de los **informes internos de la FJD de 2024** se usan 
 |---|---|
 | `apuntes/` | Capítulos, índice y registro de fuentes y discrepancias |
 | [BIBLIOGRAFIA.md](BIBLIOGRAFIA.md) | Referencias bibliográficas del proyecto |
-| `entregables/` | Word de meningitis bacteriana: documento sin versión y versiones 0.2–0.5 y revisión 0.5.1; informe de contraste de 0.5 y transcripción del material aportado |
+| `entregables/` | Word de meningitis bacteriana: versiones 0.1–0.5 y revisión 0.5.1; informe de contraste de 0.5 y transcripción del material aportado |
 | [plantillas/GUIA_DE_ESTILO.md](plantillas/GUIA_DE_ESTILO.md) | Estructura y convenciones de redacción |
 | [plantillas/EJEMPLO_NAC_IDSA_SEMES.md](plantillas/EJEMPLO_NAC_IDSA_SEMES.md) | Ejemplo original de formato |
 
@@ -58,7 +58,7 @@ El nombre sigue el patrón `Meningitis_bacteriana_aguda_0.N.docx`, con un tercer
 
 | Versión | Archivo | Correspondencia anterior |
 |---|---|---|
-| Sin versión | [Word sin versión](entregables/Meningitis_bacteriana_aguda_sin_version.docx) | `Meningitis_bacteriana_aguda_revisado.docx`; no se le asigna 0.1 sin evidencia |
+| 0.1 | [Word 0.1](entregables/Meningitis_bacteriana_aguda_0.1.docx) | Documento anterior al V2, originalmente `Meningitis_bacteriana_aguda_revisado.docx`; numeración asignada por el autor |
 | 0.2 | [Word 0.2](entregables/Meningitis_bacteriana_aguda_0.2.docx) | V2, antes en la raíz con la errata `meiningitis` |
 | 0.3 | [Word 0.3](entregables/Meningitis_bacteriana_aguda_0.3.docx) | V3 |
 | 0.4 | [Word 0.4](entregables/Meningitis_bacteriana_aguda_0.4.docx) | V4 |
