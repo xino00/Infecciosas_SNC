@@ -183,7 +183,7 @@ La TC o la RM son **normales o muestran un realce leptomeníngeo difuso inespec�
 
 Principios: **antibiótico IV en <1 h**, a **dosis meníngeas**. Preguntar por **alergias** y **elegir la pauta según la edad, los factores de riesgo y la resistencia local** (ESCMID 2016, grado A). **Mantener la vía IV y las dosis meníngeas durante todo el tratamiento**, aunque el paciente mejore: _al ceder la inflamación, el antibiótico penetra peor en el LCR_ (UpToDate 2025). **Valorar consultar con Infecciosas o Microbiología** (NICE 1.6.4), sobre todo si hay viaje reciente al extranjero (riesgo de resistencias) o colonización por enterobacterias resistentes a cefalosporinas. _Una MBA «decapitada» (antibiótico previo) se trata como una MBA (SEMES 2012). La ceftriaxona es incompatible con las soluciones con calcio (alerta de la MHRA citada por la NICE)._
 
-### 6.1. Adulto ≤50 años sin factores de riesgo de Listeria, o con fractura de base de cráneo
+### 6.1. Adulto ≤50 años sin factores de riesgo de _Listeria_, o con fractura de base de cráneo
 
 Cubrir neumococo y meningococo (+ _H. influenzae_ en la fractura de base de cráneo).
 
@@ -206,7 +206,7 @@ Alternativas de la ESCMID 2016 (tabla 4.1): ceftriaxona **4 g cada 24 h** en lug
 
 _UpToDate 2025 propone en la alergia grave **vancomicina + moxifloxacino 400 mg IV cada 24 h** (o levofloxacino 750 mg IV cada 24 h) y, tras la primera dosis, pasar a meropenem con dosis de prueba, porque la reactividad cruzada con los carbapenémicos es <1 %. Si se identifica el germen y no se pudo usar el betalactámico de elección, valorar con Alergología la desensibilización (UpToDate 2025). La NICE (1.6.16) propone cloranfenicol, que en España no tiene ninguna presentación IV autorizada (CIMA, consultado el 11/10/2026)._
 
-### 6.2. Adulto >50 años o con factores de riesgo de Listeria
+### 6.2. Adulto >50 años o con factores de riesgo de _Listeria_
 
 > **→ PRIMERA ELECCIÓN** (SEN 2025; ESCMID 2016, tabla 4.1): **VANCOMICINA + C3G + AMPICILINA 2 g IV cada 4 h**. _La SEN 2025 la indica en los >50 años, la inmunodepresión y el etilismo._
 
