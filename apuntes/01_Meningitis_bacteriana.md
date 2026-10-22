@@ -6,7 +6,7 @@ Adquirida en la comunidad · Autor: Juan Arenas
 
 > **Fuentes de esta revisión**: SEN 2025 → Mensa 2026 → ESCMID 2016 → NICE NG240 → SEMES 2012. Lo que no lleva cita procede de la SEN 2025 (capítulos de infecciones bacterianas y víricas).También se ha completado la revisión con UpToDate 2025 (tratamiento inicial de la MBA del adulto). Trazabilidad y pendientes: [FUENTES, §9](FUENTES.md#9-revisión-con-los-extractos-de-mensa-2026).
 >
-> **Capítulos complementarios (pendientes de revisión salvo el 3, revisado el 22/10/2026 con la EAN/ESCMID 2026)**: 2. [Meningitis linfocitaria subaguda](02_Meningitis_linfocitaria_subaguda.md) · 3. [Encefalitis](03_Encefalitis.md) · 4. [Absceso cerebral](04_Absceso_cerebral.md) · 5. [Infecciones parameníngeas y medulares](05_Infecciones_parameningeas_medulares.md) · 6. [Derivaciones de LCR y meningitis posneuroquirúrgica](06_Derivaciones_LCR_posneuroquirurgica.md) · 7. [Infecciones fúngicas y parasitarias](07_Infecciones_fungicas_parasitarias.md) · 8. [Complicaciones de la punción lumbar](08_Complicaciones_puncion_lumbar.md).
+> **Capítulos complementarios (pendientes de revisión)**: 2. [Meningitis linfocitaria subaguda](02_Meningitis_linfocitaria_subaguda.md) · 3. [Encefalitis](03_Encefalitis.md) · 4. [Absceso cerebral](04_Absceso_cerebral.md) · 5. [Infecciones parameníngeas y medulares](05_Infecciones_parameningeas_medulares.md) · 6. [Derivaciones de LCR y meningitis posneuroquirúrgica](06_Derivaciones_LCR_posneuroquirurgica.md) · 7. [Infecciones fúngicas y parasitarias](07_Infecciones_fungicas_parasitarias.md) · 8. [Complicaciones de la punción lumbar](08_Complicaciones_puncion_lumbar.md).
 
 ## 1. Definición y fisiopatología
 
