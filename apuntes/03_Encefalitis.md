@@ -1,6 +1,6 @@
 # ENCEFALITIS AGUDA DEL ADULTO
 
-> **Fuentes (pirámide)**: **EAN/ESCMID 2026 → SEN 2025 → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. Por decisión del autor (22/10/2026), la **guía conjunta de la EAN y la ESCMID de 2026** encabeza la pirámide en este capítulo: es la única guía específica de la encefalitis infecciosa del adulto, usa GRADE y es posterior a la SEN 2025, que no la incorpora. De sus 16 preguntas, **solo dos acaban en una recomendación GRADE** (aciclovir precoz; no sustituir la PCR específica por paneles múltiples) y en una tercera la guía no se pronuncia (corticoides en la herpética); las demás son **declaraciones de buena práctica**, es decir, consenso del grupo con evidencia indirecta y sin grado. Se cita con el número de la pregunta (P1-P16) y el tipo de enunciado: «recomendación» con su fuerza y su certeza, «buena práctica» o «nota práctica» (texto de apoyo de la guía). La **SEN 2025** (cap. 42, infecciones víricas; cap. 44, priones) y la **SEMES 2012** (cap. 19) completan lo que la guía no trata: epidemiología española, inmunodeprimido, LMP, priones y dosis de otros antivirales. La ESCMID 2016 y la NICE 2024 son guías de meningitis bacteriana y solo aportan datos puntuales. Las discrepancias van en *cursiva*. Ver `FUENTES.md`.
+> **Fuentes (pirámide)**: **EAN/ESCMID 2026 → SEN 2025 → ESCMID 2016 → NICE NG240 2024 → SEMES 2012**. Por decisión del autor (22/10/2026), la **guía conjunta de la EAN y la ESCMID de 2026** encabeza la pirámide en este capítulo: es la única guía específica de la encefalitis infecciosa del adulto, usa GRADE y es posterior a la SEN 2025, que no la incorpora. De sus 16 preguntas, **solo dos acaban en una recomendación GRADE** (aciclovir precoz; no sustituir la PCR específica por paneles múltiples) y en una tercera la guía no se pronuncia (corticoides en la herpética); las demás son **declaraciones de buena práctica**, es decir, consenso del grupo con evidencia indirecta y sin grado. Se cita con el número de la pregunta (P1-P16) y el tipo de enunciado: «recomendación» con su fuerza y su certeza, «buena práctica» o «nota práctica» (texto de apoyo de la guía). La **SEN 2025** (cap. 42, infecciones víricas; cap. 44, priones) y la **SEMES 2012** (cap. 19) completan lo que la guía no trata: epidemiología española, inmunodeprimido, LMP, priones y dosis de otros antivirales. La ESCMID 2016 y la NICE 2024 son guías de meningitis bacteriana y solo aportan datos puntuales. Las discrepancias van en *cursiva*. Ver `FUENTES.md` (§10).
 
 ## 1. DEFINICIÓN Y FISIOPATOLOGÍA
 
@@ -486,7 +486,7 @@ Recomendaciones (EAN/ESCMID 2026, P16: buena práctica):
    - _Infecciones víricas del inmunodeprimido (CMV, VHH-6, VEB, LMP) y tabla de inmunosupresores y virus oportunistas._
    - _Perfil del LCR, otros patrones de RM, falsos negativos precoces de la PCR de VHS y serología de los arbovirus._
    - _Dosis del aciclovir, CMV y VHH-6 con dosis, LMP y encefalopatía necrotizante aguda; inmunoglobulinas IV no de rutina._
-   - _Datos dudosos: el intervalo del foscarnet (ver `FUENTES.md`, §6); la dosis alta de aciclovir en el VVZ, citada sin recomendarla y superada por la EAN/ESCMID 2026 (§5.5)._
+   - _Datos dudosos: el intervalo del foscarnet (ver `FUENTES.md`, §6); la dosis alta de aciclovir en el VVZ, citada sin recomendarla y superada por la EAN/ESCMID 2026 (§5.5; `FUENTES.md`, §6)._
 
 4. Enríquez Calzada S, Durán Lozano A. Prionopatías. En: Manual del residente de neurología. Ediciones SEN; 2025. p. 679-86.
 
@@ -504,4 +504,4 @@ Recomendaciones (EAN/ESCMID 2026, P16: buena práctica):
 
    _**Nivel 5:** estructura de urgencias. Aporta la fisiopatología y la incidencia española (3-7/100.000), la etiología en situaciones especiales, la frecuencia de cada síntoma y la forma atípica psiquiátrica, el perfil del LCR con hematíes, las dosis (aciclovir y su dilución, ampicilina + doxiciclina, cotrimoxazol, ganciclovir, foscarnet), el soporte y los criterios de ingreso, UCI y observación._
 
-   - _Superado por la EAN/ESCMID 2026 en: imagen inmediata antes de la PL en toda sospecha, repetir la PL a las 24 h y sensibilidad del 95-98 % de la RM precoz con la PCR de VHS; por la SEN 2025 y la EAN/ESCMID 2026, en la dexametasona para la herpética (§5.8)._
+   - _Superado por la EAN/ESCMID 2026 en: imagen inmediata antes de la PL en toda sospecha, repetir la PL a las 24 h y sensibilidad del 95-98 % de la RM precoz con la PCR de VHS; por la SEN 2025 y la EAN/ESCMID 2026, en la dexametasona para la herpética (§5.8). Lista completa en `FUENTES.md`, §5._
