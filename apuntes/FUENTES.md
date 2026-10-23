@@ -1,5 +1,7 @@
 # FUENTES DE LOS APUNTES
 
+> **Decisión del autor (22/10/2026), capítulo 3 revisado**: la **guía EAN/ESCMID 2026 de encefalitis infecciosa del adulto** encabeza la pirámide en todo lo referente a la encefalitis (capítulo 3): **EAN/ESCMID 2026 → SEN 2025 → ESCMID 2016 → NICE NG240 → SEMES 2012**. Se cita con el número de su pregunta y el tipo de enunciado: recomendación (fuerza y certeza GRADE), buena práctica o nota práctica. No se extrapola a la meningitis: el capítulo 1 sigue con la ESCMID 2016 en la TC antes de la PL y en las contraindicaciones de la PL. Las referencias del capítulo 3 pasan a formato Vancouver. Detalle en el §10.
+>
 > **Decisión del autor (07/10/2026), capítulo 1 revisado (Word V5)**: la **SEMES 2012** se considera una referencia de baja calidad. En el capítulo 1 solo se cita donde es la única fuente: incidencia, clasificación por el curso, exploración inicial, presentación atípica en el neutropénico, radiografía de tórax, LCR normal, MBA decapitada, monitorización, corticoides en el shock con insuficiencia suprarrenal, criterios de ingreso y observación, aviso a Salud Pública, definición de los contactos y dosis de rifampicina para Hib. Sus cifras de contraste y sus posturas superadas salen del capítulo y constan solo aquí (§3 y §5). El uso de Mensa 2026 no se amplía a las pautas antibióticas: sus discrepancias se anotan (§9.5).
 >
 > **Decisión del autor (06/10/2026), capítulo 1 revisado (Word V3)**: la **SEN 2025 es la fuente de referencia y solo se cita cuando otra fuente dice algo distinto**; Mensa se cita como **Mensa 2026** y las referencias pasan a formato Vancouver; la resistencia local se cita como **informes internos de la FJD (2024)**; en el **manitol** para la HTIC se sigue a la ESCMID 2016 (§1); las notas sobre la redacción y los pendientes salen del capítulo y quedan aquí (§9.4). Los capítulos 2-8 conservan el formato anterior hasta su revisión.
@@ -17,16 +19,18 @@ Ante una discrepancia **manda la fuente situada más arriba**; lo que una fuente
 - **Excepción de manitol en la HTIC de la MBA (capítulo 1)**: por decisión del autor (06/10/2026) se sigue a la **ESCMID 2016**, que no recomienda su uso adyuvante rutinario (grado D) ni da pauta de rescate o dosis. El capítulo explicita las demás posturas: NICE (osmóticos solo como medida temporal ante HTIC con riesgo de herniación), SEN 2025 (valorar manitol IV) y Mensa 2026 (1-2 g/kg IV en 30-60 min).
 - **Excepción de crisis epilépticas en meningitis**: el texto principal recoge exclusivamente lo respaldado por SEN. La propuesta de Mensa de considerar profilaxis neumocócica y sus pautas solo aparecen en una aclaración en cursiva. No se atribuye a SEN la recomendación de ESCMID contra la profilaxis rutinaria.
 - **Excepción: absceso cerebral (capítulo 4).** Manda la **ESCMID 2024**, y la SEN 2025 queda por encima de la SEMES: **ESCMID 2024 → SEN 2025 → SEMES 2012**. *El capítulo de absceso de la SEN 2025 se redactó antes de que saliera la ESCMID 2024 (su bibliografía se consultó en abril de 2023) y no la incorpora; la ESCMID 2024 se basa en una revisión sistemática con GRADE.*
+- **Encefalitis (capítulo 3): la EAN/ESCMID 2026 encabeza la pirámide** (decisión del autor, 22/10/2026): **EAN/ESCMID 2026 → SEN 2025 → ESCMID 2016 → NICE NG240 → SEMES 2012**. *Es la única guía específica de la encefalitis infecciosa del adulto, se basa en una revisión sistemática con GRADE y es posterior a la SEN 2025, que no la incorpora. Pero solo 2 de sus 16 preguntas acaban en recomendación, ambas con certeza baja; el resto son declaraciones de buena práctica (consenso con evidencia indirecta), y así se citan. Su ámbito es la encefalitis infecciosa del adulto: no se extrapola a la meningitis ni a los demás capítulos.*
 
 | Nivel | Fuente | Qué es | Qué aporta sobre todo |
 |---|---|---|---|
-| **1** | **SEN 2025**. *Manual del Residente de Neurología* de la Sociedad Española de Neurología, bloque V (infecciones del sistema nervioso), caps. 40-44, p. 619-686 (ver §1.1) | Manual formativo español, de expertos y sin grados de recomendación. Muchas tablas están adaptadas del capítulo de infecciones del SNC del *Tratado de Medicina Interna Farreras-Rozman* (2023). Su bibliografía se consultó en 2023: no incorpora la ESCMID 2024 ni la NICE 2024 | Meningitis agudas y crónicas (tuberculosis, *Brucella*, sífilis, Lyme, leptospira) con sus pautas, absceso cerebral, empiemas, absceso epidural espinal, infecciones víricas del inmunodeprimido, infecciones fúngicas y parasitarias, y priones. También una tabla de dosis y penetración en el LCR, la duración por germen y la meningitis nosocomial |
+| **1 en encefalitis** | **EAN/ESCMID 2026 (encefalitis)**. Granerod J, et al. *Diagnosis and management of infectious encephalitis in adults: guidelines from the European Academy of Neurology and European Society of Clinical Microbiology and Infectious Diseases.* Eur J Neurol. 2026;33(10):e70647. PMID 42851210 · [DOI](https://doi.org/10.1111/ene.70647). *Copublicada en Clin Microbiol Infect. 2026 (Epub 9 jul): PMID 42854782 · [DOI](https://doi.org/10.1016/j.cmi.2026.03.009)* | Guía europea conjunta de la EAN y la ESCMID con revisión sistemática (hasta enero de 2024) y **GRADE**: 2 recomendaciones (certeza baja), 1 pregunta sin recomendación y 13 declaraciones de buena práctica. Sin autores españoles | **Guía principal de la encefalitis**, también por encima de la SEN 2025: aciclovir (momento, retirada, duración, resistencia, VVZ), PL e imagen, PCR específica frente a panel, anticuerpos en el LCR, EEG, biopsia, corticoides, crisis, UCI, recaída autoinmune y rehabilitación |
+| **1** | **SEN 2025**. *Manual del Residente de Neurología* de la Sociedad Española de Neurología, bloque V (infecciones del sistema nervioso), caps. 40-44, p. 619-686 (ver §1.1) | Manual formativo español, de expertos y sin grados de recomendación. Muchas tablas están adaptadas del capítulo de infecciones del SNC del *Tratado de Medicina Interna Farreras-Rozman* (2023). Su bibliografía se consultó en 2023: no incorpora la ESCMID 2024, la NICE 2024 ni la EAN/ESCMID 2026 | Meningitis agudas y crónicas (tuberculosis, *Brucella*, sífilis, Lyme, leptospira) con sus pautas, absceso cerebral, empiemas, absceso epidural espinal, infecciones víricas del inmunodeprimido, infecciones fúngicas y parasitarias, y priones. También una tabla de dosis y penetración en el LCR, la duración por germen y la meningitis nosocomial |
 | **2** | **ESCMID 2016 (meningitis)**. van de Beek D, et al. *ESCMID guideline: diagnosis and treatment of acute bacterial meningitis.* Clin Microbiol Infect. 2016;22 Suppl 3:S37-62. PMID 27062097 · [DOI](https://doi.org/10.1016/j.cmi.2016.01.007) | Guía europea con revisión sistemática; niveles de evidencia 1-3 y grados A-D (no GRADE) | Árbitro en lo que la SEN 2025 no detalla; rendimiento diagnóstico; ecología europea |
 | **2** | **ESCMID 2024 (absceso cerebral)**. Bodilsen J, et al. *European Society of Clinical Microbiology and Infectious Diseases guidelines on diagnosis and treatment of brain abscess in children and adults.* Clin Microbiol Infect. 2024;30(1):66-89. PMID 37648062 · [DOI](https://doi.org/10.1016/j.cmi.2023.08.016). *Corrección publicada: PMID 38309325 · [DOI](https://doi.org/10.1016/j.cmi.2024.01.026). Respuesta de los autores a una carta al editor: Clin Microbiol Infect. 2024;30:149-50 · [DOI](https://doi.org/10.1016/j.cmi.2023.10.012)* | Guía europea con revisión sistemática y metaanálisis; **GRADE** (recomendación fuerte o condicional; certeza alta a muy baja). Coautores españoles (Hospital del Mar, Hospital 12 de Octubre) | **Guía principal del absceso cerebral**, también por encima de la SEN 2025: diagnóstico, momento del antibiótico respecto a la punción, pauta empírica, cirugía, duración, corticoides y antiepilépticos |
 | **3** | **NICE NG240 (2024)**. *Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management.* 19/03/2024 | Guía británica con metodología GRADE; recomendaciones numeradas. Excluye, entre otros, inmunodeficiencia, derivaciones intracraneales y neurocirugía previa | Reconocimiento, tiempos, pruebas, neuroimagen, duración por germen, soporte, alta y seguimiento |
 | **4** | **SEMES 2012**. Julián Jiménez A (coord.). *Manejo de Infecciones en Urgencias.* Edicomplet-SEMES; 2012, caps. 18-23 | Manual español de urgencias | Estructura de actuación; ingreso y observación; dosis que no dan las fuentes superiores; capítulos que no cubren las otras tres |
 
-*La tabla conserva los niveles generales. Solo en esta revisión, Mensa ocupa el nivel 2 y ESCMID 2016, NICE y SEMES pasan a los niveles 3, 4 y 5. Mensa es un acceso parcial mediante dos extractos, sin páginas ni grados disponibles; no se ha consultado la guía completa.*
+*La tabla conserva los niveles generales. En la encefalitis, la SEN 2025 pasa al nivel 2 y ESCMID 2016, NICE y SEMES a los niveles 3, 4 y 5. Solo en la revisión con Mensa, Mensa ocupa el nivel 2 y ESCMID 2016, NICE y SEMES pasan a los niveles 3, 4 y 5. Mensa es un acceso parcial mediante dos extractos, sin páginas ni grados disponibles; no se ha consultado la guía completa.*
 
 ### 1.1. Capítulos de la SEN 2025
 
@@ -46,7 +50,7 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 |---|---|---|---|---|
 | 1. Meningitis bacteriana → `01_Meningitis_bacteriana.md` ✅ | ✔ (cap. 40; perfil de LCR vírico y aciclovir, cap. 42) | ✔ 2016 | ✔ | ✔ (cap. 18) |
 | 2. Meningitis linfocitaria, subaguda y crónica → `02_Meningitis_linfocitaria_subaguda.md` ✅ | ✔ (caps. 40 y 42; criptococo en el 43) | 2016: diagnóstico diferencial | Diagnóstico diferencial | ✔ (cap. 18) |
-| 3. Encefalitis → `03_Encefalitis.md` ✅ | ✔ (cap. 42; clínica, cap. 40; priones, cap. 44) | — | Solo aciclovir (1.6.7) | ✔ (cap. 19) |
+| 3. Encefalitis → `03_Encefalitis.md` ✅ | ✔ (cap. 42; clínica, cap. 40; priones, cap. 44), **por debajo de la EAN/ESCMID 2026** | ✔ **EAN/ESCMID 2026** (guía principal); 2016: lactato | Solo aciclovir (1.6.7) | ✔ (cap. 19) |
 | 4. Absceso cerebral → `04_Absceso_cerebral.md` ✅ | ✔ (cap. 41), **por debajo de la ESCMID 2024** | ✔ **2024** (guía principal) | — | ✔ (cap. 20) |
 | 5. Infecciones parameníngeas y medulares → `05_Infecciones_parameningeas_medulares.md` ✅ | ✔ (cap. 41: empiemas y absceso epidural; cap. 42: mielitis víricas) | 2016: empiema y trombosis de senos como complicación de la meningitis | — | ✔ (caps. 21-22) |
 | 6. Derivaciones de LCR / posneuroquirúrgica → `06_Derivaciones_LCR_posneuroquirurgica.md` ✅ | ✔ (cap. 40: meningitis nosocomial, duración, retirada y reimplante) | 2024: absceso posneuroquirúrgico (remite al cap. 4) | **Excluidas de su alcance** | ✔ (cap. 23) |
@@ -55,8 +59,8 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 
 **Cobertura adicional de Mensa 2026:** capítulo 1, únicamente la revisión descrita en §9; capítulo 7, **solo HTIC criptocócica**; capítulo 8, complicaciones de PL. Ningún otro capítulo incorpora sus extractos.
 
-> **Criterios vigentes (actualizados el 04/10/2026)**:
-> - "ESCMID" incluye la **guía ESCMID 2024 de absceso cerebral**, que encabeza el capítulo 4.
+> **Criterios vigentes (actualizados el 22/10/2026)**:
+> - "ESCMID" incluye la **guía ESCMID 2024 de absceso cerebral**, que encabeza el capítulo 4, y la **guía conjunta EAN/ESCMID 2026 de encefalitis**, que encabeza el capítulo 3 (§10).
 > - "SEN" se refiere exclusivamente al **Manual del Residente de Neurología de 2025** (caps. 40-44), en el nivel 1; en el absceso cerebral manda la ESCMID 2024 (ver §1).
 > - Se crea el **capítulo 7 (infecciones fúngicas y parasitarias)**, basado en el capítulo 43 de la SEN 2025.
 > - La **respuesta de los autores de la ESCMID 2024** a una carta al editor (Boyer et al., Clin Microbiol Infect. 2024;30:147-8) se trata como parte de la guía: aclara que, con bajo riesgo de gramnegativos multirresistentes, la cefalosporina antipseudomónica + vancomicina o linezolid es igual de adecuada que el meropenem en el absceso posneuroquirúrgico. La carta en sí no se cita como fuente.
@@ -65,6 +69,8 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 > *Texto completo de la ESCMID 2024 leído (01/10/2026) y verificado de nuevo contra el PDF original ese mismo día, con la **corrección** incluida: la certeza de la evidencia de la pregunta clave 4 (aspiración o exéresis) es **moderada**, no "baja" como decían el resumen y la tabla 1. **Inconsistencia no corregida** en la pregunta clave 5 (tratamiento empírico): el resumen y la tabla 1 dan certeza moderada (comunitario) y baja (inmunodeprimido grave, posneuroquirúrgico); el texto principal da baja y muy baja. En los apuntes se indican ambas. Las dosis están en el material suplementario (tabla S10), que no está en el PDF de la guía ni en el número completo de la revista (vol. 30, n.º 1); se usan las de la SEMES 2012. La guía no da una pauta propia para el absceso por endocarditis (§4).*
 >
 > *Texto completo de la SEN 2025 (caps. 40-44) leído el 01/10/2026.*
+>
+> *Texto completo de la EAN/ESCMID 2026 (versión de Eur J Neurol, 28 páginas) leído el 22/10/2026. No se ha revisado su material suplementario (apéndice S1: protocolo, búsquedas, tablas de evidencia y de resumen de hallazgos).*
 
 ## 3. Discrepancias ya resueltas por la pirámide (capítulo 1)
 
@@ -105,8 +111,15 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 | 2 | *Brucella* | **Rifampicina + doxiciclina + gentamicina 2 semanas; después rifampicina + doxiciclina hasta ≥8 semanas** (SEN 2025) | SEMES 2012: doxiciclina + rifampicina ± aminoglucósido |
 | 2 | Lyme | **Doxiciclina VO 14-21 días** en las formas leves; **ceftriaxona 2 g cada 24 h, 14-28 días**, en las graves (SEN 2025) | SEMES 2012: ceftriaxona 2 g cada 12 h |
 | 2 | Meningitis por VHS-2 o VVZ en el inmunocompetente | Aciclovir IV y paso a **valaciclovir 1 g cada 12 h VO**, 10-14 días en total (SEN 2025) | ⚠️ La SEN 2025 también da 14-21 días IV en la frase anterior; se conserva la ambigüedad y se indica confirmarla con Infecciosas |
-| 3 | Corticoides en la encefalitis herpética | **No de rutina** (SEN 2025: evidencia insuficiente) | SEMES 2012: dexametasona |
-| 3 | CMV en el inmunodeprimido | **Ganciclovir 5 mg/kg cada 12 h + foscarnet 90 mg/kg combinados**, 2-3 semanas (SEN 2025, sin intervalo para el foscarnet) | SEMES 2012: ganciclovir y/o foscarnet 60 mg/kg cada 8 h |
+| 3 | Corticoides en la encefalitis herpética | **No de rutina** (SEN 2025: evidencia insuficiente). La EAN/ESCMID 2026 no los recomienda ni los desaconseja tras GACHE y DexEnceph (P11), y considera improbable que perjudiquen los dados de forma empírica por otra sospecha | SEMES 2012: dexametasona |
+| 3 | CMV en el inmunodeprimido | **Ganciclovir 5 mg/kg cada 12 h + foscarnet 90 mg/kg combinados**, 2-3 semanas (SEN 2025, sin intervalo para el foscarnet) | EAN/ESCMID 2026 (tabla 8, sin dosis ni grado): ganciclovir o foscarnet. SEMES 2012: ganciclovir y/o foscarnet 60 mg/kg cada 8 h |
+| 3 | PCR múltiple en el LCR | **No sustituye a la PCR específica de VHS**; si el panel da negativo para el VHS-1, pedir la específica (EAN/ESCMID 2026, P5: condicional en contra, certeza baja) | SEN 2025: panel múltiple si está disponible, con aviso de sus falsos negativos |
+| 3 | Imagen y PL | **PL lo antes posible; imagen previa solo con datos de HTIC con riesgo de desplazamiento (tabla 5)**; RM idealmente en <24 h y siempre en <48 h (EAN/ESCMID 2026, P3 y P7: buena práctica) | SEMES 2012: imagen inmediata en toda sospecha y PL después. La tabla 5 incluye los pares craneales, que la ESCMID 2016 excluye en la meningitis (el capítulo 1 sigue a la ESCMID 2016) |
+| 3 | Segunda PL | **A los 2-3 días (≈48 h)** si la primera no es diagnóstica, se hizo en los 3 primeros días y persiste la sospecha (EAN/ESCMID 2026, P4: buena práctica) | SEMES 2012: a las 24 h |
+| 3 | Aciclovir y las 6 h | **Lo antes posible, idealmente en <6 h desde la llegada, sin retrasarlo por la imagen ni la PL** (EAN/ESCMID 2026, P9: fuerte, certeza baja; P3: buena práctica) | Compatibles: nota práctica de la EAN (dentro de las 6 h puede esperarse a la imagen); SEN 2025 (en <6 h si no hay LCR ni RM); SEMES 2012 (de inmediato) |
+| 3 | Duración del aciclovir | **Mínimo 14 días; 21-28 si no mejora, empeora o es inmunodeprimido** (EAN/ESCMID 2026, P10: buena práctica) | SEMES 2012: 14-21 días según la evolución (compatible) |
+| 3 | Dosis en la encefalitis por VVZ | **10 mg/kg IV cada 8 h** (EAN/ESCMID 2026, P12: buena práctica) | SEN 2025: cita 15 mg/kg de una guía británica sin hacerlo suyo |
+| 3 | Tuberculosis como causa de encefalitis | Remite al **capítulo 2** (SEN 2025: etambutol solo con fracaso previo o procedencia de zona de multirresistencia), con Infecciosas | EAN/ESCMID 2026 (tabla 8, sin grado): rifampicina, isoniazida, pirazinamida y etambutol o una fluoroquinolona, con dexametasona. *No cambia el capítulo 2, fuera del ámbito de la guía* |
 | 4 | Absceso comunitario sin foco conocido | **C3G + metronidazol, sin vancomicina** (ESCMID 2024) | SEN 2025 y SEMES 2012: añadir vancomicina |
 | 4 | Profilaxis antiepiléptica | **No** (ESCMID 2024) | SEN 2025: "algunos autores" la mantienen 1 año; SEMES 2012: en las lesiones corticales |
 | 4 | Cirugía | **Aspiración o exéresis siempre que sea factible** (ESCMID 2024) | SEN 2025: puede omitirse si mide <2,5 cm, GCS >12 y el germen es conocido |
@@ -126,7 +139,14 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - **Rifampicina añadida a la vancomicina si se da dexametasona** → no lo recogen la SEN ni la NICE; la ESCMID usa la rifampicina como alternativa a la vancomicina.
 - **Rifampicina contraindicada en todo el embarazo** (profilaxis) → SEN 2025 y ESCMID: a partir del primer trimestre.
 - **Aislamiento respiratorio de toda sospecha de meningitis bacteriana** → SEN 2025: solo si se sospecha meningococo, las primeras 24 h de tratamiento.
-- **Encefalitis herpética**: dexametasona → la SEN 2025 **no recomienda los corticoides de rutina**.
+- **Encefalitis herpética**: dexametasona → la SEN 2025 **no recomienda los corticoides de rutina** y la EAN/ESCMID 2026 no puede recomendarlos ni desaconsejarlos.
+- **Encefalitis** (superado por la EAN/ESCMID 2026, 22/10/2026; retirado del capítulo 3 o anotado en cursiva):
+  - Imagen inmediata ante toda sospecha y PL después → **PL lo antes posible e imagen previa solo con criterios** (tabla 5).
+  - Repetir la PL a las 24 h si el LCR es normal en fases precoces → **a los 2-3 días**, lo más cerca posible de las 48 h.
+  - «La RM precoz junto con la PCR de VHS alcanza una sensibilidad del 95-98 %, incluso en fases iniciales» → **retirado**: la guía advierte de PCR falsamente negativas en los primeros días y de una precisión incierta de la imagen.
+  - «La PCR y la RM han sustituido a la biopsia» → **la biopsia no tiene lugar en la valoración inicial**, pero sí en el paciente que empeora sin diagnóstico.
+  - EEG «casi nunca en urgencias» → **no de rutina**, pero sí con dudas entre cuadro psiquiátrico y orgánico o sospecha de estado no convulsivo.
+  - Fenitoína IV para las crisis → **fármaco según las guías habituales de epilepsia**; sin profilaxis primaria.
 - **Antiepilépticos profilácticos** en la meningitis: aplicar la excepción editorial de §1. *ESCMID 2016 desaconseja la profilaxis rutinaria (grado D), mientras Mensa propone considerarla en neumocócica; SEN no se pronuncia específicamente en su apartado de MBA.*
 - **Manitol en MBA**: se retira la pauta de SEMES; se sigue a la ESCMID 2016 (sin uso adyuvante rutinario) y la dosis de Mensa (**1-2 g/kg IV en 30-60 min**) se recoge como postura de esa fuente (§1).
 - **Paracetamol 1-2 g IV cada 6-8 h**: retirado del contenido terapéutico por pauta problemática; Mensa solo recomienda tratar la fiebre elevada, sin proporcionar dosis sustitutiva. No se ha presentado una comprobación farmacológica CIMA/AEMPS como realizada.
@@ -157,7 +177,8 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 ## 6. Limitaciones y posibles erratas de la SEN 2025
 
 *Se señalan en el capítulo correspondiente; ninguna se ha trasladado a los apuntes como dato firme:*
-- *Es anterior a la ESCMID 2024 y a la NICE 2024 (bibliografía consultada en 2023), y es un manual formativo sin grados de recomendación.*
+- *Es anterior a la ESCMID 2024, a la NICE 2024 y a la EAN/ESCMID 2026 (bibliografía consultada en 2023), y es un manual formativo sin grados de recomendación.*
+- *Encefalitis por VVZ: cita, sin hacerla suya, la dosis de 15 mg/kg cada 8 h de una guía británica; la EAN/ESCMID 2026 fija 10 mg/kg (capítulo 3).*
 - *Meningitis por VHS y VVZ: da 14-21 días de aciclovir IV en una frase y 10-14 días en total (con paso a valaciclovir) en la siguiente (capítulo 2).*
 - *Intervalos que faltan: foscarnet 90 mg/kg en el CMV y penicilina G procaína en la neurosífilis.*
 - *Dosis de cloxacilina de su tabla de meningitis (4-6 g/día), muy inferior a la de la ampicilina (12-15 g/día) en la misma tabla e inferior a la que usa la SEMES 2012 en las infecciones estafilocócicas del SNC (2 g cada 4 h). La ficha técnica española no da una pauta meníngea: 500 mg-1 g cada 6-8 h, ampliables según la gravedad (CIMA, Cloxacilina Normon 1 g, n.º de registro 63636, https://cima.aemps.es/cima/dochtml/ft/63636/FT_63636.html, consultada el 07/10/2026; comprobación farmacológica oficial, no recomendación de las guías). Señalada en el capítulo 1 (§6.6) como posible errata.*
@@ -176,6 +197,8 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
 - *INFURG-SEMES 2026 (Antibioterapia empírica en infecciones prevalentes): no tiene capítulo de infecciones del SNC.*
 - *Anexo A de la revisión de evidencia ER24 de la NICE: es solo un protocolo, sin recomendaciones.*
 - *Las guías que cita la SEN 2025 (OMS 2022 de criptococo, IDSA de candidiasis, aspergilosis y neurocisticercosis, guía británica de encefalitis de 2012, criterios de los CDC de 2018 para los priones) se citan solo a través de ella.*
+- *Guías de encefalitis superadas por la EAN/ESCMID 2026, que las sustituye y no se usan: Steiner I, Budka H, Chaudhuri A, Koskiniemi M, Sainio K, Salonen O, et al. Viral meningoencephalitis: a review of diagnostic methods and guidelines for management. Eur J Neurol. 2010;17(8):999-e57. doi:10.1111/j.1468-1331.2010.02970.x (PMID 20236175), y Solomon T, Michael BD, Smith PE, Sanderson F, Davies NWS, Hart IJ, et al. Management of suspected viral encephalitis in adults: Association of British Neurologists and British Infection Association National Guidelines. J Infect. 2012;64(4):347-73. doi:10.1016/j.jinf.2011.11.014 (PMID 22120595).*
+- *Metaanálisis de corticoides en la encefalitis herpética posterior a la guía (Zhang D, et al. J Neurol. 2026;273(10); doi:10.1007/s00415-026-14128-x), localizado en PubMed al comprobar las referencias (22/10/2026): solo se leyó el resumen y no se usa (fuera de la pirámide). Su conclusión (no apoya el uso rutinario, sin poder descartar beneficio ni daño) coincide con la del capítulo 3.*
 
 ## 8. Ecología local (2024)
 
@@ -280,3 +303,63 @@ Todos en: *Manual del Residente de Neurología.* Sociedad Española de Neurolog�
   - La revisión con UpToDate: el §10 nuevo y los añadidos al §6 y al §9.2 que propone `Propuesta_UpToDate_0.5.md` (apartado D). `BIBLIOGRAFIA.md` tampoco recoge aún UpToDate.
   - Las notas que `Cambios_pendientes_0.5.md` deja para este archivo (cambios 1, 2, 5 y 7).
 - **Copias de seguridad:** `.copias/sincronizacion-0.6-20261015-094735/` (Markdown del capítulo 1, este archivo, el README y `CLAUDE.md` antes de los cambios del 15/10/2026, con SHA-256).
+
+## 10. Revisión del 22/10/2026: capítulo 3 con la EAN/ESCMID 2026
+
+### 10.1. Alcance y acceso
+
+- **Decisión del autor (22/10/2026):** la EAN/ESCMID 2026 encabeza la pirámide en la encefalitis (capítulo 3): **EAN/ESCMID 2026 → SEN 2025 → ESCMID 2016 → NICE NG240 → SEMES 2012** (§1). Su ámbito es la encefalitis infecciosa del adulto. No se extrapola a los demás capítulos: en la meningitis (capítulo 1) siguen rigiendo los criterios de TC antes de la PL de la ESCMID 2016.
+- **Acceso:** PDF de la versión de *Eur J Neurol* (28 páginas) aportado por el autor y leído completo, incluidas las tablas 1-8 y la figura 1. **No se ha revisado el material suplementario** (apéndice S1: protocolo, estrategias de búsqueda, tablas de evidencia y de resumen de hallazgos).
+- **Comprobación en PubMed (22/10/2026):**
+  - Guía: *Eur J Neurol.* 2026;33(10):e70647; PMID 42851210, PMC13650609.
+  - Copublicación: *Clin Microbiol Infect.* 2026 (Epub 9 jul); PMID 42854782, todavía sin volumen ni páginas. La guía indica que ambas versiones son idénticas salvo en el estilo y que puede citarse cualquiera.
+  - DexEnceph: PMID 41579900. GACHE: PMID 33324892.
+  - Guías superadas (§7): EFNS 2010, PMID 20236175; ABN/BIA 2012, PMID 22120595.
+
+### 10.2. Cómo se cita
+
+- En el texto, **«EAN/ESCMID 2026»**, con el número de la pregunta (P1-P16) y el tipo de enunciado:
+  - «recomendación» con su fuerza y su certeza GRADE (P5 y P9);
+  - «sin recomendación» (P11);
+  - «buena práctica» (las 13 declaraciones de consenso);
+  - «nota práctica» (texto de apoyo de la guía: notas prácticas, justificación y subgrupos).
+- Las tablas y la figura se citan por su número (p. ej., «EAN/ESCMID 2026, tabla 5»).
+- Los ensayos que el capítulo nombra (DexEnceph y GACHE) se citan a través de la guía, como exige el §1, y figuran bajo su referencia.
+- **Atribución en el capítulo 3:** cada dato conserva su fuente. La regla del capítulo 1 de citar la fuente principal solo cuando otra discrepa no se aplica: la guía distingue recomendaciones y declaraciones de buena práctica, y esa distinción tiene que verse.
+- **Referencias:** formato Vancouver, numeradas y con el DOI enlazado, como en el capítulo 1.
+
+### 10.3. Cambios en el capítulo 3
+
+- **Nuevo o reescrito según la guía:**
+  - Sospecha clínica (P1).
+  - Pistas clínicas y de exposición (tablas 3 y 4; nuevo §3.2).
+  - PL e imagen, con la tabla 5 de contraindicaciones (P3, P7).
+  - Segunda PL a los 2-3 días (P4).
+  - PCR específica frente a panel múltiple (P5).
+  - Anticuerpos en el LCR (P5a, tabla 6).
+  - Patrones de RM (tabla 7).
+  - EEG (P8) y biopsia (P6).
+  - Aciclovir: momento (P9), criterios de retirada con el algoritmo de la figura 1 (P9a), duración (P10), resistencia (P10a) y dosis en el VVZ (P12).
+  - Cobertura añadida (tabla 8).
+  - Corticoides en la herpética, con GACHE y DexEnceph (P11).
+  - Profilaxis anticrisis (P13) y UCI (P14).
+  - Recaída autoinmune tras la herpética (P15; nuevo §6.2).
+  - Alta y rehabilitación (P16; nuevo §6.3).
+- **Renumeración:** priones pasa al §4.4. El tratamiento se divide en los §5.1-5.8. El §6 pasa a ser «Ingreso, UCI y seguimiento».
+- **Retirado de la SEMES 2012:** ver el §5. Se conservan su incidencia española, la frecuencia de los síntomas, la forma atípica, el perfil del LCR con hematíes, las dosis que la guía no da, el soporte y los criterios de ingreso y observación.
+- **Se mantiene de la SEN 2025** lo que la guía no trata: inmunodeprimido y LMP, tabla de inmunosupresores, CMV y VHH-6 con dosis, encefalopatía necrotizante aguda, priones y epidemiología.
+- **Unidades:** los recuentos de CD4 pasan de /mm³ a /µL, como pide la guía de estilo (son equivalentes).
+
+### 10.4. Interpretaciones y límites
+
+- **El 76 % del VHS-1 en el panel FilmArray ME** procede de «un metaanálisis de 3 estudios (6.883 participantes)» que recoge la guía. El texto no aclara si el agrupamiento es suyo o el de la revisión sistemática que incluye (evaluada en su tabla S5.7, no revisada), así que el capítulo lo atribuye a la guía sin nombrar el estudio.
+- **Aciclovir y las 6 h:** la declaración de buena práctica de P3 pide no retrasarlo por la imagen ni por la PL. Una nota práctica de la misma pregunta admite esperar a la imagen dentro de las 6 h. El capítulo da la declaración como texto principal y la nota en cursiva. La frase «las tres coinciden en no retrasarlo más allá de las 6 h» es una síntesis de esta revisión, no una cita de ninguna fuente.
+- **Dosis del aciclovir en la herpética:** la guía no la da (tabla 8: «aciclovir IV»). Los 10 mg/kg IV cada 8 h proceden de la SEN 2025 y la SEMES 2012. La dosis estándar de 10 mg/kg de la P12 se refiere al VVZ.
+- **Tuberculosis:** la tabla 8 (sin grado) incluye el etambutol o una fluoroquinolona de entrada, a diferencia de la SEN 2025. Por estar fuera del ámbito de la guía, no cambia el capítulo 2 (§4).
+- **Pendiente:** revisar el apéndice S1 si se quiere comprobar la certeza de cada estimación o los estudios incluidos.
+
+### 10.5. Archivos modificados
+
+Por indicación del autor (22/10/2026), solo `apuntes/03_Encefalitis.md`, este archivo y `README.md`. No se tocan los demás capítulos. `BIBLIOGRAFIA.md`, `apuntes/00_INDICE.md` y `plantillas/GUIA_DE_ESTILO.md` tampoco cambian en esta revisión, así que **siguen describiendo la jerarquía anterior para la encefalitis** y no recogen la EAN/ESCMID 2026; queda pendiente actualizarlos si el autor lo decide.
+
+*Numeración: el «§10 nuevo» que propone `Propuesta_UpToDate_0.5.md` (§9.6) pasaría a ser el §11.*

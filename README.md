@@ -6,16 +6,19 @@ Apuntes de **infecciones del sistema nervioso central (SNC) para urgencias**, ce
 
 ## Fuentes y jerarquía
 
-Todo dato procede de una fuente autorizada. Ante una discrepancia **manda la situada más arriba**; lo que una fuente superior no concreta puede completarse con la siguiente, sin atribuir a la primera lo que no dice. La discrepancia se anota en *cursiva*. **La SEN 2025 es la fuente de referencia: en los capítulos revisados (por ahora, el 1) solo se cita cuando otra fuente dice algo distinto**; los capítulos 2-8 conservan la atribución de cada dato hasta su revisión. Esta es la jerarquía general:
+Todo dato procede de una fuente autorizada. Ante una discrepancia **manda la situada más arriba**; lo que una fuente superior no concreta puede completarse con la siguiente, sin atribuir a la primera lo que no dice. La discrepancia se anota en *cursiva*. **La SEN 2025 es la fuente de referencia, salvo en la encefalitis (EAN/ESCMID 2026) y el absceso cerebral (ESCMID 2024).** En el capítulo 1 solo se cita cuando otra fuente dice algo distinto; los demás capítulos atribuyen cada dato a su fuente. Esta es la jerarquía general:
 
 | Nivel | Fuente | Por qué ocupa ese nivel |
 |---|---|---|
-| **1** | **SEN 2025**: *Manual del Residente de Neurología* (caps. 40-44) de la Sociedad Española de Neurología | Referencia española principal: meningitis agudas y crónicas, absceso, empiemas e infecciones víricas, fúngicas y parasitarias |
+| **1 en encefalitis** | **EAN/ESCMID 2026**: guía europea de la encefalitis infecciosa del adulto (European Academy of Neurology y ESCMID) | **Encabeza la pirámide en todo lo referente a la encefalitis** (capítulo 3), por decisión del autor (22/10/2026): es la única guía específica, usa GRADE y es posterior a la SEN 2025. Solo tiene 2 recomendaciones GRADE (certeza baja); el resto son declaraciones de buena práctica. No se extrapola a otros capítulos |
+| **1** | **SEN 2025**: *Manual del Residente de Neurología* (caps. 40-44) de la Sociedad Española de Neurología | Referencia española principal: meningitis agudas y crónicas, absceso, empiemas e infecciones víricas, fúngicas y parasitarias. En la encefalitis pasa al nivel 2 |
 | **2** | **ESCMID 2016** (meningitis bacteriana aguda) y **ESCMID 2024** (absceso cerebral) | Guías europeas con revisión sistemática; árbitro de lo que la SEN no detalla. La de 2024 es la guía principal del absceso cerebral y, **solo en ese capítulo, manda también sobre la SEN 2025**, que se redactó antes y no la incorpora |
 | **3** | **NICE NG240 (2024)**: meningitis bacteriana y enfermedad meningocócica | Guía con metodología GRADE; reconocimiento, tiempos, pruebas, alta y seguimiento |
 | **4** | **SEMES 2012**: *Manejo de Infecciones en Urgencias*, caps. 18-23 | Estructura de actuación en urgencias y lo que no cubren las otras tres |
 
 **Revisión con Mensa (05/10/2026):** en los apartados revisados de meningitis bacteriana, las complicaciones de PL y la HTIC criptocócica se aplica **SEN 2025 → Mensa 2026 → ESCMID 2016 → NICE NG240 → SEMES 2012**. De **Mensa 2026** solo se dispone de dos fragmentos; no se ha leído la guía completa. En **crisis epilépticas**, el texto principal se limita a SEN y la propuesta de Mensa de considerar profilaxis neumocócica queda en cursiva. En el **manitol para la HTIC** se sigue a la ESCMID 2016 por decisión del autor (06/10/2026), y el capítulo 1 explica la postura de cada fuente. El alcance y los datos pendientes constan en [FUENTES, §9](apuntes/FUENTES.md#9-revisión-con-los-extractos-de-mensa-2026). El resto de los capítulos conserva su jerarquía, incluida la prioridad de ESCMID 2024 en absceso cerebral.
+
+**Revisión de la encefalitis (22/10/2026):** el capítulo 3 sigue **EAN/ESCMID 2026 → SEN 2025 → ESCMID 2016 → NICE NG240 → SEMES 2012**. La guía se cita con el número de su pregunta y el tipo de enunciado (recomendación con su fuerza y su certeza, buena práctica o nota práctica), y las referencias del capítulo están en formato Vancouver. La SEN 2025 y la SEMES 2012 completan lo que la guía no trata: epidemiología española, inmunodeprimido, LMP, priones y dosis de otros antivirales. Detalle en [FUENTES, §10](apuntes/FUENTES.md#10-revisión-del-22102026-capítulo-3-con-la-eanescmid-2026).
 
 **Ecología local (fuera de la pirámide).** Donde las fuentes piden adaptar la pauta a la resistencia local, los capítulos añaden porcentajes de resistencia de 2024 procedentes de **informes internos de la FJD**. En el capítulo 1 se citan junto al punto de decisión como «resistencia en la FJD (…; informes internos de 2024)»; los capítulos 2-8 los llevan en *cursiva* con la etiqueta **(ecología local 2024)** hasta su revisión. No son recomendaciones ni cambian la pirámide: ayudan a ver qué deja sin cubrir cada pauta y a elegir entre las opciones que ya dan las fuentes. Reglas y limitaciones en [`apuntes/FUENTES.md`](apuntes/FUENTES.md) (§8).
 
@@ -27,7 +30,7 @@ Los estudios primarios solo aparecen cuando los recoge alguna de las fuentes aut
 |---|---|---|
 | 1 | [Meningitis bacteriana aguda del adulto](apuntes/01_Meningitis_bacteriana.md) | ✅ Redactado |
 | 2 | [Meningitis linfocitaria, aséptica, subaguda y crónica](apuntes/02_Meningitis_linfocitaria_subaguda.md) | ✅ Redactado |
-| 3 | [Encefalitis aguda](apuntes/03_Encefalitis.md) | ✅ Redactado |
+| 3 | [Encefalitis aguda](apuntes/03_Encefalitis.md) | ✅ Revisado con la EAN/ESCMID 2026 (22/10/2026) |
 | 4 | [Absceso cerebral](apuntes/04_Absceso_cerebral.md) | ✅ Redactado |
 | 5 | [Infecciones parameníngeas y medulares](apuntes/05_Infecciones_parameningeas_medulares.md) | ✅ Redactado |
 | 6 | [Infecciones de derivaciones de LCR y meningitis posneuroquirúrgica](apuntes/06_Derivaciones_LCR_posneuroquirurgica.md) | ✅ Redactado |
@@ -66,7 +69,7 @@ Cada capítulo sigue la estructura fija de la [guía de estilo](plantillas/GUIA_
 - **MAYÚSCULAS en negrita**: lo imprescindible en urgencias.
 - **Negrita**: conceptos y fármacos clave.
 - *Cursiva*: matiz, dato de evidencia o discrepancia entre guías; prescindible en una lectura rápida.
-- **Atribución entre paréntesis** tras cada dato: la SEN y la ESCMID con su año (SEN 2025; ESCMID 2016 o 2024), la NICE con el número de recomendación (p. ej., NICE 1.4.7) y la ESCMID con su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024). En el capítulo 1, la SEN 2025 solo se cita cuando otra fuente discrepa. Los porcentajes de resistencia local se citan como «resistencia en la FJD, informes internos de 2024» en el capítulo 1 y con la etiqueta **(ecología local 2024)** en los demás.
+- **Atribución entre paréntesis** tras cada dato: la SEN y la ESCMID con su año (SEN 2025; ESCMID 2016 o 2024), la NICE con el número de recomendación (p. ej., NICE 1.4.7) y la ESCMID con su grado (A-D en la de 2016; fuerza y certeza GRADE en la de 2024). La EAN/ESCMID 2026 (capítulo 3), con el número de su pregunta y el tipo de enunciado: recomendación con su fuerza y su certeza, buena práctica o nota práctica (p. ej., «EAN/ESCMID 2026, P9: recomendación fuerte, certeza baja»). En el capítulo 1, la SEN 2025 solo se cita cuando otra fuente discrepa. Los porcentajes de resistencia local se citan como «resistencia en la FJD, informes internos de 2024» en el capítulo 1 y con la etiqueta **(ecología local 2024)** en los demás.
 - **Pautas de tratamiento**: `---> PRIMERA ELECCIÓN:` y `---> ALTERNATIVA:`, siempre con fármaco, dosis, vía e intervalo.
 - Cuando la evidencia es débil, contradictoria o el dato no está verificado, se dice explícitamente.
 
@@ -81,7 +84,8 @@ Cada capítulo sigue la estructura fija de la [guía de estilo](plantillas/GUIA_
 
 - **Mensa 2026**: acceso limitado a dos extractos. La unidad de Hb y la validez de ese objetivo, así como el fármaco, pauta y umbral/unidades del coma barbitúrico, siguen pendientes; no son pautas operativas validadas y no figuran en el capítulo 1 (constan en `FUENTES.md`, §9).
 - La **SEMES 2012** está desactualizada en varios puntos; los que ya se han detectado están listados en `FUENTES.md`.
-- La **SEN 2025** es un manual formativo, sin grados de recomendación, y su bibliografía se consultó en 2023: no incorpora la ESCMID 2024 ni la NICE 2024. Tiene algunas ambigüedades y posibles erratas (intervalos que faltan, una dosis baja de cloxacilina, la tuberculosis sin etambutol de entrada), señaladas en cada capítulo y listadas en `FUENTES.md`.
+- La **EAN/ESCMID 2026** (capítulo 3) solo tiene dos recomendaciones GRADE, ambas con certeza baja; el resto son declaraciones de buena práctica, de consenso. No se ha revisado su material suplementario (apéndice S1). No tiene autores españoles: los umbrales de coagulación y plaquetas para la PL se adaptan al protocolo local.
+- La **SEN 2025** es un manual formativo, sin grados de recomendación, y su bibliografía se consultó en 2023: no incorpora la ESCMID 2024, la NICE 2024 ni la EAN/ESCMID 2026. Tiene algunas ambigüedades y posibles erratas (intervalos que faltan, una dosis baja de cloxacilina, la tuberculosis sin etambutol de entrada), señaladas en cada capítulo y listadas en `FUENTES.md`.
 - La **ESCMID 2016** no usa GRADE (niveles de evidencia 1-3 y grados A-D).
 - Los **datos españoles de resistencia del neumococo** que recogen las fuentes son del ECDC de 2011; no hay datos más recientes dentro de la pirámide. Fuera de ella, los informes internos de la FJD de 2024 dan un 12 % de neumococos no sensibles a la cefotaxima con el punto de corte de meningitis.
 - La **ecología local de 2024** agrega todas las muestras del hospital (no hay datos del LCR ni por servicio) y no incluye meningococo, *Listeria*, grupo *S. anginosus*, *Nocardia* ni *Acinetobacter*.
