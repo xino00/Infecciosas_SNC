@@ -36,6 +36,8 @@ Los estudios primarios solo aparecen cuando los recoge alguna de las fuentes aut
 
 El contenido clave de cada capítulo y qué fuentes lo cubren se detallan en el índice: [`apuntes/00_INDICE.md`](apuntes/00_INDICE.md).
 
+**Material derivado**: podcast del capítulo 3 para residentes, con [guion a dos voces](entregables/podcast_03_encefalitis/guion.md) en torno a un caso clínico ficticio y audio de ≈24 min con voz sintética ([`entregables/podcast_03_encefalitis/`](entregables/podcast_03_encefalitis/)). No añade datos al capítulo.
+
 ## Estructura del repositorio
 
 ```
